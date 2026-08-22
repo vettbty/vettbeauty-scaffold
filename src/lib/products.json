@@ -7797,7 +7797,7 @@
     "brand": "BaBylissPRO",
     "name": "Nano Titanium 1¼ Extended Barrel Curling Iron",
     "price": 99.99,
-    "image": "",
+    "image": "https://brightonbeautysupply.com/cdn/shop/files/BabylissProNanoTitaniumXLSpring1.25ExtendedBarrelCurlingIronWand1.25_grande.jpg?v=1682645567",
     "topAward": "Marie Claire Skin & Hair Awards — Best Curling Iron (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -7809,7 +7809,8 @@
     "buyLink": "https://go.shopmy.us/p-78145812",
     "awardsWon": [
       "Marie Claire Skin & Hair Awards — Best Curling Iron (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://brightonbeautysupply.com/products/babylisspro-nano-titanium-xl-spring-1-25-extended-barrel-curling-iron-wand"
   },
   {
     "id": "prod-387",
@@ -14288,7 +14289,7 @@
     "brand": "MAC Cosmetics",
     "name": "Viva Glam",
     "price": 23,
-    "image": "",
+    "image": "https://media.ulta.com/i/ulta/2621418?w=500&h=500",
     "topAward": "Vogue Beauty Awards — The Vogue Editors' Commitment To Vogue Values Award — Winner (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -14300,7 +14301,8 @@
     "buyLink": "https://www.sephora.com/search?keyword=MAC%20Cosmetics%20Viva%20Glam",
     "awardsWon": [
       "Vogue Beauty Awards — The Vogue Editors' Commitment To Vogue Values Award — Winner (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.ulta.com/p/macximal-silky-matte-viva-glam-lipstick-pimprod2043920?sku=2621418"
   },
   {
     "id": "prod-710",
@@ -14308,7 +14310,7 @@
     "brand": "ZIIP Beauty",
     "name": "Halo 2.0",
     "price": 400,
-    "image": "",
+    "image": "https://ziipbeauty.com/cdn/shop/files/ZIIP-25-BAU-201-Ecom_Halo_Gels_02_1024x.jpg?v=1776065964",
     "topAward": "InStyle Best Beauty Buys — Best At-Home Microcurrent Device (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -14320,7 +14322,8 @@
     "buyLink": "https://ziipbeauty.com",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best At-Home Microcurrent Device (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://ziipbeauty.com/products/ziip-halo-microcurrent-device"
   },
   {
     "id": "prod-711",
@@ -17242,7 +17245,7 @@
     "brand": "Lancôme",
     "name": "Rénergie C.R.X. Triple Serum Retinol",
     "price": null,
-    "image": "",
+    "image": "https://media.ulta.com/i/ulta/2638729?w=500&h=500",
     "topAward": "Glamour Beauty Awards — Global Editors — Best Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -17254,7 +17257,8 @@
     "buyLink": "https://www.sephora.com/search?keyword=Lancome%20Renergie%20C.R.X.%20Triple%20Serum%20Retinol",
     "awardsWon": [
       "Glamour Beauty Awards — Global Editors — Best Serum (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.ulta.com/p/renergie-crx-triple-serum-retinol-pimprod2051917"
   },
   {
     "id": "prod-857",
@@ -18939,7 +18943,7 @@
     "brand": "Aveda",
     "name": "Be Curly Advanced Curl-Enhancer Cream",
     "price": 36,
-    "image": "",
+    "image": "https://www.aveda.com/media/images/products/355x600/white/av_sku_VC9001_185285_355x600_0.jpg",
     "topAward": "InStyle Best Beauty Buys — Best Curl Cream (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -18951,7 +18955,8 @@
     "buyLink": "https://go.shopmy.us/p-78144909",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Curl Cream (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.aveda.com/product/17770/127132/styling/cream/be-curly-advanced-curl-enhancer-cream"
   },
   {
     "id": "prod-942",
@@ -19874,7 +19879,7 @@
     "brand": "Maybelline New York",
     "name": "Lash Sensational Sky High Mascara",
     "price": 14,
-    "image": "",
+    "image": "https://media.ulta.com/i/ulta/2574523?w=500&h=500",
     "topAward": "Allure Readers Choice — Makeup Winner (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -19886,7 +19891,8 @@
     "buyLink": "https://go.shopmy.us/p-79610917",
     "awardsWon": [
       "Allure Readers Choice — Makeup Winner (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.ulta.com/p/lash-sensational-sky-high-mascara-pimprod2020260?sku=2574523"
   },
   {
     "id": "prod-989",
@@ -31246,7 +31252,7 @@
     "brand": "Dior",
     "name": "Backstage Rosy Glow Blush Stick",
     "price": 44,
-    "image": "",
+    "image": "https://media.ulta.com/i/ulta/2660045?w=500&h=500",
     "topAward": "InStyle Best Beauty Buys — Best Cream Blush (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -31258,7 +31264,8 @@
     "buyLink": "https://www.sephora.com/product/rosy-glow-blush-sticks-P516168",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Cream Blush (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.ulta.com/p/backstage-rosy-glow-stick-radiance-ph-activated-color-blush-stick-pimprod2058964?sku=2660045"
   },
   {
     "id": "prod-1580",
@@ -31286,7 +31293,7 @@
     "brand": "Fenty Beauty",
     "name": "Gloss Bomb Stix High-Shine Gloss Stick",
     "price": 26,
-    "image": "",
+    "image": "https://fentybeauty.com/cdn/shop/files/FB_SMR24_T2PRODUCT_ECOMM_GB_STIX-SHIMMER_FENTY-GLOW_OPEN_1200x1500_72DPI.jpg?v=1762289916&width=1200",
     "topAward": "InStyle Best Beauty Buys — Best Lip Gloss (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -31298,7 +31305,8 @@
     "buyLink": "https://go.shopmy.us/p-78451605",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Lip Gloss (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://fentybeauty.com/products/gloss-bomb-stix-high-shine-gloss-stick-shimmering-fenty-glow"
   },
   {
     "id": "prod-1582",
@@ -32008,7 +32016,7 @@
     "brand": "Olive & June",
     "name": "Long Lasting Nail Polish",
     "price": 10,
-    "image": "",
+    "image": "https://oliveandjune.com/cdn/shop/products/chemistrybottle_retouched_1200x1200.jpg?v=1629342608",
     "topAward": "InStyle Best Beauty Buys — Best Nail Polish (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -32020,7 +32028,8 @@
     "buyLink": "https://www.amazon.com/s?k=Olive+%26+June+Long+Lasting+Nail+Polish&tag=vettbeauty-20",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Nail Polish (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://oliveandjune.com/products/chemistry"
   },
   {
     "id": "prod-1618",
@@ -32390,7 +32399,7 @@
     "brand": "Manucurist Paris",
     "name": "Active",
     "price": 19,
-    "image": "",
+    "image": "https://us.manucurist.com/cdn/shop/files/DUCROS_MANUCURIST_Q231010-019-219370_Adb98.jpg?v=1775550581",
     "topAward": "InStyle Best Beauty Buys — Best Treatment Polish (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -32402,7 +32411,8 @@
     "buyLink": "https://www.amazon.com/s?k=Manucurist+Paris+Active&tag=vettbeauty-20",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Treatment Polish (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://us.manucurist.com/products/active-glow"
   },
   {
     "id": "prod-1637",
@@ -32650,7 +32660,7 @@
     "brand": "Design Essentials",
     "name": "Sleek Edge Control Finish",
     "price": 14,
-    "image": "",
+    "image": "https://designessentials.com/cdn/shop/files/DEC-Sleek-FRONT-3pt7oz-WO-0523_1500x1500_4e375627-5e59-4d89-9a27-193051e05f4b.jpg?v=1752850791",
     "topAward": "InStyle Best Beauty Buys — Best Edge Control (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -32662,7 +32672,8 @@
     "buyLink": "https://www.amazon.com/dp/B0B99K4NVT?tag=vettbeauty-20",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Edge Control (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://designessentials.com/products/sleek-edge-control"
   },
   {
     "id": "prod-1650",
@@ -33292,7 +33303,7 @@
     "brand": "MAC Cosmetics",
     "name": "Studio Fix 24HR Color Corrector",
     "price": 18,
-    "image": "",
+    "image": "https://media.ulta.com/i/ulta/2652583?w=500&h=500",
     "topAward": "InStyle Best Beauty Buys — Best Color Corrector (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -33304,7 +33315,8 @@
     "buyLink": "https://www.nordstrom.com/s/studio-fix-24-hour-color-corrector/8886851",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Color Corrector (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.ulta.com/p/studio-fix-24hr-color-corrector-pimprod2057556?sku=2652583"
   },
   {
     "id": "prod-1682",
@@ -34348,7 +34360,7 @@
     "brand": "Remington",
     "name": "Botanicals Collection 1 Flat Iron",
     "price": 30.48,
-    "image": "",
+    "image": "https://remingtonproducts.com/cdn/shop/files/S5750NAinhand.jpg?v=1775765842",
     "topAward": "Marie Claire Skin & Hair Awards — Best Flat Iron (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -34360,7 +34372,8 @@
     "buyLink": "https://remington.com",
     "awardsWon": [
       "Marie Claire Skin & Hair Awards — Best Flat Iron (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://remingtonproducts.com/products/botanicals-1-flat-iron"
   },
   {
     "id": "prod-1736",

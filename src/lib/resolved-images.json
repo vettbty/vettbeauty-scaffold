@@ -36,5 +36,95 @@
     "source": "https://n8ivbeauty.com/products/moyla-moon-polish-exfoliant-n8iv",
     "metaSource": "og:image",
     "resolvedAt": "2026-08-22T16:08:08.705Z"
+  },
+  "ziip-beauty-halo-2-0": {
+    "image": "https://ziipbeauty.com/cdn/shop/files/ZIIP-25-BAU-201-Ecom_Halo_Gels_02_1024x.jpg?v=1776065964",
+    "source": "https://ziipbeauty.com/products/ziip-halo-microcurrent-device",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z",
+    "note": "Current Halo page is the 2.0 model ($399.99, reviews confirm)"
+  },
+  "manucurist-paris-active": {
+    "image": "https://us.manucurist.com/cdn/shop/files/DUCROS_MANUCURIST_Q231010-019-219370_Adb98.jpg?v=1775550581",
+    "source": "https://us.manucurist.com/products/active-glow",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z",
+    "variant": "Active Glow",
+    "note": "Record says 'Active' (truncated line name); Active Glow chosen \u2014 verify against the award listing"
+  },
+  "design-essentials-sleek-edge-control-finish": {
+    "image": "https://designessentials.com/cdn/shop/files/DEC-Sleek-FRONT-3pt7oz-WO-0523_1500x1500_4e375627-5e59-4d89-9a27-193051e05f4b.jpg?v=1752850791",
+    "source": "https://designessentials.com/products/sleek-edge-control",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z"
+  },
+  "aveda-be-curly-advanced-curl-enhancer-cream": {
+    "image": "https://www.aveda.com/media/images/products/355x600/white/av_sku_VC9001_185285_355x600_0.jpg",
+    "source": "https://www.aveda.com/product/17770/127132/styling/cream/be-curly-advanced-curl-enhancer-cream",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z"
+  },
+  "olive---june-long-lasting-nail-polish": {
+    "image": "https://oliveandjune.com/cdn/shop/products/chemistrybottle_retouched_1200x1200.jpg?v=1629342608",
+    "source": "https://oliveandjune.com/products/chemistry",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z",
+    "variant": "Chemistry (almond cream)",
+    "note": "Line-level award; one shade shown"
+  },
+  "fenty-beauty-gloss-bomb-stix-high-shine-gloss-stick": {
+    "image": "https://fentybeauty.com/cdn/shop/files/FB_SMR24_T2PRODUCT_ECOMM_GB_STIX-SHIMMER_FENTY-GLOW_OPEN_1200x1500_72DPI.jpg?v=1762289916&width=1200",
+    "source": "https://fentybeauty.com/products/gloss-bomb-stix-high-shine-gloss-stick-shimmering-fenty-glow",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z",
+    "variant": "Fenty Glow"
+  },
+  "lanc-me-r-nergie-c-r-x--triple-serum-retinol": {
+    "image": "https://media.ulta.com/i/ulta/2638729?w=500&h=500",
+    "source": "https://www.ulta.com/p/renergie-crx-triple-serum-retinol-pimprod2051917",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z"
+  },
+  "dior-backstage-rosy-glow-blush-stick": {
+    "image": "https://media.ulta.com/i/ulta/2660045?w=500&h=500",
+    "source": "https://www.ulta.com/p/backstage-rosy-glow-stick-radiance-ph-activated-color-blush-stick-pimprod2058964?sku=2660045",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z",
+    "variant": "001 Pink"
+  },
+  "babylisspro-nano-titanium-1--extended-barrel-curling-iron": {
+    "image": "https://brightonbeautysupply.com/cdn/shop/files/BabylissProNanoTitaniumXLSpring1.25ExtendedBarrelCurlingIronWand1.25_grande.jpg?v=1682645567",
+    "source": "https://brightonbeautysupply.com/products/babylisspro-nano-titanium-xl-spring-1-25-extended-barrel-curling-iron-wand",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z",
+    "note": "XL Spring 1.25in extended barrel \u2014 matches awarded spec"
+  },
+  "remington-botanicals-collection-1-flat-iron": {
+    "image": "https://remingtonproducts.com/cdn/shop/files/S5750NAinhand.jpg?v=1775765842",
+    "source": "https://remingtonproducts.com/products/botanicals-1-flat-iron",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z"
+  },
+  "maybelline-new-york-lash-sensational-sky-high-mascara": {
+    "image": "https://media.ulta.com/i/ulta/2574523?w=500&h=500",
+    "source": "https://www.ulta.com/p/lash-sensational-sky-high-mascara-pimprod2020260?sku=2574523",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z",
+    "variant": "Blackest Black, washable"
+  },
+  "mac-cosmetics-studio-fix-24hr-color-corrector": {
+    "image": "https://media.ulta.com/i/ulta/2652583?w=500&h=500",
+    "source": "https://www.ulta.com/p/studio-fix-24hr-color-corrector-pimprod2057556?sku=2652583",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z",
+    "variant": "Peach"
+  },
+  "mac-cosmetics-viva-glam": {
+    "image": "https://media.ulta.com/i/ulta/2621418?w=500&h=500",
+    "source": "https://www.ulta.com/p/macximal-silky-matte-viva-glam-lipstick-pimprod2043920?sku=2621418",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-22T18:00:00.000Z",
+    "variant": "MACximal Silky Matte, Viva Heart",
+    "note": "Record is line-level 'Viva Glam'; current-generation lipstick shown"
   }
 }
