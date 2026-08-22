@@ -1,0 +1,229 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #FBEFEE;
+  --color-cream-dark: #F6DFDC;
+  --color-warm-beige: #E9C3BC;
+  --color-gold: #A5745E;
+  --color-gold-light: #D3A08E;
+  --color-gold-dark: #7C523E;
+  --color-charcoal: #5F3B2A;
+  --color-charcoal-light: #75503E;
+
+  --font-serif: "Futura", "Jost", "Avenir Next", sans-serif;
+  --font-sans: "Nunito Sans", "Helvetica Neue", "Arial", sans-serif;
+  --font-masthead: "Georgia", "Times New Roman", serif;
+}
+
+html { font-size: 106.25%; }
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  letter-spacing: 0.02em;
+}
+
+.consensus-badge {
+  background: linear-gradient(135deg, #A5745E 0%, #D3A08E 50%, #A5745E 100%);
+  color: white;
+  font-weight: 700;
+  border-radius: 9999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 3px rgba(165, 116, 94, 0.35);
+}
+
+.consensus-high {
+  box-shadow: 0 0 12px rgba(211, 160, 142, 0.6);
+  background: linear-gradient(135deg, #7C523E 0%, #D3A08E 40%, #EFC3B2 55%, #D3A08E 70%, #7C523E 100%);
+}
+
+.hero-underline {
+  width: 64px;
+  height: 2px;
+  background: #A5745E;
+  margin: 0 auto;
+}
+
+/* ---- Aliases for the banner/logo-strip styles below ----
+   The pasted rules use short token names (--gold, --white, …); map them onto
+   the @theme palette so the block works verbatim. */
+:root {
+  --white: #ffffff;
+  --cream-dark: var(--color-cream-dark);
+  --gold: var(--color-gold);
+  --charcoal: var(--color-charcoal);
+  --charcoal-light: var(--color-charcoal-light);
+  --shadow: 0 2px 8px rgba(95, 59, 42, 0.08);
+}
+
+/* Hero Banner */
+.hero-banner {
+  position: relative;
+  overflow: hidden;
+  margin: 0 16px 24px;
+  border-radius: 20px;
+  background: var(--white);
+  box-shadow: var(--shadow);
+  max-width: 568px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.banner-track {
+  display: flex;
+  transition: transform 0.4s ease;
+}
+
+.banner-slide {
+  flex: 0 0 100%;
+  padding: 24px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.banner-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 16px;
+  background: var(--cream-dark);
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.banner-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.banner-content {
+  flex: 1;
+}
+
+.banner-award {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gold);
+  margin-bottom: 4px;
+}
+
+.banner-brand {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--charcoal-light);
+}
+
+.banner-name {
+  /* Brand font, not Playfair — headings are Futura/Jost site-wide */
+  font-family: var(--font-serif);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 8px;
+}
+
+.banner-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--charcoal);
+  color: var(--white);
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.banner-dots {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  padding: 12px;
+}
+
+.banner-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--cream-dark);
+  border: none;
+  padding: 0;
+}
+
+.banner-dot.active {
+  background: var(--gold);
+  width: 20px;
+  border-radius: 3px;
+}
+
+/* Logo strips */
+.logo-strip {
+  padding: 0 16px 24px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.logo-strip-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--charcoal-light);
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.logo-scroll {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding-bottom: 8px;
+}
+
+.logo-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.logo-item {
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+
+.logo-item img,
+.logo-item .logo-placeholder {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--white);
+  box-shadow: var(--shadow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+
+.logo-item span {
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--charcoal-light);
+  white-space: nowrap;
+}
