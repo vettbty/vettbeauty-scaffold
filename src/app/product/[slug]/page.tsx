@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { products2026 } from '@/lib/data';
+import SaveButton from '@/components/SaveButton';
 
 // Generate static paths for all products
 export function generateStaticParams() {
@@ -137,6 +138,21 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                   Check Price →
                 </a>
               )}
+            </div>
+
+            <div className="mb-8 -mt-4">
+              <SaveButton
+                product={{
+                  id: product.id,
+                  slug: product.slug,
+                  brand: product.brand,
+                  name: product.name,
+                  price: product.price,
+                  image: product.image,
+                  topAward: product.topAward,
+                  awardCount: product.awardCount,
+                }}
+              />
             </div>
 
             {/* Region — catalogue records regions as "US", "France", or a

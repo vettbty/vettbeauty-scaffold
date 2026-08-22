@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { useState, useMemo, useRef } from 'react';
 import { products2026 } from '@/lib/data';
+import SaveCount from '@/components/SaveCount';
 
 const categoryMap: Record<string, string> = {
   'skincare': 'Skincare',
@@ -45,6 +46,8 @@ export default function Home() {
           <Link href="/" className="font-serif text-xl font-bold tracking-tight text-charcoal">
             Vett<span className="text-gold">beauty</span>
           </Link>
+          <div className="flex items-center gap-1">
+          <SaveCount className="ml-2" />
           <button
             aria-label="Search"
             className="p-2 text-charcoal-light hover:text-charcoal"
@@ -54,6 +57,7 @@ export default function Home() {
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
             </svg>
           </button>
+          </div>
         </div>
       </header>
 

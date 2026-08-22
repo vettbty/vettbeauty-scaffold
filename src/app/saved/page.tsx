@@ -2,18 +2,7 @@
 
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
-
-interface SavedProduct {
-  id: string;
-  slug: string;
-  brand: string;
-  name: string;
-  price: number | null;
-  image: string;
-  topAward: string;
-  awardCount: number;
-  savedAt: string;
-}
+import type { SavedProduct } from '@/lib/data';
 
 export default function SavedPage() {
   const [savedProducts, setSavedProducts] = useState<SavedProduct[]>([]);
