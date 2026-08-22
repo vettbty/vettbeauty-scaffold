@@ -30281,7 +30281,7 @@
     "brand": "Glasshouse Fragrances",
     "name": "Body Bar",
     "price": 18,
-    "image": "https://static.thcdn.com/productimg/original/12520020-8824910941395012.jpg",
+    "image": "https://www.glasshousefragrances.com/cdn/shop/files/fgbb180kyoto-glasshouse-body-body-wash-kyoto-in-bloom-180g-packshot-front-1800x2250-01.jpg",
     "topAward": "InStyle Best Beauty Buys — Best Bar Soap (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -30294,7 +30294,7 @@
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Bar Soap (2026)"
     ],
-    "imageResolvedFrom": "https://www.dermstore.com/p/glasshouse-fragrances-marseille-memoir-body-bar-180g/12520020/?affil=RAN&ranEAID=8yaPBDQV8ls&ranSiteID=8yaPBDQV8ls-xYyZaLmAK6VSHPKlv0AC8g&ranMID=53945&utm_content=ShopMy&switchcurrency=USD&shippingcountry=US&utm_source=3704027&LSNSUBSITE=Omitted_8yaPBDQV8ls&utm_term=8yaPBDQV8ls&utm_campaign=RAN&utm_medium=affiliate"
+    "imageResolvedFrom": "https://www.glasshousefragrances.com/products/180g-body-bar-kyoto-in-bloom"
   },
   {
     "id": "prod-1531",
@@ -33753,7 +33753,7 @@
     "brand": "Bellami Hair",
     "name": "The Ponytail 2.0 by Bellami x Andrew Fitzsimons",
     "price": 195,
-    "image": "",
+    "image": "https://www.bellamihair.com/cdn/shop/files/PDP_20-in-100-g_0_ponytail_ashbrown_alt2_2700x2700_1adb96d6-f562-47ba-a183-e2b4da0f9964.jpg?v=1737738236",
     "topAward": "Marie Claire Skin & Hair Awards — Best Clip-In Extensions (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -33765,7 +33765,8 @@
     "buyLink": "https://go.shopmy.us/p-78148910",
     "awardsWon": [
       "Marie Claire Skin & Hair Awards — Best Clip-In Extensions (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.bellamihair.com/products/andrew-fitzsimons-the-pony-ash-brown?utm_source=shopmy&utm_medium=affiliates&utm_campaign=Sacha%20Scott&utm_content=Quick%20Link&utm_referrer=shopmy.us&smsclickid=112b4c70-2e3c-4f0a-916f-45a439dca4e8&utm_term=112b4c70-2e3c-4f0a-916f-45a439dca4e8"
   },
   {
     "id": "prod-1705",
@@ -39799,7 +39800,7 @@
     "brand": "N8iV Beauty",
     "name": "Móyla Moon Polish Exfoliant",
     "price": 80,
-    "image": "",
+    "image": "https://n8ivbeauty.com/cdn/shop/files/moyla_box_front_2_oz.png?v=1769549768",
     "topAward": "Allure Best of Beauty — Best Splurge Skin Care (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -39811,7 +39812,8 @@
     "buyLink": "https://n8ivbeauty.com/products/moyla-moon-polish-exfoliant-n8iv",
     "awardsWon": [
       "Allure Best of Beauty — Best Splurge Skin Care (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://n8ivbeauty.com/products/moyla-moon-polish-exfoliant-n8iv"
   },
   {
     "id": "prod-2008",

@@ -88,9 +88,7 @@ async function verifyImage(url) {
   });
 }
 
-const VERIFY_VARIANTS = [
-  'glasshouse-fragrances-body-bar', // Confirm: Marseille Memoir vs. other scents
-];
+const VERIFY_VARIANTS = [];
 
 async function main() {
   const products = JSON.parse(fs.readFileSync('./src/lib/products.json', 'utf-8'));
