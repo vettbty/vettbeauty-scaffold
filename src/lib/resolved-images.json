@@ -162,5 +162,21 @@
     "metaSource": "publication-image",
     "resolvedAt": "2026-08-23T01:00:00.000Z",
     "note": "Full name per Glamour metadata: 'Clear + Even Clarifier Catalyst Serum' \u2014 the serum used in SkinSpirit's in-clinic pro microneedling treatment (their offer link points to /treatments/micro-needling); no retail listing exists, image is Glamour's own"
+  },
+  "louis-vuitton-lv-rouge-satin-lipstick": {
+    "image": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--LLA001_PM2_Front%20view.jpg",
+    "source": "https://us.louisvuitton.com/eng-us/products/lv-rouge-satin-lipstick-nvprod6420001v/LLA001",
+    "metaSource": "browser-dom",
+    "resolvedAt": "2026-08-23T02:00:00.000Z",
+    "variant": "896 Monogram Rouge",
+    "note": "Line-level record; hero shade shown. LV site bot-walls headless fetches \u2014 image verified hotlinkable from vettbeauty origin (2000x2000)"
+  },
+  "bottega-veneta-fragrances-come-with-me": {
+    "image": "https://bottega-veneta.dam.kering.com/asset/67f7cf6c-4ad1-472a-ba0b-f4158f6f2a7f/Medium/788715VV5709980_A.jpg",
+    "source": "https://www.bottegaveneta.com/en-us/come-with-me---eau-de-parfum-100-ml-deep-red-788715VV5709980.html",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-23T02:00:00.000Z",
+    "variant": "Eau de Parfum 100 ml",
+    "note": "Kering DAM packshot; verified hotlinkable from vettbeauty origin"
   }
 }

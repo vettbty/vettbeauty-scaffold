@@ -14088,7 +14088,7 @@
     "brand": "Louis Vuitton",
     "name": "LV Rouge Satin Lipstick",
     "price": 160,
-    "image": "",
+    "image": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton--LLA001_PM2_Front%20view.jpg",
     "topAward": "Vogue Beauty Awards — Vogue's Future Of Beauty Innovator: Make-up — Winner (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -14100,7 +14100,8 @@
     "buyLink": "https://louisvuitton.com",
     "awardsWon": [
       "Vogue Beauty Awards — Vogue's Future Of Beauty Innovator: Make-up — Winner (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://us.louisvuitton.com/eng-us/products/lv-rouge-satin-lipstick-nvprod6420001v/LLA001"
   },
   {
     "id": "prod-700",
@@ -19741,7 +19742,7 @@
     "brand": "Bottega Veneta Fragrances",
     "name": "Come with Me",
     "price": 450,
-    "image": "",
+    "image": "https://bottega-veneta.dam.kering.com/asset/67f7cf6c-4ad1-472a-ba0b-f4158f6f2a7f/Medium/788715VV5709980_A.jpg",
     "topAward": "InStyle Best Beauty Buys — Best Green Woody (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -19753,7 +19754,8 @@
     "buyLink": "https://go.shopmy.us/p-78167415",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Green Woody (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.bottegaveneta.com/en-us/come-with-me---eau-de-parfum-100-ml-deep-red-788715VV5709980.html"
   },
   {
     "id": "prod-982",
