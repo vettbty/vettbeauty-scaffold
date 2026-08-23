@@ -14552,7 +14552,7 @@
     "brand": "SkinSpirit",
     "name": "Clear + Even Serum",
     "price": null,
-    "image": "",
+    "image": "https://media.glamour.com/photos/69ab4ad263421c1d44251be9/3:4/w_748%2Cc_limit/Skinspirit%2520Clear%2520+%2520Even%2520Clarifier%2520Catalyst%2520Serum.jpg",
     "topAward": "Glamour Beauty Awards — Beauty Innovators — Best Pro Acne Treatment (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -14564,7 +14564,8 @@
     "buyLink": "https://skinspirit.com",
     "awardsWon": [
       "Glamour Beauty Awards — Beauty Innovators — Best Pro Acne Treatment (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.glamour.com/gallery/best-beauty-innovators"
   },
   {
     "id": "prod-723",
@@ -18964,7 +18965,7 @@
     "brand": "Tweezerman",
     "name": "Rockhard Nail Clippers",
     "price": 27,
-    "image": "",
+    "image": "https://www.instyle.com/thmb/3T27Bnb_8Vvo-kMfVr_QvzX8Z2o=/1500x1500/filters:no_upscale():max_bytes(150000):strip_icc()/bbb-2025-nails-tweezerman-embed-f0bc7187d9584700a25164c005976991.jpg",
     "topAward": "InStyle Best Beauty Buys — Best Cuticle Nipper (2025)",
     "awardCount": 1,
     "category": "Nails",
@@ -18976,7 +18977,8 @@
     "buyLink": "https://www.sephora.com/search?keyword=Tweezerman%20Rockhard%20Nail%20Clippers",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Cuticle Nipper (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://web.archive.org/web/20250615153135/https://www.instyle.com/best-nail-care-products-2025-11726661"
   },
   {
     "id": "prod-943",
@@ -33367,7 +33369,7 @@
     "brand": "Tweezerman",
     "name": "Cuticle Nipper",
     "price": 28,
-    "image": "",
+    "image": "https://tweezerman.com/cdn/shop/files/h4fbcp9jnrkodndhx2pm.jpg?v=1759501893",
     "topAward": "InStyle Best Beauty Buys — Best Cuticle Clipper (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -33379,7 +33381,8 @@
     "buyLink": "https://www.sephora.com/search?keyword=Tweezerman%20Cuticle%20Nipper",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Cuticle Clipper (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://tweezerman.com/products/rockhard-cuticle-nipper-etched-regencystainless-steel"
   },
   {
     "id": "prod-1685",

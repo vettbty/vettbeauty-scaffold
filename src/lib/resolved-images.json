@@ -50,7 +50,7 @@
     "metaSource": "og:image",
     "resolvedAt": "2026-08-22T18:00:00.000Z",
     "variant": "Active Glow",
-    "note": "Record says 'Active' (truncated line name); Active Glow chosen \u2014 verify against the award listing"
+    "note": "CONFIRMED: InStyle 2026's raw record links us.manucurist.com/products/active-glow \u2014 Active Glow is the awarded product"
   },
   "design-essentials-sleek-edge-control-finish": {
     "image": "https://designessentials.com/cdn/shop/files/DEC-Sleek-FRONT-3pt7oz-WO-0523_1500x1500_4e375627-5e59-4d89-9a27-193051e05f4b.jpg?v=1752850791",
@@ -141,5 +141,26 @@
     "resolvedAt": "2026-08-23T00:00:00.000Z",
     "variant": "Soie & Amber",
     "note": "Matches the Nordstrom buy link's variant (soie-amber); line-level record"
+  },
+  "tweezerman-rockhard-nail-clippers": {
+    "image": "https://www.instyle.com/thmb/3T27Bnb_8Vvo-kMfVr_QvzX8Z2o=/1500x1500/filters:no_upscale():max_bytes(150000):strip_icc()/bbb-2025-nails-tweezerman-embed-f0bc7187d9584700a25164c005976991.jpg",
+    "source": "https://web.archive.org/web/20250615153135/https://www.instyle.com/best-nail-care-products-2025-11726661",
+    "metaSource": "publication-image",
+    "resolvedAt": "2026-08-23T01:00:00.000Z",
+    "note": "InStyle 2025 printed 'Rockhard Nail Clippers, $27' under 'Best Cuticle Nipper' and linked Ulta's Rockhard Cuticle Nipper 1/2in jaw \u2014 the record is faithful to the publication; image is InStyle's own product photo"
+  },
+  "tweezerman-cuticle-nipper": {
+    "image": "https://tweezerman.com/cdn/shop/files/h4fbcp9jnrkodndhx2pm.jpg?v=1759501893",
+    "source": "https://tweezerman.com/products/rockhard-cuticle-nipper-etched-regencystainless-steel",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-23T01:00:00.000Z",
+    "note": "InStyle 2026's own buy link names this exact page (Rockhard Cuticle Nipper, etched Regency)"
+  },
+  "skinspirit-clear---even-serum": {
+    "image": "https://media.glamour.com/photos/69ab4ad263421c1d44251be9/3:4/w_748%2Cc_limit/Skinspirit%2520Clear%2520+%2520Even%2520Clarifier%2520Catalyst%2520Serum.jpg",
+    "source": "https://www.glamour.com/gallery/best-beauty-innovators",
+    "metaSource": "publication-image",
+    "resolvedAt": "2026-08-23T01:00:00.000Z",
+    "note": "Full name per Glamour metadata: 'Clear + Even Clarifier Catalyst Serum' \u2014 the serum used in SkinSpirit's in-clinic pro microneedling treatment (their offer link points to /treatments/micro-needling); no retail listing exists, image is Glamour's own"
   }
 }
