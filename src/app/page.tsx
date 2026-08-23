@@ -42,7 +42,7 @@ export default function Home() {
     <>
       {/* Minimal header */}
       <header className="bg-cream border-b border-cream-dark">
-        <div className="max-w-2xl mx-auto px-4 py-3 flex items-center justify-between">
+        <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
           <Link href="/" className="font-serif text-xl font-bold tracking-tight text-charcoal">
             Vett<span className="text-gold">beauty</span>
           </Link>
@@ -76,7 +76,7 @@ export default function Home() {
 
       {/* Sticky search */}
       <div className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm px-4 py-2 border-b border-cream-dark">
-        <div className="max-w-2xl mx-auto">
+        <div className="max-w-6xl mx-auto">
           <input
             ref={searchRef}
             type="search"
@@ -89,7 +89,7 @@ export default function Home() {
       </div>
 
       {/* Scrollable categories */}
-      <div className="max-w-2xl mx-auto px-4 py-3">
+      <div className="max-w-6xl mx-auto px-4 py-3">
         <div className="flex gap-2 overflow-x-auto [-webkit-overflow-scrolling:touch] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
           <button
             onClick={() => setActiveFilter('all')}
@@ -115,8 +115,8 @@ export default function Home() {
       </div>
 
       {/* 2-column grid, no gaps */}
-      <div ref={gridRef} className="max-w-2xl mx-auto pb-10">
-        <div className="grid grid-cols-2 gap-px bg-cream-dark">
+      <div ref={gridRef} className="max-w-6xl mx-auto pb-10">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-px bg-cream-dark">
           {filteredProducts.map(product => (
             <div key={product.id} className="bg-white flex flex-col">
               <Link href={`/product/${product.slug}`} className="block">
