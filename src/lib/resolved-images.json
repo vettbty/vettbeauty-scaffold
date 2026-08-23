@@ -178,5 +178,12 @@
     "resolvedAt": "2026-08-23T02:00:00.000Z",
     "variant": "Eau de Parfum 100 ml",
     "note": "Kering DAM packshot; verified hotlinkable from vettbeauty origin"
+  },
+  "prada-beauty-pradascope-lash-lengthening-mascara": {
+    "image": "https://www.prada.com/content/dam/pradabkg_products/1/1A4/1A4601/2I05FBM01/1A4601_2I05_FBM01_P_ML0085_SLF.jpg",
+    "source": "https://www.prada.com (brand DAM packshot, via sibling catalogue record)",
+    "metaSource": "catalogue-sibling",
+    "resolvedAt": "2026-08-23T03:00:00.000Z",
+    "note": "Same physical product as 'Pradascope Lash Extending Mascara' (Glamour 2026 record) \u2014 Prada makes one PradaScope mascara; publications printed different names. prada-beauty.com itself is Cloudflare-walled."
   }
 }

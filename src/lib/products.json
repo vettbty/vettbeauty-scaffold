@@ -18440,7 +18440,7 @@
     "brand": "Prada Beauty",
     "name": "PradaScope Lash Lengthening Mascara",
     "price": 35,
-    "image": "",
+    "image": "https://www.prada.com/content/dam/pradabkg_products/1/1A4/1A4601/2I05FBM01/1A4601_2I05_FBM01_P_ML0085_SLF.jpg",
     "topAward": "InStyle Best Beauty Buys — Best Lengthening Mascara (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -18452,7 +18452,8 @@
     "buyLink": "https://www.sephora.com/product/prada-beauty-pradascope-lash-lifting-lengthening-mascara-P515390",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Lengthening Mascara (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.prada.com (brand DAM packshot, via sibling catalogue record)"
   },
   {
     "id": "prod-917",
