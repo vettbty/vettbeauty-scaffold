@@ -1,137 +1,68 @@
-'use client';
-
 import Link from 'next/link';
-import { useState, useMemo, useRef } from 'react';
-import { products2026 } from '@/lib/data';
+import Wordmark from '@/components/Wordmark';
 import SaveCount from '@/components/SaveCount';
-
-const categoryMap: Record<string, string> = {
-  'skincare': 'Skincare',
-  'makeup': 'Makeup',
-  'hair': 'Hair',
-  'body': 'Body',
-  'fragrance': 'Fragrance',
-  'tools-devices': 'Tools & Devices',
-  'wellness': 'Wellness',
-  'nails': 'Nails'
-};
+import { products2026, awardPrograms, pressArticles, publications } from '@/lib/data';
 
 export default function Home() {
-  const [activeFilter, setActiveFilter] = useState<string>('all');
-  const [searchQuery, setSearchQuery] = useState('');
-  const searchRef = useRef<HTMLInputElement>(null);
-  const gridRef = useRef<HTMLDivElement>(null);
-
-  const filteredProducts = useMemo(() => {
-    let filtered = products2026;
-    if (activeFilter !== 'all') {
-      filtered = filtered.filter(p => p.category === categoryMap[activeFilter]);
-    }
-    if (searchQuery.trim()) {
-      const q = searchQuery.toLowerCase();
-      filtered = filtered.filter(p =>
-        p.brand.toLowerCase().includes(q) ||
-        p.name.toLowerCase().includes(q) ||
-        p.topAward.toLowerCase().includes(q)
-      );
-    }
-    return [...filtered].sort((a, b) => b.awardCount - a.awardCount);
-  }, [activeFilter, searchQuery]);
-
+  const top = [...products2026].sort((a, b) => b.awardCount - a.awardCount).slice(0, 8);
   return (
     <>
-      {/* Minimal header */}
       <header className="bg-cream border-b border-cream-dark">
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-          <Link href="/" className="font-serif text-xl font-bold tracking-tight text-charcoal">
-            Vett<span className="text-gold">beauty</span>
-          </Link>
-          <div className="flex items-center gap-1">
-          <SaveCount className="ml-2" />
-          <button
-            aria-label="Search"
-            className="p-2 text-charcoal-light hover:text-charcoal"
-            onClick={() => searchRef.current?.focus()}
-          >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-            </svg>
-          </button>
-          </div>
+          <Wordmark className="text-2xl" />
+          <nav className="flex items-center gap-5">
+            <Link href="/browse" className="text-sm font-medium text-charcoal-light hover:text-charcoal transition-colors">Browse</Link>
+            <Link href="/about" className="text-sm font-medium text-charcoal-light hover:text-charcoal transition-colors">About</Link>
+            <SaveCount />
+          </nav>
         </div>
       </header>
 
-      {/* 2-line hero */}
-      <section className="max-w-2xl mx-auto px-4 pt-8 pb-6 text-center">
-        <h1 className="font-serif text-2xl sm:text-3xl font-bold text-charcoal leading-snug">
-          Award-winning beauty, verified.
-        </h1>
-        <button
-          onClick={() => gridRef.current?.scrollIntoView({ behavior: 'smooth' })}
-          className="mt-3 inline-flex items-center gap-1 text-gold font-semibold text-sm hover:text-gold-dark"
+      {/* Hero */}
+      <section className="text-center px-4 pt-14 pb-10 max-w-2xl mx-auto">
+        <p className="text-xs font-semibold uppercase tracking-[0.15em] text-gold mb-4">The Verified Record of Beauty</p>
+        <h1 className="font-serif text-3xl sm:text-5xl font-bold text-charcoal mb-4 leading-tight">Only the Vetted</h1>
+        <div className="hero-underline mb-5" />
+        <p className="text-base sm:text-lg text-charcoal-light leading-relaxed max-w-lg mx-auto mb-7">
+          Every product here won a named award from a major beauty publication&apos;s formal awards program.
+          No listicles. No paid placements. Only verified winners.
+        </p>
+        <Link
+          href="/browse"
+          className="inline-flex items-center gap-2 bg-charcoal text-white px-7 py-3 rounded-xl font-semibold text-sm hover:bg-charcoal-light transition-colors"
         >
-          Browse →
-        </button>
+          Browse {products2026.length.toLocaleString()} winners →
+        </Link>
       </section>
 
-      {/* Sticky search */}
-      <div className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm px-4 py-2 border-b border-cream-dark">
-        <div className="max-w-6xl mx-auto">
-          <input
-            ref={searchRef}
-            type="search"
-            placeholder="Search products, brands, awards..."
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full px-4 py-2 bg-white border border-warm-beige/30 rounded-lg text-sm text-charcoal placeholder:text-charcoal-light/60 focus:outline-none focus:border-gold"
-          />
+      {/* Trust banner */}
+      <div className="bg-white border-y border-cream-dark py-4 px-4">
+        <div className="max-w-6xl mx-auto flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
+          <span className="text-[10px] sm:text-xs font-semibold uppercase tracking-[0.1em] text-charcoal-light/70">Cross-Referenced Against</span>
+          <ul className="flex flex-wrap justify-center gap-x-5 gap-y-1">
+            {publications.map(pub => (
+              <li key={pub} className="text-xs sm:text-sm font-medium text-charcoal-light">{pub}</li>
+            ))}
+          </ul>
         </div>
       </div>
 
-      {/* Scrollable categories */}
-      <div className="max-w-6xl mx-auto px-4 py-3">
-        <div className="flex gap-2 overflow-x-auto [-webkit-overflow-scrolling:touch] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-          <button
-            onClick={() => setActiveFilter('all')}
-            className={`shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
-              activeFilter === 'all' ? 'bg-charcoal text-white' : 'bg-cream-dark text-charcoal-light'
-            }`}
-          >
-            All
-          </button>
-          {Object.entries(categoryMap).map(([key, label]) => (
-            <button
-              key={key}
-              onClick={() => setActiveFilter(key)}
-              className={`shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
-                activeFilter === key ? 'bg-charcoal text-white' : 'bg-cream-dark text-charcoal-light'
-              }`}
-            >
-              {label}
-            </button>
-          ))}
+      {/* Most-awarded preview */}
+      <div className="max-w-6xl mx-auto px-4 pt-10 pb-3 flex items-end justify-between gap-4">
+        <div>
+          <h2 className="font-serif text-xl sm:text-2xl font-semibold text-charcoal">Top of the Record</h2>
+          <p className="text-sm text-charcoal-light mt-1">The most-awarded products across every publication we track</p>
         </div>
-        <p className="text-xs text-charcoal-light mt-2">{filteredProducts.length} products</p>
+        <Link href="/browse" className="text-sm font-medium text-gold hover:text-gold-dark shrink-0">See all →</Link>
       </div>
-
-      {/* 2-column grid, no gaps */}
-      <div ref={gridRef} className="max-w-6xl mx-auto pb-10">
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-px bg-cream-dark">
-          {filteredProducts.map(product => (
+      <div className="max-w-6xl mx-auto px-4 pb-12">
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-px bg-cream-dark">
+          {top.map(product => (
             <div key={product.id} className="bg-white flex flex-col">
               <Link href={`/product/${product.slug}`} className="block">
                 <div className="product-tile aspect-square relative overflow-hidden">
-                  {product.image ? (
-                    <img
-                      src={product.image}
-                      alt={`${product.brand} ${product.name}`}
-                      className="w-full h-full"
-                      loading="lazy"
-                    />
-                  ) : (
-                    <div className="w-full h-full flex items-center justify-center text-charcoal-light/30">
-                      <svg className="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
-                    </div>
+                  {product.image && (
+                    <img src={product.image} alt={`${product.brand} ${product.name}`} className="w-full h-full" loading="lazy" />
                   )}
                   <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded">
                     {product.topAward.split(' — ')[0]}
@@ -147,38 +78,57 @@ export default function Home() {
                   <h3 className="text-xs font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
                 </div>
               </Link>
-              <div className="px-3 pb-3 mt-auto flex items-center justify-between">
-                <span className="text-xs font-bold text-charcoal">{product.price ? `$${product.price}` : '—'}</span>
-                {product.buyLink && (
-                  <a
-                    href={product.buyLink}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-[9px] font-semibold text-gold uppercase tracking-wider"
-                  >
-                    Check Price →
-                  </a>
-                )}
-              </div>
             </div>
           ))}
         </div>
-        {filteredProducts.length === 0 && (
-          <div className="text-center py-12">
-            <p className="text-sm text-charcoal-light mb-2">No products match.</p>
-            <button
-              onClick={() => { setActiveFilter('all'); setSearchQuery(''); }}
-              className="text-gold text-sm font-medium hover:underline"
-            >
-              Clear
-            </button>
-          </div>
-        )}
       </div>
 
-      {/* Footer only */}
+      {/* Region note */}
+      <div className="max-w-3xl mx-auto px-4 py-6 text-center">
+        <p className="text-sm sm:text-base text-charcoal-light leading-relaxed">
+          <strong className="text-charcoal">United States · South Korea · France</strong><br className="hidden sm:block" />
+          <span className="sm:ml-1">We track award programs beyond the US — regional wins are recorded separately and never counted toward the consensus score.</span>
+        </p>
+      </div>
+
+      {/* Just In */}
+      <section className="bg-white border-t border-cream-dark">
+        <div className="max-w-6xl mx-auto px-4 pt-10 pb-2">
+          <h2 className="font-serif text-xl sm:text-2xl font-semibold text-charcoal mb-1">Just In</h2>
+          <p className="text-sm text-charcoal-light">Newly recorded award programs</p>
+        </div>
+        <ul className="max-w-6xl mx-auto px-4 pb-10">
+          {awardPrograms.map(program => (
+            <li key={program.id} className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-4 py-4 border-b border-cream-dark last:border-b-0">
+              <span className="font-semibold text-charcoal text-sm sm:text-base sm:flex-1">{program.name}</span>
+              <span className="text-charcoal-light text-sm">{program.edition}</span>
+              <span className="inline-flex self-start bg-cream-dark text-charcoal-light text-xs font-medium px-3 py-1 rounded-full">{program.winnerCount} winners</span>
+              <time className="text-charcoal-light/70 text-sm sm:ml-auto">{program.announcedDate}</time>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      {/* In the Press */}
+      <div className="max-w-6xl mx-auto px-4 pt-10 pb-2">
+        <h2 className="font-serif text-xl sm:text-2xl font-semibold text-charcoal mb-1">In the Press</h2>
+        <p className="text-sm text-charcoal-light">Coverage from the publications we track</p>
+      </div>
+      <div className="max-w-6xl mx-auto px-4 pb-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {pressArticles.map(article => (
+            <a href={article.sourceUrl} key={article.id} target="_blank" rel="noopener noreferrer"
+               className="bg-white rounded-xl p-4 sm:p-6 shadow-sm hover:shadow-md transition-shadow">
+              <p className="text-xs font-semibold uppercase tracking-wider text-gold mb-2">{article.source}</p>
+              <h3 className="text-sm sm:text-base font-semibold text-charcoal leading-snug mb-2">{article.title}</h3>
+              <p className="text-xs sm:text-sm text-charcoal-light">On {article.productName}</p>
+            </a>
+          ))}
+        </div>
+      </div>
+
       <footer className="bg-white border-t border-cream-dark py-6 px-4 text-center">
-        <p className="text-xs text-charcoal-light">© Vettbeauty</p>
+        <p className="text-xs text-charcoal-light">© 2026 Vettbeauty · <Link href="/about" className="hover:text-charcoal">Only the Vetted</Link></p>
       </footer>
     </>
   );

@@ -52,7 +52,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             <Link href="/" className="hover:text-charcoal transition-colors">Home</Link>
             <span>/</span>
             <Link 
-              href={`/?category=${product.category.toLowerCase().replace(/\s+/g, '-')}`} 
+              href="/browse" 
               className="hover:text-charcoal transition-colors"
             >
               {product.category}
@@ -276,7 +276,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
       {/* Back to Browse */}
       <section className="max-w-6xl mx-auto px-4 sm:px-6 py-8 text-center">
         <Link 
-          href={`/?category=${product.category.toLowerCase().replace(/\s+/g, '-')}`}
+          href="/browse"
           className="inline-flex items-center gap-2 text-gold font-semibold hover:underline"
         >
           ← Browse all {product.category.toLowerCase()}

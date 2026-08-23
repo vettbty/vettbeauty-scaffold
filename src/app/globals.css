@@ -235,7 +235,9 @@ h1, h2, h3, h4, h5, h6 {
    cream (white x cream = cream), so hotlinked retailer images read as cutouts
    without processing 2,180 files. */
 .product-tile {
-  background: linear-gradient(180deg, #FBEFEE 0%, #F6E4E0 100%);
+  /* Near-white blush: multiply against this leaves product colors essentially
+     untinted (worst case ~3%), while white packshot backgrounds still merge. */
+  background: linear-gradient(180deg, #FFFBFA 0%, #FAF0EE 100%);
   /* Scope the blend to this tile (and force reliable compositing) */
   isolation: isolate;
 }

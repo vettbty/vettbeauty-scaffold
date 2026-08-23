@@ -10,7 +10,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&family=League+Spartan:wght@300;400;500&family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </head>
       <body className="font-sans bg-cream text-charcoal antialiased">{children}</body>
     </html>
