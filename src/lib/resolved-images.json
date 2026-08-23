@@ -126,5 +126,20 @@
     "resolvedAt": "2026-08-22T18:00:00.000Z",
     "variant": "MACximal Silky Matte, Viva Heart",
     "note": "Record is line-level 'Viva Glam'; current-generation lipstick shown"
+  },
+  "frederic-malle-portrait-of-a-lady": {
+    "image": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FE01_630x615_0.jpg",
+    "source": "https://www.fredericmalle.com/product/19566/50241/parfums/portrait-of-a-lady/by-dominique-ropion",
+    "metaSource": "browser-dom",
+    "resolvedAt": "2026-08-23T00:00:00.000Z",
+    "note": "CDN 403s curl (TLS fingerprint) but loads fine in real browsers from vettbeauty origin \u2014 verified 2026-08-23"
+  },
+  "dries-van-noten-body-lotion": {
+    "image": "https://www.driesvannoten.com/cdn/shop/files/DVN-BODYLOTION-SOIE_AMBER_3X4_1.jpg?v=1772728308&width=1024",
+    "source": "https://www.driesvannoten.com/en-us/products/001-098720-8701",
+    "metaSource": "og:image",
+    "resolvedAt": "2026-08-23T00:00:00.000Z",
+    "variant": "Soie & Amber",
+    "note": "Matches the Nordstrom buy link's variant (soie-amber); line-level record"
   }
 }

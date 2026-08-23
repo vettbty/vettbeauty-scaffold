@@ -19237,7 +19237,7 @@
     "brand": "Frederic Malle",
     "name": "Portrait Of A Lady",
     "price": 470,
-    "image": "",
+    "image": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FE01_630x615_0.jpg",
     "topAward": "InStyle Best Beauty Buys — Best Spiced Floral (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -19249,7 +19249,8 @@
     "buyLink": "https://go.shopmy.us/p-78453283",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Spiced Floral (2025)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.fredericmalle.com/product/19566/50241/parfums/portrait-of-a-lady/by-dominique-ropion"
   },
   {
     "id": "prod-957",
@@ -31634,7 +31635,7 @@
     "brand": "Dries Van Noten",
     "name": "Body Lotion",
     "price": 100,
-    "image": "",
+    "image": "https://www.driesvannoten.com/cdn/shop/files/DVN-BODYLOTION-SOIE_AMBER_3X4_1.jpg?v=1772728308&width=1024",
     "topAward": "InStyle Best Beauty Buys — Best Body Lotion (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -31646,7 +31647,8 @@
     "buyLink": "https://www.nordstrom.com/s/soie-amber-body-lotion/8903842",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Body Lotion (2026)"
-    ]
+    ],
+    "imageResolvedFrom": "https://www.driesvannoten.com/en-us/products/001-098720-8701"
   },
   {
     "id": "prod-1599",
