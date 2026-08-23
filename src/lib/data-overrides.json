@@ -17,6 +17,10 @@
     {
       "slug": "luum-lash-service",
       "why": "A salon service, not a product \u2014 removed from the record entirely (Sascha, 2026-08-23). Deleted from the master DB the same day; this drop covers CSV snapshots that predate the deletion."
+    },
+    {
+      "slug": "universkin-by-alma-zinc-sulfate-2-5",
+      "why": "Universkin by Alma sells personalized/compounded formulations, not fixed retail products \u2014 removed from the record (Sascha, 2026-08-23). Deleted from the master DB the same day."
     }
   ]
 }
