@@ -83,6 +83,10 @@ if (fs.existsSync(resolvedPath)) {
 // Apply ruled catalogue corrections (merges + field patches) — see data-overrides.json
 if (fs.existsSync('./src/lib/data-overrides.json')) {
   const ov = JSON.parse(fs.readFileSync('./src/lib/data-overrides.json', 'utf-8'));
+  for (const drop of ov.drops || []) {
+    const i = products.findIndex(p => p.slug === drop.slug);
+    if (i !== -1) products.splice(i, 1);
+  }
   for (const m of ov.merges || []) {
     const di = products.findIndex(p => p.slug === m.drop);
     const ti = products.findIndex(p => p.slug === m.into);

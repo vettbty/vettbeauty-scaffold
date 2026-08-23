@@ -12,5 +12,11 @@
       "price": 35,
       "_why": "The $72 on the Glamour-import record was wrong; correct price is $35 (Sascha 2026-08-23)."
     }
-  }
+  },
+  "drops": [
+    {
+      "slug": "luum-lash-service",
+      "why": "A salon service, not a product \u2014 removed from the record entirely (Sascha, 2026-08-23). Deleted from the master DB the same day; this drop covers CSV snapshots that predate the deletion."
+    }
+  ]
 }
