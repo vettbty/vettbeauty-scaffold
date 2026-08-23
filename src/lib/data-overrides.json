@@ -1,0 +1,16 @@
+{
+  "_README": "Catalogue corrections ruled by Sascha, applied by convert-csv.js after the CSV parse. 'mergeInto' folds a duplicate record's awards into the surviving slug and drops the duplicate; 'set' patches fields on the surviving record.",
+  "merges": [
+    {
+      "drop": "prada-beauty-pradascope-lash-extending-mascara",
+      "into": "prada-beauty-pradascope-lash-lengthening-mascara",
+      "why": "Same product (Prada makes one PradaScope mascara); publications printed different names. Ruled same-product by Sascha 2026-08-23."
+    }
+  ],
+  "set": {
+    "prada-beauty-pradascope-lash-lengthening-mascara": {
+      "price": 35,
+      "_why": "The $72 on the Glamour-import record was wrong; correct price is $35 (Sascha 2026-08-23)."
+    }
+  }
+}

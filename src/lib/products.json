@@ -18442,7 +18442,7 @@
     "price": 35,
     "image": "https://www.prada.com/content/dam/pradabkg_products/1/1A4/1A4601/2I05FBM01/1A4601_2I05_FBM01_P_ML0085_SLF.jpg",
     "topAward": "InStyle Best Beauty Buys — Best Lengthening Mascara (2025)",
-    "awardCount": 1,
+    "awardCount": 2,
     "category": "Makeup",
     "subcategory": "Mascara",
     "year": 2026,
@@ -18451,7 +18451,8 @@
     "linkType": "exact",
     "buyLink": "https://www.sephora.com/product/prada-beauty-pradascope-lash-lifting-lengthening-mascara-P515390",
     "awardsWon": [
-      "InStyle Best Beauty Buys — Best Lengthening Mascara (2025)"
+      "InStyle Best Beauty Buys — Best Lengthening Mascara (2025)",
+      "Glamour Beauty Awards — Global Editors — Best Mascara (2026)"
     ],
     "imageResolvedFrom": "https://www.prada.com (brand DAM packshot, via sibling catalogue record)"
   },
@@ -42460,26 +42461,6 @@
     "buyLink": "https://www.target.com/p/tresemme-a-list-collection-style-extend-dry-shampoo-5-3oz/-/A-94748888",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Dry Shampoo (2026)"
-    ]
-  },
-  {
-    "id": "prod-2139",
-    "slug": "prada-beauty-pradascope-lash-extending-mascara",
-    "brand": "Prada Beauty",
-    "name": "Pradascope Lash Extending Mascara",
-    "price": 72,
-    "image": "https://www.prada.com/content/dam/pradabkg_products/1/1A4/1A4601/2I05FBM01/1A4601_2I05_FBM01_P_ML0085_SLF.jpg",
-    "topAward": "Glamour Beauty Awards — Global Editors — Best Mascara (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "Mascara",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Prada+Beauty+Pradascope+Lash+Extending+Mascara&tag=vettbeauty-20",
-    "awardsWon": [
-      "Glamour Beauty Awards — Global Editors — Best Mascara (2026)"
     ]
   },
   {

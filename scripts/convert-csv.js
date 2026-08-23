@@ -80,5 +80,25 @@ if (fs.existsSync(resolvedPath)) {
   }
 }
 
+// Apply ruled catalogue corrections (merges + field patches) — see data-overrides.json
+if (fs.existsSync('./src/lib/data-overrides.json')) {
+  const ov = JSON.parse(fs.readFileSync('./src/lib/data-overrides.json', 'utf-8'));
+  for (const m of ov.merges || []) {
+    const di = products.findIndex(p => p.slug === m.drop);
+    const ti = products.findIndex(p => p.slug === m.into);
+    if (di !== -1 && ti !== -1) {
+      const dup = products[di], keep = products[ti];
+      keep.awardsWon = [...keep.awardsWon, ...dup.awardsWon.filter(a => !keep.awardsWon.includes(a))];
+      keep.awardCount = keep.awardsWon.length;
+      if (!keep.image && dup.image) { keep.image = dup.image; if (dup.imageResolvedFrom) keep.imageResolvedFrom = dup.imageResolvedFrom; }
+      products.splice(di, 1);
+    }
+  }
+  for (const [slug, fields] of Object.entries(ov.set || {})) {
+    const p = products.find(x => x.slug === slug);
+    if (p) for (const [k, v] of Object.entries(fields)) { if (!k.startsWith('_')) p[k] = v; }
+  }
+}
+
 fs.writeFileSync('./src/lib/products.json', JSON.stringify(products, null, 2));
 console.log(`Converted ${products.length} products`);
