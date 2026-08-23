@@ -133,12 +133,12 @@ export default function SavedPage() {
               >
                 {/* Image */}
                 <Link href={`/product/${product.slug}`} className="shrink-0">
-                  <div className="w-20 h-20 sm:w-24 sm:h-24 bg-cream-dark rounded-xl overflow-hidden">
+                  <div className="product-tile w-20 h-20 sm:w-24 sm:h-24 rounded-xl overflow-hidden">
                     {product.image ? (
                       <img
                         src={product.image}
                         alt={product.name}
-                        className="w-full h-full object-cover"
+                        className="w-full h-full"
                       />
                     ) : (
                       <div className="w-full h-full flex items-center justify-center text-charcoal-light/30">

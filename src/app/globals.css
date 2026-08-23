@@ -227,3 +227,20 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--charcoal-light);
   white-space: nowrap;
 }
+
+
+/* ---- Carousel-style product tiles (Sascha, 2026-08-23) ----
+   Match the DIBS daily-card look: packshot floating on the cream field, no
+   white box. mix-blend-mode:multiply keys white packshot backgrounds into the
+   cream (white x cream = cream), so hotlinked retailer images read as cutouts
+   without processing 2,180 files. */
+.product-tile {
+  background: linear-gradient(180deg, #FBEFEE 0%, #F6E4E0 100%);
+  /* Scope the blend to this tile (and force reliable compositing) */
+  isolation: isolate;
+}
+.product-tile img {
+  mix-blend-mode: multiply;
+  object-fit: contain !important;
+  padding: 10%;
+}

@@ -67,12 +67,12 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
       <section className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-12">
           {/* Image */}
-          <div className="aspect-square bg-cream-dark rounded-2xl overflow-hidden relative">
+          <div className="product-tile aspect-square rounded-2xl overflow-hidden relative">
             {product.image ? (
               <img 
                 src={product.image} 
                 alt={`${product.brand} ${product.name}`}
-                className="w-full h-full object-cover"
+                className="w-full h-full"
               />
             ) : (
               <div className="w-full h-full flex items-center justify-center text-charcoal-light/30">
@@ -247,12 +247,12 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                   key={related.id}
                   className="group bg-cream rounded-xl overflow-hidden hover:shadow-md transition-all"
                 >
-                  <div className="aspect-square bg-cream-dark relative overflow-hidden">
+                  <div className="product-tile aspect-square relative overflow-hidden">
                     {related.image ? (
                       <img 
                         src={related.image} 
                         alt={related.name}
-                        className="w-full h-full object-cover group-hover:scale-105 transition-transform"
+                        className="w-full h-full group-hover:scale-105 transition-transform"
                         loading="lazy"
                       />
                     ) : (

@@ -120,12 +120,12 @@ export default function Home() {
           {filteredProducts.map(product => (
             <div key={product.id} className="bg-white flex flex-col">
               <Link href={`/product/${product.slug}`} className="block">
-                <div className="aspect-square bg-cream-dark/40 relative overflow-hidden">
+                <div className="product-tile aspect-square relative overflow-hidden">
                   {product.image ? (
                     <img
                       src={product.image}
                       alt={`${product.brand} ${product.name}`}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full"
                       loading="lazy"
                     />
                   ) : (
