@@ -80,6 +80,19 @@ if (fs.existsSync(resolvedPath)) {
   }
 }
 
+// Swap in locally cut-out packshots (public/cutouts) where the pipeline
+// produced one; keep the hotlink as imageOriginal for reference/og use.
+if (fs.existsSync('./src/lib/cutouts.json')) {
+  const cutouts = JSON.parse(fs.readFileSync('./src/lib/cutouts.json', 'utf-8'));
+  for (const product of products) {
+    if (cutouts[product.slug] === true && product.image && !product.image.startsWith('/')) {
+      product.imageOriginal = product.image;
+      product.image = `/cutouts/${product.slug}.webp`;
+      product.imageCutout = true;
+    }
+  }
+}
+
 // Apply ruled catalogue corrections (merges + field patches) — see data-overrides.json
 if (fs.existsSync('./src/lib/data-overrides.json')) {
   const ov = JSON.parse(fs.readFileSync('./src/lib/data-overrides.json', 'utf-8'));

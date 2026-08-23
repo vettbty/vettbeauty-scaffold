@@ -188,7 +188,7 @@ export default function Home() {
                     <img
                       src={product.image}
                       alt={`${product.brand} ${product.name}`}
-                      className="w-full h-full"
+                      className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`}
                       loading="lazy"
                     />
                   ) : (

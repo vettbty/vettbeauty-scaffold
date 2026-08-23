@@ -13,6 +13,8 @@ export interface Product {
   subcategory: string;
   year: number;
   region: string;
+  imageCutout?: boolean;
+  imageOriginal?: string;
   hasPhoto: boolean;
   linkType: string;
   buyLink: string;

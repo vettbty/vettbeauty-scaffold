@@ -72,7 +72,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
               <img 
                 src={product.image} 
                 alt={`${product.brand} ${product.name}`}
-                className="w-full h-full"
+                className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`}
               />
             ) : (
               <div className="w-full h-full flex items-center justify-center text-charcoal-light/30">
@@ -252,7 +252,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                       <img 
                         src={related.image} 
                         alt={related.name}
-                        className="w-full h-full group-hover:scale-105 transition-transform"
+                        className={`w-full h-full group-hover:scale-105 transition-transform ${related.imageCutout ? "cutout" : ""}`}
                         loading="lazy"
                       />
                     ) : (

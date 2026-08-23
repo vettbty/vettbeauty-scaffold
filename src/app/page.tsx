@@ -62,7 +62,7 @@ export default function Home() {
               <Link href={`/product/${product.slug}`} className="block">
                 <div className="product-tile aspect-square relative overflow-hidden">
                   {product.image && (
-                    <img src={product.image} alt={`${product.brand} ${product.name}`} className="w-full h-full" loading="lazy" />
+                    <img src={product.image} alt={`${product.brand} ${product.name}`} className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`} loading="lazy" />
                   )}
                   <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded">
                     {product.topAward.split(' — ')[0]}
