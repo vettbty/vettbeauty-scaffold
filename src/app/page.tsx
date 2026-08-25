@@ -12,6 +12,7 @@ export default function Home() {
           <Wordmark className="text-2xl" />
           <nav className="flex items-center gap-5">
             <Link href="/browse" className="text-sm font-medium text-charcoal-light hover:text-charcoal transition-colors">Browse</Link>
+            <Link href="/sale" className="text-sm font-medium text-gold hover:text-gold-dark transition-colors">Sale</Link>
             <Link href="/about" className="text-sm font-medium text-charcoal-light hover:text-charcoal transition-colors">About</Link>
             <SaveCount />
           </nav>
