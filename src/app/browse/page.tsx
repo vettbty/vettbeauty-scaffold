@@ -24,18 +24,23 @@ export default function Home() {
   const [selectedYear, setSelectedYear] = useState<string>('all');
   const [selectedSource, setSelectedSource] = useState<string>('all');
   const [minAwards, setMinAwards] = useState<number>(1);
+  const [brandQuery, setBrandQuery] = useState('');
   const searchRef = useRef<HTMLInputElement>(null);
   const gridRef = useRef<HTMLDivElement>(null);
 
-  const { availableYears, availableSources } = useMemo(() => {
-    const years = new Set<string>(); const sources = new Set<string>();
-    products2026.forEach(p => p.awardsWon.forEach(a => {
-      const y = a.match(/\((\d{4})\)/); if (y) years.add(y[1]);
-      const src = a.split(' — ')[0]; if (src) sources.add(src.trim());
-    }));
+  const { availableYears, availableSources, availableBrands } = useMemo(() => {
+    const years = new Set<string>(); const sources = new Set<string>(); const brands = new Set<string>();
+    products2026.forEach(p => {
+      brands.add(p.brand);
+      p.awardsWon.forEach(a => {
+        const y = a.match(/\((\d{4})\)/); if (y) years.add(y[1]);
+        const src = a.split(' — ')[0]; if (src) sources.add(src.trim());
+      });
+    });
     return {
       availableYears: [...years].sort().reverse(),
       availableSources: [...sources].sort(),
+      availableBrands: [...brands].sort((a, b) => a.localeCompare(b)),
     };
   }, []);
 
@@ -52,6 +57,10 @@ export default function Home() {
     }
     if (minAwards > 1) {
       filtered = filtered.filter(p => p.awardCount >= minAwards);
+    }
+    if (brandQuery.trim()) {
+      const b = brandQuery.toLowerCase();
+      filtered = filtered.filter(p => p.brand.toLowerCase().includes(b));
     }
     if (searchQuery.trim()) {
       const q = searchQuery.toLowerCase();
@@ -70,7 +79,7 @@ export default function Home() {
         default: return b.awardCount - a.awardCount;
       }
     });
-  }, [activeFilter, searchQuery, sortBy, selectedYear, selectedSource, minAwards]);
+  }, [activeFilter, searchQuery, sortBy, selectedYear, selectedSource, minAwards, brandQuery]);
 
   return (
     <>
@@ -157,6 +166,16 @@ export default function Home() {
             <option value="all">All years</option>
             {availableYears.map(y => <option key={y} value={y}>{y}</option>)}
           </select>
+          <input
+            list="brand-list"
+            value={brandQuery}
+            onChange={e => setBrandQuery(e.target.value)}
+            placeholder="Brand"
+            className="shrink-0 w-32 px-3 py-1.5 bg-white border border-warm-beige/30 rounded-lg text-xs text-charcoal placeholder:text-charcoal-light/60 focus:outline-none focus:border-gold"
+          />
+          <datalist id="brand-list">
+            {availableBrands.map(b => <option key={b} value={b} />)}
+          </datalist>
           <select value={selectedSource} onChange={e => setSelectedSource(e.target.value)}
             className="shrink-0 max-w-[46vw] px-3 py-1.5 bg-white border border-warm-beige/30 rounded-lg text-xs text-charcoal focus:outline-none focus:border-gold">
             <option value="all">All publications</option>
@@ -169,8 +188,8 @@ export default function Home() {
             <option value={3}>3+ awards</option>
             <option value={5}>5+ awards</option>
           </select>
-          {(activeFilter !== 'all' || selectedYear !== 'all' || selectedSource !== 'all' || minAwards > 1 || searchQuery) && (
-            <button onClick={() => { setActiveFilter('all'); setSelectedYear('all'); setSelectedSource('all'); setMinAwards(1); setSearchQuery(''); }}
+          {(activeFilter !== 'all' || selectedYear !== 'all' || selectedSource !== 'all' || minAwards > 1 || searchQuery || brandQuery) && (
+            <button onClick={() => { setActiveFilter('all'); setSelectedYear('all'); setSelectedSource('all'); setMinAwards(1); setSearchQuery(''); setBrandQuery(''); }}
               className="shrink-0 px-3 py-1.5 text-xs text-gold font-medium">Clear</button>
           )}
         </div>
