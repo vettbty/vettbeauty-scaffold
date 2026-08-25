@@ -67,8 +67,8 @@ export default function SalePage() {
         <p className="text-xs font-semibold uppercase tracking-[0.15em] text-gold mb-3">Price Watch</p>
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-charcoal mb-3">The Sale Rack</h1>
         <p className="text-base text-charcoal-light leading-relaxed max-w-md mx-auto">
-          {items.length} award winners currently priced <em>below</em> what they cost when they won.
-          The struck-through figure is the awarding publication&apos;s printed price — not an inflated list price.
+          {items.length} award winners currently priced below what they cost when they won.
+          The struck-through figure is the price the awarding publication printed.
         </p>
       </section>
 
@@ -89,9 +89,9 @@ export default function SalePage() {
 
       <div className="max-w-2xl mx-auto px-4 pb-12 text-center">
         <p className="text-xs text-charcoal-light leading-relaxed">
-          Prices checked {sale.generated} against live retailer pages. A reduction is only listed when
-          the current price is below the price the awarding publication printed — the one honest
-          &ldquo;was.&rdquo; Availability changes fast; the link shows today&apos;s truth.
+          Prices checked {sale.generated} against live retailer pages. A product is listed only when
+          its current price is below the price the awarding publication printed. Availability and
+          pricing change quickly.
         </p>
       </div>
 
