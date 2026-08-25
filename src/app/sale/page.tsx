@@ -68,7 +68,7 @@ export default function SalePage() {
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-charcoal mb-3">The Sale Rack</h1>
         <p className="text-base text-charcoal-light leading-relaxed max-w-md mx-auto">
           {items.length} award winners currently priced <em>below</em> what they cost when they won.
-          The struck-through figure is the awarding publication&apos;s printed price — not an inflated RRP.
+          The struck-through figure is the awarding publication&apos;s printed price — not an inflated list price.
         </p>
       </section>
 
