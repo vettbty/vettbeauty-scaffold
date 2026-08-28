@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25",
+ "generated": "2026-08-27",
  "items": [
   {
    "brand": "RevitaLash",
@@ -30,6 +30,34 @@
    "topAward": "NewBeauty Readers Choice — Favorite Barrier Repair Serum (2025)"
   },
   {
+   "brand": "Paula's Choice",
+   "product": "Skin Perfecting 2% BHA Liquid Exfoliant",
+   "retailer": "amazon",
+   "was": 37,
+   "now": 15,
+   "percentOff": 59,
+   "url": "https://www.amazon.com/dp/B07C5SS6YD",
+   "size": "1 Fl Oz",
+   "slug": "paula-s-choice-skin-perfecting-2--bha-liquid-exfoliant",
+   "image": "/cutouts/paula-s-choice-skin-perfecting-2--bha-liquid-exfoliant.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Skin Winner (2026)"
+  },
+  {
+   "brand": "eos",
+   "product": "Super Balm",
+   "retailer": "amazon",
+   "was": 11,
+   "now": 4.97,
+   "percentOff": 55,
+   "url": "https://www.amazon.com/dp/B0C7SFLV46",
+   "size": "0.35 oz",
+   "slug": "eos-super-balm",
+   "image": "https://evolutionofsmooth.com/cdn/shop/files/SuperBalm-coconutmilk-1000X1161.jpg?v=1763417800",
+   "imageCutout": false,
+   "topAward": "InStyle Best Beauty Buys — Best Lip Balm (2025)"
+  },
+  {
    "brand": "Aveeno",
    "product": "Daily Moisturizing Lotion",
    "retailer": "Ulta",
@@ -44,6 +72,20 @@
    "topAward": "Glamour Beauty Awards — Readers' Choice — Best Body Lotion (2026)"
   },
   {
+   "brand": "Medicube",
+   "product": "Toner Pads Zero Pore Pad 2.0",
+   "retailer": "amazon",
+   "was": 31,
+   "now": 15.12,
+   "percentOff": 51,
+   "url": "https://www.amazon.com/medicube-Calming-Exfoliation-Minimizing-Blackhead/dp/B09V7Z4TJG",
+   "size": null,
+   "slug": "medicube-toner-pads-zero-pore-pad-2-0",
+   "image": "/cutouts/medicube-toner-pads-zero-pore-pad-2-0.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Toner Pads (2026)"
+  },
+  {
    "brand": "L'Oréal Paris",
    "product": "Elnett Hairspray",
    "retailer": "ulta",
@@ -56,6 +98,48 @@
    "image": "/cutouts/l-or-al-paris-elnett-hairspray.webp",
    "imageCutout": true,
    "topAward": "Allure Best of Beauty — Best Hairspray (2025)"
+  },
+  {
+   "brand": "BOLDIFY",
+   "product": "Hairline Powder",
+   "retailer": "amazon",
+   "was": 30,
+   "now": 14.99,
+   "percentOff": 50,
+   "url": "https://www.amazon.com/dp/B08N1CWL7S",
+   "size": "4g",
+   "slug": "boldify-hairline-powder",
+   "image": "/cutouts/boldify-hairline-powder.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Root Touch-Up (2026)"
+  },
+  {
+   "brand": "L’Oreal Paris",
+   "product": "EverPure Iron Sleek Smoothing Shampoo & Conditioner",
+   "retailer": "Ulta",
+   "was": 20,
+   "now": 10.99,
+   "percentOff": 45,
+   "url": "https://go.shopmy.us/p-81544654",
+   "size": null,
+   "slug": "l-oreal-paris-everpure-iron-sleek-smoothing-shampoo---conditioner",
+   "image": "https://vader-prod.s3.amazonaws.com/product-images/b4504ab8-1343-4439-9f2c-b1c84876530d/f0495217-dda5-4348-a566-7721d33e168f.jpg",
+   "imageCutout": false,
+   "topAward": "Cosmopolitan Beauty Awards — Best Smoothing Shampoo and Conditioner (2026)"
+  },
+  {
+   "brand": "Goodal",
+   "product": "Green Tangerine Niacinamide 10% Serum",
+   "retailer": "amazon",
+   "was": 32,
+   "now": 18.7,
+   "percentOff": 42,
+   "url": "https://www.amazon.com/dp/B0F3CF8FL5",
+   "size": null,
+   "slug": "goodal-green-tangerine-niacinamide-10--serum",
+   "image": "/cutouts/goodal-green-tangerine-niacinamide-10--serum.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Niacinamide Serum (2026)"
   },
   {
    "brand": "InfinitiPRO by Conair",
@@ -86,6 +170,76 @@
    "topAward": "Allure Best of Beauty — Best Body Wash for Sensitive Skin (2025)"
   },
   {
+   "brand": "Kiss Nail",
+   "product": "Press-Ons",
+   "retailer": "amazon",
+   "was": 14,
+   "now": 8.26,
+   "percentOff": 41,
+   "url": "https://www.amazon.com/included-Stardust-Wonder-Medium-Manicure/dp/B0FZDWHNSF",
+   "size": null,
+   "slug": "kiss-nail-press-ons",
+   "image": "/cutouts/kiss-nail-press-ons.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Press-Ons (2026)"
+  },
+  {
+   "brand": "Creme of Nature",
+   "product": "Argan Oil from Morocco Moisture & Shine Shampoo",
+   "retailer": "amazon",
+   "was": 8.47,
+   "now": 4.97,
+   "percentOff": 41,
+   "url": "https://www.amazon.com/dp/B004YRTZG0",
+   "size": null,
+   "slug": "creme-of-nature-argan-oil-from-morocco-moisture---shine-shampoo",
+   "image": "/cutouts/creme-of-nature-argan-oil-from-morocco-moisture---shine-shampoo.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Kinky Hair Shampoo (2025)"
+  },
+  {
+   "brand": "Shiseido",
+   "product": "Ultimune Power Infusing Serum",
+   "retailer": "amazon",
+   "was": 210,
+   "now": 125,
+   "percentOff": 40,
+   "url": "https://go.shopmy.us/p-76855040",
+   "size": "2.5 oz",
+   "slug": "shiseido-ultimune-power-infusing-serum",
+   "image": "/cutouts/shiseido-ultimune-power-infusing-serum.webp",
+   "imageCutout": true,
+   "topAward": "Vogue Beauty Awards — Vogue's Future Of Beauty Innovator: Skincare — Winner (2025)"
+  },
+  {
+   "brand": "Mediheal",
+   "product": "Retinol Collagen Under Eye Patches",
+   "retailer": "amazon",
+   "was": 22,
+   "now": 13.8,
+   "percentOff": 37,
+   "url": "https://www.amazon.com/Mediheal-Retinol-Collagen-Under-Patches/dp/B0D4Q8SR9Z",
+   "size": "60 Count",
+   "slug": "mediheal-retinol-collagen-under-eye-patches",
+   "image": "/cutouts/mediheal-retinol-collagen-under-eye-patches.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Eye Mask (2026)"
+  },
+  {
+   "brand": "Dove",
+   "product": "Aluminum Free Deodorant Spray",
+   "retailer": "amazon",
+   "was": 27,
+   "now": 16.99,
+   "percentOff": 37,
+   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
+   "size": "4 oz",
+   "slug": "dove-aluminum-free-deodorant-spray",
+   "image": "/cutouts/dove-aluminum-free-deodorant-spray.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Clean Winner (2026)"
+  },
+  {
    "brand": "Aveeno",
    "product": "Skin Relief Healing Ointment",
    "retailer": "Ulta",
@@ -98,6 +252,20 @@
    "image": "/cutouts/aveeno-skin-relief-healing-ointment.webp",
    "imageCutout": true,
    "topAward": "NewBeauty Annual Awards — Best Healing Ointment (2026)"
+  },
+  {
+   "brand": "Gillette",
+   "product": "Venus Original Razor",
+   "retailer": "amazon",
+   "was": 14.97,
+   "now": 9.97,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B003EMPN7G",
+   "size": "2 Count",
+   "slug": "gillette-venus-original-razor",
+   "image": "/cutouts/gillette-venus-original-razor.webp",
+   "imageCutout": true,
+   "topAward": "Glamour Beauty Awards — Readers' Choice — Best Razor (2026)"
   },
   {
    "brand": "VOESH",
@@ -142,6 +310,48 @@
    "topAward": "NewBeauty Annual Awards — Best Shampoo for Dandruff (2026)"
   },
   {
+   "brand": "Clio Cosmetics",
+   "product": "Kill Cover Mesh Glow Essential Cushion",
+   "retailer": "amazon",
+   "was": 29,
+   "now": 20,
+   "percentOff": 31,
+   "url": "https://www.amazon.com/dp/B0FT28XTZ1",
+   "size": null,
+   "slug": "clio-cosmetics-kill-cover-mesh-glow-essential-cushion",
+   "image": "/cutouts/clio-cosmetics-kill-cover-mesh-glow-essential-cushion.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Cushion Foundation (2026)"
+  },
+  {
+   "brand": "Crest",
+   "product": "3DWhite Deep Stain Remover Toothpaste",
+   "retailer": "amazon",
+   "was": 13,
+   "now": 8.97,
+   "percentOff": 31,
+   "url": "https://www.amazon.com/dp/B0DPNH9Q9W",
+   "size": "2.1oz",
+   "slug": "crest-3dwhite-deep-stain-remover-toothpaste",
+   "image": "/cutouts/crest-3dwhite-deep-stain-remover-toothpaste.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Whitening Toothpaste (2026)"
+  },
+  {
+   "brand": "Garnier Fructis",
+   "product": "Curl Knot Melter",
+   "retailer": "amazon",
+   "was": 9.99,
+   "now": 6.97,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
+   "size": null,
+   "slug": "garnier-fructis-curl-knot-melter",
+   "image": "/cutouts/garnier-fructis-curl-knot-melter.webp",
+   "imageCutout": true,
+   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)"
+  },
+  {
    "brand": "OLEHENRIKSEN",
    "product": "Sugar Melt Lip Scrub",
    "retailer": "Ulta",
@@ -170,6 +380,20 @@
    "topAward": "Allure Readers Choice — Clean Winner (2026)"
   },
   {
+   "brand": "Dr. Scholl's",
+   "product": "Dry Cracked Foot Repair Ultra-Hydrating Foot Cream",
+   "retailer": "amazon",
+   "was": 7.99,
+   "now": 5.84,
+   "percentOff": 27,
+   "url": "https://www.amazon.com/dp/B08YZBKZPB",
+   "size": "3.5 oz",
+   "slug": "dr--scholl-s-dry-cracked-foot-repair-ultra-hydrating-foot-cream",
+   "image": "/cutouts/dr--scholl-s-dry-cracked-foot-repair-ultra-hydrating-foot-cream.webp",
+   "imageCutout": true,
+   "topAward": "Marie Claire Skin & Hair Awards — Best Foot Cream (2025)"
+  },
+  {
    "brand": "Olive & June",
    "product": "The Gel Mani System",
    "retailer": "ulta",
@@ -182,6 +406,20 @@
    "image": "/cutouts/olive---june-the-gel-mani-system.webp",
    "imageCutout": true,
    "topAward": "Allure Best of Beauty — Best Breakthroughs (2025)"
+  },
+  {
+   "brand": "essie",
+   "product": "Gel Couture Top Coat",
+   "retailer": "amazon",
+   "was": 13,
+   "now": 9.78,
+   "percentOff": 25,
+   "url": "https://www.amazon.com/Essie-Couture-Long-Lasting-Polish-8-Free/dp/B01E7UKT54",
+   "size": "0.46 fl oz",
+   "slug": "essie-gel-couture-top-coat",
+   "image": "/cutouts/essie-gel-couture-top-coat.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Top Coat (2025)"
   },
   {
    "brand": "e.l.f.",
@@ -226,6 +464,34 @@
    "topAward": "NewBeauty Readers Choice — Favorite Moisturizer for Very Dry Skin (2025)"
   },
   {
+   "brand": "OWAY",
+   "product": "Curly Hair Co-Wash",
+   "retailer": "amazon",
+   "was": 60,
+   "now": 47,
+   "percentOff": 22,
+   "url": "https://www.amazon.com/dp/B0B19BRTGN",
+   "size": "240ml",
+   "slug": "oway-curly-hair-co-wash",
+   "image": "/cutouts/oway-curly-hair-co-wash.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)"
+  },
+  {
+   "brand": "TirTir",
+   "product": "Mask Fit Red Cushion Foundation",
+   "retailer": "amazon",
+   "was": 25,
+   "now": 20,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B09LCMQM44",
+   "size": null,
+   "slug": "tirtir-mask-fit-red-cushion-foundation",
+   "image": "/cutouts/tirtir-mask-fit-red-cushion-foundation.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Favorite K-Beauty Product (2026)"
+  },
+  {
    "brand": "Esker",
    "product": "Body Plane",
    "retailer": "ulta",
@@ -238,6 +504,20 @@
    "image": "/cutouts/esker-body-plane.webp",
    "imageCutout": true,
    "topAward": "InStyle Best Beauty Buys — Best Body Tool (2026)"
+  },
+  {
+   "brand": "Lumineux",
+   "product": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
+   "retailer": "amazon",
+   "was": 10,
+   "now": 7.98,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0DMGP43X5",
+   "size": "3.75 oz",
+   "slug": "lumineux-performance-white-toothpaste-with-10--nano-hydroxyapatite",
+   "image": "/cutouts/lumineux-performance-white-toothpaste-with-10--nano-hydroxyapatite.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Strengthening Toothpaste (2026)"
   },
   {
    "brand": "It's A 10 Haircare",
@@ -254,18 +534,18 @@
    "topAward": "Marie Claire Skin & Hair Awards — Best Anti-Frizz Treatment (2025)"
   },
   {
-   "brand": "OLAY",
-   "product": "Super Cream with Broad Spectrum SPF 30",
+   "brand": "Gillette Venus",
+   "product": "Pubic Hair and Skin Daily Ingrown Serum",
    "retailer": "amazon",
-   "was": 41.29,
-   "now": 33.99,
+   "was": 14.99,
+   "now": 12.29,
    "percentOff": 18,
-   "url": "https://www.amazon.com/dp/B0DHWFWSVF",
+   "url": "https://www.amazon.com/dp/B08JHSZG7F",
    "size": null,
-   "slug": "olay-super-cream-with-broad-spectrum-spf-30",
-   "image": "/cutouts/olay-super-cream-with-broad-spectrum-spf-30.webp",
-   "imageCutout": true,
-   "topAward": "Marie Claire Skin & Hair Awards — Best Drugstore Moisturizer (2025)"
+   "slug": "gillette-venus-pubic-hair-and-skin-daily-ingrown-serum",
+   "image": "https://vader-prod.s3.amazonaws.com/product-images/a37ebce0-adb9-419d-a1dc-2154b28a6407/503ea051-17d7-4a90-a425-949566f914fe.jpg",
+   "imageCutout": false,
+   "topAward": "Cosmopolitan Beauty Awards — Best Treatment for Ingrown Hairs (2026)"
   },
   {
    "brand": "Differin",
@@ -280,6 +560,20 @@
    "image": "/cutouts/differin-adapalene-gel-0-1-.webp",
    "imageCutout": true,
    "topAward": "Allure Best of Beauty — Best Retinol All-over Acne Treatment (2025)"
+  },
+  {
+   "brand": "Jergens",
+   "product": "Brighten Daily Moisturizer",
+   "retailer": "amazon",
+   "was": 12,
+   "now": 9.99,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B005OW8MOK",
+   "size": null,
+   "slug": "jergens-brighten-daily-moisturizer",
+   "image": "/cutouts/jergens-brighten-daily-moisturizer.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Body Winner (2026)"
   },
   {
    "brand": "Obagi Medical",

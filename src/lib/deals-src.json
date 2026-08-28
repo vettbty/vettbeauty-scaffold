@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-08-25",
+ "generated": "2026-08-27",
  "items": [
   {
    "productId": "dea083ed-6b0f-4774-a580-477f2a977d53",
@@ -27,6 +27,30 @@
    "listing": "Can"
   },
   {
+   "productId": "5d9073d5-65ea-4f69-ba87-218b67b1f411",
+   "brand": "Paula's Choice",
+   "product": "Skin Perfecting 2% BHA Liquid Exfoliant",
+   "retailer": "amazon",
+   "was": 37,
+   "now": 15,
+   "percentOff": 59,
+   "url": "https://www.amazon.com/dp/B07C5SS6YD",
+   "size": "1 Fl Oz",
+   "listing": "Amazon.com: Paula&#x27;s Choice SKIN PERFECTING 2% BHA Liquid Exfoliant, 1 Fl Oz | Gentle Salicylic Acid Facial Exfoliat"
+  },
+  {
+   "productId": "6b699bab-9a41-4e82-ad4b-0c64af160667",
+   "brand": "eos",
+   "product": "Super Balm",
+   "retailer": "amazon",
+   "was": 11,
+   "now": 4.97,
+   "percentOff": 55,
+   "url": "https://www.amazon.com/dp/B0C7SFLV46",
+   "size": "0.35 oz",
+   "listing": "Amazon.com : eos 24H Super Balm- Honey Apple, Day or Night Lip Treatment, 0.35 oz : Beauty & Personal Care"
+  },
+  {
    "productId": "eb80496a-ddd2-42aa-ba27-578fbdd91716",
    "brand": "Aveeno",
    "product": "Daily Moisturizing Lotion",
@@ -39,6 +63,18 @@
    "listing": "Daily Moisturizing Body Lotion - Aveeno"
   },
   {
+   "productId": "881ae3fe-b2ae-4ffb-a7b7-af900beadc25",
+   "brand": "Medicube",
+   "product": "Toner Pads Zero Pore Pad 2.0",
+   "retailer": "amazon",
+   "was": 31,
+   "now": 15.12,
+   "percentOff": 51,
+   "url": "https://www.amazon.com/medicube-Calming-Exfoliation-Minimizing-Blackhead/dp/B09V7Z4TJG",
+   "size": null,
+   "listing": "Amazon.com : medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care | Dual-Textured Facial Pad with 4.5% AH"
+  },
+  {
    "productId": "67edd981-4446-4212-9881-4abaa6873589",
    "brand": "L'Oréal Paris",
    "product": "Elnett Hairspray",
@@ -49,6 +85,42 @@
    "url": "https://go.shopmy.us/p-77815706",
    "size": "2.1 oz",
    "listing": "2.1 oz Elnett Satin Extra Strong Hold Hair Spray - L&#x27;Oréal"
+  },
+  {
+   "productId": "7dad7018-5c04-4c0a-8888-c4689368e7d7",
+   "brand": "BOLDIFY",
+   "product": "Hairline Powder",
+   "retailer": "amazon",
+   "was": 30,
+   "now": 14.99,
+   "percentOff": 50,
+   "url": "https://www.amazon.com/dp/B08N1CWL7S",
+   "size": "4g",
+   "listing": "Amazon.com: Boldify Hairline Powder, Root Touch Up Hair Color Dark Brown 4g | Instantly Fills Thinning Hair & Sparse Hai"
+  },
+  {
+   "productId": "4d6160e8-56e4-4398-be86-941ff1b52e5a",
+   "brand": "L’Oreal Paris",
+   "product": "EverPure Iron Sleek Smoothing Shampoo & Conditioner",
+   "retailer": "Ulta",
+   "was": 20,
+   "now": 10.99,
+   "percentOff": 45,
+   "url": "https://go.shopmy.us/p-81544654",
+   "size": null,
+   "listing": "EverPure Sulfate Free Iron Sleek Smoothing Shampoo - L&#x27;Oréal"
+  },
+  {
+   "productId": "8077a1a0-5211-4a06-b422-cc3cd85e0e3d",
+   "brand": "Goodal",
+   "product": "Green Tangerine Niacinamide 10% Serum",
+   "retailer": "amazon",
+   "was": 32,
+   "now": 18.7,
+   "percentOff": 42,
+   "url": "https://www.amazon.com/dp/B0F3CF8FL5",
+   "size": null,
+   "listing": "Amazon.com: GOODAL Green Tangerine Vita C Niacinamide 10 Toning Ampoule - Facial Serum for Natural Glow, Daily Use, Pore"
   },
   {
    "productId": "a680f976-9d9b-4671-a752-7b198205253a",
@@ -75,6 +147,66 @@
    "listing": "SEEN Body Wash Fragrance Free 10 fl. oz"
   },
   {
+   "productId": "705adda3-9911-4752-a5d7-98c9e87e9d45",
+   "brand": "Kiss Nail",
+   "product": "Press-Ons",
+   "retailer": "amazon",
+   "was": 14,
+   "now": 8.26,
+   "percentOff": 41,
+   "url": "https://www.amazon.com/included-Stardust-Wonder-Medium-Manicure/dp/B0FZDWHNSF",
+   "size": null,
+   "listing": "Amazon.com: Kiss Glam, Press On Nails, Nail glue included, &#x27;Applause&#x27;, White, Medium Size, Almond Shape, Inclu"
+  },
+  {
+   "productId": "8bcb6361-4e3b-4897-af09-aea0fdc459a6",
+   "brand": "Creme of Nature",
+   "product": "Argan Oil from Morocco Moisture & Shine Shampoo",
+   "retailer": "amazon",
+   "was": 8.47,
+   "now": 4.97,
+   "percentOff": 41,
+   "url": "https://www.amazon.com/dp/B004YRTZG0",
+   "size": null,
+   "listing": "Amazon.com: Creme of Nature Sulfate-Free Moisture & Shine Shampoo, Gently Cleanses, Hydrates & Detangles, Infused with 1"
+  },
+  {
+   "productId": "b408f816-2d9e-4c10-b757-8861c29d3daf",
+   "brand": "Shiseido",
+   "product": "Ultimune Power Infusing Serum",
+   "retailer": "amazon",
+   "was": 210,
+   "now": 125,
+   "percentOff": 40,
+   "url": "https://go.shopmy.us/p-76855040",
+   "size": "2.5 oz",
+   "listing": "Amazon.com: Shiseido Ultimune Power Infusing Serum - 2.5 oz - Breakthrough Lightweight Face Serum - Boosts Radiance & Im"
+  },
+  {
+   "productId": "79bc82ae-8745-4382-8fba-dd0f51eda248",
+   "brand": "Mediheal",
+   "product": "Retinol Collagen Under Eye Patches",
+   "retailer": "amazon",
+   "was": 22,
+   "now": 13.8,
+   "percentOff": 37,
+   "url": "https://www.amazon.com/Mediheal-Retinol-Collagen-Under-Patches/dp/B0D4Q8SR9Z",
+   "size": "60 Count",
+   "listing": "Amazon.com : MEDIHEAL 95% Retinol & Collagen Under Eye Patches, Wrinkle Care (60 Count) | with Retinol Liposome, Collage"
+  },
+  {
+   "productId": "42509f64-1b75-4023-9422-99076bee2814",
+   "brand": "Dove",
+   "product": "Aluminum Free Deodorant Spray",
+   "retailer": "amazon",
+   "was": 27,
+   "now": 16.99,
+   "percentOff": 37,
+   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
+   "size": "4 oz",
+   "listing": "Amazon.com : Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz : B"
+  },
+  {
    "productId": "523bef15-2ef1-4ae7-bb2b-046e9bb30a3b",
    "brand": "Aveeno",
    "product": "Skin Relief Healing Ointment",
@@ -85,6 +217,18 @@
    "url": "https://go.shopmy.us/p-78145060",
    "size": null,
    "listing": "Skin Relief Healing Ointment - Aveeno"
+  },
+  {
+   "productId": "9cf45f37-9aaf-4acf-a564-e39b306907e3",
+   "brand": "Gillette",
+   "product": "Venus Original Razor",
+   "retailer": "amazon",
+   "was": 14.97,
+   "now": 9.97,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B003EMPN7G",
+   "size": "2 Count",
+   "listing": "Amazon.com: Gillette Venus Smooth Razor for Women, Includes 1 Reusable Razor Handle + 2 Count 3-Bladed Refills, Ergonomi"
   },
   {
    "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
@@ -123,6 +267,42 @@
    "listing": "6.7 oz Dercos Selenium Sulfide Anti-Dandruff Shampoo - Vichy"
   },
   {
+   "productId": "f5d88e7d-55da-4982-ab66-a449a8a65cfb",
+   "brand": "Clio Cosmetics",
+   "product": "Kill Cover Mesh Glow Essential Cushion",
+   "retailer": "amazon",
+   "was": 29,
+   "now": 20,
+   "percentOff": 31,
+   "url": "https://www.amazon.com/dp/B0FT28XTZ1",
+   "size": null,
+   "listing": "Amazon.com : CLIO Kill Cover Mesh Glow Essential Cushion Foundation, Buildable Ultra-Fit Coverage with Glow Finish, Long"
+  },
+  {
+   "productId": "64380e7b-2682-44ce-a419-8a9840430aab",
+   "brand": "Crest",
+   "product": "3DWhite Deep Stain Remover Toothpaste",
+   "retailer": "amazon",
+   "was": 13,
+   "now": 8.97,
+   "percentOff": 31,
+   "url": "https://www.amazon.com/dp/B0DPNH9Q9W",
+   "size": "2.1oz",
+   "listing": "Amazon.com : Crest 3DWhite Brilliance Deep Stain Remover Ultra White Toothpaste - 2.1oz : Health & Household"
+  },
+  {
+   "productId": "0d0f9e91-0ca8-49ae-ac2f-fa09d15c34d5",
+   "brand": "Garnier Fructis",
+   "product": "Curl Knot Melter",
+   "retailer": "amazon",
+   "was": 9.99,
+   "now": 6.97,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
+   "size": null,
+   "listing": "Amazon.com : Garnier Fructis Curl Knot Melter Multi-Use Anti-Breakage Detangling Milk, Moisturizing Detangler Spray and "
+  },
+  {
    "productId": "b34b3458-bf66-425e-9012-13442a7ac77d",
    "brand": "OLEHENRIKSEN",
    "product": "Sugar Melt Lip Scrub",
@@ -147,6 +327,18 @@
    "listing": "Briogeo Farewell Frizz™ Blow Dry Perfection &#38; Heat Protectant Crème 4 oz"
   },
   {
+   "productId": "0a53b9b2-3645-4407-9f3e-abe4e6ffd9d4",
+   "brand": "Dr. Scholl's",
+   "product": "Dry Cracked Foot Repair Ultra-Hydrating Foot Cream",
+   "retailer": "amazon",
+   "was": 7.99,
+   "now": 5.84,
+   "percentOff": 27,
+   "url": "https://www.amazon.com/dp/B08YZBKZPB",
+   "size": "3.5 oz",
+   "listing": "Amazon.com: Dr. Scholl&#x27;s Dry, Cracked Foot Repair Ultra-Hydrating Foot Cream Moisturizer, 3.5 oz, Skin Care Foot Lo"
+  },
+  {
    "productId": "511a0094-3935-4704-908a-2632e7e388e6",
    "brand": "Olive & June",
    "product": "The Gel Mani System",
@@ -157,6 +349,18 @@
    "url": "https://www.ulta.com/p/gel-mani-system-pimprod2057049",
    "size": null,
    "listing": "Gel Mani System - Olive & June"
+  },
+  {
+   "productId": "ac9820c6-1046-4940-ad16-b7c770c2f491",
+   "brand": "essie",
+   "product": "Gel Couture Top Coat",
+   "retailer": "amazon",
+   "was": 13,
+   "now": 9.78,
+   "percentOff": 25,
+   "url": "https://www.amazon.com/Essie-Couture-Long-Lasting-Polish-8-Free/dp/B01E7UKT54",
+   "size": "0.46 fl oz",
+   "listing": "Amazon.com : Essie Gel Couture Long-Lasting Nail Polish, Vegan, Clear, Shiny Top Coat, 0.46 fl oz : Beauty & Personal Ca"
   },
   {
    "productId": "4645a4b1-b6da-4fc0-a289-8ee5d1e6eedf",
@@ -195,6 +399,30 @@
    "listing": "Skin Barrier Protection Cream - NassifMD Skincare"
   },
   {
+   "productId": "087977dc-e91b-4a43-8317-171c35ba9130",
+   "brand": "OWAY",
+   "product": "Curly Hair Co-Wash",
+   "retailer": "amazon",
+   "was": 60,
+   "now": 47,
+   "percentOff": 22,
+   "url": "https://www.amazon.com/dp/B0B19BRTGN",
+   "size": "240ml",
+   "listing": "Amazon.com : Oway: Curly Hair Bath [240ml] : Beauty & Personal Care"
+  },
+  {
+   "productId": "92bd0411-0edc-44be-922d-4b90fc626b8c",
+   "brand": "TirTir",
+   "product": "Mask Fit Red Cushion Foundation",
+   "retailer": "amazon",
+   "was": 25,
+   "now": 20,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B09LCMQM44",
+   "size": null,
+   "listing": "Amazon.com : TIRTIR Mask Fit Red Cushion Foundation | Full coverage, Weightless, Skin fit, Satin Glow Finish, Korean Mak"
+  },
+  {
    "productId": "24c6c574-482b-443d-8690-a7cbc9438bb7",
    "brand": "Esker",
    "product": "Body Plane",
@@ -205,6 +433,18 @@
    "url": "https://www.ulta.com/p/body-plane-massager-mkt77001261",
    "size": null,
    "listing": "Body Plane Massager - Esker Beauty"
+  },
+  {
+   "productId": "49f916f6-691d-4b83-8f97-53f8727cca19",
+   "brand": "Lumineux",
+   "product": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
+   "retailer": "amazon",
+   "was": 10,
+   "now": 7.98,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0DMGP43X5",
+   "size": "3.75 oz",
+   "listing": "Amazon.com: Lumineux 10% Nano Hydroxyapatite Whitening Toothpaste, 3.75 oz | Fluoride free gentle formula, clinically su"
   },
   {
    "productId": "59678bc9-5fa2-4dc3-89d7-800fb1b9be31",
@@ -219,16 +459,16 @@
    "listing": "Clear Miracle Leave-In - It&#x27;s A 10"
   },
   {
-   "productId": "16b0fc80-ea9d-4180-819a-a8c385dfe8dc",
-   "brand": "OLAY",
-   "product": "Super Cream with Broad Spectrum SPF 30",
+   "productId": "cd81a42b-9540-404f-b72c-15bbcbf27959",
+   "brand": "Gillette Venus",
+   "product": "Pubic Hair and Skin Daily Ingrown Serum",
    "retailer": "amazon",
-   "was": 41.29,
-   "now": 33.99,
+   "was": 14.99,
+   "now": 12.29,
    "percentOff": 18,
-   "url": "https://www.amazon.com/dp/B0DHWFWSVF",
+   "url": "https://www.amazon.com/dp/B08JHSZG7F",
    "size": null,
-   "listing": "Amazon.com: Olay Super Cream with Sunscreen SPF 30, Lightweight Face Moisturizer with Sun Protection, 5-in-1 Skin Care B"
+   "listing": "Amazon.com: Gillette Venus Intimate Grooming Daily Soothing Serum Reduce Ingrown Hair for Pubic Hair and Skin, Bikini Po"
   },
   {
    "productId": "0cfc57b8-2611-443c-8ba6-4744f0f50c87",
@@ -241,6 +481,18 @@
    "url": "https://go.shopmy.us/p-78294069",
    "size": "0.5 oz",
    "listing": "0.5 oz Adapalene 0.1% Acne Treatment Gel - Differin"
+  },
+  {
+   "productId": "e8667c6c-63b5-40ce-9b9f-10b355c5bad4",
+   "brand": "Jergens",
+   "product": "Brighten Daily Moisturizer",
+   "retailer": "amazon",
+   "was": 12,
+   "now": 9.99,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B005OW8MOK",
+   "size": null,
+   "listing": "Amazon.com: Jergens Natural Glow Self Tanner Body Lotion, Sunless Tanning, Fair to Medium Skin Tone, Daily Moisturizer w"
   },
   {
    "productId": "f4cabf22-ad63-4860-9a88-245be1305c48",
