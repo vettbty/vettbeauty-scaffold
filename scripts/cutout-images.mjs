@@ -46,6 +46,55 @@ async function cutout(slug, url) {
     if (x > 0) q.push(p-1); if (x < w-1) q.push(p+1);
     if (y > 0) q.push(p-w); if (y < h-1) q.push(p+w);
   }
+  /* INTEGRITY CHECK — the rule this file claims at the top, now enforced.
+     "Only white connected to the border becomes transparent, interior whites
+     are untouched" is only true when the product has a hard edge against the
+     background. A white tube on a white backdrop does not: its outline is
+     anti-aliased, so at NEAR=242 the fill walks straight through the edge and
+     eats the product body, leaving the dark text and labels floating on
+     nothing. That happened to 44 packshots — Cell Fusion C kept 26% of itself,
+     Round Lab shattered into 127 pieces — and they shipped looking like holes
+     punched out of the product.
+     Two symptoms, both cheap to measure, either of which means the fill
+     escaped: the product broke into many disconnected fragments, or the fill
+     reached the middle of the frame, where a background has no business being.
+     A failed cutout is not worth having: we return `skipped` and the plain
+     photo is used, exactly as for a non-white border. */
+  {
+    const opaque = (p) => alpha[p] !== 0;
+    // 1. fragmentation
+    const seen = new Uint8Array(w * h);
+    const sizes = [];
+    for (let s0 = 0; s0 < w * h; s0++) {
+      if (seen[s0] || !opaque(s0)) continue;
+      let n = 0; const st = [s0]; seen[s0] = 1;
+      while (st.length) {
+        const p2 = st.pop(); n++;
+        const x2 = p2 % w, y2 = (p2 / w) | 0;
+        if (x2 > 0 && !seen[p2-1] && opaque(p2-1)) { seen[p2-1] = 1; st.push(p2-1); }
+        if (x2 < w-1 && !seen[p2+1] && opaque(p2+1)) { seen[p2+1] = 1; st.push(p2+1); }
+        if (y2 > 0 && !seen[p2-w] && opaque(p2-w)) { seen[p2-w] = 1; st.push(p2-w); }
+        if (y2 < h-1 && !seen[p2+w] && opaque(p2+w)) { seen[p2+w] = 1; st.push(p2+w); }
+      }
+      sizes.push(n);
+    }
+    sizes.sort((a, b) => b - a);
+    const kept = sizes.reduce((a, b) => a + b, 0);
+    if (!kept) return { skipped: 'fill removed everything' };
+    if (sizes.length >= 6 && sizes[0] / kept < 0.75) {
+      return { skipped: `shattered into ${sizes.length} fragments` };
+    }
+    // 2. did the fill reach the middle?
+    let cTot = 0, cGone = 0;
+    for (let y2 = Math.floor(h * 0.4); y2 < Math.ceil(h * 0.6); y2++)
+      for (let x2 = Math.floor(w * 0.4); x2 < Math.ceil(w * 0.6); x2++) {
+        cTot++; if (!opaque(y2 * w + x2)) cGone++;
+      }
+    if (cTot && cGone / cTot > 0.5) {
+      return { skipped: 'fill reached the centre of the frame' };
+    }
+  }
+
   // soft 1px edge: pixels adjacent to transparency get partial alpha
   const soft = Buffer.from(alpha);
   for (let y = 1; y < h-1; y++) for (let x = 1; x < w-1; x++) {
@@ -64,13 +113,20 @@ async function cutout(slug, url) {
 }
 
 let ok = 0, skip = 0, fail = 0, done = 0;
-const targets = products.filter(p => p.image && !p.image.startsWith('/') && manifest[p.slug] === undefined);
+/* Source the packshot from imageOriginal when present. `image` is rewritten to
+   the local /cutouts/... path once a cutout succeeds, so filtering on it made
+   an already-cut product permanently un-recuttable — there was no way to redo
+   a bad cutout without hand-editing products.json. Clearing a slug from
+   cutouts.json is now enough to have it re-made. */
+const sourceOf = (p) => (p.imageOriginal && !p.imageOriginal.startsWith('/')) ? p.imageOriginal
+                      : (p.image && !p.image.startsWith('/')) ? p.image : null;
+const targets = products.filter(p => sourceOf(p) && manifest[p.slug] === undefined);
 console.log('targets:', targets.length);
 const CONC = 8;
 async function worker(list) {
   for (const p of list) {
     try {
-      const r = await cutout(p.slug, p.image);
+      const r = await cutout(p.slug, sourceOf(p));
       if (r.ok) { manifest[p.slug] = true; ok++; }
       else { manifest[p.slug] = false; skip++; }
     } catch (e) { manifest[p.slug] = false; fail++; }
