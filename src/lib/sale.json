@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27",
+ "generated": "2026-08-29",
  "items": [
   {
    "brand": "RevitaLash",
@@ -100,18 +100,46 @@
    "topAward": "Allure Best of Beauty — Best Hairspray (2025)"
   },
   {
-   "brand": "BOLDIFY",
-   "product": "Hairline Powder",
-   "retailer": "amazon",
-   "was": 30,
-   "now": 14.99,
+   "brand": "Uni",
+   "product": "Golden Microalgae Body Oil",
+   "retailer": "ulta",
+   "was": 48,
+   "now": 24,
    "percentOff": 50,
-   "url": "https://www.amazon.com/dp/B08N1CWL7S",
-   "size": "4g",
-   "slug": "boldify-hairline-powder",
-   "image": "/cutouts/boldify-hairline-powder.webp",
+   "url": "https://go.shopmy.us/p-78169428",
+   "size": null,
+   "slug": "uni-golden-microalgae-body-oil",
+   "image": "https://vader-prod.s3.amazonaws.com/product-images/5a8b5e25-b119-4994-9434-08bc4cb212b8/b6b8d7dd-0a2e-4c00-8916-c4550bee4e25.jpg",
+   "imageCutout": false,
+   "topAward": "Cosmopolitan Beauty Awards — Best Body Oil (2026)"
+  },
+  {
+   "brand": "Cecred",
+   "product": "Nourishing Hair Oil",
+   "retailer": "Ulta",
+   "was": 45,
+   "now": 22.5,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-78173599",
+   "size": "1.7 oz",
+   "slug": "cecred-nourishing-hair-oil",
+   "image": "https://vader-prod.s3.amazonaws.com/product-images/91129078-e85e-4f59-b11d-ed9a8764de9b/6a2a5480-5bf9-42b3-a583-760861841662.jpg",
+   "imageCutout": false,
+   "topAward": "Cosmopolitan Beauty Awards — Best Hair Oil (2026)"
+  },
+  {
+   "brand": "Onekind",
+   "product": "Dream Cream Nighttime Moisturizer",
+   "retailer": "Ulta",
+   "was": 42,
+   "now": 21,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-80382851",
+   "size": null,
+   "slug": "onekind-dream-cream-nighttime-moisturizer",
+   "image": "/cutouts/onekind-dream-cream-nighttime-moisturizer.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Root Touch-Up (2026)"
+   "topAward": "NewBeauty Readers Choice — Favorite Moisturizing Night Cream (2025)"
   },
   {
    "brand": "L’Oreal Paris",
@@ -184,20 +212,6 @@
    "topAward": "InStyle Best Beauty Buys — Best Press-Ons (2026)"
   },
   {
-   "brand": "Creme of Nature",
-   "product": "Argan Oil from Morocco Moisture & Shine Shampoo",
-   "retailer": "amazon",
-   "was": 8.47,
-   "now": 4.97,
-   "percentOff": 41,
-   "url": "https://www.amazon.com/dp/B004YRTZG0",
-   "size": null,
-   "slug": "creme-of-nature-argan-oil-from-morocco-moisture---shine-shampoo",
-   "image": "/cutouts/creme-of-nature-argan-oil-from-morocco-moisture---shine-shampoo.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Kinky Hair Shampoo (2025)"
-  },
-  {
    "brand": "Shiseido",
    "product": "Ultimune Power Infusing Serum",
    "retailer": "amazon",
@@ -230,7 +244,7 @@
    "product": "Aluminum Free Deodorant Spray",
    "retailer": "amazon",
    "was": 27,
-   "now": 16.99,
+   "now": 17,
    "percentOff": 37,
    "url": "https://www.amazon.com/dp/B0DB6CNFM4",
    "size": "4 oz",
@@ -238,6 +252,20 @@
    "image": "/cutouts/dove-aluminum-free-deodorant-spray.webp",
    "imageCutout": true,
    "topAward": "Allure Readers Choice — Clean Winner (2026)"
+  },
+  {
+   "brand": "Aprilskin",
+   "product": "Carrotene IPMP Clearing Solution",
+   "retailer": "amazon",
+   "was": 15,
+   "now": 9.9,
+   "percentOff": 34,
+   "url": "https://www.amazon.com/dp/B0B565BHXK",
+   "size": null,
+   "slug": "aprilskin-carrotene-ipmp-clearing-solution",
+   "image": "/cutouts/aprilskin-carrotene-ipmp-clearing-solution.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Acne Spot Treatment Gel (2025)"
   },
   {
    "brand": "Aveeno",
@@ -324,20 +352,6 @@
    "topAward": "NewBeauty Annual Awards — Best Cushion Foundation (2026)"
   },
   {
-   "brand": "Crest",
-   "product": "3DWhite Deep Stain Remover Toothpaste",
-   "retailer": "amazon",
-   "was": 13,
-   "now": 8.97,
-   "percentOff": 31,
-   "url": "https://www.amazon.com/dp/B0DPNH9Q9W",
-   "size": "2.1oz",
-   "slug": "crest-3dwhite-deep-stain-remover-toothpaste",
-   "image": "/cutouts/crest-3dwhite-deep-stain-remover-toothpaste.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Whitening Toothpaste (2026)"
-  },
-  {
    "brand": "Garnier Fructis",
    "product": "Curl Knot Melter",
    "retailer": "amazon",
@@ -352,6 +366,20 @@
    "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)"
   },
   {
+   "brand": "quip",
+   "product": "Sonic Toothbrush",
+   "retailer": "amazon",
+   "was": 40,
+   "now": 27.99,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0DW5Z1S47",
+   "size": null,
+   "slug": "quip-sonic-toothbrush",
+   "image": "/cutouts/quip-sonic-toothbrush.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Readers Choice — Favorite Toothbrush (2025)"
+  },
+  {
    "brand": "OLEHENRIKSEN",
    "product": "Sugar Melt Lip Scrub",
    "retailer": "Ulta",
@@ -364,6 +392,20 @@
    "image": "/cutouts/olehenriksen-sugar-melt-lip-scrub.webp",
    "imageCutout": true,
    "topAward": "NewBeauty Annual Awards — Best Lip Scrub (2026)"
+  },
+  {
+   "brand": "essie",
+   "product": "Gel Couture Top Coat",
+   "retailer": "amazon",
+   "was": 13,
+   "now": 9.3,
+   "percentOff": 28,
+   "url": "https://www.amazon.com/Essie-Couture-Long-Lasting-Polish-8-Free/dp/B01E7UKT54",
+   "size": "0.46 fl oz",
+   "slug": "essie-gel-couture-top-coat",
+   "image": "/cutouts/essie-gel-couture-top-coat.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Top Coat (2025)"
   },
   {
    "brand": "Briogeo",
@@ -403,23 +445,9 @@
    "url": "https://www.ulta.com/p/gel-mani-system-pimprod2057049",
    "size": null,
    "slug": "olive---june-the-gel-mani-system",
-   "image": "/cutouts/olive---june-the-gel-mani-system.webp",
-   "imageCutout": true,
+   "image": "https://media.allure.com/photos/688a622e9b37558081ff54da/3:4/w_800,c_limit/The%20Gel%20System%20(Olive%20and%20June).jpg",
+   "imageCutout": false,
    "topAward": "Allure Best of Beauty — Best Breakthroughs (2025)"
-  },
-  {
-   "brand": "essie",
-   "product": "Gel Couture Top Coat",
-   "retailer": "amazon",
-   "was": 13,
-   "now": 9.78,
-   "percentOff": 25,
-   "url": "https://www.amazon.com/Essie-Couture-Long-Lasting-Polish-8-Free/dp/B01E7UKT54",
-   "size": "0.46 fl oz",
-   "slug": "essie-gel-couture-top-coat",
-   "image": "/cutouts/essie-gel-couture-top-coat.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Top Coat (2025)"
   },
   {
    "brand": "e.l.f.",
@@ -434,6 +462,20 @@
    "image": "/cutouts/e-l-f--skin-bronzing-drops-2.webp",
    "imageCutout": true,
    "topAward": "InStyle Best Beauty Buys — Best Liquid Bronzer (2026)"
+  },
+  {
+   "brand": "Laneige",
+   "product": "Lip Sleeping Mask",
+   "retailer": "amazon",
+   "was": 24,
+   "now": 18.36,
+   "percentOff": 24,
+   "url": "https://www.amazon.com/dp/B07XXPHQZK",
+   "size": null,
+   "slug": "laneige-lip-sleeping-mask",
+   "image": "/cutouts/laneige-lip-sleeping-mask.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Skin Winner (2026)"
   },
   {
    "brand": "Revlon",
@@ -464,18 +506,18 @@
    "topAward": "NewBeauty Readers Choice — Favorite Moisturizer for Very Dry Skin (2025)"
   },
   {
-   "brand": "OWAY",
-   "product": "Curly Hair Co-Wash",
-   "retailer": "amazon",
-   "was": 60,
-   "now": 47,
+   "brand": "RevAir",
+   "product": "Micro Edge Styler",
+   "retailer": "Ulta",
+   "was": 89,
+   "now": 69,
    "percentOff": 22,
-   "url": "https://www.amazon.com/dp/B0B19BRTGN",
-   "size": "240ml",
-   "slug": "oway-curly-hair-co-wash",
-   "image": "/cutouts/oway-curly-hair-co-wash.webp",
+   "url": "https://go.shopmy.us/p-78048866",
+   "size": null,
+   "slug": "revair-micro-edge-styler",
+   "image": "/cutouts/revair-micro-edge-styler.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)"
+   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Flatiron (2026)"
   },
   {
    "brand": "TirTir",
@@ -492,18 +534,32 @@
    "topAward": "Allure Readers Choice — Favorite K-Beauty Product (2026)"
   },
   {
-   "brand": "Esker",
-   "product": "Body Plane",
-   "retailer": "ulta",
-   "was": 45,
-   "now": 36,
+   "brand": "goPure",
+   "product": "Tighten & Lift Neck Cream",
+   "retailer": "amazon",
+   "was": 40,
+   "now": 31.99,
    "percentOff": 20,
-   "url": "https://www.ulta.com/p/body-plane-massager-mkt77001261",
+   "url": "https://www.amazon.com/dp/B0CGB215HR",
    "size": null,
-   "slug": "esker-body-plane",
-   "image": "/cutouts/esker-body-plane.webp",
+   "slug": "gopure-tighten---lift-neck-cream",
+   "image": "/cutouts/gopure-tighten---lift-neck-cream.webp",
    "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Body Tool (2026)"
+   "topAward": "NewBeauty Readers Choice — Favorite Neck Cream (2025)"
+  },
+  {
+   "brand": "Jenny Patinkin",
+   "product": "Skin Smoothing Trio Dermaplaning Set",
+   "retailer": "Ulta",
+   "was": 18,
+   "now": 14.4,
+   "percentOff": 20,
+   "url": "https://go.shopmy.us/p-78558818",
+   "size": null,
+   "slug": "jenny-patinkin-skin-smoothing-trio-dermaplaning-set",
+   "image": "https://vader-prod.s3.amazonaws.com/product-images/75fa969c-8b51-4c16-b62a-ab8d24b1d095/16eae46b-1ec6-4c72-bd10-df9226c38435.jpg",
+   "imageCutout": false,
+   "topAward": "Cosmopolitan Beauty Awards — Best Dermaplaning Tool (2026)"
   },
   {
    "brand": "Lumineux",
@@ -574,6 +630,48 @@
    "image": "/cutouts/jergens-brighten-daily-moisturizer.webp",
    "imageCutout": true,
    "topAward": "Allure Readers Choice — Body Winner (2026)"
+  },
+  {
+   "brand": "Panasonic",
+   "product": "Portable Cordless Water Flosser",
+   "retailer": "amazon",
+   "was": 50,
+   "now": 41.99,
+   "percentOff": 16,
+   "url": "https://www.amazon.com/dp/B0CXTL45Q3",
+   "size": null,
+   "slug": "panasonic-portable-cordless-water-flosser",
+   "image": "/cutouts/panasonic-portable-cordless-water-flosser.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Water Flosser (2025)"
+  },
+  {
+   "brand": "T3",
+   "product": "Singlepass Curl X",
+   "retailer": "amazon",
+   "was": 160,
+   "now": 135.99,
+   "percentOff": 15,
+   "url": "https://www.amazon.com/T3-SinglePass-Extra-Long-Curling-Settings/dp/B0CRGTW5D2",
+   "size": null,
+   "slug": "t3-singlepass-curl-x",
+   "image": "/cutouts/t3-singlepass-curl-x.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Curling Iron (2026)"
+  },
+  {
+   "brand": "JLo Beauty",
+   "product": "Firming Neck Serum",
+   "retailer": "amazon",
+   "was": 69,
+   "now": 58.65,
+   "percentOff": 15,
+   "url": "https://www.amazon.com/dp/B0GJ192QLW",
+   "size": "1.7 Oz",
+   "slug": "jlo-beauty-firming-neck-serum",
+   "image": "/cutouts/jlo-beauty-firming-neck-serum.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Neck Serum (2026)"
   },
   {
    "brand": "Obagi Medical",
