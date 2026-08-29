@@ -5119,8 +5119,8 @@
     "year": 2026,
     "region": "France",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Chanel%20N%201%20de%20Chanel%20Serum-In-Mist",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82585465",
     "awardsWon": [
       "Marie Claire Prix d'Excellence — International Winner – Jury's Favorite (2026)"
     ],
@@ -5863,8 +5863,8 @@
     "year": 2026,
     "region": "France",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Guerlain%20Bee%20Lab%20Shot",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82585800",
     "awardsWon": [
       "Marie Claire Prix d'Excellence — International Winner – Formulation (2026)"
     ],
@@ -6268,8 +6268,8 @@
     "year": 2026,
     "region": "France",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=m.ph%20by%20Mary%20Phillips%20Le%20Skin%20Weightless%20Serum%20Foundation",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82585956",
     "awardsWon": [
       "Marie Claire Prix d'Excellence — US Winner – Makeup (2026)"
     ]
@@ -6288,8 +6288,8 @@
     "year": 2026,
     "region": "France",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Lancome%20Absolue%20Longevity%20Soft%20Cream%20Anti-Aging%20Face%20Moisturizer",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82585834",
     "awardsWon": [
       "Marie Claire Prix d'Excellence — International Winner – Special Jury's Prize (2026)"
     ],
@@ -6376,8 +6376,8 @@
     "year": 2026,
     "region": "France",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Hermes%20Rouge%20Hermes%20Silky%20Lipstick%20Shine",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82585977",
     "awardsWon": [
       "Marie Claire Prix d'Excellence — International Winner – Makeup (2026)"
     ],
@@ -6398,8 +6398,8 @@
     "year": 2026,
     "region": "France",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Augustinus%20Bader%20The%20Mineral%20Sunscreen",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82585291",
     "awardsWon": [
       "Marie Claire Prix d'Excellence — International Winner – Sun Protection (2026)"
     ],
@@ -6420,8 +6420,8 @@
     "year": 2026,
     "region": "France",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Clarins%20Renew-Plus%20Body%20Serum",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82585196",
     "awardsWon": [
       "Marie Claire Prix d'Excellence — International Winner – Body Care (2026)"
     ],
@@ -19392,6 +19392,26 @@
   },
   {
     "id": "prod-884",
+    "slug": "tatcha-the-clarifying-clay-mask",
+    "brand": "Tatcha",
+    "name": "The Clarifying Clay Mask",
+    "price": 70,
+    "image": "https://cdn.shopify.com/s/files/1/0949/3328/7221/files/ClarifyingClayMask-pdp-Aug26-FullSize-MainImage-1200x1200_95460465-569c-42eb-b48b-e64a4bd8cb51.jpg?v=1786345497&width=1200",
+    "topAward": "InStyle Best Beauty Buys — Best Clarifying Mask (2025)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "Mask",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-81015696",
+    "awardsWon": [
+      "InStyle Best Beauty Buys — Best Clarifying Mask (2025)"
+    ]
+  },
+  {
+    "id": "prod-885",
     "slug": "l-or-al-paris-elnett-hairspray",
     "brand": "L'Oréal Paris",
     "name": "Elnett Hairspray",
@@ -19414,7 +19434,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-885",
+    "id": "prod-886",
     "slug": "tresemm--lamellar-gloss-finishing-oil",
     "brand": "Tresemmé",
     "name": "Lamellar Gloss Finishing Oil",
@@ -19437,7 +19457,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-886",
+    "id": "prod-887",
     "slug": "true-botanicals-ginger-turmeric-cleansing-balm",
     "brand": "True Botanicals",
     "name": "Ginger Turmeric Cleansing Balm",
@@ -19459,7 +19479,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-887",
+    "id": "prod-888",
     "slug": "g-m--collin-phytoderm-cleansing-oil",
     "brand": "G.M. COLLIN",
     "name": "Phytoderm Cleansing Oil",
@@ -19481,7 +19501,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-888",
+    "id": "prod-889",
     "slug": "skinfix-barrier---ceramide---ectoin-gel-cleanser",
     "brand": "SkinFix",
     "name": "Barrier + Ceramide + Ectoin Gel Cleanser",
@@ -19503,7 +19523,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-889",
+    "id": "prod-890",
     "slug": "beautology-lab-cryo-toning-tools",
     "brand": "Beautology Lab",
     "name": "Cryo Toning Tools",
@@ -19525,7 +19545,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-890",
+    "id": "prod-891",
     "slug": "rose-ingleton-md-superfruit-exfoliating-tonic",
     "brand": "Rose Ingleton MD",
     "name": "Superfruit Exfoliating Tonic",
@@ -19542,26 +19562,6 @@
     "buyLink": "https://go.shopmy.us/p-80976446",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Toner (2025)"
-    ]
-  },
-  {
-    "id": "prod-891",
-    "slug": "tatcha-the-clarifying-clay-mask",
-    "brand": "Tatcha",
-    "name": "The Clarifying Clay Mask",
-    "price": 70,
-    "image": "https://cdn.shopify.com/s/files/1/0949/3328/7221/files/ClarifyingClayMask-pdp-Aug26-FullSize-MainImage-1200x1200_95460465-569c-42eb-b48b-e64a4bd8cb51.jpg?v=1786345497&width=1200",
-    "topAward": "InStyle Best Beauty Buys — Best Clarifying Mask (2025)",
-    "awardCount": 1,
-    "category": "Skincare",
-    "subcategory": "Mask",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": true,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-81015696",
-    "awardsWon": [
-      "InStyle Best Beauty Buys — Best Clarifying Mask (2025)"
     ]
   },
   {
@@ -25454,8 +25454,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Abel+Miami+Split+Eau+de+Parfum&tag=vettbeauty-20",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82588002",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Oud Perfume (2026)"
     ]
@@ -25474,8 +25474,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://odelebeauty.com",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82588281",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Body Mist (2026)"
     ]
@@ -25554,8 +25554,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://lavantcollective.com",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82588407",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Scented Laundry Detergent (2026)"
     ]
@@ -26395,8 +26395,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://odelebeauty.com",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82586149",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Deep Conditioner or Hair Mask (2026)"
     ]
@@ -38926,8 +38926,8 @@
     "year": 2026,
     "region": "France",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Shiseido%20Bio-Performance%20Micro-Click%20Concentrate",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82585372",
     "awardsWon": [
       "Marie Claire Prix d'Excellence — International Winner – Formulation (2026)"
     ],
@@ -39100,8 +39100,8 @@
     "year": 2026,
     "region": "France",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://shark.com",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82586179",
     "awardsWon": [
       "Marie Claire Prix d'Excellence — US Winner – Beauty Tool (2026)"
     ],
@@ -39972,8 +39972,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://mediheal.com",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82586841",
     "awardsWon": [],
     "imageOriginal": "https://mediheal.com/cdn/shop/files/thumbnail_Madecassoside-Pad_clean_1.png?v=1786980767&width=1946",
     "imageCutout": true
@@ -40034,8 +40034,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Colorgram+Fruity+Glass+Tint&tag=vettbeauty-20",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82587017",
     "awardsWon": []
   },
   {
@@ -40302,8 +40302,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://roundlab.com",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82586689",
     "awardsWon": []
   },
   {
@@ -40447,8 +40447,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=UNOVE%20Deep%20Damage%20Treatment%20EX",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82586938",
     "awardsWon": []
   },
   {
@@ -40505,8 +40505,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=VT+Reedle+Shot+100+Essence&tag=vettbeauty-20",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82586771",
     "awardsWon": [],
     "imageOriginal": "https://globalvt-cosmetics.com/cdn/shop/files/1_504a2c47-bbed-49f4-9b18-5da61adca62c.jpg?v=1764212666&width=1946",
     "imageCutout": true
@@ -43729,8 +43729,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Sarah%20Creal%20Face%20Flex%20Correct",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82587282",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Under-Eye Concealer (2026)"
     ]
@@ -43749,8 +43749,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Remedy+Cream-to-Foam+Cleanser+with+Ceramides&tag=vettbeauty-20",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82588523",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Cleanser for Dry Skin (2026)"
     ]
@@ -44270,8 +44270,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Liis+Celestial+Object&tag=vettbeauty-20",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82588190",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Woody Perfume (2026)"
     ]
@@ -44871,8 +44871,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://silkn.com",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82588372",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Callus Remover (2026)"
     ]
@@ -45091,8 +45091,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=L%27Objet+Blindfold+Eau+de+Parfum&tag=vettbeauty-20",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-82588041",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Musk Perfume (2026)"
     ]
