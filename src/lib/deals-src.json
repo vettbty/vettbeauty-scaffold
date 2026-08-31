@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-08-29",
+ "generated": "2026-08-31",
  "items": [
   {
    "productId": "dea083ed-6b0f-4774-a580-477f2a977d53",
@@ -51,6 +51,18 @@
    "listing": "Amazon.com : eos 24H Super Balm- Honey Apple, Day or Night Lip Treatment, 0.35 oz : Beauty & Personal Care"
   },
   {
+   "productId": "093248db-d221-47de-bbeb-1f5e983fcf8b",
+   "brand": "Nakery Beauty",
+   "product": "SkinRecovery Ultra-Strength Pain Therapy Cream",
+   "retailer": "Ulta",
+   "was": 32,
+   "now": 14.5,
+   "percentOff": 55,
+   "url": "https://go.shopmy.us/p-80371526",
+   "size": null,
+   "listing": "SkinRecovery Ultra-Strength Pain Therapy Cream - NAKERY BEAUTY"
+  },
+  {
    "productId": "eb80496a-ddd2-42aa-ba27-578fbdd91716",
    "brand": "Aveeno",
    "product": "Daily Moisturizing Lotion",
@@ -63,18 +75,6 @@
    "listing": "Daily Moisturizing Body Lotion Fragrance Free - Aveeno"
   },
   {
-   "productId": "881ae3fe-b2ae-4ffb-a7b7-af900beadc25",
-   "brand": "Medicube",
-   "product": "Toner Pads Zero Pore Pad 2.0",
-   "retailer": "amazon",
-   "was": 31,
-   "now": 15.12,
-   "percentOff": 51,
-   "url": "https://www.amazon.com/medicube-Calming-Exfoliation-Minimizing-Blackhead/dp/B09V7Z4TJG",
-   "size": null,
-   "listing": "Amazon.com : medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care | Dual-Textured Facial Pad with 4.5% AH"
-  },
-  {
    "productId": "67edd981-4446-4212-9881-4abaa6873589",
    "brand": "L'Oréal Paris",
    "product": "Elnett Hairspray",
@@ -85,30 +85,6 @@
    "url": "https://go.shopmy.us/p-77815706",
    "size": "2.1 oz",
    "listing": "2.1 oz Elnett Satin Extra Strong Hold Hair Spray - L&#x27;Oréal"
-  },
-  {
-   "productId": "fbf1e42c-d178-4061-9fba-63fe17876115",
-   "brand": "Uni",
-   "product": "Golden Microalgae Body Oil",
-   "retailer": "ulta",
-   "was": 48,
-   "now": 24,
-   "percentOff": 50,
-   "url": "https://go.shopmy.us/p-78169428",
-   "size": null,
-   "listing": "Golden Microalgae Body Oil - Uni"
-  },
-  {
-   "productId": "cf977f83-7944-4809-9235-a6a4ddca2f72",
-   "brand": "Cecred",
-   "product": "Nourishing Hair Oil",
-   "retailer": "Ulta",
-   "was": 45,
-   "now": 22.5,
-   "percentOff": 50,
-   "url": "https://go.shopmy.us/p-78173599",
-   "size": "1.7 oz",
-   "listing": "1.7 oz Nourishing Hair Oil - CÉCRED"
   },
   {
    "productId": "18265548-05d5-4759-9d72-79cc7cf881e2",
@@ -133,18 +109,6 @@
    "url": "https://go.shopmy.us/p-81544654",
    "size": null,
    "listing": "EverPure Sulfate Free Iron Sleek Smoothing Shampoo - L&#x27;Oréal"
-  },
-  {
-   "productId": "8077a1a0-5211-4a06-b422-cc3cd85e0e3d",
-   "brand": "Goodal",
-   "product": "Green Tangerine Niacinamide 10% Serum",
-   "retailer": "amazon",
-   "was": 32,
-   "now": 18.7,
-   "percentOff": 42,
-   "url": "https://www.amazon.com/dp/B0F3CF8FL5",
-   "size": null,
-   "listing": "Amazon.com: GOODAL Green Tangerine Vita C Niacinamide 10 Toning Ampoule - Facial Serum for Natural Glow, Daily Use, Pore"
   },
   {
    "productId": "a680f976-9d9b-4671-a752-7b198205253a",
@@ -183,6 +147,18 @@
    "listing": "Amazon.com: Kiss Glam, Press On Nails, Nail glue included, &#x27;Applause&#x27;, White, Medium Size, Almond Shape, Inclu"
   },
   {
+   "productId": "8bcb6361-4e3b-4897-af09-aea0fdc459a6",
+   "brand": "Creme of Nature",
+   "product": "Argan Oil from Morocco Moisture & Shine Shampoo",
+   "retailer": "amazon",
+   "was": 8.47,
+   "now": 4.97,
+   "percentOff": 41,
+   "url": "https://www.amazon.com/dp/B004YRTZG0",
+   "size": "12 fl oz",
+   "listing": "Amazon.com: Creme of Nature Argan Oil Sulfate-Free Moisture Shampoo, 12 fl oz | Moisturizing shampoo that gently cleanse"
+  },
+  {
    "productId": "b408f816-2d9e-4c10-b757-8861c29d3daf",
    "brand": "Shiseido",
    "product": "Ultimune Power Infusing Serum",
@@ -195,16 +171,16 @@
    "listing": "Amazon.com: Shiseido Ultimune Power Infusing Serum - 2.5 oz - Breakthrough Lightweight Face Serum - Boosts Radiance & Im"
   },
   {
-   "productId": "79bc82ae-8745-4382-8fba-dd0f51eda248",
-   "brand": "Mediheal",
-   "product": "Retinol Collagen Under Eye Patches",
+   "productId": "881ae3fe-b2ae-4ffb-a7b7-af900beadc25",
+   "brand": "Medicube",
+   "product": "Toner Pads Zero Pore Pad 2.0",
    "retailer": "amazon",
-   "was": 22,
-   "now": 13.8,
-   "percentOff": 37,
-   "url": "https://www.amazon.com/Mediheal-Retinol-Collagen-Under-Patches/dp/B0D4Q8SR9Z",
-   "size": "60 Count",
-   "listing": "Amazon.com : MEDIHEAL 95% Retinol & Collagen Under Eye Patches, Wrinkle Care (60 Count) | with Retinol Liposome, Collage"
+   "was": 31,
+   "now": 18.9,
+   "percentOff": 39,
+   "url": "https://www.amazon.com/medicube-Calming-Exfoliation-Minimizing-Blackhead/dp/B09V7Z4TJG",
+   "size": null,
+   "listing": "Amazon.com : medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care | Dual-Textured Facial Pad with 4.5% AH"
   },
   {
    "productId": "42509f64-1b75-4023-9422-99076bee2814",
@@ -217,18 +193,6 @@
    "url": "https://www.amazon.com/dp/B0DB6CNFM4",
    "size": "4 oz",
    "listing": "Amazon.com : Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz : B"
-  },
-  {
-   "productId": "9cb09fbd-627e-4499-ba57-dc0b3659c2f9",
-   "brand": "Aprilskin",
-   "product": "Carrotene IPMP Clearing Solution",
-   "retailer": "amazon",
-   "was": 15,
-   "now": 9.9,
-   "percentOff": 34,
-   "url": "https://www.amazon.com/dp/B0B565BHXK",
-   "size": null,
-   "listing": "Amazon.com: APRILSKIN Carrotene IPMP Clearing Solution | Spot Treatment for Blemishes - BHA, AHA, Niacinamide & Zinc Oxi"
   },
   {
    "productId": "523bef15-2ef1-4ae7-bb2b-046e9bb30a3b",
@@ -253,6 +217,18 @@
    "url": "https://www.amazon.com/dp/B003EMPN7G",
    "size": "2 Count",
    "listing": "Amazon.com: Gillette Venus Smooth Razor for Women, Includes 1 Reusable Razor Handle + 2 Count 3-Bladed Refills, Ergonomi"
+  },
+  {
+   "productId": "9cb09fbd-627e-4499-ba57-dc0b3659c2f9",
+   "brand": "Aprilskin",
+   "product": "Carrotene IPMP Clearing Solution",
+   "retailer": "amazon",
+   "was": 15,
+   "now": 10,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B0B565BHXK",
+   "size": null,
+   "listing": "Amazon.com: APRILSKIN Carrotene IPMP Clearing Solution | Spot Treatment for Blemishes - BHA, AHA, Niacinamide & Zinc Oxi"
   },
   {
    "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
@@ -289,18 +265,6 @@
    "url": "https://go.shopmy.us/p-78051355",
    "size": "6.7 oz",
    "listing": "6.7 oz Dercos Selenium Sulfide Anti-Dandruff Shampoo - Vichy"
-  },
-  {
-   "productId": "f5d88e7d-55da-4982-ab66-a449a8a65cfb",
-   "brand": "Clio Cosmetics",
-   "product": "Kill Cover Mesh Glow Essential Cushion",
-   "retailer": "amazon",
-   "was": 29,
-   "now": 20,
-   "percentOff": 31,
-   "url": "https://www.amazon.com/dp/B0FT28XTZ1",
-   "size": null,
-   "listing": "Amazon.com : CLIO Kill Cover Mesh Glow Essential Cushion Foundation, Buildable Ultra-Fit Coverage with Glow Finish, Long"
   },
   {
    "productId": "0d0f9e91-0ca8-49ae-ac2f-fa09d15c34d5",
@@ -363,18 +327,6 @@
    "listing": "Briogeo Farewell Frizz™ Blow Dry Perfection &#38; Heat Protectant Crème 4 oz"
   },
   {
-   "productId": "0a53b9b2-3645-4407-9f3e-abe4e6ffd9d4",
-   "brand": "Dr. Scholl's",
-   "product": "Dry Cracked Foot Repair Ultra-Hydrating Foot Cream",
-   "retailer": "amazon",
-   "was": 7.99,
-   "now": 5.84,
-   "percentOff": 27,
-   "url": "https://www.amazon.com/dp/B08YZBKZPB",
-   "size": "3.5 oz",
-   "listing": "Amazon.com: Dr. Scholl&#x27;s Dry, Cracked Foot Repair Ultra-Hydrating Foot Cream Moisturizer, 3.5 oz, Skin Care Foot Lo"
-  },
-  {
    "productId": "511a0094-3935-4704-908a-2632e7e388e6",
    "brand": "Olive & June",
    "product": "The Gel Mani System",
@@ -387,28 +339,16 @@
    "listing": "Gel Mani System - Olive & June"
   },
   {
-   "productId": "4645a4b1-b6da-4fc0-a289-8ee5d1e6eedf",
-   "brand": "e.l.f.",
-   "product": "SKIN Bronzing Drops",
-   "retailer": "Ulta",
-   "was": 12,
-   "now": 9,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-78303326",
-   "size": null,
-   "listing": "Fair Gold Bronzing Drops - e.l.f. Cosmetics"
-  },
-  {
-   "productId": "857bd305-0031-495d-9004-093b10fce8c8",
-   "brand": "Laneige",
-   "product": "Lip Sleeping Mask",
+   "productId": "087977dc-e91b-4a43-8317-171c35ba9130",
+   "brand": "OWAY",
+   "product": "Curly Hair Co-Wash",
    "retailer": "amazon",
-   "was": 24,
-   "now": 18.36,
-   "percentOff": 24,
-   "url": "https://www.amazon.com/dp/B07XXPHQZK",
-   "size": null,
-   "listing": "Amazon.com: LANEIGE Lip Sleeping Mask: Hydrating & Nourishing Korean Overnight Lip Treatment Mask with Shea Butter, Vita"
+   "was": 60,
+   "now": 44.65,
+   "percentOff": 26,
+   "url": "https://www.amazon.com/dp/B0B19BRTGN",
+   "size": "240ml",
+   "listing": "Amazon.com : Oway: Curly Hair Bath [240ml] : Beauty & Personal Care"
   },
   {
    "productId": "dd0c5848-e9c4-4664-85ca-4d8b7cbbc3c4",
@@ -435,6 +375,30 @@
    "listing": "Skin Barrier Protection Cream - NassifMD Skincare"
   },
   {
+   "productId": "8156eadc-0572-4d7a-bc54-71b59f312203",
+   "brand": "Benefit Cosmetics",
+   "product": "Gimme Brow+",
+   "retailer": "amazon",
+   "was": 28,
+   "now": 21.89,
+   "percentOff": 22,
+   "url": "https://go.shopmy.us/p-76852908",
+   "size": "1 Count",
+   "listing": "Amazon.com : Benefit Cosmetics Gimme Brow + Volumizing Eyebrow Gel, 4.5 - Neutral deep brown, 1 Count : Beauty & Persona"
+  },
+  {
+   "productId": "9a4c78f8-c21b-4159-b47d-c6c1c494ea1e",
+   "brand": "SheaMoisture",
+   "product": "Silk Press In A Bottle Prep Cream",
+   "retailer": "amazon",
+   "was": 14,
+   "now": 10.97,
+   "percentOff": 22,
+   "url": "https://www.amazon.com/SheaMoisture-Plant-Derived-Straightening-Technology-Protection/dp/B0FWKY2F3M",
+   "size": "3.3oz",
+   "listing": "Amazon.com: Shea Moisture Silk Press in a Bottle Prep Cream for Heat Protection 3.3oz | For silk press styles - protects"
+  },
+  {
    "productId": "d451bc62-6dbf-4c7b-9098-b4a7d4860457",
    "brand": "RevAir",
    "product": "Micro Edge Styler",
@@ -445,6 +409,18 @@
    "url": "https://go.shopmy.us/p-78048866",
    "size": null,
    "listing": "Micro Edge Styler - RevAir"
+  },
+  {
+   "productId": "5b732105-4c4d-4f76-a68a-a676bef024e3",
+   "brand": "Native",
+   "product": "Deodorant",
+   "retailer": "amazon",
+   "was": 14,
+   "now": 11,
+   "percentOff": 21,
+   "url": "https://www.amazon.com/Native-Deodorant-without-Aluminum-Parabens/dp/B07GB3NVN1",
+   "size": null,
+   "listing": "Amazon.com : Native Deodorant Contains Naturally Derived Ingredients, 72 Hour Odor Control, Deodorant for Women and Men,"
   },
   {
    "productId": "92bd0411-0edc-44be-922d-4b90fc626b8c",
@@ -483,16 +459,40 @@
    "listing": "Skin Smoothing Trio Dermaplaning Set | Exfoliating Peach Fuzz Removers - Jenny Patinkin"
   },
   {
-   "productId": "49f916f6-691d-4b83-8f97-53f8727cca19",
-   "brand": "Lumineux",
-   "product": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
-   "retailer": "amazon",
-   "was": 10,
-   "now": 7.98,
+   "productId": "98beaeae-1f2b-4edd-a39c-86fc98cdf43f",
+   "brand": "Naked Sundays",
+   "product": "BeautyScreen Peptide Foundation Tint SPF 50",
+   "retailer": "Ulta",
+   "was": 38,
+   "now": 30.4,
    "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0DMGP43X5",
-   "size": "3.75 oz",
-   "listing": "Amazon.com: Lumineux 10% Nano Hydroxyapatite Whitening Toothpaste, 3.75 oz | Fluoride free gentle formula, clinically su"
+   "url": "https://go.shopmy.us/p-81538445",
+   "size": null,
+   "listing": "Shade 5 BeautyScreen Peptide Foundation Tint SPF 50 - Naked Sundays"
+  },
+  {
+   "productId": "ab75d09d-172c-4aa0-9845-c3c299af68a6",
+   "brand": "Laundry Sauce",
+   "product": "Laundry Pods in Himalayan Cashmere",
+   "retailer": "Ulta",
+   "was": 37,
+   "now": 29.6,
+   "percentOff": 20,
+   "url": "https://go.shopmy.us/p-81538830",
+   "size": null,
+   "listing": "30 Pods Laundry Detergent Pods - Himalayan Cashmere - Laundry Sauce"
+  },
+  {
+   "productId": "0a53b9b2-3645-4407-9f3e-abe4e6ffd9d4",
+   "brand": "Dr. Scholl's",
+   "product": "Dry Cracked Foot Repair Ultra-Hydrating Foot Cream",
+   "retailer": "amazon",
+   "was": 7.99,
+   "now": 6.49,
+   "percentOff": 19,
+   "url": "https://www.amazon.com/dp/B08YZBKZPB",
+   "size": "3.5 oz",
+   "listing": "Amazon.com: Dr. Scholl&#x27;s Dry, Cracked Foot Repair Ultra-Hydrating Foot Cream Moisturizer, 3.5 oz, Skin Care Foot Lo"
   },
   {
    "productId": "59678bc9-5fa2-4dc3-89d7-800fb1b9be31",
@@ -531,28 +531,16 @@
    "listing": "0.5 oz Adapalene 0.1% Acne Treatment Gel - Differin"
   },
   {
-   "productId": "e8667c6c-63b5-40ce-9b9f-10b355c5bad4",
-   "brand": "Jergens",
-   "product": "Brighten Daily Moisturizer",
+   "productId": "8077a1a0-5211-4a06-b422-cc3cd85e0e3d",
+   "brand": "Goodal",
+   "product": "Green Tangerine Niacinamide 10% Serum",
    "retailer": "amazon",
-   "was": 12,
-   "now": 9.99,
-   "percentOff": 17,
-   "url": "https://www.amazon.com/dp/B005OW8MOK",
-   "size": null,
-   "listing": "Amazon.com: Jergens Natural Glow Self Tanner Body Lotion, Sunless Tanning, Fair to Medium Skin Tone, Daily Moisturizer w"
-  },
-  {
-   "productId": "b4fe0b7c-8940-4252-8225-1b9b7243a4c5",
-   "brand": "Panasonic",
-   "product": "Portable Cordless Water Flosser",
-   "retailer": "amazon",
-   "was": 50,
-   "now": 41.99,
+   "was": 32,
+   "now": 26.9,
    "percentOff": 16,
-   "url": "https://www.amazon.com/dp/B0CXTL45Q3",
+   "url": "https://www.amazon.com/dp/B0F3CF8FL5",
    "size": null,
-   "listing": "Amazon.com: Panasonic Water Flosser for Travel, Cordless Portable Oral Irrigator with Two Water Pressure Settings, Colla"
+   "listing": "Amazon.com: GOODAL Green Tangerine Vita C Niacinamide 10 Toning Ampoule - Facial Serum for Natural Glow, Daily Use, Pore"
   },
   {
    "productId": "b3b9b839-f2a5-4973-b518-25803ccd24e8",
