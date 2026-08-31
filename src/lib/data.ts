@@ -53,17 +53,17 @@ export const pressArticles: PressArticle[] = [
     id: '1',
     title: 'The Ordinary\'s Hyaluronic Acid Serum Packs 6 Benefits Into One Bottle',
     source: 'Vogue',
-    sourceUrl: 'https://www.vogue.com/article/the-ordinary-hyaluronic-acid-serum-review',
+    sourceUrl: 'https://www.vogue.com/article/the-ordinary-hyaluronic-acid-serum',
     productName: 'The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides)',
-    productSlug: 'the-ordinary-hyaluronic-acid',
+    productSlug: 'the-ordinary-hyaluronic-acid-2----b5--with-ceramides-',
   },
   {
     id: '2',
     title: 'Oribe Just Recalled a Popular Shampoo for Potential Contamination',
     source: 'Allure',
-    sourceUrl: 'https://www.allure.com/story/oribe-shampoo-recall',
+    sourceUrl: 'https://www.allure.com/story/oribe-serene-scalp-shampoo-recall',
     productName: 'Oribe Serene Scalp Densifying Shampoo',
-    productSlug: 'oribe-serene-scalp-shampoo',
+    productSlug: 'oribe-serene-scalp-densifying-shampoo',
   },
 ];
 
