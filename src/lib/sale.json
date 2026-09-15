@@ -1,6 +1,20 @@
 {
- "generated": "2026-08-31",
+ "generated": "2026-09-14",
  "items": [
+  {
+   "brand": "BeautyStat",
+   "product": "C Lip Serum SPF 30",
+   "retailer": "Ulta",
+   "was": 15,
+   "now": 3.75,
+   "percentOff": 75,
+   "url": "https://go.shopmy.us/p-78148186",
+   "size": null,
+   "slug": "beautystat-c-lip-serum-spf-30",
+   "image": "https://beautystat.com/cdn/shop/files/IMG_1531.jpg?v=1744809663",
+   "imageCutout": false,
+   "topAward": "Harper's Bazaar Best of Beauty — Best Sunscreens (2026)"
+  },
   {
    "brand": "RevitaLash",
    "product": "Advanced Eyelash Conditioner",
@@ -58,20 +72,6 @@
    "topAward": "InStyle Best Beauty Buys — Best Lip Balm (2025)"
   },
   {
-   "brand": "Nakery Beauty",
-   "product": "SkinRecovery Ultra-Strength Pain Therapy Cream",
-   "retailer": "Ulta",
-   "was": 32,
-   "now": 14.5,
-   "percentOff": 55,
-   "url": "https://go.shopmy.us/p-80371526",
-   "size": null,
-   "slug": "nakery-beauty-skinrecovery-ultra-strength-pain-therapy-cream",
-   "image": "/cutouts/nakery-beauty-skinrecovery-ultra-strength-pain-therapy-cream.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Muscle Soother (2026)"
-  },
-  {
    "brand": "Aveeno",
    "product": "Daily Moisturizing Lotion",
    "retailer": "Ulta",
@@ -98,6 +98,20 @@
    "image": "/cutouts/l-or-al-paris-elnett-hairspray.webp",
    "imageCutout": true,
    "topAward": "Allure Best of Beauty — Best Hairspray (2025)"
+  },
+  {
+   "brand": "Good Dye Young",
+   "product": "DYEposit",
+   "retailer": "Ulta",
+   "was": 20,
+   "now": 10,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-78477759",
+   "size": null,
+   "slug": "good-dye-young-dyeposit",
+   "image": "/cutouts/good-dye-young-dyeposit.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Semi-Permanent Hair Color (2025)"
   },
   {
    "brand": "Onekind",
@@ -212,12 +226,26 @@
    "topAward": "InStyle Best Beauty Buys — Best Toner Pads (2026)"
   },
   {
+   "brand": "Ulike",
+   "product": "Air 10",
+   "retailer": "Ulta",
+   "was": 399,
+   "now": 262.99,
+   "percentOff": 34,
+   "url": "https://go.shopmy.us/p-78051096",
+   "size": null,
+   "slug": "ulike-air-10",
+   "image": "https://cdn.shopify.com/s/files/1/0656/9079/6273/files/B0CWPBDM1F.Main.jpg?v=1751607095",
+   "imageCutout": false,
+   "topAward": "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)"
+  },
+  {
    "brand": "Dove",
    "product": "Aluminum Free Deodorant Spray",
    "retailer": "amazon",
    "was": 27,
-   "now": 17,
-   "percentOff": 37,
+   "now": 17.75,
+   "percentOff": 34,
    "url": "https://www.amazon.com/dp/B0DB6CNFM4",
    "size": "4 oz",
    "slug": "dove-aluminum-free-deodorant-spray",
@@ -240,11 +268,25 @@
    "topAward": "NewBeauty Annual Awards — Best Healing Ointment (2026)"
   },
   {
+   "brand": "Gillette Venus",
+   "product": "Pubic Hair and Skin Daily Ingrown Serum",
+   "retailer": "amazon",
+   "was": 14.99,
+   "now": 9.99,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B08JHSZG7F",
+   "size": null,
+   "slug": "gillette-venus-pubic-hair-and-skin-daily-ingrown-serum",
+   "image": "https://vader-prod.s3.amazonaws.com/product-images/a37ebce0-adb9-419d-a1dc-2154b28a6407/503ea051-17d7-4a90-a425-949566f914fe.jpg",
+   "imageCutout": false,
+   "topAward": "Cosmopolitan Beauty Awards — Best Treatment for Ingrown Hairs (2026)"
+  },
+  {
    "brand": "Gillette",
    "product": "Venus Original Razor",
    "retailer": "amazon",
    "was": 14.97,
-   "now": 9.97,
+   "now": 9.99,
    "percentOff": 33,
    "url": "https://www.amazon.com/dp/B003EMPN7G",
    "size": "2 Count",
@@ -252,20 +294,6 @@
    "image": "/cutouts/gillette-venus-original-razor.webp",
    "imageCutout": true,
    "topAward": "Glamour Beauty Awards — Readers' Choice — Best Razor (2026)"
-  },
-  {
-   "brand": "Aprilskin",
-   "product": "Carrotene IPMP Clearing Solution",
-   "retailer": "amazon",
-   "was": 15,
-   "now": 10,
-   "percentOff": 33,
-   "url": "https://www.amazon.com/dp/B0B565BHXK",
-   "size": null,
-   "slug": "aprilskin-carrotene-ipmp-clearing-solution",
-   "image": "/cutouts/aprilskin-carrotene-ipmp-clearing-solution.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Acne Spot Treatment Gel (2025)"
   },
   {
    "brand": "VOESH",
@@ -280,6 +308,20 @@
    "image": "/cutouts/voesh-hand-balm.webp",
    "imageCutout": true,
    "topAward": "NewBeauty Annual Awards — Best Hand Cream (2026)"
+  },
+  {
+   "brand": "Aprilskin",
+   "product": "Carrotene IPMP Clearing Solution",
+   "retailer": "amazon",
+   "was": 15,
+   "now": 10,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B0B565BHXK",
+   "size": null,
+   "slug": "aprilskin-carrotene-ipmp-clearing-solution",
+   "image": "/cutouts/aprilskin-carrotene-ipmp-clearing-solution.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Acne Spot Treatment Gel (2025)"
   },
   {
    "brand": "Supergoop",
@@ -394,6 +436,20 @@
    "topAward": "Allure Best of Beauty — Best Breakthroughs (2025)"
   },
   {
+   "brand": "Dr. Scholl's",
+   "product": "Dry Cracked Foot Repair Ultra-Hydrating Foot Cream",
+   "retailer": "amazon",
+   "was": 7.99,
+   "now": 5.89,
+   "percentOff": 26,
+   "url": "https://www.amazon.com/dp/B08YZBKZPB",
+   "size": "3.5 oz",
+   "slug": "dr--scholl-s-dry-cracked-foot-repair-ultra-hydrating-foot-cream",
+   "image": "/cutouts/dr--scholl-s-dry-cracked-foot-repair-ultra-hydrating-foot-cream.webp",
+   "imageCutout": true,
+   "topAward": "Marie Claire Skin & Hair Awards — Best Foot Cream (2025)"
+  },
+  {
    "brand": "OWAY",
    "product": "Curly Hair Co-Wash",
    "retailer": "amazon",
@@ -436,18 +492,18 @@
    "topAward": "NewBeauty Readers Choice — Favorite Moisturizer for Very Dry Skin (2025)"
   },
   {
-   "brand": "Benefit Cosmetics",
-   "product": "Gimme Brow+",
+   "brand": "Estée Lauder",
+   "product": "Advanced Night Repair Eye Lift + Sculpt",
    "retailer": "amazon",
-   "was": 28,
-   "now": 21.89,
+   "was": 85,
+   "now": 66,
    "percentOff": 22,
-   "url": "https://go.shopmy.us/p-76852908",
-   "size": "1 Count",
-   "slug": "benefit-cosmetics-gimme-brow-",
-   "image": "/cutouts/benefit-cosmetics-gimme-brow-.webp",
+   "url": "https://go.shopmy.us/p-76852510",
+   "size": null,
+   "slug": "est-e-lauder-advanced-night-repair-eye-lift---sculpt",
+   "image": "/cutouts/est-e-lauder-advanced-night-repair-eye-lift---sculpt.webp",
    "imageCutout": true,
-   "topAward": "Allure Readers Choice — Makeup Winner (2026)"
+   "topAward": "NewBeauty Annual Awards — Best Firming Eye Cream (2026)"
   },
   {
    "brand": "SheaMoisture",
@@ -478,6 +534,20 @@
    "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Flatiron (2026)"
   },
   {
+   "brand": "Benefit Cosmetics",
+   "product": "Gimme Brow+",
+   "retailer": "amazon",
+   "was": 28,
+   "now": 21.89,
+   "percentOff": 22,
+   "url": "https://go.shopmy.us/p-76852908",
+   "size": "1 Count",
+   "slug": "benefit-cosmetics-gimme-brow-",
+   "image": "/cutouts/benefit-cosmetics-gimme-brow-.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Makeup Winner (2026)"
+  },
+  {
    "brand": "Native",
    "product": "Deodorant",
    "retailer": "amazon",
@@ -492,18 +562,18 @@
    "topAward": "InStyle Best Beauty Buys — Best Deodorant Stick (2026)"
   },
   {
-   "brand": "TirTir",
-   "product": "Mask Fit Red Cushion Foundation",
-   "retailer": "amazon",
-   "was": 25,
-   "now": 20,
+   "brand": "LolaVie",
+   "product": "Exfoliate & Detox Scalp Shampoo",
+   "retailer": "ulta",
+   "was": 39,
+   "now": 31.2,
    "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B09LCMQM44",
+   "url": "https://www.ulta.com/p/exfoliate-detox-scalp-shampoo-pimprod2047097",
    "size": null,
-   "slug": "tirtir-mask-fit-red-cushion-foundation",
-   "image": "/cutouts/tirtir-mask-fit-red-cushion-foundation.webp",
+   "slug": "lolavie-exfoliate---detox-scalp-shampoo",
+   "image": "/cutouts/lolavie-exfoliate---detox-scalp-shampoo.webp",
    "imageCutout": true,
-   "topAward": "Allure Readers Choice — Favorite K-Beauty Product (2026)"
+   "topAward": "Allure Best of Beauty — Best Clean Hair-Care (2025)"
   },
   {
    "brand": "goPure",
@@ -520,60 +590,32 @@
    "topAward": "NewBeauty Readers Choice — Favorite Neck Cream (2025)"
   },
   {
-   "brand": "Jenny Patinkin",
-   "product": "Skin Smoothing Trio Dermaplaning Set",
-   "retailer": "Ulta",
-   "was": 18,
-   "now": 14.4,
-   "percentOff": 20,
-   "url": "https://go.shopmy.us/p-78558818",
-   "size": null,
-   "slug": "jenny-patinkin-skin-smoothing-trio-dermaplaning-set",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/75fa969c-8b51-4c16-b62a-ab8d24b1d095/16eae46b-1ec6-4c72-bd10-df9226c38435.jpg",
-   "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Dermaplaning Tool (2026)"
-  },
-  {
-   "brand": "Naked Sundays",
-   "product": "BeautyScreen Peptide Foundation Tint SPF 50",
-   "retailer": "Ulta",
-   "was": 38,
-   "now": 30.4,
-   "percentOff": 20,
-   "url": "https://go.shopmy.us/p-81538445",
-   "size": null,
-   "slug": "naked-sundays-beautyscreen-peptide-foundation-tint-spf-50",
-   "image": "/cutouts/naked-sundays-beautyscreen-peptide-foundation-tint-spf-50.webp",
-   "imageCutout": true,
-   "topAward": "Glamour Beauty Awards — Beauty Innovators — Best Tinted SPF (2026)"
-  },
-  {
-   "brand": "Laundry Sauce",
-   "product": "Laundry Pods in Himalayan Cashmere",
-   "retailer": "Ulta",
-   "was": 37,
-   "now": 29.6,
-   "percentOff": 20,
-   "url": "https://go.shopmy.us/p-81538830",
-   "size": null,
-   "slug": "laundry-sauce-laundry-pods-in-himalayan-cashmere",
-   "image": "/cutouts/laundry-sauce-laundry-pods-in-himalayan-cashmere.webp",
-   "imageCutout": true,
-   "topAward": "Glamour Beauty Awards — Wellness — Best Laundry Detergent (2026)"
-  },
-  {
-   "brand": "Dr. Scholl's",
-   "product": "Dry Cracked Foot Repair Ultra-Hydrating Foot Cream",
+   "brand": "TirTir",
+   "product": "Mask Fit Red Cushion Foundation",
    "retailer": "amazon",
-   "was": 7.99,
-   "now": 6.49,
-   "percentOff": 19,
-   "url": "https://www.amazon.com/dp/B08YZBKZPB",
-   "size": "3.5 oz",
-   "slug": "dr--scholl-s-dry-cracked-foot-repair-ultra-hydrating-foot-cream",
-   "image": "/cutouts/dr--scholl-s-dry-cracked-foot-repair-ultra-hydrating-foot-cream.webp",
+   "was": 25,
+   "now": 20,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B09LCMQM44",
+   "size": null,
+   "slug": "tirtir-mask-fit-red-cushion-foundation",
+   "image": "/cutouts/tirtir-mask-fit-red-cushion-foundation.webp",
    "imageCutout": true,
-   "topAward": "Marie Claire Skin & Hair Awards — Best Foot Cream (2025)"
+   "topAward": "Allure Readers Choice — Favorite K-Beauty Product (2026)"
+  },
+  {
+   "brand": "Laneige",
+   "product": "Lip Sleeping Mask",
+   "retailer": "amazon",
+   "was": 24,
+   "now": 19.43,
+   "percentOff": 19,
+   "url": "https://www.amazon.com/dp/B07XXPHQZK",
+   "size": null,
+   "slug": "laneige-lip-sleeping-mask",
+   "image": "/cutouts/laneige-lip-sleeping-mask.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Skin Winner (2026)"
   },
   {
    "brand": "It's A 10 Haircare",
@@ -590,20 +632,6 @@
    "topAward": "Marie Claire Skin & Hair Awards — Best Anti-Frizz Treatment (2025)"
   },
   {
-   "brand": "Gillette Venus",
-   "product": "Pubic Hair and Skin Daily Ingrown Serum",
-   "retailer": "amazon",
-   "was": 14.99,
-   "now": 12.29,
-   "percentOff": 18,
-   "url": "https://www.amazon.com/dp/B08JHSZG7F",
-   "size": null,
-   "slug": "gillette-venus-pubic-hair-and-skin-daily-ingrown-serum",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/a37ebce0-adb9-419d-a1dc-2154b28a6407/503ea051-17d7-4a90-a425-949566f914fe.jpg",
-   "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Treatment for Ingrown Hairs (2026)"
-  },
-  {
    "brand": "Differin",
    "product": "Adapalene Gel 0.1%",
    "retailer": "Ulta",
@@ -618,6 +646,20 @@
    "topAward": "Allure Best of Beauty — Best Retinol All-over Acne Treatment (2025)"
   },
   {
+   "brand": "LolaVie",
+   "product": "Restorative Conditioner",
+   "retailer": "Ulta",
+   "was": 31,
+   "now": 25.6,
+   "percentOff": 17,
+   "url": "https://go.shopmy.us/p-80813288",
+   "size": "8.5 oz",
+   "slug": "lolavie-restorative-conditioner",
+   "image": "/cutouts/lolavie-restorative-conditioner.webp",
+   "imageCutout": true,
+   "topAward": "Marie Claire Skin & Hair Awards — Best Conditioner For Dry Hair (2025)"
+  },
+  {
    "brand": "Goodal",
    "product": "Green Tangerine Niacinamide 10% Serum",
    "retailer": "amazon",
@@ -630,6 +672,20 @@
    "image": "/cutouts/goodal-green-tangerine-niacinamide-10--serum.webp",
    "imageCutout": true,
    "topAward": "NewBeauty Annual Awards — Best Niacinamide Serum (2026)"
+  },
+  {
+   "brand": "Obagi Medical",
+   "product": "Professional-C Serum 20%",
+   "retailer": "Dermstore",
+   "was": 155,
+   "now": 131.75,
+   "percentOff": 15,
+   "url": "https://go.shopmy.us/p-79317896",
+   "size": "1 oz",
+   "slug": "obagi-medical-professional-c-serum-20-",
+   "image": "/cutouts/obagi-medical-professional-c-serum-20-.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Antioxidant Serum (2025)"
   },
   {
    "brand": "T3",
@@ -658,20 +714,6 @@
    "image": "/cutouts/jlo-beauty-firming-neck-serum.webp",
    "imageCutout": true,
    "topAward": "NewBeauty Annual Awards — Best Neck Serum (2026)"
-  },
-  {
-   "brand": "Obagi Medical",
-   "product": "Professional-C Serum 20%",
-   "retailer": "Dermstore",
-   "was": 155,
-   "now": 131.75,
-   "percentOff": 15,
-   "url": "https://go.shopmy.us/p-79317896",
-   "size": "1 oz",
-   "slug": "obagi-medical-professional-c-serum-20-",
-   "image": "/cutouts/obagi-medical-professional-c-serum-20-.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Antioxidant Serum (2025)"
   }
  ]
 }
