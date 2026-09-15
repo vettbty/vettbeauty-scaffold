@@ -1,0 +1,89 @@
+{
+ "redirects": [
+  {
+   "source": "/p/a0710e3f",
+   "destination": "/product/crown-affair-the-overnight-repair-serum-treatment",
+   "permanent": false
+  },
+  {
+   "source": "/p/benefit-cosmetics-gimme-brow",
+   "destination": "/product/benefit-cosmetics-gimme-brow-",
+   "permanent": false
+  },
+  {
+   "source": "/p/cecred-restoring-hair-edge-drops",
+   "destination": "/product/c-cred-restoring-hair---edge-drops",
+   "permanent": false
+  },
+  {
+   "source": "/p/dr-althea-pure-grinding-cleansing-balm",
+   "destination": "/product/dr--althea-pure-grinding-cleansing-balm",
+   "permanent": false
+  },
+  {
+   "source": "/p/f991eef9",
+   "destination": "/product/shani-darden-skin-care-retinol-reform-with-1--encapsulated-retinol",
+   "permanent": false
+  },
+  {
+   "source": "/p/olive-june-the-gel-mani-system",
+   "destination": "/product/olive---june-the-gel-mani-system",
+   "permanent": false
+  },
+  {
+   "source": "/p/paula-s-choice-skin-perfecting-2-bha-liquid-exfoliant",
+   "destination": "/product/paula-s-choice-skin-perfecting-2--bha-liquid-exfoliant",
+   "permanent": false
+  },
+  {
+   "source": "/p/ulta-beauty-collection-too-cheeky-lip-cheek-color-stick",
+   "destination": "/product/ulta-beauty-collection-too-cheeky-lip---cheek-color-stick",
+   "permanent": false
+  },
+  {
+   "source": "/p/vacation-orange-gelee-spf-30-sunscreen-gel",
+   "destination": "/product/vacation-orange-gel-e-spf-30-sunscreen-gel",
+   "permanent": false
+  },
+  {
+   "source": "/p/1bfa3b2d",
+   "destination": "/",
+   "permanent": false
+  },
+  {
+   "source": "/p/4123b089",
+   "destination": "/",
+   "permanent": false
+  },
+  {
+   "source": "/p/a9da389c",
+   "destination": "/",
+   "permanent": false
+  },
+  {
+   "source": "/p/e885cd5f",
+   "destination": "/",
+   "permanent": false
+  },
+  {
+   "source": "/p/armani-si-eau-de-parfum",
+   "destination": "/",
+   "permanent": false
+  },
+  {
+   "source": "/p/soft-services-theraplush",
+   "destination": "/",
+   "permanent": false
+  },
+  {
+   "source": "/p/t3-aire-iq-smart-hair-dryer",
+   "destination": "/",
+   "permanent": false
+  },
+  {
+   "source": "/p/:slug",
+   "destination": "/product/:slug",
+   "permanent": false
+  }
+ ]
+}
