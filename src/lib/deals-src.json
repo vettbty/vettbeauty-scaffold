@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-09-14",
+ "generated": "2026-09-18",
  "items": [
   {
    "productId": "6c29a9eb-186f-4044-b622-2faa658567f7",
@@ -13,7 +13,7 @@
    "url": "https://go.shopmy.us/p-78148186",
    "size": null,
    "listing": "Baby Pink C Lip Serum SPF 30 - BeautyStat Cosmetics",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "dea083ed-6b0f-4774-a580-477f2a977d53",
@@ -26,7 +26,7 @@
    "url": "https://www.dermstore.com/p/revitalash-advanced-eyelash-conditioner-2ml-3-month-supply/15724060/",
    "size": "2ml",
    "listing": "RevitaLash Advanced Eyelash Conditioner 2ml (3 Month Supply)",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "b2646b19-8892-4bc7-adea-b4dccedf5d57",
@@ -39,7 +39,7 @@
    "url": "https://go.shopmy.us/p-78421678",
    "size": null,
    "listing": "Can",
-   "verified": "2026-08-31"
+   "verified": "2026-09-18"
   },
   {
    "productId": "5d9073d5-65ea-4f69-ba87-218b67b1f411",
@@ -52,7 +52,7 @@
    "url": "https://www.amazon.com/dp/B07C5SS6YD",
    "size": "1 Fl Oz",
    "listing": "Amazon.com: Paula&#x27;s Choice SKIN PERFECTING 2% BHA Liquid Leave-On Exfoliant, 1 Fl Oz | Gentle Salicylic Acid Leave-",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "6b699bab-9a41-4e82-ad4b-0c64af160667",
@@ -64,8 +64,34 @@
    "percentOff": 55,
    "url": "https://www.amazon.com/dp/B0C7SFLV46",
    "size": "0.35 oz",
-   "listing": "Amazon.com : eos 24H Super Balm- Honey Apple, Day or Night Lip Treatment, 0.35 oz : Beauty & Personal Care",
-   "verified": "2026-09-14"
+   "listing": "Amazon.com : eos 24H Super Balm- Honey Apple, Day or Night Lip Treatment, 0.35 oz | Made with Hydrating Cocoa, Shea, & A",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "ea3c9d3d-063c-4751-89ac-b5475666c705",
+   "brand": "NuFACE",
+   "product": "Fix® Microwand",
+   "retailer": "Ulta",
+   "was": 195,
+   "now": 87.5,
+   "percentOff": 55,
+   "url": "https://go.shopmy.us/p-79292482",
+   "size": null,
+   "listing": "FIX MicroWand - Targeted Microcurrent Device for Eyes, Lips & Lines - NuFACE",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "093248db-d221-47de-bbeb-1f5e983fcf8b",
+   "brand": "Nakery Beauty",
+   "product": "SkinRecovery Ultra-Strength Pain Therapy Cream",
+   "retailer": "Ulta",
+   "was": 32,
+   "now": 14.5,
+   "percentOff": 55,
+   "url": "https://go.shopmy.us/p-80371526",
+   "size": null,
+   "listing": "SkinRecovery Ultra-Strength Pain Therapy Cream - NAKERY BEAUTY",
+   "verified": "2026-09-18"
   },
   {
    "productId": "eb80496a-ddd2-42aa-ba27-578fbdd91716",
@@ -78,7 +104,85 @@
    "url": "https://go.shopmy.us/p-78145245",
    "size": null,
    "listing": "Daily Moisturizing Body Lotion Fragrance Free - Aveeno",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "cd8cc21d-9105-4ba9-b4d3-d5a37e88d997",
+   "brand": "Belif",
+   "product": "Aqua Bomb Eye Gel",
+   "retailer": "ulta",
+   "was": 32,
+   "now": 16,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-77316127",
+   "size": null,
+   "listing": "Aqua Bomb Depuffing Eye Gel with Caffeine + Hyaluronic Acid - belif",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "7a4c9f1f-3058-4cf6-8ee0-0a0060701389",
+   "brand": "Anastasia Beverly Hills",
+   "product": "MicroStroke Brow Pen",
+   "retailer": "ulta",
+   "was": 28,
+   "now": 14,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-77316449",
+   "size": null,
+   "listing": "Chocolate MicroStroke Detailing Brow Pen with 24-Hour Wear - Anastasia Beverly Hills",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "cfc0f9ed-ce32-4b8d-a167-8e70ab621c63",
+   "brand": "dpHue",
+   "product": "Glossy Glaze",
+   "retailer": "ulta",
+   "was": 29,
+   "now": 14.5,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-77314891",
+   "size": null,
+   "listing": "Golden Blonde Glossy Glaze - dpHUE",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "89aea617-b578-43be-992d-cc00e3fb4fee",
+   "brand": "Drunk Elephant",
+   "product": "Mello Marula Cream Cleanser",
+   "retailer": "ulta",
+   "was": 36,
+   "now": 18,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-77314329",
+   "size": "5.0 oz",
+   "listing": "5.0 oz Mello Marula Cream Cleanser - Drunk Elephant",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "52317848-c48b-43b3-87e5-e8cc3c245d90",
+   "brand": "Ulta Beauty Collection",
+   "product": "Dual Ended Finishing Powder Brush 144",
+   "retailer": "ulta",
+   "was": 20,
+   "now": 10,
+   "percentOff": 50,
+   "url": "https://www.ulta.com/p/dual-ended-finishing-powder-brush-144-pimprod2046488",
+   "size": null,
+   "listing": "Dual Ended Finishing Powder Brush 144",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "ce1abd6f-6531-4313-bc83-29b9504ffe79",
+   "brand": "Kiehl’s",
+   "product": "Ultra Body Mega Moisture Squalane Cream",
+   "retailer": "ulta",
+   "was": 49,
+   "now": 24.5,
+   "percentOff": 50,
+   "url": "https://www.ulta.com/p/ultra-body-mega-moisture-squalane-cream-pimprod2047911",
+   "size": null,
+   "listing": "Ultra Body Mega Moisture Squalane Cream - Kiehl&#x27;s Since 1851",
+   "verified": "2026-09-18"
   },
   {
    "productId": "67edd981-4446-4212-9881-4abaa6873589",
@@ -90,8 +194,21 @@
    "percentOff": 50,
    "url": "https://go.shopmy.us/p-77815706",
    "size": "2.1 oz",
-   "listing": "2.1 oz Elnett Satin Extra Strong Hold Hair Spray - L&#x27;Oréal",
-   "verified": "2026-09-14"
+   "listing": "2.1 oz Elnett Satin Extra Strong Hold Hair Spray - L&#x27;Oréal Paris",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "fbf1e42c-d178-4061-9fba-63fe17876115",
+   "brand": "Uni",
+   "product": "Golden Microalgae Body Oil",
+   "retailer": "ulta",
+   "was": 48,
+   "now": 24,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-78169428",
+   "size": null,
+   "listing": "Golden Microalgae Body Oil - Uni",
+   "verified": "2026-09-18"
   },
   {
    "productId": "bccc4731-123b-4386-ad50-976424e62867",
@@ -104,7 +221,46 @@
    "url": "https://go.shopmy.us/p-78477759",
    "size": null,
    "listing": "Copper DYEposit Color Depositing Hair Mask - Good Dye Young",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "4f8ab201-8f2a-4a98-9efa-8fe80aea5c75",
+   "brand": "Joico",
+   "product": "Dream Blowout Glass",
+   "retailer": "Ulta",
+   "was": 28,
+   "now": 14,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-78562126",
+   "size": "6.7 oz",
+   "listing": "6.7 oz Dream Blowout Glass 72hr Frizz Fighter - Joico",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "4601b37e-cd6c-4dfb-83b3-464941026c3b",
+   "brand": "Kiehl's",
+   "product": "Rare Earth Pore-Minimizing Clay Mask",
+   "retailer": "Ulta",
+   "was": 47,
+   "now": 23.5,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-78566139",
+   "size": null,
+   "listing": "Rare Earth Pore-Minimizing Clay Mask - Kiehl&#x27;s Since 1851",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "facd8ae4-9f1b-42dc-9a8e-09cc3b222503",
+   "brand": "Solawave",
+   "product": "Bye Acne 2.0",
+   "retailer": "Ulta",
+   "was": 89,
+   "now": 44.5,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-80215859",
+   "size": null,
+   "listing": "Bye Acne: 3-Minute Blue + Red Light Therapy Acne Treatment - Solawave",
+   "verified": "2026-09-18"
   },
   {
    "productId": "18265548-05d5-4759-9d72-79cc7cf881e2",
@@ -117,7 +273,46 @@
    "url": "https://go.shopmy.us/p-80382851",
    "size": null,
    "listing": "Dream Cream Hydrating Anti-Aging Night Cream for Sensitive Skin - Onekind",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "f81f13ee-fd51-408e-af0e-60cc1dee8beb",
+   "brand": "Peach & Lily",
+   "product": "MiniProtein Exosome Bioactive Ampoule",
+   "retailer": "ulta",
+   "was": 53,
+   "now": 26.5,
+   "percentOff": 50,
+   "url": "https://www.ulta.com/p/miniprotein-exosome-bioactive-ampoule-pimprod2053024?sku=2642801",
+   "size": null,
+   "listing": "MiniProtein Exosome Bioactive Ampoule - PEACH & LILY",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "b706fc9a-44b0-49e1-a1d5-94a2107d43db",
+   "brand": "Design Essentials",
+   "product": "Rosemary & Mint Stimulating Super Moisturizing Shampoo and Peppermint & Aloe Soothing Scalp Care Conditioner",
+   "retailer": "Ulta",
+   "was": 15,
+   "now": 7.5,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-81250480",
+   "size": null,
+   "listing": "Rosemary Mint Shampoo - Design Essentials",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "aa150b37-423e-4332-b5de-3988483b4165",
+   "brand": "PUR",
+   "product": "4-in-1 Skin Tint Mineral Sunscreen Broad Spectrum SPF 50",
+   "retailer": "Ulta",
+   "was": 42,
+   "now": 21,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-81545753",
+   "size": null,
+   "listing": "MN4 4-in-1 Skin Tint Mineral Sunscreen Broad Spectrum SPF 50 - PÜR Minerals",
+   "verified": "2026-09-18"
   },
   {
    "productId": "4d6160e8-56e4-4398-be86-941ff1b52e5a",
@@ -129,8 +324,8 @@
    "percentOff": 45,
    "url": "https://go.shopmy.us/p-81544654",
    "size": null,
-   "listing": "EverPure Sulfate Free Iron Sleek Smoothing Shampoo - L&#x27;Oréal",
-   "verified": "2026-09-14"
+   "listing": "EverPure Sulfate Free Iron Sleek Smoothing Shampoo - L&#x27;Oréal Paris",
+   "verified": "2026-09-18"
   },
   {
    "productId": "a680f976-9d9b-4671-a752-7b198205253a",
@@ -143,7 +338,7 @@
    "url": "https://go.shopmy.us/p-78564431",
    "size": null,
    "listing": "InfinitiPRO by Conair Steam Therapy Hair Steamer - Conair",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "3127b806-a206-4f2e-9a7d-7722c923c51f",
@@ -156,7 +351,7 @@
    "url": "https://go.shopmy.us/p-79609452",
    "size": "10 fl. oz",
    "listing": "SEEN Body Wash Fragrance Free 10 fl. oz",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "705adda3-9911-4752-a5d7-98c9e87e9d45",
@@ -169,20 +364,20 @@
    "url": "https://www.amazon.com/included-Stardust-Wonder-Medium-Manicure/dp/B0FZDWHNSF",
    "size": null,
    "listing": "Amazon.com: Kiss Glam, Press On Nails, Nail glue included, &#x27;Applause&#x27;, White, Medium Size, Almond Shape, Inclu",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
-   "productId": "8bcb6361-4e3b-4897-af09-aea0fdc459a6",
-   "brand": "Creme of Nature",
-   "product": "Argan Oil from Morocco Moisture & Shine Shampoo",
-   "retailer": "amazon",
-   "was": 8.47,
-   "now": 4.97,
+   "productId": "cbb02020-ee6a-47d3-b970-d97b8c8d8bde",
+   "brand": "Olivia Garden",
+   "product": "High Performance Professional Flat Iron",
+   "retailer": "Ulta",
+   "was": 110,
+   "now": 64.97,
    "percentOff": 41,
-   "url": "https://www.amazon.com/dp/B004YRTZG0",
-   "size": "12 fl oz",
-   "listing": "Amazon.com: Creme of Nature Argan Oil Sulfate-Free Moisture Shampoo, 12 fl oz | Moisturizing shampoo that gently cleanse",
-   "verified": "2026-09-14"
+   "url": "https://go.shopmy.us/p-81018064",
+   "size": null,
+   "listing": "Ceramic + Ion High Performance Professional 1\" Flat Iron - Olivia Garden",
+   "verified": "2026-09-18"
   },
   {
    "productId": "b408f816-2d9e-4c10-b757-8861c29d3daf",
@@ -195,7 +390,7 @@
    "url": "https://go.shopmy.us/p-76855040",
    "size": "2.5 oz",
    "listing": "Amazon.com: Shiseido Ultimune Power Infusing Serum - 2.5 oz - Breakthrough Lightweight Face Serum - Boosts Radiance & Im",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "881ae3fe-b2ae-4ffb-a7b7-af900beadc25",
@@ -208,20 +403,7 @@
    "url": "https://www.amazon.com/medicube-Calming-Exfoliation-Minimizing-Blackhead/dp/B09V7Z4TJG",
    "size": null,
    "listing": "Amazon.com : medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care | Dual-Textured Facial Pad with 4.5% AH",
-   "verified": "2026-09-14"
-  },
-  {
-   "productId": "08c2003a-15ad-4325-a350-19de13c27c7c",
-   "brand": "Ulike",
-   "product": "Air 10",
-   "retailer": "Ulta",
-   "was": 399,
-   "now": 262.99,
-   "percentOff": 34,
-   "url": "https://go.shopmy.us/p-78051096",
-   "size": null,
-   "listing": "Pink Air10 Ice Cooling IPL Hair Removal Device - Ulike",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "42509f64-1b75-4023-9422-99076bee2814",
@@ -234,7 +416,7 @@
    "url": "https://www.amazon.com/dp/B0DB6CNFM4",
    "size": "4 oz",
    "listing": "Amazon.com : Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz : B",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "523bef15-2ef1-4ae7-bb2b-046e9bb30a3b",
@@ -247,7 +429,7 @@
    "url": "https://go.shopmy.us/p-78145060",
    "size": null,
    "listing": "Skin Relief Healing Ointment - Aveeno",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "cd81a42b-9540-404f-b72c-15bbcbf27959",
@@ -260,7 +442,7 @@
    "url": "https://www.amazon.com/dp/B08JHSZG7F",
    "size": null,
    "listing": "Amazon.com: Gillette Venus Intimate Grooming Daily Soothing Serum Reduce Ingrown Hair for Pubic Hair and Skin, Bikini Po",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "9cf45f37-9aaf-4acf-a564-e39b306907e3",
@@ -273,7 +455,7 @@
    "url": "https://www.amazon.com/dp/B003EMPN7G",
    "size": "2 Count",
    "listing": "Amazon.com: Gillette Venus Smooth Razor for Women, Includes 1 Reusable Razor Handle + 2 Count 3-Bladed Refills, Ergonomi",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
@@ -286,7 +468,7 @@
    "url": "https://go.shopmy.us/p-80388348",
    "size": null,
    "listing": "Nourishing Hand Balm for Hydrated Hands & Cuticles - VOESH",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "9cb09fbd-627e-4499-ba57-dc0b3659c2f9",
@@ -299,7 +481,7 @@
    "url": "https://www.amazon.com/dp/B0B565BHXK",
    "size": null,
    "listing": "Amazon.com: APRILSKIN Carrotene IPMP Clearing Solution | Spot Treatment for Blemishes - BHA, AHA, Niacinamide & Zinc Oxi",
-   "verified": "2026-08-31"
+   "verified": "2026-09-18"
   },
   {
    "productId": "f7ba5492-bb87-4823-a5f5-55a8ab54f220",
@@ -312,7 +494,7 @@
    "url": "https://www.ulta.com/p/play-everyday-sunscreen-stick-spf-50-pimprod2051453",
    "size": null,
    "listing": "PLAY Everyday Sunscreen Stick SPF 50 - Supergoop!",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "a0e8268d-016a-4ab3-8960-71472e0a23c5",
@@ -325,7 +507,20 @@
    "url": "https://go.shopmy.us/p-78051355",
    "size": "6.7 oz",
    "listing": "6.7 oz Dercos Selenium Sulfide Anti-Dandruff Shampoo - Vichy",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "d451bc62-6dbf-4c7b-9098-b4a7d4860457",
+   "brand": "RevAir",
+   "product": "Micro Edge Styler",
+   "retailer": "Ulta",
+   "was": 89,
+   "now": 62.3,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-78048866",
+   "size": null,
+   "listing": "Micro Edge Styler - RevAir",
+   "verified": "2026-09-18"
   },
   {
    "productId": "0d0f9e91-0ca8-49ae-ac2f-fa09d15c34d5",
@@ -338,7 +533,7 @@
    "url": "https://www.amazon.com/dp/B0G1NKWTS2",
    "size": null,
    "listing": "Amazon.com : Garnier Fructis Curl Knot Melter Multi-Use Anti-Breakage Detangling Milk, Moisturizing Detangler Spray and ",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "a5c855a6-fdb2-4b51-a321-86c08accf860",
@@ -351,7 +546,7 @@
    "url": "https://www.amazon.com/dp/B0DW5Z1S47",
    "size": null,
    "listing": "Amazon.com: Quip Sonic Electric Toothbrush for Adults, Extra Brush Head, Marine Blue | Includes 2 Brush Heads and Travel",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "b34b3458-bf66-425e-9012-13442a7ac77d",
@@ -364,20 +559,20 @@
    "url": "https://go.shopmy.us/p-80216094",
    "size": null,
    "listing": "Strawberry Sorbet Pout Preserve Sugar Melt Lip Scrub - OLEHENRIKSEN",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
-   "productId": "ac9820c6-1046-4940-ad16-b7c770c2f491",
-   "brand": "essie",
-   "product": "Gel Couture Top Coat",
-   "retailer": "amazon",
-   "was": 13,
-   "now": 9.3,
-   "percentOff": 28,
-   "url": "https://www.amazon.com/Essie-Couture-Long-Lasting-Polish-8-Free/dp/B01E7UKT54",
-   "size": "0.46 fl oz",
-   "listing": "Amazon.com : Essie Gel Couture Long-Lasting Nail Polish, Vegan, Clear, Shiny Top Coat, 0.46 fl oz : Beauty & Personal Ca",
-   "verified": "2026-09-14"
+   "productId": "01b4edf5-03df-4010-88f5-2f6ec1ff01c5",
+   "brand": "Well People",
+   "product": "Poutlove Peptide Lip Balm",
+   "retailer": "Ulta",
+   "was": 14,
+   "now": 9.8,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-82389861",
+   "size": null,
+   "listing": "Pink Grapefruit Poutlove Peptide Lip Balm - Well People",
+   "verified": "2026-09-18"
   },
   {
    "productId": "675d8421-2677-488b-a67d-dd7e8d67ef3b",
@@ -390,7 +585,7 @@
    "url": "https://go.shopmy.us/p-78168422",
    "size": "4 oz",
    "listing": "Briogeo Farewell Frizz™ Blow Dry Perfection &#38; Heat Protectant Crème 4 oz",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "511a0094-3935-4704-908a-2632e7e388e6",
@@ -403,7 +598,7 @@
    "url": "https://www.ulta.com/p/gel-mani-system-pimprod2057049",
    "size": null,
    "listing": "Gel Mani System - Olive & June",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "0a53b9b2-3645-4407-9f3e-abe4e6ffd9d4",
@@ -416,20 +611,20 @@
    "url": "https://www.amazon.com/dp/B08YZBKZPB",
    "size": "3.5 oz",
    "listing": "Amazon.com: Dr. Scholl&#x27;s Dry, Cracked Foot Repair Ultra-Hydrating Foot Cream Moisturizer, 3.5 oz, Skin Care Foot Lo",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
-   "productId": "087977dc-e91b-4a43-8317-171c35ba9130",
-   "brand": "OWAY",
-   "product": "Curly Hair Co-Wash",
+   "productId": "ac9820c6-1046-4940-ad16-b7c770c2f491",
+   "brand": "essie",
+   "product": "Gel Couture Top Coat",
    "retailer": "amazon",
-   "was": 60,
-   "now": 44.65,
-   "percentOff": 26,
-   "url": "https://www.amazon.com/dp/B0B19BRTGN",
-   "size": "240ml",
-   "listing": "Amazon.com : Oway: Curly Hair Bath [240ml] : Beauty & Personal Care",
-   "verified": "2026-08-31"
+   "was": 13,
+   "now": 9.78,
+   "percentOff": 25,
+   "url": "https://www.amazon.com/Essie-Couture-Long-Lasting-Polish-8-Free/dp/B01E7UKT54",
+   "size": "0.46 fl oz",
+   "listing": "Amazon.com : Essie Gel Couture Long-Lasting Nail Polish, Vegan, Clear, Shiny Top Coat, 0.46 fl oz : Beauty & Personal Ca",
+   "verified": "2026-09-18"
   },
   {
    "productId": "dd0c5848-e9c4-4664-85ca-4d8b7cbbc3c4",
@@ -442,7 +637,20 @@
    "url": "https://go.shopmy.us/p-80381072",
    "size": null,
    "listing": "One-Step Volumizer 1.0 Blow-Dryer Brush - Revlon",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "087977dc-e91b-4a43-8317-171c35ba9130",
+   "brand": "OWAY",
+   "product": "Curly Hair Co-Wash",
+   "retailer": "amazon",
+   "was": 60,
+   "now": 45.97,
+   "percentOff": 23,
+   "url": "https://www.amazon.com/dp/B0B19BRTGN",
+   "size": "240ml",
+   "listing": "Amazon.com : Oway: Curly Hair Bath [240ml] : Beauty & Personal Care",
+   "verified": "2026-09-18"
   },
   {
    "productId": "dcf0c31b-2a30-4639-b653-dfbd871e06a5",
@@ -455,7 +663,7 @@
    "url": "https://go.shopmy.us/p-80383176",
    "size": null,
    "listing": "Skin Barrier Protection Cream - NassifMD Skincare",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "05a65ffd-d406-496b-ba86-c7444b4f1b81",
@@ -468,7 +676,7 @@
    "url": "https://go.shopmy.us/p-76852510",
    "size": null,
    "listing": "Amazon.com: Estée Lauder Advanced Night Repair Eye Lift + Sculpt | Eye Cream with 2HA Volume Filler & Hexapeptide-8, 0.5",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "9a4c78f8-c21b-4159-b47d-c6c1c494ea1e",
@@ -481,59 +689,7 @@
    "url": "https://www.amazon.com/SheaMoisture-Plant-Derived-Straightening-Technology-Protection/dp/B0FWKY2F3M",
    "size": "3.3oz",
    "listing": "Amazon.com: Shea Moisture Silk Press in a Bottle Prep Cream for Heat Protection 3.3oz | For silk press styles - protects",
-   "verified": "2026-09-14"
-  },
-  {
-   "productId": "d451bc62-6dbf-4c7b-9098-b4a7d4860457",
-   "brand": "RevAir",
-   "product": "Micro Edge Styler",
-   "retailer": "Ulta",
-   "was": 89,
-   "now": 69,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-78048866",
-   "size": null,
-   "listing": "Micro Edge Styler - RevAir",
-   "verified": "2026-09-14"
-  },
-  {
-   "productId": "8156eadc-0572-4d7a-bc54-71b59f312203",
-   "brand": "Benefit Cosmetics",
-   "product": "Gimme Brow+",
-   "retailer": "amazon",
-   "was": 28,
-   "now": 21.89,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-76852908",
-   "size": "1 Count",
-   "listing": "Amazon.com : Benefit Cosmetics Gimme Brow + Volumizing Eyebrow Gel, 4.5 - Neutral deep brown, 1 Count : Beauty & Persona",
-   "verified": "2026-08-31"
-  },
-  {
-   "productId": "5b732105-4c4d-4f76-a68a-a676bef024e3",
-   "brand": "Native",
-   "product": "Deodorant",
-   "retailer": "amazon",
-   "was": 14,
-   "now": 11,
-   "percentOff": 21,
-   "url": "https://www.amazon.com/Native-Deodorant-without-Aluminum-Parabens/dp/B07GB3NVN1",
-   "size": null,
-   "listing": "Amazon.com : Native Deodorant Contains Naturally Derived Ingredients, 72 Hour Odor Control, Deodorant for Women and Men,",
-   "verified": "2026-08-31"
-  },
-  {
-   "productId": "f54ce2bf-7414-4ba7-9a0c-4e67557def87",
-   "brand": "LolaVie",
-   "product": "Exfoliate & Detox Scalp Shampoo",
-   "retailer": "ulta",
-   "was": 39,
-   "now": 31.2,
-   "percentOff": 20,
-   "url": "https://www.ulta.com/p/exfoliate-detox-scalp-shampoo-pimprod2047097",
-   "size": null,
-   "listing": "Exfoliate & Detox Scalp Shampoo - LolaVie",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "d945e531-a6bb-4a5c-9502-927ce2a06d8c",
@@ -546,33 +702,7 @@
    "url": "https://www.amazon.com/dp/B0CGB215HR",
    "size": null,
    "listing": "Amazon.com: goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of",
-   "verified": "2026-09-14"
-  },
-  {
-   "productId": "92bd0411-0edc-44be-922d-4b90fc626b8c",
-   "brand": "TirTir",
-   "product": "Mask Fit Red Cushion Foundation",
-   "retailer": "amazon",
-   "was": 25,
-   "now": 20,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B09LCMQM44",
-   "size": null,
-   "listing": "Amazon.com : TIRTIR Mask Fit Red Cushion Foundation | Full coverage, Weightless, Skin fit, Satin Glow Finish, Korean Mak",
-   "verified": "2026-08-31"
-  },
-  {
-   "productId": "857bd305-0031-495d-9004-093b10fce8c8",
-   "brand": "Laneige",
-   "product": "Lip Sleeping Mask",
-   "retailer": "amazon",
-   "was": 24,
-   "now": 19.43,
-   "percentOff": 19,
-   "url": "https://www.amazon.com/dp/B07XXPHQZK",
-   "size": null,
-   "listing": "Amazon.com: LANEIGE Lip Sleeping Mask: Hydrating & Nourishing Korean Overnight Lip Treatment Mask with Shea Butter, Vita",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "59678bc9-5fa2-4dc3-89d7-800fb1b9be31",
@@ -585,7 +715,7 @@
    "url": "https://go.shopmy.us/p-78558659",
    "size": null,
    "listing": "Clear Miracle Leave-In - It&#x27;s A 10",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "0cfc57b8-2611-443c-8ba6-4744f0f50c87",
@@ -598,20 +728,7 @@
    "url": "https://go.shopmy.us/p-78294069",
    "size": "0.5 oz",
    "listing": "0.5 oz Adapalene 0.1% Acne Treatment Gel - Differin",
-   "verified": "2026-09-14"
-  },
-  {
-   "productId": "f12adfd9-54c2-4bcb-8204-eba97ee43e08",
-   "brand": "LolaVie",
-   "product": "Restorative Conditioner",
-   "retailer": "Ulta",
-   "was": 31,
-   "now": 25.6,
-   "percentOff": 17,
-   "url": "https://go.shopmy.us/p-80813288",
-   "size": "8.5 oz",
-   "listing": "8.5 oz Restorative Conditioner - LolaVie",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
    "productId": "8077a1a0-5211-4a06-b422-cc3cd85e0e3d",
@@ -624,20 +741,33 @@
    "url": "https://www.amazon.com/dp/B0F3CF8FL5",
    "size": null,
    "listing": "Amazon.com: GOODAL Green Tangerine Vita C Niacinamide 10 Toning Ampoule - Facial Serum for Natural Glow, Daily Use, Pore",
-   "verified": "2026-09-14"
+   "verified": "2026-09-18"
   },
   {
-   "productId": "f4cabf22-ad63-4860-9a88-245be1305c48",
-   "brand": "Obagi Medical",
-   "product": "Professional-C Serum 20%",
-   "retailer": "Dermstore",
-   "was": 155,
-   "now": 131.75,
+   "productId": "4ca1297c-8616-4906-a02b-80307f57ab82",
+   "brand": "Charlotte Tilbury",
+   "product": "Matte Revolution",
+   "retailer": "amazon",
+   "was": 35,
+   "now": 29.6,
    "percentOff": 15,
-   "url": "https://go.shopmy.us/p-79317896",
-   "size": "1 oz",
-   "listing": "Obagi Medical Professional-C Serum 20% (1 oz.)",
-   "verified": "2026-09-14"
+   "url": "https://go.shopmy.us/p-76850287",
+   "size": null,
+   "listing": "Amazon.com: Charlotte Tilbury Matte Revolution Lipstick - Long Lasting, Hydrating | Buildable & Blendable with Creamy Ma",
+   "verified": "2026-09-18"
+  },
+  {
+   "productId": "d8e60bbb-aadc-4da0-a7b6-8c18669c3892",
+   "brand": "Supergoop",
+   "product": "Unseen Sunscreen SPF 50",
+   "retailer": "amazon",
+   "was": 38,
+   "now": 32.3,
+   "percentOff": 15,
+   "url": "https://go.shopmy.us/p-76854799",
+   "size": "1.7oz",
+   "listing": "Amazon.com: Supergoop! Unseen Sunscreen for Face, SPF 50 Clear & Invisible, 1.7oz | Clear face sunscreen, everyday use i",
+   "verified": "2026-09-18"
   },
   {
    "productId": "b3b9b839-f2a5-4973-b518-25803ccd24e8",
@@ -650,20 +780,20 @@
    "url": "https://www.amazon.com/T3-SinglePass-Extra-Long-Curling-Settings/dp/B0CRGTW5D2",
    "size": null,
    "listing": "Amazon.com: T3 SinglePass Curl X Extra-Long Barrel 1\" Curling Iron & Curling Wand, Hair Curler with 9 Heat Settings, Kor",
-   "verified": "2026-08-31"
+   "verified": "2026-09-18"
   },
   {
-   "productId": "8ca3a47e-4125-472e-b613-7a18af77589a",
-   "brand": "JLo Beauty",
-   "product": "Firming Neck Serum",
-   "retailer": "amazon",
-   "was": 69,
-   "now": 58.65,
+   "productId": "f4cabf22-ad63-4860-9a88-245be1305c48",
+   "brand": "Obagi Medical",
+   "product": "Professional-C Serum 20%",
+   "retailer": "Dermstore",
+   "was": 155,
+   "now": 131.75,
    "percentOff": 15,
-   "url": "https://www.amazon.com/dp/B0GJ192QLW",
-   "size": "1.7 Oz",
-   "listing": "Amazon.com: JLO BEAUTY That Spotlight Silhouette Firming Neck & Jawline Serum, 1.7 Oz | Peptides, Red Algae & Growth Fac",
-   "verified": "2026-08-31"
+   "url": "https://go.shopmy.us/p-79317896",
+   "size": "1 oz",
+   "listing": "Obagi Medical Professional-C Serum 20% (1 oz.)",
+   "verified": "2026-09-18"
   }
  ]
 }
