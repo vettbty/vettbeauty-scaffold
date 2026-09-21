@@ -44,7 +44,7 @@ const RECUT = process.argv.includes('--recut');
 const onlyIdx = process.argv.indexOf('--only');
 const ONLY = onlyIdx === -1 ? [] : (process.argv[onlyIdx + 1] || '').split(',').filter(Boolean);
 
-const MAX = 800, BORDER_WHITE_FRAC = 0.85;
+const MAX = 2000, BORDER_WHITE_FRAC = 0.85;
 const FLOOR = 215;   // never key out anything darker than this
 const GRAD = 42;     // Sobel magnitude a product outline exceeds and a shadow does not
 const CHROMA = 10;   // backdrop and shadow are neutral; products are not
