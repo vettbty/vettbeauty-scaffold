@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Wordmark from '@/components/Wordmark';
 import SaveCount from '@/components/SaveCount';
 import { products2026, awardPrograms, pressArticles, publications } from '@/lib/data';
+import type { Product } from '@/lib/data';
 
 export default function Home() {
   const top = [...products2026].sort((a, b) => b.awardCount - a.awardCount).slice(0, 8);
@@ -23,6 +24,28 @@ export default function Home() {
   // all new products on home page". Winners with a packshot lead, so the section
   // opens on real product shots rather than a wall of grey; the rest follow and
   // swap in as the image routine works through them.
+  //
+  // Ordered as the publication ran it, NOT by award count — Sascha, 2026-09-21:
+  // "i dont want the products sorted ... by most awards i want the products of
+  // the lastest allure release". Award count is what "Top of the Record" is for;
+  // repeating it here would just print that list again with a different heading.
+  // So winners fall in the order Allure published its categories, and anything
+  // whose category is not in that running order sorts after it.
+  const CLASS_ORDER = [
+    'Base', 'Lips', 'Eyes', 'Skin', 'Hair', 'Body',
+    'Nails', 'Tools', 'Scent', 'Steals', 'Splurges',
+    'Breakthroughs', 'Sensitive', 'Clean',
+  ];
+  const classCategory = (p: Product) => {
+    const win = (p.awardsWon || []).find(
+      w => w.startsWith(`${newest.name} — `) && w.endsWith(`(${newest.edition})`)
+    );
+    return win ? win.slice(`${newest.name} — `.length, win.lastIndexOf(' (')) : '';
+  };
+  const classRank = (p: Product) => {
+    const i = CLASS_ORDER.indexOf(classCategory(p));
+    return i === -1 ? CLASS_ORDER.length : i;
+  };
   const newestWinners = products2026
     .filter(p =>
       (p.awardsWon || []).some(
@@ -31,7 +54,7 @@ export default function Home() {
     )
     .sort((a, b) =>
       (b.image ? 1 : 0) - (a.image ? 1 : 0) ||
-      b.awardCount - a.awardCount ||
+      classRank(a) - classRank(b) ||
       a.brand.localeCompare(b.brand)
     );
   return (
