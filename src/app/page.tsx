@@ -46,8 +46,13 @@ export default function Home() {
     const i = CLASS_ORDER.indexOf(classCategory(p));
     return i === -1 ? CLASS_ORDER.length : i;
   };
+  //
+  // Packshot required. Showing the full class put 245 empty grey tiles on the
+  // homepage — Sascha, 2026-09-21: "junky and grey patches". A winner joins the
+  // grid when it has an image, which the image routine fills in on Tue/Fri.
   const newestWinners = products2026
     .filter(p =>
+      p.image &&
       (p.awardsWon || []).some(
         w => w.startsWith(`${newest.name} — `) && w.endsWith(`(${newest.edition})`)
       )
@@ -109,7 +114,7 @@ export default function Home() {
                 Just Announced: {newest.name} {newest.edition}
               </h2>
               <p className="text-sm text-charcoal-light mt-1">
-                All {newestWinners.length.toLocaleString()} winners, announced {newest.announcedDate}
+                {newest.winnerCount.toLocaleString()} winners, announced {newest.announcedDate}
               </p>
             </div>
             <Link href="/browse" className="text-sm font-medium text-gold hover:text-gold-dark shrink-0">See all →</Link>
@@ -120,11 +125,9 @@ export default function Home() {
                 <div key={product.id} className="bg-white flex flex-col">
                   <Link href={`/product/${product.slug}`} className="block">
                     <div className="product-tile aspect-square relative overflow-hidden">
-                      {product.image && (
-                        <img src={product.image} alt={`${product.brand} ${product.name}`} className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`} loading="lazy" />
-                      )}
-                      <span className="absolute top-2 left-2 bg-gold text-white text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded">
-                        New
+                      <img src={product.image} alt={`${product.brand} ${product.name}`} className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`} loading="lazy" />
+                      <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded">
+                        {newest.name} {newest.edition}
                       </span>
                       {product.awardCount > 1 && (
                         <span className={`absolute top-2 right-2 consensus-badge ${product.awardCount >= 3 ? 'consensus-high' : ''} text-[10px] w-5 h-5`}>
