@@ -42,6 +42,8 @@ export interface PressArticle {
 export const products2026: Product[] = productsJson as Product[];
 
 export const awardPrograms: AwardProgram[] = [
+  { id: '6', name: 'Allure Best of Beauty', edition: '2026', winnerCount: 308, announcedDate: '15 Sep 2026', region: 'US' },
+  { id: '5', name: 'Marie Claire Reader\'s Choice', edition: '2026', winnerCount: 57, announcedDate: '15 Apr 2026', region: 'US' },
   { id: '1', name: 'Allure Readers\' Choice', edition: '2026', winnerCount: 66, announcedDate: 'Jun 2026', region: 'US' },
   { id: '2', name: 'InStyle Best Beauty Buys', edition: '2026', winnerCount: 154, announcedDate: '20 May 2026', region: 'US' },
   { id: '3', name: 'Marie Claire Prix d\'Excellence', edition: '2026', winnerCount: 19, announcedDate: 'May 2026', region: 'US' },
@@ -59,11 +61,11 @@ export const pressArticles: PressArticle[] = [
   },
   {
     id: '2',
-    title: 'Oribe Just Recalled a Popular Shampoo for Potential Contamination',
-    source: 'Allure',
-    sourceUrl: 'https://www.allure.com/story/oribe-serene-scalp-shampoo-recall',
-    productName: 'Oribe Serene Scalp Densifying Shampoo',
-    productSlug: 'oribe-serene-scalp-densifying-shampoo',
+    title: 'Ballet Slippers, Bordeaux, and More of the Best Essie Nail Polishes',
+    source: 'Vogue',
+    sourceUrl: 'https://www.vogue.com/article/best-essie-nail-polish-colors',
+    productName: 'Essie Nail Art Studio Jelly Gloss Nail Polish',
+    productSlug: 'essie-nail-art-studio-jelly-gloss-nail-polish',
   },
 ];
 
