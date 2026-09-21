@@ -5,6 +5,35 @@ import { products2026, awardPrograms, pressArticles, publications } from '@/lib/
 
 export default function Home() {
   const top = [...products2026].sort((a, b) => b.awardCount - a.awardCount).slice(0, 8);
+
+  // The newest award class, taken from the top of awardPrograms so this follows
+  // whatever was recorded most recently instead of naming a programme here.
+  //
+  // It needs its own row because "Top of the Record" sorts by award count, and a
+  // freshly imported class cannot compete there: 245 of Allure's 308 2026 winners
+  // hold exactly one award, so the biggest import we have ever done moved three
+  // faces in the top eight. A visitor had no way to see what had just landed.
+  //
+  // Only winners with a packshot are shown — the rest render a grey placeholder,
+  // and a row of those reads as broken rather than new. They join as the image
+  // routine works through them.
+  const newest = awardPrograms[0];
+  //
+  // The WHOLE class is listed, not a preview of it — Sascha, 2026-09-21: "i want
+  // all new products on home page". Winners with a packshot lead, so the section
+  // opens on real product shots rather than a wall of grey; the rest follow and
+  // swap in as the image routine works through them.
+  const newestWinners = products2026
+    .filter(p =>
+      (p.awardsWon || []).some(
+        w => w.startsWith(`${newest.name} — `) && w.endsWith(`(${newest.edition})`)
+      )
+    )
+    .sort((a, b) =>
+      (b.image ? 1 : 0) - (a.image ? 1 : 0) ||
+      b.awardCount - a.awardCount ||
+      a.brand.localeCompare(b.brand)
+    );
   return (
     <>
       <header className="bg-cream border-b border-cream-dark">
@@ -47,6 +76,50 @@ export default function Home() {
           </ul>
         </div>
       </div>
+
+      {/* Newest award class */}
+      {newestWinners.length > 0 && (
+        <>
+          <div className="max-w-6xl mx-auto px-4 pt-10 pb-3 flex items-end justify-between gap-4">
+            <div>
+              <h2 className="font-serif text-xl sm:text-2xl font-semibold text-charcoal">
+                Just Announced: {newest.name} {newest.edition}
+              </h2>
+              <p className="text-sm text-charcoal-light mt-1">
+                All {newestWinners.length.toLocaleString()} winners, announced {newest.announcedDate}
+              </p>
+            </div>
+            <Link href="/browse" className="text-sm font-medium text-gold hover:text-gold-dark shrink-0">See all →</Link>
+          </div>
+          <div className="max-w-6xl mx-auto px-4 pb-12">
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-px bg-cream-dark">
+              {newestWinners.map(product => (
+                <div key={product.id} className="bg-white flex flex-col">
+                  <Link href={`/product/${product.slug}`} className="block">
+                    <div className="product-tile aspect-square relative overflow-hidden">
+                      {product.image && (
+                        <img src={product.image} alt={`${product.brand} ${product.name}`} className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`} loading="lazy" />
+                      )}
+                      <span className="absolute top-2 left-2 bg-gold text-white text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded">
+                        New
+                      </span>
+                      {product.awardCount > 1 && (
+                        <span className={`absolute top-2 right-2 consensus-badge ${product.awardCount >= 3 ? 'consensus-high' : ''} text-[10px] w-5 h-5`}>
+                          {product.awardCount}
+                        </span>
+                      )}
+                    </div>
+                    <div className="p-3">
+                      <p className="text-[9px] font-semibold uppercase tracking-wider text-gold mb-0.5">{product.brand}</p>
+                      <h3 className="text-xs font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
+                    </div>
+                  </Link>
+                </div>
+              ))}
+            </div>
+          </div>
+        </>
+      )}
 
       {/* Most-awarded preview */}
       <div className="max-w-6xl mx-auto px-4 pt-10 pb-3 flex items-end justify-between gap-4">
