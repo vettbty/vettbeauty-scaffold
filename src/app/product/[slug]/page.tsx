@@ -14,6 +14,18 @@ function getProduct(slug: string) {
   return products2026.find((p) => p.slug === slug);
 }
 
+/**
+ * How each programme actually picks its winners. Editors trialling products and
+ * an algorithm ranking shop reviews are both real awards, but they are evidence
+ * of different things — see docs/AWARD-METHODOLOGY.md in the data repo. The
+ * three non-editorial programmes are named so a reader can tell them apart.
+ */
+const AWARD_MECHANISM: Record<string, string> = {
+  'Glowpick Awards': 'Ranked from shoppers’ reviews',
+  'Hwahae Beauty Awards': 'Ranked from shoppers’ reviews',
+  'Olive Young Awards': 'Retailer sales ranking',
+};
+
 function parseAward(awardStr: string) {
   const match = awardStr.match(/^(.+?) — (.+?) \((\d{4})\)$/);
   if (match) {
@@ -21,6 +33,17 @@ function parseAward(awardStr: string) {
       source: match[1].trim(),
       category: match[2].trim(),
       year: parseInt(match[3]),
+    };
+  }
+  // "Glowpick Awards (2025)" — a win whose category name is published only in
+  // Korean. We hold the publication and the year, and print those rather than
+  // dropping the award or machine-translating the category.
+  const noCategory = awardStr.match(/^(.+?) \((\d{4})\)$/);
+  if (noCategory) {
+    return {
+      source: noCategory[1].trim(),
+      category: '',
+      year: parseInt(noCategory[2]),
     };
   }
   // Fallback for malformed awards
@@ -121,6 +144,15 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                   </span>
                 ))}
               </div>
+              {uniqueSources.some(s => AWARD_MECHANISM[s]) && (
+                <ul className="mt-3 pt-3 border-t border-cream-dark space-y-1">
+                  {uniqueSources.filter(s => AWARD_MECHANISM[s]).map(s => (
+                    <li key={s} className="text-xs text-charcoal-light">
+                      <span className="font-semibold">{s}</span> · {AWARD_MECHANISM[s]}
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
 
             {/* Price & CTA */}
@@ -193,6 +225,11 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                     </p>
                     {award.category && (
                       <p className="text-sm text-charcoal-light">{award.category}</p>
+                    )}
+                    {AWARD_MECHANISM[award.source] && (
+                      <p className="text-xs text-charcoal-light italic">
+                        {AWARD_MECHANISM[award.source]}
+                      </p>
                     )}
                   </div>
                 </div>

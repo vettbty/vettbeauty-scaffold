@@ -45,8 +45,12 @@ const products = rows.map((row, i) => {
     name,
     price: row['Price'] && row['Price'] !== 'US' ? parseFloat(row['Price']) : null,
     image: '', // filled from db-images.json / resolved-images.json below
-    topAward: awards[0] || 'Award Winner',
-    awardCount: parseInt(row['Total awards']) || 1,
+    // Never invent an award. `parseInt('0') || 1` used to turn a zero-award row
+    // into "1 award", and `awards[0] || 'Award Winner'` gave it a placeholder
+    // name — together they rendered as "1 award from 0 publications" on 616
+    // live pages. The awards list is the single source of truth for both.
+    topAward: awards[0] || '',
+    awardCount: awards.length,
     category: row['Category'] || 'Other',
     subcategory: row['Subcategory'] || '',
     year: 2026,
