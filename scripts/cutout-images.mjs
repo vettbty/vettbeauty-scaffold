@@ -16,20 +16,29 @@
 // back with bites eaten out of them. Both failures are the same bug: one
 // brightness number cannot tell backdrop from product.
 //
-// Three signals separate them instead, and the fill needs all three:
+// Two signals separate them instead, and the fill needs both:
 //
-//   brightness  the backdrop and its shadow are light; FLOOR stops the fill
-//               before it reaches anything genuinely dark.
-//   chroma      a backdrop and a cast shadow are neutral. A pale pink jar or
-//               a frosted mint cap is not. This is what keeps coloured-but-
-//               light products whole.
-//   gradient    a cast shadow is a smooth ramp, so the fill flows down it; a
-//               product outline is a step edge, so the fill stops dead at it.
+//   the dimming  a cast shadow is the backdrop multiplied down — at any point
+//                along it the pixel is close to the backdrop colour times some
+//                k below 1. Accept a pixel when it looks like THIS backdrop
+//                dimmed, and stop once it is darker than a shadow goes. That
+//                one test carries both the old brightness rule and the old
+//                chroma rule: a pale pink jar or a frosted mint cap is not the
+//                backdrop at any k, so it stays.
+//   gradient     a cast shadow is a smooth ramp, so the fill flows down it; a
+//                product outline is a step edge, so the fill stops dead at it.
+//
+// AND THE BACKDROP NEED NOT BE WHITE. What makes a packshot keyable is that its
+// backdrop is plain, not that it is white — the gate is border uniformity. The
+// tile blends a white backdrop away by multiplying against its own blush, but
+// it cannot do that to grey, so every shot on a light grey sweep was arriving
+// as a grey box sitting in the middle of the card. Those key perfectly well
+// once the fill stops assuming the backdrop is 255. Lifestyle shots and
+// collages still fail the gate, because their borders are not one colour.
 //
 // Integrity rule, unchanged: a cutout that ate the product is worse than no
-// cutout. Anything that shatters, or that reaches the middle of the frame,
-// is abandoned and the plain photo is used instead. Images whose borders are
-// not white are skipped entirely, as before.
+// cutout. Anything that shatters, or that reaches the middle of the frame, is
+// abandoned and the plain photo is used instead.
 import fs from 'node:fs';
 import path from 'node:path';
 import sharp from 'sharp';
@@ -44,10 +53,16 @@ const RECUT = process.argv.includes('--recut');
 const onlyIdx = process.argv.indexOf('--only');
 const ONLY = onlyIdx === -1 ? [] : (process.argv[onlyIdx + 1] || '').split(',').filter(Boolean);
 
-const MAX = 2000, BORDER_WHITE_FRAC = 0.85;
-const FLOOR = 215;   // never key out anything darker than this
+const MAX = 2000;
+const BORDER_PLAIN_FRAC = 0.95;  // share of the border that must be one colour
+const BORDER_TOL = 12;           // how far a border pixel may sit from that colour
+const BORDER_SPREAD = 24;        // p5..p95 luminance range a flat backdrop stays within
+const BG_MIN_LUM = 120;          // a backdrop darker than this is not a sweep
+const RESIDUE_MAX = 0.25;        // largest flat backdrop slab the keep may still contain
+const SHADOW_MIN = 0.84;         // a cast shadow does not dim the backdrop further than this
+const SHADOW_MAX = 1.02;         // a shadow only ever dims: never treat a brighter pixel as backdrop
+const SHADOW_TOL = 12;           // how far a shadow pixel may sit from the dimmed backdrop
 const GRAD = 42;     // Sobel magnitude a product outline exceeds and a shadow does not
-const CHROMA = 10;   // backdrop and shadow are neutral; products are not
 const STRICT = 4;    // conservative fill: the backdrop colour and nothing else
 
 /** Flood from every border pixel through anything `ok` accepts. */
@@ -103,11 +118,9 @@ async function cutout(slug, url) {
   const N = w * h;
   const idx = (x, y) => (y * w + x) * ch;
 
-  const lum = new Float32Array(N), chroma = new Float32Array(N);
+  const lum = new Float32Array(N);
   for (let p = 0; p < N; p++) {
-    const r = data[p*ch], g = data[p*ch+1], b = data[p*ch+2];
-    lum[p] = 0.299*r + 0.587*g + 0.114*b;
-    chroma[p] = Math.max(r, g, b) - Math.min(r, g, b);
+    lum[p] = 0.299*data[p*ch] + 0.587*data[p*ch+1] + 0.114*data[p*ch+2];
   }
   const grad = new Float32Array(N);
   for (let y = 1; y < h - 1; y++) for (let x = 1; x < w - 1; x++) {
@@ -117,25 +130,58 @@ async function cutout(slug, url) {
     grad[p] = Math.hypot(gx, gy);
   }
 
-  // border whiteness check — only white-backdrop packshots are cut out
-  let border = 0, white = 0;
-  const isWhite = (i) => data[i] >= 242 && data[i+1] >= 242 && data[i+2] >= 242;
-  for (let x = 0; x < w; x++) for (const y of [0, h-1]) { border++; if (isWhite(idx(x, y))) white++; }
-  for (let y = 0; y < h; y++) for (const x of [0, w-1]) { border++; if (isWhite(idx(x, y))) white++; }
-  if (white / border < BORDER_WHITE_FRAC) return { skipped: 'border not white' };
-
   // The backdrop's actual colour, rather than an assumption about it.
   const cols = [[], [], []];
   const push = (i) => { for (let c = 0; c < 3; c++) cols[c].push(data[i + c]); };
   for (let x = 0; x < w; x++) { push(idx(x, 0)); push(idx(x, h-1)); }
   for (let y = 0; y < h; y++) { push(idx(0, y)); push(idx(w-1, y)); }
   const bg = cols.map(a => { a.sort((p, q) => p - q); return a[a.length >> 1]; });
+  const bgLum = 0.299*bg[0] + 0.587*bg[1] + 0.114*bg[2];
+
+  /* A packshot is a product on a plain backdrop, and what matters is that the
+     backdrop IS plain — not that it is white. Demanding white turned away every
+     shot on a light grey or faintly warm sweep, and those are the ones that
+     then rendered as a grey box sitting on the tile: the tile blends a white
+     backdrop away by multiplying, but it cannot do that with grey. Lifestyle
+     shots and collages still fail here, because their borders are not one
+     colour — which is the distinction that actually matters. */
+  let border = 0, plain = 0;
+  const edgeLum = [];
+  const nearBg = (i) => Math.abs(data[i] - bg[0]) <= BORDER_TOL
+                     && Math.abs(data[i+1] - bg[1]) <= BORDER_TOL
+                     && Math.abs(data[i+2] - bg[2]) <= BORDER_TOL;
+  const tally = (i, p) => { border++; if (nearBg(i)) plain++; edgeLum.push(lum[p]); };
+  for (let x = 0; x < w; x++) for (const y of [0, h-1]) tally(idx(x, y), y*w + x);
+  for (let y = 0; y < h; y++) for (const x of [0, w-1]) tally(idx(x, y), y*w + x);
+  if (plain / border < BORDER_PLAIN_FRAC) return { skipped: 'border not one colour' };
+  if (bgLum < BG_MIN_LUM) return { skipped: 'backdrop too dark to key' };
+  /* A flat sweep and a graduated one both look uniform enough by the count
+     above, but a gradient's dark corner sits below the dimming the fill will
+     follow, so it survives as a wedge welded to the product — worse than the
+     grey box it replaced. Judge the spread, not just the mode. */
+  edgeLum.sort((a, b) => a - b);
+  const p05 = edgeLum[Math.floor(edgeLum.length * 0.05)];
+  const p95 = edgeLum[Math.floor(edgeLum.length * 0.95)];
+  if (p95 - p05 > BORDER_SPREAD) return { skipped: 'backdrop is a gradient, not a flat sweep' };
 
   const cons = flood(w, h, p =>
     Math.abs(data[p*ch] - bg[0]) <= STRICT &&
     Math.abs(data[p*ch+1] - bg[1]) <= STRICT &&
     Math.abs(data[p*ch+2] - bg[2]) <= STRICT);
-  const aggr = flood(w, h, p => lum[p] >= FLOOR && chroma[p] <= CHROMA && grad[p] <= GRAD);
+  /* A cast shadow is the backdrop dimmed: at every point along it the pixel is
+     roughly the backdrop colour multiplied by some k below 1. So instead of
+     "light and neutral" — which is only a description of a WHITE backdrop —
+     accept a pixel when it looks like this backdrop at some plausible dimming,
+     and stop once it is darker than a shadow goes. On white this is the same
+     test as before; on grey or tinted it is the test that white never was. */
+  const aggr = flood(w, h, p => {
+    if (grad[p] > GRAD) return false;
+    const k = lum[p] / bgLum;
+    if (k < SHADOW_MIN || k > SHADOW_MAX) return false;
+    return Math.abs(data[p*ch]   - bg[0]*k) <= SHADOW_TOL
+        && Math.abs(data[p*ch+1] - bg[1]*k) <= SHADOW_TOL
+        && Math.abs(data[p*ch+2] - bg[2]*k) <= SHADOW_TOL;
+  });
 
   const sCons = silhouette(cons, w, h), sAggr = silhouette(aggr, w, h);
   /* If the shadow-keying fill kept far less than the conservative one, it did
@@ -156,7 +202,54 @@ async function cutout(slug, url) {
     const p = y*w + x;
     if (alpha[p] !== 255) continue;
     if (!(alpha[p-1] === 0 || alpha[p+1] === 0 || alpha[p-w] === 0 || alpha[p+w] === 0)) continue;
-    soft[p] = Math.round(255 * Math.max(0, Math.min(1, (255 - lum[p]) / (255 - FLOOR))));
+    soft[p] = Math.round(255 * Math.max(0, Math.min(1, (bgLum - lum[p]) / (bgLum * (1 - SHADOW_MIN)))));
+  }
+
+  /* A non-white sweep only keys well when the light across it is even. Where
+     the shot has a hard cast shadow, the shadow's own edge is a step, so the
+     fill cannot cross it and the shadow survives as a grey wedge welded to the
+     product — worse than the grey box it replaced. So measure what is left
+     behind: flat, undimmed backdrop colour still inside the keep.
+     White sweeps are exempt. A white backdrop that survives is invisible on
+     the tile, which multiplies it away, and exempting them keeps this check
+     away from the white-backdrop path that was already working. */
+  const bgIsWhite = bgLum >= 246 && (Math.max(...bg) - Math.min(...bg)) <= 6;
+  if (!bgIsWhite) {
+    /* What is left behind is not scattered — it is one SLAB, with a straight
+       edge where the fill hit the shadow's step and stopped. So look for the
+       largest connected run of flat backdrop-coloured pixels, not the total.
+       The total catches a white product on a grey sweep, whose body is also
+       flat and also near the backdrop's brightness; the largest run does not,
+       because a product's flat areas are broken up by its own labels, edges
+       and lettering. */
+    const isBackdropish = new Uint8Array(N);
+    let keep = 0;
+    for (let p = 0; p < N; p++) {
+      if (soft[p] <= 8) continue;
+      keep++;
+      if (grad[p] > 8) continue;
+      const k = lum[p] / bgLum;
+      if (k < 0.5 || k > SHADOW_MAX) continue;
+      if (Math.abs(data[p*ch]   - bg[0]*k) <= SHADOW_TOL
+       && Math.abs(data[p*ch+1] - bg[1]*k) <= SHADOW_TOL
+       && Math.abs(data[p*ch+2] - bg[2]*k) <= SHADOW_TOL) isBackdropish[p] = 1;
+    }
+    let biggest = 0;
+    const seen = new Uint8Array(N);
+    for (let s0 = 0; s0 < N; s0++) {
+      if (seen[s0] || !isBackdropish[s0]) continue;
+      let n = 0; const st = [s0]; seen[s0] = 1;
+      while (st.length) {
+        const p = st.pop(); n++;
+        const x = p % w, y = (p / w) | 0;
+        if (x > 0 && !seen[p-1] && isBackdropish[p-1]) { seen[p-1] = 1; st.push(p-1); }
+        if (x < w-1 && !seen[p+1] && isBackdropish[p+1]) { seen[p+1] = 1; st.push(p+1); }
+        if (y > 0 && !seen[p-w] && isBackdropish[p-w]) { seen[p-w] = 1; st.push(p-w); }
+        if (y < h-1 && !seen[p+w] && isBackdropish[p+w]) { seen[p+w] = 1; st.push(p+w); }
+      }
+      if (n > biggest) biggest = n;
+    }
+    if (keep && biggest / keep > RESIDUE_MAX) return { skipped: 'backdrop left behind (uneven light)' };
   }
 
   // INTEGRITY CHECKS — either symptom means the fill escaped into the product.

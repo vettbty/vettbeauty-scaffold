@@ -1771,7 +1771,7 @@
     "brand": "Batiste",
     "name": "Light Dry Shampoo Mellow Melon",
     "price": 12,
-    "image": "https://media.allure.com/photos/687aa963e6fa669dea7d3f30/3:4/w_800,c_limit/Batiste%20Light%20Mellow%20Mellon.jpg",
+    "image": "/cutouts/batiste-light-dry-shampoo-mellow-melon.webp",
     "topAward": "Allure Best of Beauty — Best Dry Shampoo Spray (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -1783,7 +1783,9 @@
     "buyLink": "https://www.ulta.com/p/light-dry-shampoo-mellow-melon-pimprod2045775",
     "awardsWon": [
       "Allure Best of Beauty — Best Dry Shampoo Spray (2025)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/687aa963e6fa669dea7d3f30/3:4/w_800,c_limit/Batiste%20Light%20Mellow%20Mellon.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-81",
@@ -4693,7 +4695,7 @@
     "brand": "BRIXY",
     "name": "Blemish Control Facial Cleanser",
     "price": 16,
-    "image": "https://media.allure.com/photos/68c9b3be449a1c2d26c4603a/3:4/w_800,c_limit/BRIXY%20Blemish%20Control%20Facial%20Cleanser.jpg",
+    "image": "/cutouts/brixy-blemish-control-facial-cleanser.webp",
     "topAward": "Allure Best of Beauty — Best Acne Cleansing Bar (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -4705,7 +4707,9 @@
     "buyLink": "https://www.amazon.com/dp/B0CZMCDM1Z?tag=vettbeauty-20",
     "awardsWon": [
       "Allure Best of Beauty — Best Acne Cleansing Bar (2025)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/68c9b3be449a1c2d26c4603a/3:4/w_800,c_limit/BRIXY%20Blemish%20Control%20Facial%20Cleanser.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-215",
@@ -6998,7 +7002,7 @@
     "brand": "NERRĀ",
     "name": "Exfoliating Body Glove Set",
     "price": 28,
-    "image": "https://cdn.shopify.com/s/files/1/0704/8180/5614/files/GLOVE_01.webp?v=1733961762",
+    "image": "/cutouts/nerr--exfoliating-body-glove-set.webp",
     "topAward": "Marie Claire Skin & Hair Awards — Best Body Exfoliator (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -7010,7 +7014,9 @@
     "buyLink": "https://nerra.com/collections/all/products/exfoliating-body-gloves",
     "awardsWon": [
       "Marie Claire Skin & Hair Awards — Best Body Exfoliator (2025)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0704/8180/5614/files/GLOVE_01.webp?v=1733961762",
+    "imageCutout": true
   },
   {
     "id": "prod-321",
@@ -7235,7 +7241,7 @@
     "brand": "hanni",
     "name": "Cocoon Cleanse",
     "price": 18,
-    "image": "https://cdn.mos.cms.futurecdn.net/ByVHKaxx7fDghSekAM4sK4.png",
+    "image": "/cutouts/hanni-cocoon-cleanse.webp",
     "topAward": "Marie Claire Skin & Hair Awards — Best Bar Soap (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -7247,7 +7253,9 @@
     "buyLink": "https://go.shopmy.us/p-78475613",
     "awardsWon": [
       "Marie Claire Skin & Hair Awards — Best Bar Soap (2025)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.mos.cms.futurecdn.net/ByVHKaxx7fDghSekAM4sK4.png",
+    "imageCutout": true
   },
   {
     "id": "prod-332",
@@ -8771,7 +8779,7 @@
     "brand": "côte",
     "name": "Nourishing Daily Shampoo",
     "price": 34,
-    "image": "https://cotebeauty.com/cdn/shop/files/116_39f999b9-28ca-4e89-a6d7-3b3fec856bcd.png?v=1738709491",
+    "image": "/cutouts/c-te-nourishing-daily-shampoo.webp",
     "topAward": "Marie Claire Skin & Hair Awards — Best Clean-Standard Shampoo (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -8783,7 +8791,9 @@
     "buyLink": "https://go.shopmy.us/p-78197166",
     "awardsWon": [
       "Marie Claire Skin & Hair Awards — Best Clean-Standard Shampoo (2025)"
-    ]
+    ],
+    "imageOriginal": "https://cotebeauty.com/cdn/shop/files/116_39f999b9-28ca-4e89-a6d7-3b3fec856bcd.png?v=1738709491",
+    "imageCutout": true
   },
   {
     "id": "prod-402",
@@ -15577,7 +15587,7 @@
     "brand": "GO Beauty",
     "name": "Pure Vitality Day Serum",
     "price": 49,
-    "image": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/dc2003ce8043042524d5cf9243547f47a01d9a7e-4846x4846.jpg?w=900&fit=max&auto=format",
+    "image": "/cutouts/go-beauty-pure-vitality-day-serum.webp",
     "topAward": "NewBeauty Readers Choice — Favorite Antioxidant Serum (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -15589,7 +15599,9 @@
     "buyLink": "https://go.shopmy.us/p-78506388",
     "awardsWon": [
       "NewBeauty Readers Choice — Favorite Antioxidant Serum (2025)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/dc2003ce8043042524d5cf9243547f47a01d9a7e-4846x4846.jpg?w=900&fit=max&auto=format",
+    "imageCutout": true
   },
   {
     "id": "prod-713",
@@ -16719,7 +16731,7 @@
     "brand": "Creed",
     "name": "Royal Mayfair Eau de Parfum",
     "price": null,
-    "image": "https://creedboutique.com/cdn/shop/files/royal-mayfair-100ml-new.jpg?v=1733321915",
+    "image": "/cutouts/creed-royal-mayfair-eau-de-parfum.webp",
     "topAward": "Vogue Beauty Awards — Vogue's Greatest Product Of All Time: Fragrance — Winner (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -16731,7 +16743,9 @@
     "buyLink": "https://go.shopmy.us/p-78197645",
     "awardsWon": [
       "Vogue Beauty Awards — Vogue's Greatest Product Of All Time: Fragrance — Winner (2025)"
-    ]
+    ],
+    "imageOriginal": "https://creedboutique.com/cdn/shop/files/royal-mayfair-100ml-new.jpg?v=1733321915",
+    "imageCutout": true
   },
   {
     "id": "prod-765",
@@ -16761,7 +16775,7 @@
     "brand": "Typebea",
     "name": "G1 Overnight Boosting Peptide Serum",
     "price": 52,
-    "image": "https://us.typebea.com/cdn/shop/files/TBOB001-G_1OvernightBoostingPeptideSerum.jpg?v=1785793138",
+    "image": "/cutouts/typebea-g1-overnight-boosting-peptide-serum.webp",
     "topAward": "Vogue Beauty Awards — Vogue's Future Of Beauty Innovator: Hair — Winner (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -16773,7 +16787,9 @@
     "buyLink": "https://us.typebea.com/products/overnight-boosting-peptide-1",
     "awardsWon": [
       "Vogue Beauty Awards — Vogue's Future Of Beauty Innovator: Hair — Winner (2025)"
-    ]
+    ],
+    "imageOriginal": "https://us.typebea.com/cdn/shop/files/TBOB001-G_1OvernightBoostingPeptideSerum.jpg?v=1785793138",
+    "imageCutout": true
   },
   {
     "id": "prod-767",
@@ -17383,7 +17399,7 @@
     "brand": "Summer Fridays",
     "name": "Jet Lag Eye Patches",
     "price": 24,
-    "image": "https://media.allure.com/photos/6a8f14957d3e83cc3a90dd77/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/summer-fridays-jet-lag-eye-patches.webp",
     "topAward": "Allure Best of Beauty — Best Undereye Patches (2026)",
     "awardCount": 2,
     "category": "Skincare",
@@ -17396,7 +17412,9 @@
     "awardsWon": [
       "Allure Best of Beauty — Best Undereye Patches (2026)",
       "Elle Beauty Awards — 2025 Future of Beauty Award — Skin (2025)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f14957d3e83cc3a90dd77/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-796",
@@ -19590,7 +19608,7 @@
     "brand": "Eucerin",
     "name": "Advanced Hydration Sunscreen for Face SPF 50",
     "price": null,
-    "image": "https://media.glamour.com/photos/69a73b8b4b95c4ecf0e1227e/3:4/w_800,c_limit/_Eucerin%20Advanced%20Hydration%20Face%20SPF%2050_.jpg",
+    "image": "/cutouts/eucerin-advanced-hydration-sunscreen-for-face-spf-50.webp",
     "topAward": "Glamour Beauty Awards — Drugstore Skin Care — Best Face Sunscreen (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -19602,7 +19620,9 @@
     "buyLink": "https://www.amazon.com/dp/B0DJTXV6XQ?tag=vettbeauty-20",
     "awardsWon": [
       "Glamour Beauty Awards — Drugstore Skin Care — Best Face Sunscreen (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.glamour.com/photos/69a73b8b4b95c4ecf0e1227e/3:4/w_800,c_limit/_Eucerin%20Advanced%20Hydration%20Face%20SPF%2050_.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-897",
@@ -20324,7 +20344,7 @@
     "brand": "Bala",
     "name": "Bangles Wearable Weights",
     "price": null,
-    "image": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Bangles_1lb_Blush_Render_Angle_DTC_2400x3000_d7a095a8-298c-4b83-aba4-1ed7d04a0ada.jpg?v=1710355173",
+    "image": "/cutouts/bala-bangles-wearable-weights.webp",
     "topAward": "Glamour Beauty Awards — Wellness — Best Wearable Weights (2026)",
     "awardCount": 1,
     "category": "Wellness",
@@ -20336,7 +20356,9 @@
     "buyLink": "https://go.shopmy.us/p-78146525",
     "awardsWon": [
       "Glamour Beauty Awards — Wellness — Best Wearable Weights (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Bangles_1lb_Blush_Render_Angle_DTC_2400x3000_d7a095a8-298c-4b83-aba4-1ed7d04a0ada.jpg?v=1710355173",
+    "imageCutout": true
   },
   {
     "id": "prod-931",
@@ -20472,7 +20494,7 @@
     "brand": "Rose Ingleton MD",
     "name": "Superfruit Exfoliating Tonic",
     "price": 48,
-    "image": "https://media.allure.com/photos/6a8f0f849a516662b0cbb2ce/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/rose-ingleton-md-superfruit-exfoliating-tonic.webp",
     "topAward": "Allure Best of Beauty — Best Liquid Exfoliator (2026)",
     "awardCount": 2,
     "category": "Skincare",
@@ -20485,7 +20507,9 @@
     "awardsWon": [
       "Allure Best of Beauty — Best Liquid Exfoliator (2026)",
       "InStyle Best Beauty Buys — Best Toner (2025)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f0f849a516662b0cbb2ce/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-938",
@@ -20559,7 +20583,7 @@
     "brand": "K18",
     "name": "AstroLift Reparative Volume Spray",
     "price": 46,
-    "image": "https://www.k18hair.com/cdn/shop/files/Untitled_design_63.png?v=1746031451",
+    "image": "/cutouts/k18-astrolift-reparative-volume-spray.webp",
     "topAward": "Allure Best of Beauty — Best Hair Volumizer (2025)",
     "awardCount": 4,
     "category": "Hair",
@@ -20574,7 +20598,9 @@
       "Glamour Beauty Awards — Straight & Wavy Hair — Best Luxury Texturizer (2026)",
       "Cosmopolitan Beauty Awards — Best Root Lifter (2026)",
       "Cosmopolitan Readers Choice — Best Volumizer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.k18hair.com/cdn/shop/files/Untitled_design_63.png?v=1746031451",
+    "imageCutout": true
   },
   {
     "id": "prod-942",
@@ -20738,7 +20764,7 @@
     "brand": "Tatcha",
     "name": "The Clarifying Clay Mask",
     "price": 70,
-    "image": "https://tatcha.com/cdn/shop/files/ClarifyingClayMask-pdp-Aug26-FullSize-MainImage-1200x1200.jpg?v=1788791020&width=1200",
+    "image": "/cutouts/tatcha-the-clarifying-clay-mask.webp",
     "topAward": "InStyle Best Beauty Buys — Best Clarifying Mask (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -20750,7 +20776,9 @@
     "buyLink": "https://go.shopmy.us/p-81015696",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Clarifying Mask (2025)"
-    ]
+    ],
+    "imageOriginal": "https://tatcha.com/cdn/shop/files/ClarifyingClayMask-pdp-Aug26-FullSize-MainImage-1200x1200.jpg?v=1788791020&width=1200",
+    "imageCutout": true
   },
   {
     "id": "prod-950",
@@ -21387,7 +21415,7 @@
     "brand": "Kopari Beauty",
     "name": "Golden Sunglaze Sheer Body Mist SPF 50",
     "price": 39,
-    "image": "https://cdn.shopify.com/s/files/1/0777/7633/files/PDPImages_30.png?v=1762268845",
+    "image": "/cutouts/kopari-beauty-golden-sunglaze-sheer-body-mist-spf-50.webp",
     "topAward": "InStyle Best Beauty Buys — Best Chemical Body Sunscreen (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -21399,7 +21427,9 @@
     "buyLink": "https://go.shopmy.us/p-78655789",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Chemical Body Sunscreen (2025)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0777/7633/files/PDPImages_30.png?v=1762268845",
+    "imageCutout": true
   },
   {
     "id": "prod-980",
@@ -21628,7 +21658,7 @@
     "brand": "ONE/SIZE",
     "name": "ONE/SIZE On 'Til Dawn Mattifying Waterproof Setting Spray",
     "price": 32,
-    "image": "https://www.onesizebeauty.com/cdn/shop/files/OTD-FullSize-BarelyPink-Mirror.jpg",
+    "image": "/cutouts/one-size-one-size-on--til-dawn-mattifying-waterproof-setting-spray.webp",
     "topAward": "InStyle Best Beauty Buys — Best Setting Spray (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -21640,7 +21670,9 @@
     "buyLink": "https://go.shopmy.us/p-81017232",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Setting Spray (2025)"
-    ]
+    ],
+    "imageOriginal": "https://www.onesizebeauty.com/cdn/shop/files/OTD-FullSize-BarelyPink-Mirror.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-991",
@@ -22366,7 +22398,7 @@
     "brand": "Manicurist",
     "name": "Healthy Glow Duo",
     "price": 34,
-    "image": "https://cdn.shopify.com/s/files/1/0320/5988/3565/files/HealthyGlowDuo_1800x1800_Pack_93ed990a-23df-46fb-8afd-c42dc002e52e.jpg?v=1770383907",
+    "image": "/cutouts/manicurist-healthy-glow-duo.webp",
     "topAward": "InStyle Best Beauty Buys — Best Treatment System (2025)",
     "awardCount": 1,
     "category": "Nails",
@@ -22378,7 +22410,9 @@
     "buyLink": "https://go.shopmy.us/p-81020784",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Treatment System (2025)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0320/5988/3565/files/HealthyGlowDuo_1800x1800_Pack_93ed990a-23df-46fb-8afd-c42dc002e52e.jpg?v=1770383907",
+    "imageCutout": true
   },
   {
     "id": "prod-1025",
@@ -22957,7 +22991,7 @@
     "brand": "DedCool",
     "name": "Xtra Milk Fragrance",
     "price": 90,
-    "image": "https://cdn.shopify.com/s/files/1/2340/6095/files/XM_2_2.png?v=1758644543",
+    "image": "/cutouts/dedcool-xtra-milk-fragrance.webp",
     "topAward": "InStyle Best Beauty Buys — Best Skin Scent (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -22969,7 +23003,9 @@
     "buyLink": "https://go.shopmy.us/p-78203065",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Skin Scent (2025)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/2340/6095/files/XM_2_2.png?v=1758644543",
+    "imageCutout": true
   },
   {
     "id": "prod-1052",
@@ -23420,7 +23456,7 @@
     "brand": "K18 Biomimetic Hairscience",
     "name": "Leave-In Molecular Repair Hair Mask",
     "price": 75,
-    "image": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Mask.jpg?v=1726613673",
+    "image": "/cutouts/k18-biomimetic-hairscience-leave-in-molecular-repair-hair-mask.webp",
     "topAward": "Allure Readers Choice — Hair Winner (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -23432,7 +23468,9 @@
     "buyLink": "https://go.shopmy.us/p-78563379",
     "awardsWon": [
       "Allure Readers Choice — Hair Winner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Mask.jpg?v=1726613673",
+    "imageCutout": true
   },
   {
     "id": "prod-1073",
@@ -23638,7 +23676,7 @@
     "brand": "Outside In",
     "name": "Silk Serum Foundation",
     "price": 64,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/7ccd0fd4-0bab-48a2-ac34-842ba306585a/2163aa9b-0dd7-4e9b-bd2d-a1cf3fe16c16.jpg",
+    "image": "/cutouts/outside-in-silk-serum-foundation.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Natural Finish Skin Tint (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -23650,7 +23688,9 @@
     "buyLink": "https://theoutsidein.com/products/silk-serum-foundation",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Natural Finish Skin Tint (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/7ccd0fd4-0bab-48a2-ac34-842ba306585a/2163aa9b-0dd7-4e9b-bd2d-a1cf3fe16c16.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1083",
@@ -23700,7 +23740,7 @@
     "brand": "Ogee",
     "name": "Complexion Perfecting Tinted Serum",
     "price": 49,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/7e84815c-8163-48ed-9d12-81cf9025f936/33026b5d-47bb-4a4d-bc1f-fc88fae492f2.jpg",
+    "image": "/cutouts/ogee-complexion-perfecting-tinted-serum.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Tinted Moisturizer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -23712,7 +23752,9 @@
     "buyLink": "https://go.shopmy.us/p-81543115",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Tinted Moisturizer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/7e84815c-8163-48ed-9d12-81cf9025f936/33026b5d-47bb-4a4d-bc1f-fc88fae492f2.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1086",
@@ -23720,7 +23762,7 @@
     "brand": "Westman Atelier",
     "name": "Vital Skin Foundation Stick",
     "price": 68,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/9c2e94ce-37ed-4b2e-9c6e-33ba108607cf/fa6640ae-da02-49a3-b114-14a76ab77343.jpg",
+    "image": "/cutouts/westman-atelier-vital-skin-foundation-stick.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Stick Foundation (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -23732,7 +23774,9 @@
     "buyLink": "https://www.sephora.com/product/westman-atelier-vital-skin-foundation-stick-P468429",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Stick Foundation (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/9c2e94ce-37ed-4b2e-9c6e-33ba108607cf/fa6640ae-da02-49a3-b114-14a76ab77343.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1087",
@@ -23740,7 +23784,7 @@
     "brand": "K18 Biomimetic Hairscience",
     "name": "AstroLift Reparative Volume Spray",
     "price": 46,
-    "image": "https://www.k18hair.com/cdn/shop/files/Untitled_design_63.png?v=1746031451&width=2000",
+    "image": "/cutouts/k18-biomimetic-hairscience-astrolift-reparative-volume-spray.webp",
     "topAward": "Allure Readers Choice — Breakthrough Winner (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -23752,7 +23796,9 @@
     "buyLink": "https://go.shopmy.us/p-78565353",
     "awardsWon": [
       "Allure Readers Choice — Breakthrough Winner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.k18hair.com/cdn/shop/files/Untitled_design_63.png?v=1746031451&width=2000",
+    "imageCutout": true
   },
   {
     "id": "prod-1088",
@@ -23997,7 +24043,7 @@
     "brand": "Aunu",
     "name": "Mānuka Salve",
     "price": 68,
-    "image": "https://media.allure.com/photos/6a8f4406cabd96ac550a677f/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/aunu-m-nuka-salve.webp",
     "topAward": "Allure Best of Beauty — Best Clean Skin-Care (2026)",
     "awardCount": 2,
     "category": "Skincare",
@@ -24010,7 +24056,9 @@
     "awardsWon": [
       "Allure Best of Beauty — Best Clean Skin-Care (2026)",
       "Cosmopolitan Beauty Awards — Best Multipurpose Cream (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f4406cabd96ac550a677f/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-1100",
@@ -24018,7 +24066,7 @@
     "brand": "Flamingo",
     "name": "Tweezers",
     "price": 14,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/9c6d0b34-6457-477d-9803-5ccec8ba2db9/2ea11da1-128d-4ceb-8537-1d0762288371.jpg",
+    "image": "/cutouts/flamingo-tweezers.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Tweezers (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -24030,7 +24078,9 @@
     "buyLink": "https://www.amazon.com/dp/B0BJMTLFLS?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Tweezers (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/9c6d0b34-6457-477d-9803-5ccec8ba2db9/2ea11da1-128d-4ceb-8537-1d0762288371.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1101",
@@ -24210,7 +24260,7 @@
     "brand": "Natasha Denona",
     "name": "Hy-Sculpt Liquid Bronzer",
     "price": 36,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/1e429421-7c6e-40ce-bb94-aed33aea4e15/adf18591-bcfa-402f-afce-3ecd1160d5da.jpg",
+    "image": "/cutouts/natasha-denona-hy-sculpt-liquid-bronzer.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Liquid Bronzer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -24222,7 +24272,9 @@
     "buyLink": "https://go.shopmy.us/p-81543738",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Liquid Bronzer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/1e429421-7c6e-40ce-bb94-aed33aea4e15/adf18591-bcfa-402f-afce-3ecd1160d5da.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1110",
@@ -24296,7 +24348,7 @@
     "brand": "Mara Porter",
     "name": "iWIG",
     "price": 19.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/d3356aaa-40b8-47f9-9cd5-fb4ddc417294/2dfdaea2-3e35-4c5c-928a-69f1238f0857.jpg",
+    "image": "/cutouts/mara-porter-iwig.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Makeup Game Changer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -24308,7 +24360,9 @@
     "buyLink": "https://www.maraporter.com/products/shade-sleek-fit",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Makeup Game Changer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/d3356aaa-40b8-47f9-9cd5-fb4ddc417294/2dfdaea2-3e35-4c5c-928a-69f1238f0857.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1114",
@@ -24404,7 +24458,7 @@
     "brand": "CosRX",
     "name": "PDRN Exosome Skinplaning Glaze Mask",
     "price": 17,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/16a3c734-93df-4506-8790-13829712c941/b456c79f-8194-4436-9637-3e12f0d1b77d.jpg",
+    "image": "/cutouts/cosrx-pdrn-exosome-skinplaning-glaze-mask.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Peel-Off Mask (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -24416,7 +24470,9 @@
     "buyLink": "https://click.linksynergy.com/link?id=lDbatWRMyd4&offerid=2059424.5426713625924377458466623&type=15&murl=https%3A%2F%2Fus.oliveyoung.com%2Fproducts%2FUA84194140",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Peel-Off Mask (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/16a3c734-93df-4506-8790-13829712c941/b456c79f-8194-4436-9637-3e12f0d1b77d.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1119",
@@ -24424,7 +24480,7 @@
     "brand": "PanOxyl",
     "name": "Acne Gel Wash",
     "price": 11.99,
-    "image": "https://media.allure.com/photos/6a8f1a6c40236fc2af464377/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/panoxyl-acne-gel-wash.webp",
     "topAward": "Allure Best of Beauty — Best Acne Cleanser (2026)",
     "awardCount": 2,
     "category": "Skincare",
@@ -24437,7 +24493,9 @@
     "awardsWon": [
       "Allure Best of Beauty — Best Acne Cleanser (2026)",
       "Cosmopolitan Beauty Awards — Best Cleanser for Acne-Prone Skin (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f1a6c40236fc2af464377/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-1120",
@@ -24445,7 +24503,7 @@
     "brand": "Innisfree",
     "name": "Green Tea Ceramide Milk",
     "price": 19,
-    "image": "https://media.allure.com/photos/6a8f449ad56cdc5335dafba6/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/innisfree-green-tea-ceramide-milk.webp",
     "topAward": "Allure Best of Beauty — Best Clean Skin-Care (2026)",
     "awardCount": 5,
     "category": "Skincare",
@@ -24461,7 +24519,9 @@
       "Glowpick Awards (2025)",
       "Glowpick Awards (2026)",
       "Hwahae Beauty Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f449ad56cdc5335dafba6/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-1121",
@@ -24491,7 +24551,7 @@
     "brand": "La Roche-Posay",
     "name": "Hyalu B5 Eye Serum",
     "price": 45,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/016b78e7-7bc3-4a86-aede-90d20dad6a2e/03e45859-323b-4ca6-b8ea-55cb653b08e3.jpg",
+    "image": "/cutouts/la-roche-posay-hyalu-b5-eye-serum.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hydrating Eye Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -24503,7 +24563,9 @@
     "buyLink": "https://click.linksynergy.com/link?id=lDbatWRMyd4&offerid=2059424.542676253785120077261996&type=15&murl=https%3A%2F%2Fus.oliveyoung.com%2Fproducts%2FUA44727404",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hydrating Eye Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/016b78e7-7bc3-4a86-aede-90d20dad6a2e/03e45859-323b-4ca6-b8ea-55cb653b08e3.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1123",
@@ -24534,7 +24596,7 @@
     "brand": "Mary Kay",
     "name": "Undereye Corrector",
     "price": 18,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/d629dfc0-f246-49b3-a90d-6cb66017a451/89f45f16-6880-4613-a4aa-bdb0ff1ddaa5.jpg",
+    "image": "/cutouts/mary-kay-undereye-corrector.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Color Corrector (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -24546,7 +24608,9 @@
     "buyLink": "https://www.marykay.com/en/root/mary-kay-undereye-corrector-deep-peach-10211392/990331237US10211392.html",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Color Corrector (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/d629dfc0-f246-49b3-a90d-6cb66017a451/89f45f16-6880-4613-a4aa-bdb0ff1ddaa5.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1125",
@@ -24636,7 +24700,7 @@
     "brand": "L’Oréal Paris",
     "name": "Lumi Le Glass Highlighter Stick",
     "price": 12.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/8df3c479-d789-4923-be0c-d6ef15f7d8d2/b024b528-dbc3-4c96-a07c-fd3d2205049d.jpg",
+    "image": "/cutouts/l-or-al-paris-lumi-le-glass-highlighter-stick.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Cream Highlighter (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -24648,7 +24712,9 @@
     "buyLink": "https://go.shopmy.us/p-81544769",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Cream Highlighter (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/8df3c479-d789-4923-be0c-d6ef15f7d8d2/b024b528-dbc3-4c96-a07c-fd3d2205049d.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1130",
@@ -24656,7 +24722,7 @@
     "brand": "Refy",
     "name": "Blur and Hydrate Primer",
     "price": 36,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/ddceb61f-126b-44a8-9fa6-d474041aa5c2/83e976aa-6842-47c7-8964-00d623228ed4.jpg",
+    "image": "/cutouts/refy-blur-and-hydrate-primer.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Pore-Smoothing Primer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -24668,7 +24734,9 @@
     "buyLink": "https://www.sephora.com/product/refy-beauty-blur-and-hydrate-oil-control-face-primer-hyaluronic-acid-P512240",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Pore-Smoothing Primer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/ddceb61f-126b-44a8-9fa6-d474041aa5c2/83e976aa-6842-47c7-8964-00d623228ed4.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1131",
@@ -24696,7 +24764,7 @@
     "brand": "Chanel",
     "name": "Rouge Allure Liquid Velvet Ultrawear Intense Matte Liquid Lip Colour",
     "price": 53,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/70da7336-4c11-47da-88c2-b9023a33526b/251a92cc-1ff2-4527-9bdc-1179fb7235fb.jpg",
+    "image": "/cutouts/chanel-rouge-allure-liquid-velvet-ultrawear-intense-matte-liquid-lip-colour.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Liquid Lipstick (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -24708,7 +24776,9 @@
     "buyLink": "https://go.shopmy.us/p-78182303",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Liquid Lipstick (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/70da7336-4c11-47da-88c2-b9023a33526b/251a92cc-1ff2-4527-9bdc-1179fb7235fb.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1133",
@@ -24716,7 +24786,7 @@
     "brand": "Lisa Eldridge",
     "name": "Baume Embrace Melting Lip Colour",
     "price": 36,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/b0c2bb7d-9860-4391-9b09-a7d933f510de/518bc000-0aa5-47bc-9390-64aecab0ddb8.jpg",
+    "image": "/cutouts/lisa-eldridge-baume-embrace-melting-lip-colour.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Sheer Lipstick (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -24728,7 +24798,9 @@
     "buyLink": "https://go.shopmy.us/p-82384584",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Sheer Lipstick (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/b0c2bb7d-9860-4391-9b09-a7d933f510de/518bc000-0aa5-47bc-9390-64aecab0ddb8.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1134",
@@ -24778,7 +24850,7 @@
     "brand": "Senself",
     "name": "Calming Botanical Serum",
     "price": 120,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/10b95896-90e3-492b-8c5c-7feb43876b25/530bfc36-fe85-4a9c-8bb7-f2e7fcf843b7.jpg",
+    "image": "/cutouts/senself-calming-botanical-serum.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Calming Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -24790,7 +24862,9 @@
     "buyLink": "https://go.shopmy.us/p-82384769",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Calming Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/10b95896-90e3-492b-8c5c-7feb43876b25/530bfc36-fe85-4a9c-8bb7-f2e7fcf843b7.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1137",
@@ -24798,7 +24872,7 @@
     "brand": "Face Reality",
     "name": "2.5% Advanced Acne Med",
     "price": 29,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/1cb0f70c-18b9-4250-88b0-cc36b6878e88/818c2aeb-274e-4ec2-b3e1-602bc65bc415.jpg",
+    "image": "/cutouts/face-reality-2-5--advanced-acne-med.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Spot Treatment (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -24810,7 +24884,9 @@
     "buyLink": "https://www.amazon.com/dp/B0D3KSK8CR?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Spot Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/1cb0f70c-18b9-4250-88b0-cc36b6878e88/818c2aeb-274e-4ec2-b3e1-602bc65bc415.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1138",
@@ -24882,7 +24958,7 @@
     "brand": "Eadem",
     "name": "Le Chouchou Lip Softening Balm",
     "price": 24,
-    "image": "https://media.allure.com/photos/6a8f66b64145460686aba406/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/eadem-le-chouchou-lip-softening-balm.webp",
     "topAward": "Allure Best of Beauty — Best Tinted Lip Balm (2026)",
     "awardCount": 2,
     "category": "Makeup",
@@ -24895,7 +24971,9 @@
     "awardsWon": [
       "Allure Best of Beauty — Best Tinted Lip Balm (2026)",
       "Cosmopolitan Beauty Awards — Best Lip Gloss (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f66b64145460686aba406/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-1142",
@@ -24926,7 +25004,7 @@
     "brand": "Velour Lashes",
     "name": "Effortless Self-Adhesive 2-Pack",
     "price": 30,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/929cdd88-534c-463a-962c-6000752156ce/3213dbf8-f6dd-4875-9ab1-b8420cb20f31.jpg",
+    "image": "/cutouts/velour-lashes-effortless-self-adhesive-2-pack.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best False Eyelashes (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -24938,7 +25016,9 @@
     "buyLink": "https://go.shopmy.us/p-82383750",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best False Eyelashes (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/929cdd88-534c-463a-962c-6000752156ce/3213dbf8-f6dd-4875-9ab1-b8420cb20f31.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1144",
@@ -25140,7 +25220,7 @@
     "brand": "Dr. Diamond's Metacine",
     "name": "InstaFacial Infusion Biomimetic Collagen Serum",
     "price": 325,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/46461598-4ef5-429e-92bb-75e13badb999/60d92153-d402-46e1-8d80-bafb10055e80.jpg",
+    "image": "/cutouts/dr--diamond-s-metacine-instafacial-infusion-biomimetic-collagen-serum.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Collagen-Boosting Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -25152,7 +25232,9 @@
     "buyLink": "https://go.shopmy.us/p-78299212",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Collagen-Boosting Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/46461598-4ef5-429e-92bb-75e13badb999/60d92153-d402-46e1-8d80-bafb10055e80.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1154",
@@ -25372,7 +25454,7 @@
     "brand": "CeraVe",
     "name": "Intensive Moisturizing Cream",
     "price": 23,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/6d064f12-54d8-4859-9990-76ae11abd034/e725b682-47fe-42b2-ace8-86fd7900ba59.jpg",
+    "image": "/cutouts/cerave-intensive-moisturizing-cream.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Moisturizer for Sensitive Skin (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -25384,7 +25466,9 @@
     "buyLink": "https://click.linksynergy.com/link?id=lDbatWRMyd4&offerid=2059424.542678480050044864656785&type=15&murl=https%3A%2F%2Fus.oliveyoung.com%2Fproducts%2FUA85316149",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Moisturizer for Sensitive Skin (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/6d064f12-54d8-4859-9990-76ae11abd034/e725b682-47fe-42b2-ace8-86fd7900ba59.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1165",
@@ -25392,7 +25476,7 @@
     "brand": "The Doux",
     "name": "One Love Co-Wash 16 oz.",
     "price": 24,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/d5e41b8b-c44b-4112-8c84-a6676f847af6/b9afa38f-fe49-489c-addb-d67a708aa323.jpg",
+    "image": "/cutouts/the-doux-one-love-co-wash-16-oz-.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Co-Wash (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -25404,7 +25488,9 @@
     "buyLink": "https://thedoux.com/products/one-love-co-wash",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Co-Wash (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/d5e41b8b-c44b-4112-8c84-a6676f847af6/b9afa38f-fe49-489c-addb-d67a708aa323.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1166",
@@ -25456,7 +25542,7 @@
     "brand": "Round Lab",
     "name": "Birch Moisturizing Sun Stick SPF 50",
     "price": 25,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/61c337ec-69f3-42d1-8440-870107d2d481/2eab763f-8e6a-4185-ac52-e90640cd8ad4.jpg",
+    "image": "/cutouts/round-lab-birch-moisturizing-sun-stick-spf-50.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Sunscreen Stick (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -25468,7 +25554,9 @@
     "buyLink": "https://www.ulta.com/p/birch-juice-moisturizing-uvlock-sun-stick-spf-50-pimprod2052318?sku=2644755",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Sunscreen Stick (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/61c337ec-69f3-42d1-8440-870107d2d481/2eab763f-8e6a-4185-ac52-e90640cd8ad4.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1169",
@@ -25476,7 +25564,7 @@
     "brand": "PMD Beauty",
     "name": "SMAS Lifting Massage Band",
     "price": 188,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/94d5c27f-65bb-4b1c-bc6d-be540eaf51ea/36897c93-6aeb-4054-b7c2-d7dbd4ca02ff.jpg",
+    "image": "/cutouts/pmd-beauty-smas-lifting-massage-band.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Face-Firming Device (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -25488,7 +25576,9 @@
     "buyLink": "https://go.shopmy.us/p-81545128",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Face-Firming Device (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/94d5c27f-65bb-4b1c-bc6d-be540eaf51ea/36897c93-6aeb-4054-b7c2-d7dbd4ca02ff.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1170",
@@ -25518,7 +25608,7 @@
     "brand": "Josie Maran",
     "name": "Hydrating Argan Body Wash",
     "price": 39,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/345e128f-86dd-48ab-b54f-8e3400417fd4/a56413a0-8b57-42c1-adff-52cb68186e4f.jpg",
+    "image": "/cutouts/josie-maran-hydrating-argan-body-wash.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Moisturizing Body Wash (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -25530,7 +25620,9 @@
     "buyLink": "https://go.shopmy.us/p-78562953",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Moisturizing Body Wash (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/345e128f-86dd-48ab-b54f-8e3400417fd4/a56413a0-8b57-42c1-adff-52cb68186e4f.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1172",
@@ -25580,7 +25672,7 @@
     "brand": "Burt’s Bees",
     "name": "Boosted Body Whipped Butter",
     "price": 12.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/dc7728a1-4d6a-49e6-b16b-3c0ed80c3141/16a17931-fb31-48b4-9824-a19ed24bd78b.jpg",
+    "image": "/cutouts/burt-s-bees-boosted-body-whipped-butter.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Body Butter (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -25592,7 +25684,9 @@
     "buyLink": "https://www.amazon.com/dp/B0F8XFF99Z?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Body Butter (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/dc7728a1-4d6a-49e6-b16b-3c0ed80c3141/16a17931-fb31-48b4-9824-a19ed24bd78b.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1175",
@@ -25600,7 +25694,7 @@
     "brand": "Vacation",
     "name": "Classic Spray SPF 50",
     "price": 19,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/36424695-fd1a-4302-9d41-a9b13fc5ac6a/9fe46fa6-41e6-4929-83bd-6f29903fbe9c.jpg",
+    "image": "/cutouts/vacation-classic-spray-spf-50.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Chemical Body Sunscreen (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -25612,7 +25706,9 @@
     "buyLink": "https://www.sephora.com/product/vacation-classic-spray-spf-50-sunscreen-P525723",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Chemical Body Sunscreen (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/36424695-fd1a-4302-9d41-a9b13fc5ac6a/9fe46fa6-41e6-4929-83bd-6f29903fbe9c.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1176",
@@ -25620,7 +25716,7 @@
     "brand": "Nair",
     "name": "Body Cream With Soothing Aloe & Water Lily",
     "price": 9.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/deef8ade-0cde-4493-930a-88c11d43b433/26e75057-6538-48e3-bc3e-6942cb14c3f7.jpg",
+    "image": "/cutouts/nair-body-cream-with-soothing-aloe---water-lily.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hair-Removal Cream (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -25632,7 +25728,9 @@
     "buyLink": "https://www.ulta.com/p/body-cream-hair-remover-with-soothing-aloe-water-lily-pimprod2048107?sku=2632041",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hair-Removal Cream (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/deef8ade-0cde-4493-930a-88c11d43b433/26e75057-6538-48e3-bc3e-6942cb14c3f7.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1177",
@@ -25682,7 +25780,7 @@
     "brand": "Nulastin",
     "name": "NuProtect Leave-In Primer",
     "price": 32,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/2f893dc7-c7e8-4395-91af-52704153377e/a24daae7-74cd-423e-9bfd-16eaad070093.jpg",
+    "image": "/cutouts/nulastin-nuprotect-leave-in-primer.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Leave-In Conditioner (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -25694,7 +25792,9 @@
     "buyLink": "https://www.ulta.com/p/nuprotect-leave-in-primer-mkt77002805?sku=77005101",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Leave-In Conditioner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/2f893dc7-c7e8-4395-91af-52704153377e/a24daae7-74cd-423e-9bfd-16eaad070093.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1180",
@@ -25836,7 +25936,7 @@
     "brand": "Crest",
     "name": "3DWhite Teeth Whitening Pen",
     "price": 26,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/2d930e1d-bfe1-4483-8240-84ca04ef56e4/1ab04e4f-bbd3-4494-9611-15faf55b0e96.jpg",
+    "image": "/cutouts/crest-3dwhite-teeth-whitening-pen.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Teeth Whitener (2026)",
     "awardCount": 1,
     "category": "Wellness",
@@ -25848,7 +25948,9 @@
     "buyLink": "https://www.amazon.com/dp/B0CNQJ1TS1?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Teeth Whitener (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/2d930e1d-bfe1-4483-8240-84ca04ef56e4/1ab04e4f-bbd3-4494-9611-15faf55b0e96.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1187",
@@ -25856,7 +25958,7 @@
     "brand": "Olay",
     "name": "Premium Bump Erasing Exfoliating Body Wash",
     "price": 26,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/abefccb4-f501-449e-8a61-56ea1b212333/86dab2c0-ac48-471d-aac9-42a987c4baae.jpg",
+    "image": "/cutouts/olay-premium-bump-erasing-exfoliating-body-wash.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Exfoliating Body Wash (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -25868,7 +25970,9 @@
     "buyLink": "https://www.target.com/p/olay-premium-body-wash-20-fl-oz/-/A-92508507",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Exfoliating Body Wash (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/abefccb4-f501-449e-8a61-56ea1b212333/86dab2c0-ac48-471d-aac9-42a987c4baae.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1188",
@@ -25943,7 +26047,7 @@
     "brand": "Jenny Patinkin",
     "name": "Skin Smoothing Trio Dermaplaning Set",
     "price": 18,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/75fa969c-8b51-4c16-b62a-ab8d24b1d095/16eae46b-1ec6-4c72-bd10-df9226c38435.jpg",
+    "image": "/cutouts/jenny-patinkin-skin-smoothing-trio-dermaplaning-set.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Dermaplaning Tool (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -25955,7 +26059,9 @@
     "buyLink": "https://go.shopmy.us/p-78558818",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Dermaplaning Tool (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/75fa969c-8b51-4c16-b62a-ab8d24b1d095/16eae46b-1ec6-4c72-bd10-df9226c38435.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1192",
@@ -26007,7 +26113,7 @@
     "brand": "Gillette Venus",
     "name": "Pubic Hair and Skin Daily Ingrown Serum",
     "price": 14.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/a37ebce0-adb9-419d-a1dc-2154b28a6407/503ea051-17d7-4a90-a425-949566f914fe.jpg",
+    "image": "/cutouts/gillette-venus-pubic-hair-and-skin-daily-ingrown-serum.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Treatment for Ingrown Hairs (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -26019,7 +26125,9 @@
     "buyLink": "https://www.amazon.com/dp/B08JHSZG7F?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Treatment for Ingrown Hairs (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/a37ebce0-adb9-419d-a1dc-2154b28a6407/503ea051-17d7-4a90-a425-949566f914fe.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1195",
@@ -26071,7 +26179,7 @@
     "brand": "Bali Body",
     "name": "Gradual Tanning Butter",
     "price": 33,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/61d13a8f-a360-4a48-99e7-8119b13157af/c3a65093-a4b7-43ed-a71d-ce920ee1e0c7.jpg",
+    "image": "/cutouts/bali-body-gradual-tanning-butter.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Gradual Self-Tanner (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -26083,7 +26191,9 @@
     "buyLink": "https://go.shopmy.us/p-78146388",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Gradual Self-Tanner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/61d13a8f-a360-4a48-99e7-8119b13157af/c3a65093-a4b7-43ed-a71d-ce920ee1e0c7.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1198",
@@ -26111,7 +26221,7 @@
     "brand": "Augustinus Bader",
     "name": "The Body Cream",
     "price": 200,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/5e6d0b23-4539-44d3-a4af-1b9fd381ab92/c8d9831c-291b-405f-ac85-e509a44d4a44.jpg",
+    "image": "/cutouts/augustinus-bader-the-body-cream.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Bodycare Splurge (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -26123,7 +26233,9 @@
     "buyLink": "https://go.shopmy.us/p-78143755",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Bodycare Splurge (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/5e6d0b23-4539-44d3-a4af-1b9fd381ab92/c8d9831c-291b-405f-ac85-e509a44d4a44.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1200",
@@ -26343,7 +26455,7 @@
     "brand": "Ciele",
     "name": "Filter & Protect SPF 30+",
     "price": 38,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/fc05bc74-e745-4e32-a644-0d3171560b67/9c572599-ad13-4d08-88bf-7b44a454408e.jpg",
+    "image": "/cutouts/ciele-filter---protect-spf-30-.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Sunscreen Powder (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -26355,7 +26467,9 @@
     "buyLink": "https://go.shopmy.us/p-78184963",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Sunscreen Powder (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/fc05bc74-e745-4e32-a644-0d3171560b67/9c572599-ad13-4d08-88bf-7b44a454408e.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1211",
@@ -26363,7 +26477,7 @@
     "brand": "Canopy",
     "name": "Faucet Filter",
     "price": 124,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/f4bc8e44-a483-4642-b965-431e102ae411/3d77b12b-d9ed-4d0d-b05b-0074c8bc089b.jpg",
+    "image": "/cutouts/canopy-faucet-filter.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Water Filter (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -26375,7 +26489,9 @@
     "buyLink": "https://go.shopmy.us/p-78173118",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Water Filter (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/f4bc8e44-a483-4642-b965-431e102ae411/3d77b12b-d9ed-4d0d-b05b-0074c8bc089b.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1212",
@@ -26428,7 +26544,7 @@
     "brand": "Secret",
     "name": "Clinical With Hyaluronic Acid + Vitiman Pack",
     "price": 13.97,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/f866b62c-f521-447c-9711-42e016684be3/08f3db1d-7bba-49ec-a53f-774ce829fe5a.jpg",
+    "image": "/cutouts/secret-clinical-with-hyaluronic-acid---vitiman-pack.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Antiperspirant (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -26440,7 +26556,9 @@
     "buyLink": "https://www.amazon.com/dp/B00HF3XSO0?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Antiperspirant (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/f866b62c-f521-447c-9711-42e016684be3/08f3db1d-7bba-49ec-a53f-774ce829fe5a.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1215",
@@ -26448,7 +26566,7 @@
     "brand": "Dove",
     "name": "Alcohol-Free Whole Body Deodorant",
     "price": 12.97,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/94cc2d14-46c9-400f-94be-e5a401c2691e/19c4d6eb-a482-4dd1-bf29-13d739289cab.jpg",
+    "image": "/cutouts/dove-alcohol-free-whole-body-deodorant.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Whole-Body Deodorant (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -26460,7 +26578,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FWMXN7LY?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Whole-Body Deodorant (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/94cc2d14-46c9-400f-94be-e5a401c2691e/19c4d6eb-a482-4dd1-bf29-13d739289cab.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1216",
@@ -26468,7 +26588,7 @@
     "brand": "Dolce Glow",
     "name": "2-Hour Express Self-Tanning Mousse in Ultra Dark",
     "price": 49,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/ebabe933-f794-4c67-af1d-eaa195b09749/37192bdc-0aa9-4051-a59f-e77bf5003ed4.jpg",
+    "image": "/cutouts/dolce-glow-2-hour-express-self-tanning-mousse-in-ultra-dark.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Self-Tanning Mousse (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -26480,7 +26600,9 @@
     "buyLink": "https://www.sephora.com/product/dolce-glow-2-hour-express-self-tanning-mousse-in-ultra-dark-P521717",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Self-Tanning Mousse (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/ebabe933-f794-4c67-af1d-eaa195b09749/37192bdc-0aa9-4051-a59f-e77bf5003ed4.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1217",
@@ -26488,7 +26610,7 @@
     "brand": "Schick Hydro Silk",
     "name": "Mini Razor",
     "price": 9.97,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/e7ff4889-a2e5-4d49-8dd8-992bb4f46e5b/bfc32e1f-449e-430c-8013-3711dc4e9fbb.jpg",
+    "image": "/cutouts/schick-hydro-silk-mini-razor.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Razor (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -26500,7 +26622,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FTZT31L8?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Razor (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/e7ff4889-a2e5-4d49-8dd8-992bb4f46e5b/bfc32e1f-449e-430c-8013-3711dc4e9fbb.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1218",
@@ -26530,7 +26654,7 @@
     "brand": "Crown Affair",
     "name": "The Dry Shampoo",
     "price": 32,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/d5fa89b5-8e7e-4aa7-adc6-188f48abd7bd/a333c3a7-9756-4ea4-99b2-47150c3c7f54.jpg",
+    "image": "/cutouts/crown-affair-the-dry-shampoo.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Dry Shampoo (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -26542,7 +26666,9 @@
     "buyLink": "https://go.shopmy.us/p-78198741",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Dry Shampoo (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/d5fa89b5-8e7e-4aa7-adc6-188f48abd7bd/a333c3a7-9756-4ea4-99b2-47150c3c7f54.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1220",
@@ -26550,7 +26676,7 @@
     "brand": "Pattern",
     "name": "Treatment Mask",
     "price": 29,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/025240e0-2ee3-4bbb-981f-ffdfc42bf58f/3b90bec6-ef9d-4949-a77c-d7ede309538e.jpg",
+    "image": "/cutouts/pattern-treatment-mask.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hair Mask for Curls (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -26562,7 +26688,9 @@
     "buyLink": "https://www.sephora.com/product/pattern-treatment-mask-P475986",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hair Mask for Curls (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/025240e0-2ee3-4bbb-981f-ffdfc42bf58f/3b90bec6-ef9d-4949-a77c-d7ede309538e.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1221",
@@ -26612,7 +26740,7 @@
     "brand": "Vegamour",
     "name": "Gro Hair Serum",
     "price": 24,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/3127e1f6-5c5b-47a8-a6bf-7bd5acfe740d/4f1304bd-ae95-4303-8b9f-5edea67872ca.jpg",
+    "image": "/cutouts/vegamour-gro-hair-serum.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hair Growth Serum (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -26624,7 +26752,9 @@
     "buyLink": "https://go.shopmy.us/p-82387550",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hair Growth Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/3127e1f6-5c5b-47a8-a6bf-7bd5acfe740d/4f1304bd-ae95-4303-8b9f-5edea67872ca.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1224",
@@ -26915,7 +27045,7 @@
     "brand": "Mane",
     "name": "Temp Check Anti-Frizz Heat Protector",
     "price": 26,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/e95c4d90-300c-446c-87b1-99c4cf6884b9/ee14c01e-4362-4443-bfeb-44cb47bf5cf1.jpg",
+    "image": "/cutouts/mane-temp-check-anti-frizz-heat-protector.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Heat Protectant (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -26927,7 +27057,9 @@
     "buyLink": "https://go.shopmy.us/p-82387774",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Heat Protectant (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/e95c4d90-300c-446c-87b1-99c4cf6884b9/ee14c01e-4362-4443-bfeb-44cb47bf5cf1.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1238",
@@ -26935,7 +27067,7 @@
     "brand": "Lelet",
     "name": "Glossy Arch Pony",
     "price": 128,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/5ec28218-d0c6-49c0-94b2-9a2b06d76813/b60c67e4-8d62-469c-a752-11ac87076635.jpg",
+    "image": "/cutouts/lelet-glossy-arch-pony.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hair Accessory (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -26947,7 +27079,9 @@
     "buyLink": "https://go.shopmy.us/p-82387848",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hair Accessory (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/5ec28218-d0c6-49c0-94b2-9a2b06d76813/b60c67e4-8d62-469c-a752-11ac87076635.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1239",
@@ -26975,7 +27109,7 @@
     "brand": "CurrentBody",
     "name": "Skin LED Hair Regrowth Device",
     "price": 1194.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/ddd8ff47-6584-47f9-af7b-bb456d110d43/31bf340f-a4d1-47b8-9b25-ff818a20ef48.jpg",
+    "image": "/cutouts/currentbody-skin-led-hair-regrowth-device.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hair Growth Device (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -26987,7 +27121,9 @@
     "buyLink": "https://go.shopmy.us/p-78200163",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hair Growth Device (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/ddd8ff47-6584-47f9-af7b-bb456d110d43/31bf340f-a4d1-47b8-9b25-ff818a20ef48.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1241",
@@ -27017,7 +27153,7 @@
     "brand": "TRESemmé",
     "name": "A-List Collection Workable Hairspray",
     "price": 12.97,
-    "image": "https://media.allure.com/photos/6a8a67ac13737fb040f5b783/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/tresemm--a-list-collection-workable-hairspray.webp",
     "topAward": "Allure Best of Beauty — Best Hairspray (2026)",
     "awardCount": 2,
     "category": "Hair",
@@ -27030,7 +27166,9 @@
     "awardsWon": [
       "Allure Best of Beauty — Best Hairspray (2026)",
       "Cosmopolitan Beauty Awards — Best Hairspray (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8a67ac13737fb040f5b783/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-1243",
@@ -27338,7 +27476,7 @@
     "brand": "RPZL",
     "name": "Acetate Claw Clip",
     "price": 25.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/955a3933-7743-4927-906d-c6df5c57dfcb/d8d3e050-8201-4abc-9e6c-ed96bfa6ba2a.jpg",
+    "image": "/cutouts/rpzl-acetate-claw-clip.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hair Clip (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -27350,7 +27488,9 @@
     "buyLink": "https://rpzl.com/products/rpzl-acetate-claw-clips",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hair Clip (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/955a3933-7743-4927-906d-c6df5c57dfcb/d8d3e050-8201-4abc-9e6c-ed96bfa6ba2a.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1258",
@@ -27358,7 +27498,7 @@
     "brand": "Crown Affair",
     "name": "The Brush No. 002",
     "price": 118,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/9c56793c-8ba8-4256-a986-e860e6e9d4ab/682cbbb1-9cb7-4ded-a31a-eaf9ef1ee7f2.jpg",
+    "image": "/cutouts/crown-affair-the-brush-no--002.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Detangling Brush (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -27370,7 +27510,9 @@
     "buyLink": "https://go.shopmy.us/p-78199318",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Detangling Brush (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/9c56793c-8ba8-4256-a986-e860e6e9d4ab/682cbbb1-9cb7-4ded-a31a-eaf9ef1ee7f2.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1259",
@@ -27440,7 +27582,7 @@
     "brand": "Orly",
     "name": "Bonder Rubberized Basecoat",
     "price": 8,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/c0164a97-5e50-4ffa-b482-e76659c76b06/a817aff7-276b-4887-a625-a1cd2d9422b6.jpg",
+    "image": "/cutouts/orly-bonder-rubberized-basecoat.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Base Coat (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -27452,7 +27594,9 @@
     "buyLink": "https://www.amazon.com/dp/B000VUT39S?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Base Coat (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/c0164a97-5e50-4ffa-b482-e76659c76b06/a817aff7-276b-4887-a625-a1cd2d9422b6.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1263",
@@ -27482,7 +27626,7 @@
     "brand": "Bubble",
     "name": "Slam Dunk Hydrating Moisturizer",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/748ee991-1209-43ee-8efd-e53028dbd3d9/ca2a1de7-774b-408a-9963-f56057236d5f.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/bubble-slam-dunk-hydrating-moisturizer.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Daytime Moisturizer (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -27494,7 +27638,9 @@
     "buyLink": "https://bubble.io",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Daytime Moisturizer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/748ee991-1209-43ee-8efd-e53028dbd3d9/ca2a1de7-774b-408a-9963-f56057236d5f.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-1265",
@@ -27524,7 +27670,7 @@
     "brand": "L. Erickson",
     "name": "Grab & Go Pony Holders",
     "price": 24,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/bb6255dd-b666-47a0-950b-67645fb550f4/e42dd7b3-0e3e-4f8f-a36d-6e767791c129.jpg",
+    "image": "/cutouts/l--erickson-grab---go-pony-holders.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hair Tie (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -27536,7 +27682,9 @@
     "buyLink": "https://go.shopmy.us/p-79276237",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hair Tie (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/bb6255dd-b666-47a0-950b-67645fb550f4/e42dd7b3-0e3e-4f8f-a36d-6e767791c129.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1267",
@@ -27566,7 +27714,7 @@
     "brand": "Madison Reed",
     "name": "Radiant Hair Color Kit",
     "price": 35,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/5f497d63-85e7-451e-8519-f672b458f572/bdca82e0-fd81-40c9-8743-d69296657e76.jpg",
+    "image": "/cutouts/madison-reed-radiant-hair-color-kit.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best At-Home Hair Color (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -27578,7 +27726,9 @@
     "buyLink": "https://go.shopmy.us/p-82386499",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best At-Home Hair Color (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/5f497d63-85e7-451e-8519-f672b458f572/bdca82e0-fd81-40c9-8743-d69296657e76.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1269",
@@ -27586,7 +27736,7 @@
     "brand": "R+Co",
     "name": "Hydration Moisture + Deep Repair Pro Treatment",
     "price": null,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/30a1231a-f126-4eff-b8b4-4266b7e3c24d/c2d78153-96d2-4479-a5c0-acd160de3595.jpg",
+    "image": "/cutouts/r-co-hydration-moisture---deep-repair-pro-treatment.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Pro Hair Treatment (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -27598,7 +27748,9 @@
     "buyLink": "https://pro.randco.com/products/hydration-moisture-deep-repair-pro-treatment-concentrate",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Pro Hair Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/30a1231a-f126-4eff-b8b4-4266b7e3c24d/c2d78153-96d2-4479-a5c0-acd160de3595.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1270",
@@ -27606,7 +27758,7 @@
     "brand": "Henry Rose",
     "name": "French Exit Eau de Parfum",
     "price": 120,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/d789c4e7-573f-4578-815a-324debe38efc/006e9354-5567-42d2-946e-0d27ed082b8e.jpg",
+    "image": "/cutouts/henry-rose-french-exit-eau-de-parfum.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Floral Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -27618,7 +27770,9 @@
     "buyLink": "https://henryrose.com/products/french-exit",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Floral Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/d789c4e7-573f-4578-815a-324debe38efc/006e9354-5567-42d2-946e-0d27ed082b8e.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1271",
@@ -27800,7 +27954,7 @@
     "brand": "Sol de Janeiro",
     "name": "Cheirosa 40 Jelly Perfume Balm",
     "price": 26,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/0598dc19-e30b-42bf-a1fa-e2c4c3092e0c/4b986640-0799-4ae1-b4df-5c6812eaf9c5.jpg",
+    "image": "/cutouts/sol-de-janeiro-cheirosa-40-jelly-perfume-balm.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Solid Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -27812,7 +27966,9 @@
     "buyLink": "https://www.ulta.com/p/cheirosa-40-jelly-perfume-balm-pimprod2057284?sku=2653535",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Solid Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/0598dc19-e30b-42bf-a1fa-e2c4c3092e0c/4b986640-0799-4ae1-b4df-5c6812eaf9c5.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1280",
@@ -27820,7 +27976,7 @@
     "brand": "L’Avant Collective",
     "name": "High Performing Laundry Detergent",
     "price": 42.95,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/51775d0b-e27b-466a-99da-994e84c7b90b/edb67bf8-16ac-4310-88cc-8e44a66ac3a8.jpg",
+    "image": "/cutouts/l-avant-collective-high-performing-laundry-detergent.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Scented Laundry Detergent (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -27832,7 +27988,9 @@
     "buyLink": "https://go.shopmy.us/p-82588407",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Scented Laundry Detergent (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/51775d0b-e27b-466a-99da-994e84c7b90b/edb67bf8-16ac-4310-88cc-8e44a66ac3a8.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1281",
@@ -27840,7 +27998,7 @@
     "brand": "CND",
     "name": "Vinylux Long Wear Shine Top Coat",
     "price": 11.9,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/e72aa398-7245-4220-be68-5843144bad63/9137181a-3ff9-4b7c-acd7-9cbdb4dd09a6.jpg",
+    "image": "/cutouts/cnd-vinylux-long-wear-shine-top-coat.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Top Coat (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -27852,7 +28010,9 @@
     "buyLink": "https://www.amazon.com/dp/B00CNE2GOO?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Top Coat (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/e72aa398-7245-4220-be68-5843144bad63/9137181a-3ff9-4b7c-acd7-9cbdb4dd09a6.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1282",
@@ -28069,7 +28229,7 @@
     "brand": "FREBITS",
     "name": "Airfit Sun Finishing Stick [SPF50+/PA++++] [02 Clear Green]",
     "price": null,
-    "image": "https://img.hwahae.co.kr/products/2134730/2134730_20260430142615.jpg",
+    "image": "/cutouts/frebits-airfit-sun-finishing-stick--spf50--pa-------02-clear-green-.webp",
     "topAward": "Hwahae Beauty Awards (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -28081,7 +28241,9 @@
     "buyLink": "https://click.linksynergy.com/deeplink?id=lDbatWRMyd4&mid=54267&murl=https%3A%2F%2Fus.oliveyoung.com%2Fsearch%3Fquery%3DFREBITS",
     "awardsWon": [
       "Hwahae Beauty Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://img.hwahae.co.kr/products/2134730/2134730_20260430142615.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1293",
@@ -28221,7 +28383,7 @@
     "brand": "Blu & Green",
     "name": "Dry Shampoo",
     "price": 24,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/863afc5f-c763-4530-85c5-8a93be693da4/d08c59b5-cd58-4eab-bb83-24e91e9520dc.jpg",
+    "image": "/cutouts/blu---green-dry-shampoo.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Dry Shampoo (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -28233,7 +28395,9 @@
     "buyLink": "https://www.amazon.com/dp/B0F9LSS299?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Dry Shampoo (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/863afc5f-c763-4530-85c5-8a93be693da4/d08c59b5-cd58-4eab-bb83-24e91e9520dc.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1300",
@@ -28461,7 +28625,7 @@
     "brand": "True Botanicals",
     "name": "Pure Radiance Supreme Eye Cream",
     "price": 95,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/fa47fd70-77b7-446d-8ad6-561cb259e284/886078ae-f5c7-479e-901a-97e23d9f5652.jpg",
+    "image": "/cutouts/true-botanicals-pure-radiance-supreme-eye-cream.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Eye Product (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -28473,7 +28637,9 @@
     "buyLink": "https://go.shopmy.us/p-82389096",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Eye Product (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/fa47fd70-77b7-446d-8ad6-561cb259e284/886078ae-f5c7-479e-901a-97e23d9f5652.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1311",
@@ -28481,7 +28647,7 @@
     "brand": "Ursa Major",
     "name": "Hoppin’ Fresh Body Wash",
     "price": 26,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/27ca9d3e-a71a-445e-afbf-46ca589eb1a7/4d3e0305-9554-46d4-ad3b-8c57b5b5fc7d.jpg",
+    "image": "/cutouts/ursa-major-hoppin--fresh-body-wash.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Body Wash (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -28493,7 +28659,9 @@
     "buyLink": "https://www.ulta.com/p/hoppin-fresh-body-wash-mkt77005378?sku=77008609",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Body Wash (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/27ca9d3e-a71a-445e-afbf-46ca589eb1a7/4d3e0305-9554-46d4-ad3b-8c57b5b5fc7d.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1312",
@@ -28501,7 +28669,7 @@
     "brand": "Iris & Romeo",
     "name": "Best Skin Days Treatment Concealer",
     "price": 32,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/4f396180-b16a-4b34-a6e7-840c47205c20/9affac6b-9ca8-4148-b2bf-d4b628f69675.jpg",
+    "image": "/cutouts/iris---romeo-best-skin-days-treatment-concealer.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Concealer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -28513,7 +28681,9 @@
     "buyLink": "https://www.sephora.com/product/iris-romeo-best-skin-days-treatment-concealer-P510037",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Concealer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/4f396180-b16a-4b34-a6e7-840c47205c20/9affac6b-9ca8-4148-b2bf-d4b628f69675.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1313",
@@ -28585,7 +28755,7 @@
     "brand": "Quickies",
     "name": "Press-On Nails",
     "price": 23,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/b8a5d866-62cd-4e88-90a3-90edade7e0fa/806c0a3d-f334-43cb-a91b-74b78f3e2a95.jpg",
+    "image": "/cutouts/quickies-press-on-nails.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Press-Ons (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -28597,7 +28767,9 @@
     "buyLink": "https://getquickies.com/products/glazed-donut-24pc-press-on-nail-set-1",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Press-Ons (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/b8a5d866-62cd-4e88-90a3-90edade7e0fa/806c0a3d-f334-43cb-a91b-74b78f3e2a95.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1317",
@@ -28605,7 +28777,7 @@
     "brand": "Well People",
     "name": "Poutlove Peptide Lip Balm",
     "price": 14,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/b43831a7-2c7f-4ba9-8550-cc2ea5119993/c8a859e5-dd29-4a6f-a9c6-0e395ab3ca1a.jpg",
+    "image": "/cutouts/well-people-poutlove-peptide-lip-balm.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Lip Color (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -28617,7 +28789,9 @@
     "buyLink": "https://go.shopmy.us/p-82389861",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Lip Color (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/b43831a7-2c7f-4ba9-8550-cc2ea5119993/c8a859e5-dd29-4a6f-a9c6-0e395ab3ca1a.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1318",
@@ -28718,7 +28892,7 @@
     "brand": "Charlotte Tilbury",
     "name": "Airbrush Flawless Blur Concealer",
     "price": 36,
-    "image": "https://images.ctfassets.net/wlke2cbybljx/6F7xim6AB9eQy5Tmr0F006/b5868f5aec8231c3d8acfeb2ce812cde/AFF_Concealer-Shade4-Open.png",
+    "image": "/cutouts/charlotte-tilbury-airbrush-flawless-blur-concealer.webp",
     "topAward": "NewBeauty Annual Awards — Best Concealer for Dark Circles (2026)",
     "awardCount": 3,
     "category": "Makeup",
@@ -28732,7 +28906,9 @@
       "NewBeauty Annual Awards — Best Concealer for Dark Circles (2026)",
       "Glamour Beauty Awards — Luxury Makeup — Best Concealer (2026)",
       "Cosmopolitan Beauty Awards — The Best Matte Concealer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://images.ctfassets.net/wlke2cbybljx/6F7xim6AB9eQy5Tmr0F006/b5868f5aec8231c3d8acfeb2ce812cde/AFF_Concealer-Shade4-Open.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1323",
@@ -28806,7 +28982,7 @@
     "brand": "Cyklar",
     "name": "In-Shower Body Oil Balm",
     "price": 29,
-    "image": "https://cyklar.com/cdn/shop/files/1-CYK_InShowerBalm_PDP_VV.jpg?v=1757089171&width=2000",
+    "image": "/cutouts/cyklar-in-shower-body-oil-balm.webp",
     "topAward": "NewBeauty Annual Awards — Best Moisturizing Body Balm (2026)",
     "awardCount": 4,
     "category": "Body",
@@ -28821,7 +28997,9 @@
       "Harper's Bazaar Best of Beauty — Best Face and Body Moisturizers (2026)",
       "Marie Claire Prix d'Excellence — US Winner – Body Care (2026)",
       "Marie Claire Reader's Choice — Body Oil (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cyklar.com/cdn/shop/files/1-CYK_InShowerBalm_PDP_VV.jpg?v=1757089171&width=2000",
+    "imageCutout": true
   },
   {
     "id": "prod-1327",
@@ -28921,7 +29099,7 @@
     "brand": "BYOMA",
     "name": "Hydrating Recovery Oil",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/51a20051-966e-4b8c-8fe8-94e67a41a553/8dbc13c2-ef58-4324-bb7b-351615d527c9.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/byoma-hydrating-recovery-oil.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Face Oil (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -28933,7 +29111,9 @@
     "buyLink": "https://byoma.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Face Oil (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/51a20051-966e-4b8c-8fe8-94e67a41a553/8dbc13c2-ef58-4324-bb7b-351615d527c9.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-1332",
@@ -28961,7 +29141,7 @@
     "brand": "Tata Harper",
     "name": "Superkind Calming Crème",
     "price": 158,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/0be0099c-662f-46e0-84f4-3f0af6adf518/d30fc0c5-9298-4feb-8fc0-2bdecb8b5edc.jpg",
+    "image": "/cutouts/tata-harper-superkind-calming-cr-me.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Face Moisturizer (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -28973,7 +29153,9 @@
     "buyLink": "https://go.shopmy.us/p-82388852",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Face Moisturizer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/0be0099c-662f-46e0-84f4-3f0af6adf518/d30fc0c5-9298-4feb-8fc0-2bdecb8b5edc.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1334",
@@ -29292,7 +29474,7 @@
     "brand": "COLOR WOW",
     "name": "Insta-WOW Advanced Dry Shampoo",
     "price": 32,
-    "image": "https://media.allure.com/photos/6a8a6963cda678977f4d7fb2/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/color-wow-insta-wow-advanced-dry-shampoo.webp",
     "topAward": "Allure Best of Beauty — Best Dry Shampoo Spray (2026)",
     "awardCount": 4,
     "category": "Hair",
@@ -29307,7 +29489,9 @@
       "NewBeauty Annual Awards — Best Dry Shampoo (2026)",
       "Glamour Beauty Awards — Straight & Wavy Hair — Best Luxury Dry Shampoo (2026)",
       "Glamour Beauty Awards — Global Editors — Best Styling Product (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8a6963cda678977f4d7fb2/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-1349",
@@ -29469,7 +29653,7 @@
     "brand": "Laneige",
     "name": "Water Sleeping Mask",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/faac830a-9223-4664-b8da-0efc942fc7f5/5a879f93-1a1a-4b3f-8ef0-64f4757d3dcf.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/laneige-water-sleeping-mask.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Face Mask (2026)",
     "awardCount": 1,
     "category": "Wellness",
@@ -29481,7 +29665,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Laneige%20Water%20Sleeping%20Mask",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Face Mask (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/faac830a-9223-4664-b8da-0efc942fc7f5/5a879f93-1a1a-4b3f-8ef0-64f4757d3dcf.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-1357",
@@ -29489,7 +29675,7 @@
     "brand": "EltaMD",
     "name": "UV Clear Tinted Broad-Spectrum Facial Sunscreen SPF 46",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/efc2a334-c3c5-4f44-8905-e7c20b8e8742/2b2fefdf-0996-4ea5-ac55-90cf3f2b352a.jpg?crop=0.833xw:1xh;0.086xw,0xh&resize=1200:*",
+    "image": "/cutouts/eltamd-uv-clear-tinted-broad-spectrum-facial-sunscreen-spf-46.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Tinted Face Sunscreen (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -29501,7 +29687,9 @@
     "buyLink": "https://eltamd.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Tinted Face Sunscreen (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/efc2a334-c3c5-4f44-8905-e7c20b8e8742/2b2fefdf-0996-4ea5-ac55-90cf3f2b352a.jpg?crop=0.833xw:1xh;0.086xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-1358",
@@ -29509,7 +29697,7 @@
     "brand": "Hero Cosmetics",
     "name": "Mighty Patch Original",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/ca42ad40-38b3-497b-a1cd-5493972c67b5/5401a632-8a4f-4f09-a631-bfdc47bc366b.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/hero-cosmetics-mighty-patch-original.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Pimple Patch (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29521,7 +29709,9 @@
     "buyLink": "https://www.amazon.com/s?k=Hero+Cosmetics+Mighty+Patch+Original&tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Pimple Patch (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/ca42ad40-38b3-497b-a1cd-5493972c67b5/5401a632-8a4f-4f09-a631-bfdc47bc366b.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-1359",
@@ -29529,7 +29719,7 @@
     "brand": "Saltair",
     "name": "Salt Water Vanilla Multi-Lipid Body Butter",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/22af393c-67bd-4712-b413-a05dcb188382/9f7078e4-db43-49a2-8e16-237cd0f37d4a.jpg?crop=0.725xw:0.869xh;0.14xw,0.061xh&resize=1200:*",
+    "image": "/cutouts/saltair-salt-water-vanilla-multi-lipid-body-butter.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Body Butter (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -29541,7 +29731,9 @@
     "buyLink": "https://saltair.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Body Butter (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/22af393c-67bd-4712-b413-a05dcb188382/9f7078e4-db43-49a2-8e16-237cd0f37d4a.jpg?crop=0.725xw:0.869xh;0.14xw,0.061xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-1360",
@@ -30114,7 +30306,7 @@
     "brand": "Topicals",
     "name": "Clearly Clarifying & Calming Mist for Acne-Prone Skin",
     "price": 26,
-    "image": "https://cdn.shopify.com/s/files/1/0503/2932/1627/files/TOPICALS_ClearlyMist_DTC_Ppage_1_1_11zon.jpg?v=1734481869",
+    "image": "/cutouts/topicals-clearly-clarifying---calming-mist-for-acne-prone-skin.webp",
     "topAward": "Allure Best of Beauty — Best Body Spray Acne-Treatment (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -30126,7 +30318,9 @@
     "buyLink": "https://www.sephora.com/product/topicals-clearly-clarifying-calming-mist-for-acne-prone-skin-P514708",
     "awardsWon": [
       "Allure Best of Beauty — Best Body Spray Acne-Treatment (2025)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0503/2932/1627/files/TOPICALS_ClearlyMist_DTC_Ppage_1_1_11zon.jpg?v=1734481869",
+    "imageCutout": true
   },
   {
     "id": "prod-1386",
@@ -36357,7 +36551,7 @@
     "brand": "Fenty Beauty",
     "name": "Match Stix Contour Skinstick",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/cc269c01-37aa-434f-8f5c-0df63bc9ab5d/96d9c790-ae07-40d5-81c2-ad3748a25b7a.jpg?crop=0.833xw:1xh;0.063xw,0xh&resize=1200:*",
+    "image": "/cutouts/fenty-beauty-match-stix-contour-skinstick.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Contour (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -36369,7 +36563,9 @@
     "buyLink": "https://fentybeauty.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Contour (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/cc269c01-37aa-434f-8f5c-0df63bc9ab5d/96d9c790-ae07-40d5-81c2-ad3748a25b7a.jpg?crop=0.833xw:1xh;0.063xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-1668",
@@ -41634,7 +41830,7 @@
     "brand": "Redken",
     "name": "All Soft Shampoo",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/6bdaf614-de03-47f3-8dfc-f49b853dfd85/bf0eaeb4-a2d8-4d2b-92e7-9599364d6e6c.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/redken-all-soft-shampoo.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hydrating Shampoo (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -41646,7 +41842,9 @@
     "buyLink": "https://redkenpro.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hydrating Shampoo (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/6bdaf614-de03-47f3-8dfc-f49b853dfd85/bf0eaeb4-a2d8-4d2b-92e7-9599364d6e6c.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-1905",
@@ -45383,7 +45581,7 @@
     "brand": "Batiste",
     "name": "Original Dry Shampoo",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/1808468d-52ab-417f-aa05-bf370f35adbc/4860e49b-f530-4954-9246-1c6b372dc624.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/batiste-original-dry-shampoo.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Dry Shampoo (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -45395,7 +45593,9 @@
     "buyLink": "https://www.batistehair.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Dry Shampoo (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/1808468d-52ab-417f-aa05-bf370f35adbc/4860e49b-f530-4954-9246-1c6b372dc624.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2074",
@@ -46149,7 +46349,7 @@
     "brand": "La Roche-Posay",
     "name": "Anthelios Melt-In Milk Sunscreen SPF 60",
     "price": 37,
-    "image": "https://use-image.oliveyoung.com/images/prd/3606000527355/thumbnail/25985964-5507-4290-8999-d8ed4cc49bf2.png",
+    "image": "/cutouts/la-roche-posay-anthelios-melt-in-milk-sunscreen-spf-60.webp",
     "topAward": "Allure Readers Choice — Body Winner (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46161,7 +46361,9 @@
     "buyLink": "https://click.linksynergy.com/link?id=lDbatWRMyd4&offerid=2059424.542673804307615178205907&type=15&murl=https%3A%2F%2Fus.oliveyoung.com%2Fproducts%2FUA64137702",
     "awardsWon": [
       "Allure Readers Choice — Body Winner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://use-image.oliveyoung.com/images/prd/3606000527355/thumbnail/25985964-5507-4290-8999-d8ed4cc49bf2.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2109",
@@ -46801,7 +47003,7 @@
     "brand": "SheaMoisture",
     "name": "Jamaican Black Castor Oil Strengthen & Restore Shampoo + Conditioner",
     "price": 32,
-    "image": "https://m.media-amazon.com/images/I/71aSfZaY%2BAL._SL1500_.jpg",
+    "image": "/cutouts/sheamoisture-jamaican-black-castor-oil-strengthen---restore-shampoo---conditione.webp",
     "topAward": "Allure Readers Choice — Clean Winner (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -46813,7 +47015,9 @@
     "buyLink": "https://go.shopmy.us/p-79612038",
     "awardsWon": [
       "Allure Readers Choice — Clean Winner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://m.media-amazon.com/images/I/71aSfZaY%2BAL._SL1500_.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2139",
@@ -46885,7 +47089,7 @@
     "brand": "Crest",
     "name": "3D Whitestrips Professional White",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/17b1f984-7c5c-4ea1-b757-d660c0e73ca9/c26f78b6-34aa-47c3-9101-836113ad67be.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/crest-3d-whitestrips-professional-white.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Teeth Whitener (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46897,7 +47101,9 @@
     "buyLink": "https://crest.com/en-us",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Teeth Whitener (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/17b1f984-7c5c-4ea1-b757-d660c0e73ca9/c26f78b6-34aa-47c3-9101-836113ad67be.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2143",
@@ -47163,7 +47369,7 @@
     "brand": "Garnier",
     "name": "SkinActive All-in-1 Micellar Cleansing Water",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/8bc40616-77dd-4cd4-99b8-aaf18c3cad8e/32526cae-ff8e-4abd-a52a-c5629e0e2496.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/garnier-skinactive-all-in-1-micellar-cleansing-water.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Makeup Remover (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -47175,7 +47381,9 @@
     "buyLink": "https://garnierusa.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Makeup Remover (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/8bc40616-77dd-4cd4-99b8-aaf18c3cad8e/32526cae-ff8e-4abd-a52a-c5629e0e2496.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2156",
@@ -47271,7 +47479,7 @@
     "brand": "Paula’s Choice",
     "name": "2% BHA Liquid Exfoliant",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/f9171a9b-c18c-4915-aa2e-dd00171e2c44/be2a5834-add6-4f44-96b9-b68f44599e20.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/paula-s-choice-2--bha-liquid-exfoliant.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Face Exfoliator (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47283,7 +47491,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Paula's%20Choice%202%25%20BHA%20Liquid%20Exfoliant",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Face Exfoliator (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/f9171a9b-c18c-4915-aa2e-dd00171e2c44/be2a5834-add6-4f44-96b9-b68f44599e20.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2161",
@@ -47311,7 +47521,7 @@
     "brand": "BYOMA",
     "name": "Hydrating Milky Toner",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/215df25d-8aef-484c-aea1-9b6b3064324f/7b5b27c3-c2fa-4504-86ba-0030e182dd90.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/byoma-hydrating-milky-toner.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Toner (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47323,7 +47533,9 @@
     "buyLink": "https://byoma.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Toner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/215df25d-8aef-484c-aea1-9b6b3064324f/7b5b27c3-c2fa-4504-86ba-0030e182dd90.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2163",
@@ -47331,7 +47543,7 @@
     "brand": "La Roche-Posay",
     "name": "Cicaplast Balm B5",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/95f4bfc4-c7f9-4f46-830e-d5f74fbb654f/3f9be066-7744-4211-b94d-6b0fa424c5d7.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/la-roche-posay-cicaplast-balm-b5.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Barrier Repair Cream (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47343,7 +47555,9 @@
     "buyLink": "https://larocheposay.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Barrier Repair Cream (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/95f4bfc4-c7f9-4f46-830e-d5f74fbb654f/3f9be066-7744-4211-b94d-6b0fa424c5d7.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2164",
@@ -47351,7 +47565,7 @@
     "brand": "The Ordinary",
     "name": "Hyaluronic Acid 2% + B5",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/29b379e6-2ac4-4b64-9e85-db8ede8f9826/c9a30617-b796-43e4-be39-54826bdcd286.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/the-ordinary-hyaluronic-acid-2----b5.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hydrating Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47363,7 +47577,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=The%20Ordinary%20Hyaluronic%20Acid%202%25%20%2B%20B5",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hydrating Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/29b379e6-2ac4-4b64-9e85-db8ede8f9826/c9a30617-b796-43e4-be39-54826bdcd286.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2165",
@@ -47371,7 +47587,7 @@
     "brand": "OLAY",
     "name": "Retinol24 Night Smoothing Serum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/52a2bbe1-0b5e-467e-9037-73205c6836a9/9ccc6cf8-0ea7-4b11-bd3f-399ee6e1e36e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/olay-retinol24-night-smoothing-serum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Retinol Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47383,7 +47599,9 @@
     "buyLink": "https://www.olay.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Retinol Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/52a2bbe1-0b5e-467e-9037-73205c6836a9/9ccc6cf8-0ea7-4b11-bd3f-399ee6e1e36e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2166",
@@ -47391,7 +47609,7 @@
     "brand": "Clinique",
     "name": "Even Better Clinical Dark Spot Clearing Serum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/89c48ee9-9a35-4d24-bbd7-af5fad907552/6d0696a9-553b-4f10-ba69-9fae70c8e081.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/clinique-even-better-clinical-dark-spot-clearing-serum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Dark Spot Corrector (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47403,7 +47621,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Clinique%20Even%20Better%20Clinical%20Dark%20Spot%20Clearing%20Serum",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Dark Spot Corrector (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/89c48ee9-9a35-4d24-bbd7-af5fad907552/6d0696a9-553b-4f10-ba69-9fae70c8e081.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2167",
@@ -47411,7 +47631,7 @@
     "brand": "Beauty of Joseon",
     "name": "Calming Barrier Serum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/bc358fe7-e328-40fb-9d17-259b6b90c1e6/f0d3ec0d-d5cb-4263-a8c0-cbe136698f7f.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/beauty-of-joseon-calming-barrier-serum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Calming Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47423,7 +47643,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Beauty%20of%20Joseon%20Calming%20Barrier%20Serum",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Calming Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/bc358fe7-e328-40fb-9d17-259b6b90c1e6/f0d3ec0d-d5cb-4263-a8c0-cbe136698f7f.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2168",
@@ -47431,7 +47653,7 @@
     "brand": "Glow Recipe",
     "name": "Strawberry BHA Pore-Smooth Blur Drops",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/8c024d70-3580-4b17-b67d-49c8a0f1cc68/f5ef5c76-01be-4174-90ed-70c831f87d60.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/glow-recipe-strawberry-bha-pore-smooth-blur-drops.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Smoothing Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47443,7 +47665,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Glow%20Recipe%20Strawberry%20BHA%20Pore-Smooth%20Blur%20Drops",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Smoothing Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/8c024d70-3580-4b17-b67d-49c8a0f1cc68/f5ef5c76-01be-4174-90ed-70c831f87d60.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2169",
@@ -47683,7 +47907,7 @@
     "brand": "Kopari",
     "name": "Sunglaze Sheer Body Mist Sunscreen SPF 42",
     "price": 39,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/96cdec0e-4e76-4ef5-ae44-e5b438ab091b/28481659-a9ba-434e-aa50-958664d7539d.jpg",
+    "image": "/cutouts/kopari-sunglaze-sheer-body-mist-sunscreen-spf-42.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Body Sunscreen Spray (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -47695,7 +47919,9 @@
     "buyLink": "https://go.shopmy.us/p-78655978",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Body Sunscreen Spray (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/96cdec0e-4e76-4ef5-ae44-e5b438ab091b/28481659-a9ba-434e-aa50-958664d7539d.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2181",
@@ -47703,7 +47929,7 @@
     "brand": "Ceremonia",
     "name": "Pequi Styling Gel",
     "price": 32,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/b376a299-4876-4af7-929a-f5219598c571/6082a0b6-a1bb-4da4-aee0-be40312f37f5.jpg",
+    "image": "/cutouts/ceremonia-pequi-styling-gel.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hair Gel (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -47715,7 +47941,9 @@
     "buyLink": "https://go.shopmy.us/p-78181009",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hair Gel (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/b376a299-4876-4af7-929a-f5219598c571/6082a0b6-a1bb-4da4-aee0-be40312f37f5.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2182",
@@ -47875,7 +48103,7 @@
     "brand": "COSRX",
     "name": "The Peptide Collagen Hydrogel Eye Patch",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/880f58a6-3b10-4aa5-a302-f9b246832913/cd85ff2b-eac0-4cab-8d11-c0077eb692e7.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/cosrx-the-peptide-collagen-hydrogel-eye-patch.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Eye Patches (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47887,7 +48115,9 @@
     "buyLink": "https://cosrx.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Eye Patches (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/880f58a6-3b10-4aa5-a302-f9b246832913/cd85ff2b-eac0-4cab-8d11-c0077eb692e7.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2190",
@@ -47895,7 +48125,7 @@
     "brand": "StriVectin",
     "name": "TL Advanced® Tightening Neck Cream PLUS",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/b0fef60c-6902-4b59-b3cb-4bb9b910810a/867a8bec-5858-49e5-be00-a0ce5c58382d.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/strivectin-tl-advanced--tightening-neck-cream-plus.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Neck Treatment (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47907,7 +48137,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=StriVectin%20TL%20Advanced%20Tightening%20Neck%20Cream%20PLUS",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Neck Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/b0fef60c-6902-4b59-b3cb-4bb9b910810a/867a8bec-5858-49e5-be00-a0ce5c58382d.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2191",
@@ -47915,7 +48147,7 @@
     "brand": "Aquaphor",
     "name": "Lip Repair",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/2a188098-392a-4585-b2fe-59eff8cb3170/ba2ad6cd-e97b-4931-b429-ccc0b6b36601.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/aquaphor-lip-repair.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Lip Balm (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47927,7 +48159,9 @@
     "buyLink": "https://www.aquaphorus.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Lip Balm (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/2a188098-392a-4585-b2fe-59eff8cb3170/ba2ad6cd-e97b-4931-b429-ccc0b6b36601.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2192",
@@ -48042,7 +48276,7 @@
     "brand": "The Ordinary",
     "name": "Salicylic Acid 0.5% Body Serum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/941b4e14-cece-4a06-8983-a901b3a55529/fbbc621d-9039-4708-a04a-0a35c6259abf.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/the-ordinary-salicylic-acid-0-5--body-serum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Exfoliating Body Treatment (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -48054,7 +48288,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=The%20Ordinary%20Salicylic%20Acid%200.5%25%20Body%20Serum",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Exfoliating Body Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/941b4e14-cece-4a06-8983-a901b3a55529/fbbc621d-9039-4708-a04a-0a35c6259abf.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2198",
@@ -48062,7 +48298,7 @@
     "brand": "Hawaiian Tropic",
     "name": "Sheer Touch Lotion SPF 30",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/0a7a3c3e-505e-49be-80a4-f9ce9180b85a/6908ac19-f483-478b-9910-fc009c0654ad.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/hawaiian-tropic-sheer-touch-lotion-spf-30.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Body Sunscreen (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -48074,7 +48310,9 @@
     "buyLink": "https://www.amazon.com/s?k=Hawaiian+Tropic+Sheer+Touch+Lotion&tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Body Sunscreen (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/0a7a3c3e-505e-49be-80a4-f9ce9180b85a/6908ac19-f483-478b-9910-fc009c0654ad.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2199",
@@ -48409,7 +48647,7 @@
     "brand": "Jergens",
     "name": "Natural Glow + Firming Daily Moisturizer",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/f5e1188b-381e-4fd0-a008-af4d4c7efb08/9547e595-d336-438b-b602-1f24901d2fb0.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/jergens-natural-glow---firming-daily-moisturizer.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Self-Tanner (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -48421,7 +48659,9 @@
     "buyLink": "https://us.jergens.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Self-Tanner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/f5e1188b-381e-4fd0-a008-af4d4c7efb08/9547e595-d336-438b-b602-1f24901d2fb0.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2215",
@@ -48606,7 +48846,7 @@
     "brand": "Tenoverten",
     "name": "The Rose Oil",
     "price": 25,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/a5516839-dc90-4885-ba6b-1a92897d48b9/8518a2d1-f21a-4846-bded-5d5ae5bafe52.jpg",
+    "image": "/cutouts/tenoverten-the-rose-oil.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Cuticle Oil (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -48618,7 +48858,9 @@
     "buyLink": "https://go.shopmy.us/p-82388709",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Cuticle Oil (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/a5516839-dc90-4885-ba6b-1a92897d48b9/8518a2d1-f21a-4846-bded-5d5ae5bafe52.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2224",
@@ -48688,7 +48930,7 @@
     "brand": "Virtue",
     "name": "Strength & Shield Leave-in Conditioner",
     "price": 38,
-    "image": "https://media.virtuelabs.com/media/catalog/product/cache/5738531e1625123fb04d7403b1612565/d/t/dtc_pdp_strength_shield_leave_in_conditioner_2000dx2000.jpg",
+    "image": "/cutouts/virtue-strength---shield-leave-in-conditioner.webp",
     "topAward": "InStyle Best Beauty Buys — Best Leave-In Spray (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -48700,7 +48942,9 @@
     "buyLink": "https://www.nordstrom.com/s/strength-shield-leave-in-conditioner/8806219",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Leave-In Spray (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.virtuelabs.com/media/catalog/product/cache/5738531e1625123fb04d7403b1612565/d/t/dtc_pdp_strength_shield_leave_in_conditioner_2000dx2000.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2228",
@@ -48792,7 +49036,7 @@
     "brand": "Secret",
     "name": "Clinical Strength Invisible Solid With Hyaluronic Acid + Vitamin Pack",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/a235362a-cd68-48f1-950a-d9a1c2e360b7/76c5e1f9-8e57-4ec9-a645-a145a07e71b2.jpg?crop=0.699xw:0.839xh;0.153xw,0.079xh&resize=1200:*",
+    "image": "/cutouts/secret-clinical-strength-invisible-solid-with-hyaluronic-acid---vitamin-pack.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Antiperspirant (2026)",
     "awardCount": 1,
     "category": "Wellness",
@@ -48804,7 +49048,9 @@
     "buyLink": "https://secret.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Antiperspirant (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/a235362a-cd68-48f1-950a-d9a1c2e360b7/76c5e1f9-8e57-4ec9-a645-a145a07e71b2.jpg?crop=0.699xw:0.839xh;0.153xw,0.079xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2233",
@@ -48832,7 +49078,7 @@
     "brand": "Milk Makeup",
     "name": "Hydro Grip Hydrating Gel Skin Tint",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/9fd75a3b-2f48-4bf5-b60f-b7557577ebdb/00a5d3db-5514-49c5-999c-f75f768ba58e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/milk-makeup-hydro-grip-hydrating-gel-skin-tint.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Skin Tint (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -48844,7 +49090,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Milk%20Makeup%20Hydro%20Grip%20Hydrating%20Gel%20Skin%20Tint",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Skin Tint (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/9fd75a3b-2f48-4bf5-b60f-b7557577ebdb/00a5d3db-5514-49c5-999c-f75f768ba58e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2235",
@@ -48852,7 +49100,7 @@
     "brand": "IT Cosmetics",
     "name": "CC+ Cream Full-Coverage Foundation with SPF 50+",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/16f494f9-3e29-43e3-8820-533e743367b0/82f18733-5104-453b-9b1a-df6e3a0fd5e2.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/it-cosmetics-cc--cream-full-coverage-foundation-with-spf-50-.webp",
     "topAward": "Cosmopolitan Readers Choice — Best CC Cream (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -48864,7 +49112,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=IT%20Cosmetics%20CC%2B%20Cream%20Full-Coverage%20Foundation%20with",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best CC Cream (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/16f494f9-3e29-43e3-8820-533e743367b0/82f18733-5104-453b-9b1a-df6e3a0fd5e2.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2236",
@@ -48937,7 +49187,7 @@
     "brand": "Manucurist Paris",
     "name": "Active",
     "price": 19,
-    "image": "https://us.manucurist.com/cdn/shop/files/DUCROS_MANUCURIST_Q231010-019-219370_Adb98.jpg?v=1775550581",
+    "image": "/cutouts/manucurist-paris-active.webp",
     "topAward": "InStyle Best Beauty Buys — Best Treatment Polish (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -48950,7 +49200,9 @@
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Treatment Polish (2026)"
     ],
-    "imageResolvedFrom": "https://us.manucurist.com/products/active-glow"
+    "imageResolvedFrom": "https://us.manucurist.com/products/active-glow",
+    "imageOriginal": "https://us.manucurist.com/cdn/shop/files/DUCROS_MANUCURIST_Q231010-019-219370_Adb98.jpg?v=1775550581",
+    "imageCutout": true
   },
   {
     "id": "prod-2240",
@@ -49024,7 +49276,7 @@
     "brand": "Juara",
     "name": "Candlenut Hand and Body Wash",
     "price": 31,
-    "image": "https://www.juaraskincare.com/cdn/shop/files/25_bd88172d-f35c-4b3f-a1a3-6af4dffdfbae.jpg?v=1772225131",
+    "image": "/cutouts/juara-candlenut-hand-and-body-wash.webp",
     "topAward": "InStyle Best Beauty Buys — Best Hand Wash (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -49036,7 +49288,9 @@
     "buyLink": "https://www.amazon.com/dp/B0GR6XGS8S?tag=vettbeauty-20",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Hand Wash (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.juaraskincare.com/cdn/shop/files/25_bd88172d-f35c-4b3f-a1a3-6af4dffdfbae.jpg?v=1772225131",
+    "imageCutout": true
   },
   {
     "id": "prod-2244",
@@ -49216,7 +49470,7 @@
     "brand": "Maybelline New York",
     "name": "Instant Age Rewind Eraser Multi-Use Concealer",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/029b3b27-8b43-4516-b743-3cee2bbe4c86/eacb7bc5-202d-4018-90ac-50ab71d3f55b.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/maybelline-new-york-instant-age-rewind-eraser-multi-use-concealer.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Under-Eye Concealer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -49228,7 +49482,9 @@
     "buyLink": "https://www.maybelline.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Under-Eye Concealer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/029b3b27-8b43-4516-b743-3cee2bbe4c86/eacb7bc5-202d-4018-90ac-50ab71d3f55b.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2253",
@@ -49256,7 +49512,7 @@
     "brand": "One/Size",
     "name": "On ’Til Dawn Mattifying Waterproof Setting Spray",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/9e50340c-753d-4e2d-beab-7c7582e7a5a6/582bbfef-6c29-449b-a908-b8c35cb45ac1.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/one-size-on--til-dawn-mattifying-waterproof-setting-spray.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Setting Spray (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -49268,7 +49524,9 @@
     "buyLink": "https://onesizebeauty.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Setting Spray (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/9e50340c-753d-4e2d-beab-7c7582e7a5a6/582bbfef-6c29-449b-a908-b8c35cb45ac1.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2255",
@@ -49276,7 +49534,7 @@
     "brand": "Rare Beauty",
     "name": "Warm Wishes Effortless Bronzer Stick",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/cafd56aa-4059-4e5f-ad12-f4fddeb82d38/1cc1e18c-cd27-4c61-9830-6bd13294d04d.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/rare-beauty-warm-wishes-effortless-bronzer-stick.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Bronzer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -49288,7 +49546,9 @@
     "buyLink": "https://rarebeauty.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Bronzer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/cafd56aa-4059-4e5f-ad12-f4fddeb82d38/1cc1e18c-cd27-4c61-9830-6bd13294d04d.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2256",
@@ -49296,7 +49556,7 @@
     "brand": "Drunk Elephant",
     "name": "D-Bronzi Bronzing Drops With Peptides",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/3c2147d6-44dd-4465-b994-2c5d425b5bee/cc70c4b0-0ecf-4c74-aa73-afe2ab3c67bc.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/drunk-elephant-d-bronzi-bronzing-drops-with-peptides.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Dew Drops (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -49308,7 +49568,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Drunk%20Elephant%20D-Bronzi%20Bronzing%20Drops%20With%20Peptides",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Dew Drops (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/3c2147d6-44dd-4465-b994-2c5d425b5bee/cc70c4b0-0ecf-4c74-aa73-afe2ab3c67bc.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2257",
@@ -49441,7 +49703,7 @@
     "brand": "Kiss",
     "name": "Falscara",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/92b5675d-1b09-4523-aedd-8d392c675476/8a8bfe21-a016-406b-991d-56ba18423ebb.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/kiss-falscara.webp",
     "topAward": "Cosmopolitan Readers Choice — Best False Lashes (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -49453,7 +49715,9 @@
     "buyLink": "https://www.kissusa.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best False Lashes (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/92b5675d-1b09-4523-aedd-8d392c675476/8a8bfe21-a016-406b-991d-56ba18423ebb.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2264",
@@ -49483,7 +49747,7 @@
     "brand": "Grande Cosmetics",
     "name": "GrandeLASH-MD Lash Enhancing Serum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/a5cb36cb-03c6-4e50-9002-a2ebfe9bb949/740b50ec-0cbc-48f5-9b1c-5819ab5f0570.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/grande-cosmetics-grandelash-md-lash-enhancing-serum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Lash Enhancing Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -49495,7 +49759,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Grande%20Cosmetics%20GrandeLASH-MD%20Lash%20Enhancing%20Serum",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Lash Enhancing Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/a5cb36cb-03c6-4e50-9002-a2ebfe9bb949/740b50ec-0cbc-48f5-9b1c-5819ab5f0570.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2266",
@@ -49545,7 +49811,7 @@
     "brand": "MAC Cosmetics",
     "name": "Retro Matte Lipstick",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/82509f3d-28f9-4f9d-b7aa-231314e3a5c7/98d71736-52af-439d-baff-0149de74f15a.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/mac-cosmetics-retro-matte-lipstick.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Lipstick (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -49557,7 +49823,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=MAC%20Cosmetics%20Retro%20Matte%20Lipstick",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Lipstick (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/82509f3d-28f9-4f9d-b7aa-231314e3a5c7/98d71736-52af-439d-baff-0149de74f15a.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2269",
@@ -49565,7 +49833,7 @@
     "brand": "Charlotte Tilbury",
     "name": "Airbrush Flawless Lip Blur",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/0772a2da-ccb3-4ae6-90a5-bc5c2fe29909/70b724f0-444b-468b-a041-8875ea56ec97.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/charlotte-tilbury-airbrush-flawless-lip-blur.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Liquid Lipstick (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -49577,7 +49845,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Charlotte%20Tilbury%20Airbrush%20Flawless%20Lip%20Blur",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Liquid Lipstick (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/0772a2da-ccb3-4ae6-90a5-bc5c2fe29909/70b724f0-444b-468b-a041-8875ea56ec97.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2270",
@@ -49713,7 +49983,7 @@
     "brand": "MONDAY Haircare",
     "name": "Volume Shampoo",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/bd91f91c-5ae4-4e6c-8c40-f5bce1039d43/4c47a4d5-3056-4008-ae30-8a93ef6c49d8.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/monday-haircare-volume-shampoo.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Volumizing Shampoo (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -49725,7 +49995,9 @@
     "buyLink": "https://www.amazon.com/s?k=MONDAY+Haircare+Volume+Shampoo&tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Volumizing Shampoo (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/bd91f91c-5ae4-4e6c-8c40-f5bce1039d43/4c47a4d5-3056-4008-ae30-8a93ef6c49d8.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2277",
@@ -49733,7 +50005,7 @@
     "brand": "Amika",
     "name": "Big Hit Volumizing Conditioner",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/7757851c-395e-495a-b67b-233ffff0878f/6994ae88-1cc1-474f-a2d3-c50cd6212543.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/amika-big-hit-volumizing-conditioner.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Volumizing Conditioner (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -49745,7 +50017,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Amika%20Big%20Hit%20Volumizing%20Conditioner",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Volumizing Conditioner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/7757851c-395e-495a-b67b-233ffff0878f/6994ae88-1cc1-474f-a2d3-c50cd6212543.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2278",
@@ -49753,7 +50027,7 @@
     "brand": "Pantene",
     "name": "Miracle Rescue Deep Repair Conditioner",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/06b47197-a09f-4f42-aab0-87fa89c4f7e5/32d00fac-8cee-47d7-8654-4603434fe7aa.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/pantene-miracle-rescue-deep-repair-conditioner.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hydrating Conditioner (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -49765,7 +50039,9 @@
     "buyLink": "https://pantene.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hydrating Conditioner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/06b47197-a09f-4f42-aab0-87fa89c4f7e5/32d00fac-8cee-47d7-8654-4603434fe7aa.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2279",
@@ -49793,7 +50069,7 @@
     "brand": "Olaplex",
     "name": "No.4 Bond Maintenance Shampoo",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/06442bc5-16f6-421e-b670-ca832441fc9d/1247ebe0-2124-4f81-89a7-fe690490501e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/olaplex-no-4-bond-maintenance-shampoo.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Shampoo for Color-Treated Hair (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -49805,7 +50081,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Olaplex%20No.4%20Bond%20Maintenance%20Shampoo",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Shampoo for Color-Treated Hair (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/06442bc5-16f6-421e-b670-ca832441fc9d/1247ebe0-2124-4f81-89a7-fe690490501e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2281",
@@ -49902,7 +50180,7 @@
     "brand": "Olaplex",
     "name": "No.5 Bond Maintenance Conditioner",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/2097bf8e-4d40-4281-9fe5-d788779aaa3d/3251bba2-5ab7-4c27-a820-86f1b1507793.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/olaplex-no-5-bond-maintenance-conditioner.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Conditioner for Color-Treated Hair (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -49914,7 +50192,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Olaplex%20No.5%20Bond%20Maintenance%20Conditioner",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Conditioner for Color-Treated Hair (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/2097bf8e-4d40-4281-9fe5-d788779aaa3d/3251bba2-5ab7-4c27-a820-86f1b1507793.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2286",
@@ -50052,7 +50332,7 @@
     "brand": "The Ordinary",
     "name": "Multi-Peptide Serum for Hair Density",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/4794fc24-f24f-4bcc-be5a-71b963927437/513c1e4e-405b-4e34-9f50-4ead2a15d80a.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/the-ordinary-multi-peptide-serum-for-hair-density.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Treatment for Thinning Hair (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -50064,7 +50344,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=The%20Ordinary%20Multi-Peptide%20Serum%20for%20Hair%20Density",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Treatment for Thinning Hair (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/4794fc24-f24f-4bcc-be5a-71b963927437/513c1e4e-405b-4e34-9f50-4ead2a15d80a.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2293",
@@ -50072,7 +50354,7 @@
     "brand": "Gisou",
     "name": "Honey Gloss Ceramide Therapy Hair Mask",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/ea9eccc4-4651-4af1-ad51-8dee4ca327fa/1505d597-3a98-41bb-a8cc-58dfc000e334.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/gisou-honey-gloss-ceramide-therapy-hair-mask.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hair Mask (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -50084,7 +50366,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Gisou%20Honey%20Gloss%20Ceramide%20Therapy%20Hair%20Mask",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hair Mask (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/ea9eccc4-4651-4af1-ad51-8dee4ca327fa/1505d597-3a98-41bb-a8cc-58dfc000e334.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2294",
@@ -50092,7 +50376,7 @@
     "brand": "It’s a 10",
     "name": "Scalp Restore Miracle Serum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/033e61db-0ede-4247-8eb1-1e2bc03e616b/81f986b8-0f92-4a15-b8f4-3b0d67432a37.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/it-s-a-10-scalp-restore-miracle-serum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Scalp Treatment (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -50104,7 +50388,9 @@
     "buyLink": "https://www.amazon.com/s?k=It%27s+a+10+Scalp+Restore+Miracle+Serum&tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Scalp Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/033e61db-0ede-4247-8eb1-1e2bc03e616b/81f986b8-0f92-4a15-b8f4-3b0d67432a37.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2295",
@@ -50112,7 +50398,7 @@
     "brand": "Fenty Hair",
     "name": "The Controlling Type Hair Thickening Edge Control",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/3c5f6337-a6cf-4f2c-8343-0b270698b857/a1dc3118-899a-4a46-9cff-1b3de64511bf.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/fenty-hair-the-controlling-type-hair-thickening-edge-control.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Edge Control (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -50124,7 +50410,9 @@
     "buyLink": "https://fentybeauty.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Edge Control (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/3c5f6337-a6cf-4f2c-8343-0b270698b857/a1dc3118-899a-4a46-9cff-1b3de64511bf.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2296",
@@ -50132,7 +50420,7 @@
     "brand": "Not Your Mother's",
     "name": "Curl Talk Lasting Definition Flash Freeze Gel",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/f398ee27-fe49-4f49-9fb5-fcda62529494/fd7e726b-7ba2-4858-9c49-e3cb792c7c5a.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/not-your-mother-s-curl-talk-lasting-definition-flash-freeze-gel.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Styler for Curls (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -50144,7 +50432,9 @@
     "buyLink": "https://www.amazon.com/s?k=Not+Your+Mother%27s+Curl+Talk+Lasting+Definition+Flash+Freeze+Gel&tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Styler for Curls (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/f398ee27-fe49-4f49-9fb5-fcda62529494/fd7e726b-7ba2-4858-9c49-e3cb792c7c5a.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2297",
@@ -50152,7 +50442,7 @@
     "brand": "Dae",
     "name": "Cactus Fruit 3-in-1 Styling Cream",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/b182b39f-777e-4c91-8336-c0296c16f920/2a0b7130-1d4e-4a76-aba9-58bd81b7ad8e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/dae-cactus-fruit-3-in-1-styling-cream.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Styling Cream (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -50164,7 +50454,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Dae%20Cactus%20Fruit%203-in-1%20Styling%20Cream",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Styling Cream (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/b182b39f-777e-4c91-8336-c0296c16f920/2a0b7130-1d4e-4a76-aba9-58bd81b7ad8e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2298",
@@ -50172,7 +50464,7 @@
     "brand": "Living Proof",
     "name": "Perfect Day Heat Styling Spray",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/d1509e4b-d569-4b2c-99e7-8969fc4f93da/70064c55-8a9b-46f4-973f-f130e58173b1.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/living-proof-perfect-day-heat-styling-spray.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Heat Protectant (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -50184,7 +50476,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Living%20Proof%20Perfect%20Day%20Heat%20Styling%20Spray",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Heat Protectant (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/d1509e4b-d569-4b2c-99e7-8969fc4f93da/70064c55-8a9b-46f4-973f-f130e58173b1.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2299",
@@ -50212,7 +50506,7 @@
     "brand": "CHI",
     "name": "1-Inch Original Ceramic Hairstyling Iron",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/dce7d181-785d-41b8-9b4b-57936d082b53/1b35c0ba-f9d1-4dde-80df-ee9984ea206e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/chi-1-inch-original-ceramic-hairstyling-iron.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hair Straightener (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -50224,7 +50518,9 @@
     "buyLink": "https://www.amazon.com/s?k=CHI+1-Inch+Original+Ceramic+Hairstyling+Iron&tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hair Straightener (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/dce7d181-785d-41b8-9b4b-57936d082b53/1b35c0ba-f9d1-4dde-80df-ee9984ea206e.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2301",
@@ -50232,7 +50528,7 @@
     "brand": "OPI",
     "name": "Bubble Bath Nail Lacquer",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/7e557470-5619-4616-a489-7d52b26ef635/45e03e15-36bb-447f-a167-d14ff1ef7d95.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/opi-bubble-bath-nail-lacquer.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hall of Fame Nail Color (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -50244,7 +50540,9 @@
     "buyLink": "https://opi.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hall of Fame Nail Color (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/7e557470-5619-4616-a489-7d52b26ef635/45e03e15-36bb-447f-a167-d14ff1ef7d95.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2302",
@@ -50252,7 +50550,7 @@
     "brand": "Glamnetic",
     "name": "Ma Damn",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/236d5251-6acc-45dc-8d07-f3ef2eaa727f/56e431e6-61d2-49a1-891d-4687eccad159.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/glamnetic-ma-damn.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Press-Ons (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -50264,7 +50562,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Glamnetic%20Ma%20Damn",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Press-Ons (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/236d5251-6acc-45dc-8d07-f3ef2eaa727f/56e431e6-61d2-49a1-891d-4687eccad159.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2303",
@@ -50272,7 +50572,7 @@
     "brand": "Burt's Bees",
     "name": "Lemon Butter Cuticle Cream",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/d0792bae-5b57-46cc-a996-cf62c489668a/9669cd03-48b6-4fea-a9a0-521767f4d283.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/burt-s-bees-lemon-butter-cuticle-cream.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Cuticle Treatment (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -50284,7 +50584,9 @@
     "buyLink": "https://www.amazon.com/s?k=Burt%27s+Bees+Lemon+Butter+Cuticle+Cream&tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Cuticle Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/d0792bae-5b57-46cc-a996-cf62c489668a/9669cd03-48b6-4fea-a9a0-521767f4d283.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2304",
@@ -50312,7 +50614,7 @@
     "brand": "Gucci",
     "name": "Flora Gorgeous Gardenia",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/c90bd108-de7a-4a14-b8e9-e5f33d020032/94e6191c-31d3-4e6d-9418-091218f26d2c.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/gucci-flora-gorgeous-gardenia.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Floral Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -50324,7 +50626,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Gucci%20Flora%20Gorgeous%20Gardenia",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Floral Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/c90bd108-de7a-4a14-b8e9-e5f33d020032/94e6191c-31d3-4e6d-9418-091218f26d2c.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2306",
@@ -50332,7 +50636,7 @@
     "brand": "Kayali",
     "name": "Vanilla | 28 Eau de Parfum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/1c0549bb-56eb-41a5-8e4f-22b2ca7af66a/74de0f05-45b7-41fb-81fb-03ab490c54b7.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/kayali-vanilla---28-eau-de-parfum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Gourmand Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -50344,7 +50648,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Kayali%20Vanilla%20%7C%2028%20Eau%20de%20Parfum",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Gourmand Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/1c0549bb-56eb-41a5-8e4f-22b2ca7af66a/74de0f05-45b7-41fb-81fb-03ab490c54b7.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2307",
@@ -50352,7 +50658,7 @@
     "brand": "Kayali",
     "name": "Eden Sparkling Lychee | 39 Eau de Parfum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/fa9c665a-598d-4207-84cf-42e56413a229/0497f990-50ab-4f56-9ee4-d314c7399dbd.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/kayali-eden-sparkling-lychee---39-eau-de-parfum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Fruity Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -50364,7 +50670,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Kayali%20Eden%20Sparkling%20Lychee%20%7C%2039%20Eau%20de%20Parfum",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Fruity Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/fa9c665a-598d-4207-84cf-42e56413a229/0497f990-50ab-4f56-9ee4-d314c7399dbd.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2308",
@@ -50584,7 +50892,7 @@
     "brand": "Amouage",
     "name": "Guidance Eau de Parfum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/593f8e9a-259a-4ccd-ac60-16a1e0ea9e64/2c81aa4c-fdf7-42c8-82dc-f5a6f5d329e8.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/amouage-guidance-eau-de-parfum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Niche Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -50596,7 +50904,9 @@
     "buyLink": "https://www.amazon.com/s?k=Amouage+Guidance+Eau+de+Parfum&tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Niche Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/593f8e9a-259a-4ccd-ac60-16a1e0ea9e64/2c81aa4c-fdf7-42c8-82dc-f5a6f5d329e8.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2319",
@@ -50626,7 +50936,7 @@
     "brand": "Eilish Fragrances",
     "name": "Eilish Eau de Parfum",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/342a7067-a231-4436-af5d-87da97efd081/7ccc1d4e-1c78-4844-9c30-2382d84935fc.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/eilish-fragrances-eilish-eau-de-parfum.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Celeb Fragrance (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -50638,7 +50948,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Eilish%20Fragrances%20Eilish%20Eau%20de%20Parfum",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Celeb Fragrance (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/342a7067-a231-4436-af5d-87da97efd081/7ccc1d4e-1c78-4844-9c30-2382d84935fc.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2321",
@@ -50754,7 +51066,7 @@
     "brand": "Glow Recipe",
     "name": "Watermelon Glow Niacinamide Drops",
     "price": null,
-    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/f90cad82-83da-4a70-b943-f4cbd7972cfd/8d7dce10-80e6-41c0-bb8b-2fca5f22d072.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "image": "/cutouts/glow-recipe-watermelon-glow-niacinamide-drops.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Viral Product (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -50766,7 +51078,9 @@
     "buyLink": "https://www.sephora.com/search?keyword=Glow%20Recipe%20Watermelon%20Glow%20Niacinamide%20Drops",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Viral Product (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/f90cad82-83da-4a70-b943-f4cbd7972cfd/8d7dce10-80e6-41c0-bb8b-2fca5f22d072.jpg?crop=0.833xw:1xh;0.083xw,0xh&resize=1200:*",
+    "imageCutout": true
   },
   {
     "id": "prod-2327",
@@ -50839,7 +51153,7 @@
     "brand": "Quince",
     "name": "European Piped Linen Sheet Set",
     "price": 134,
-    "image": "https://images.quince.com/55RQE4paWx3kdPWQ6SuXG6/06616f23e1f4274b0538f920fb988bf5/U-BEDD-417-OAT_130_EDITED.jpg?fm=jpg&q=90&w=1400",
+    "image": "/cutouts/quince-european-piped-linen-sheet-set.webp",
     "topAward": "Glamour Beauty Awards — Wellness — Best Linen Sheets (2026)",
     "awardCount": 1,
     "category": "Wellness",
@@ -50851,7 +51165,9 @@
     "buyLink": "https://go.shopmy.us/p-78498933",
     "awardsWon": [
       "Glamour Beauty Awards — Wellness — Best Linen Sheets (2026)"
-    ]
+    ],
+    "imageOriginal": "https://images.quince.com/55RQE4paWx3kdPWQ6SuXG6/06616f23e1f4274b0538f920fb988bf5/U-BEDD-417-OAT_130_EDITED.jpg?fm=jpg&q=90&w=1400",
+    "imageCutout": true
   },
   {
     "id": "prod-2331",
@@ -50859,7 +51175,7 @@
     "brand": "K18 Biomimetic Hairscience",
     "name": "TripleBright Oxidation Defense Purple Shampoo",
     "price": 39,
-    "image": "https://www.k18hair.com/cdn/shop/files/01_PackShot_consumer_1.jpg?v=1773327045",
+    "image": "/cutouts/k18-biomimetic-hairscience-triplebright-oxidation-defense-purple-shampoo.webp",
     "topAward": "InStyle Best Beauty Buys — Best Purple Shampoo (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -50871,7 +51187,9 @@
     "buyLink": "https://www.sephora.com/product/triplebright-oxidation-defense-purple-shampoo-foam-P521730",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Purple Shampoo (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.k18hair.com/cdn/shop/files/01_PackShot_consumer_1.jpg?v=1773327045",
+    "imageCutout": true
   },
   {
     "id": "prod-2332",
@@ -51330,7 +51648,7 @@
     "brand": "Valentino Beauty",
     "name": "Sogno in Rosso",
     "price": 340,
-    "image": "https://valentino-cdn.thron.com/delivery/public/image/valentino/11f2e638-5f80-49f8-98e1-0231e682b4db/ihqstx/std/500x0/Anatomy-Of-Dreams---Sogno-In-Rosso-Parfum-100Ml?quality=80&size=35&format=auto",
+    "image": "/cutouts/valentino-beauty-sogno-in-rosso.webp",
     "topAward": "InStyle Best Beauty Buys — Best Amber Spice (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -51342,7 +51660,9 @@
     "buyLink": "https://www.valentino.com/en-us/product-anatomy-of-dreams---sogno-in-rosso-parfum-100ml-8AOD07100_000",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Amber Spice (2026)"
-    ]
+    ],
+    "imageOriginal": "https://valentino-cdn.thron.com/delivery/public/image/valentino/11f2e638-5f80-49f8-98e1-0231e682b4db/ihqstx/std/500x0/Anatomy-Of-Dreams---Sogno-In-Rosso-Parfum-100Ml?quality=80&size=35&format=auto",
+    "imageCutout": true
   },
   {
     "id": "prod-2354",
@@ -51739,7 +52059,7 @@
     "brand": "Purito Seoul",
     "name": "Mighty Bamboo Panthenol Cream",
     "price": null,
-    "image": "https://use-image.oliveyoung.com/images/prd/8809563103430/thumbnail/8c08403b-8d43-461c-80d2-9db3278e2db6.jpg",
+    "image": "/cutouts/purito-seoul-mighty-bamboo-panthenol-cream.webp",
     "topAward": "Olive Young Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -51751,7 +52071,9 @@
     "buyLink": "https://click.linksynergy.com/link?id=lDbatWRMyd4&offerid=2059424.542677953467725279316758&type=15&murl=https%3A%2F%2Fus.oliveyoung.com%2Fproducts%2FUA89548688",
     "awardsWon": [
       "Olive Young Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://use-image.oliveyoung.com/images/prd/8809563103430/thumbnail/8c08403b-8d43-461c-80d2-9db3278e2db6.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2373",
@@ -52043,7 +52365,7 @@
     "brand": "BYOS",
     "name": "Peptide Lip Repair",
     "price": 24,
-    "image": "https://cdn.shopify.com/s/files/1/0615/0406/1604/files/V.jpg?v=1774409866",
+    "image": "/cutouts/byos-peptide-lip-repair.webp",
     "topAward": "Glamour Beauty Awards — Beauty Innovators — Best Lip Balm (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -52055,7 +52377,9 @@
     "buyLink": "https://byoskincare.com/products/repair-vanilla",
     "awardsWon": [
       "Glamour Beauty Awards — Beauty Innovators — Best Lip Balm (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0615/0406/1604/files/V.jpg?v=1774409866",
+    "imageCutout": true
   },
   {
     "id": "prod-2387",
@@ -52978,7 +53302,7 @@
     "brand": "K18",
     "name": "Leave-In Molecular Hair Mask",
     "price": 29,
-    "image": "https://www.k18hair.com/cdn/shop/files/00_Mask.jpg?width=1600",
+    "image": "/cutouts/k18-leave-in-molecular-hair-mask.webp",
     "topAward": "Marie Claire Reader's Choice — Leave-In Conditioner (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -52990,7 +53314,9 @@
     "buyLink": "https://www.k18hair.com",
     "awardsWon": [
       "Marie Claire Reader's Choice — Leave-In Conditioner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.k18hair.com/cdn/shop/files/00_Mask.jpg?width=1600",
+    "imageCutout": true
   },
   {
     "id": "prod-2430",
@@ -54201,7 +54527,7 @@
     "brand": "Evolvetogether",
     "name": "Hydrating Hand Cream",
     "price": null,
-    "image": "https://media.allure.com/photos/6a88d57f3222466d2eb02038/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/evolvetogether-hydrating-hand-cream.webp",
     "topAward": "Allure Best of Beauty — Best Hand Cream (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -54213,7 +54539,9 @@
     "buyLink": "https://go.shopmy.us/p-88320188",
     "awardsWon": [
       "Allure Best of Beauty — Best Hand Cream (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a88d57f3222466d2eb02038/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-2487",
@@ -59674,7 +60002,7 @@
     "brand": "Make Up For Ever",
     "name": "Super Boost Lightweight Moisturizing Skin Tint",
     "price": 36,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/8693f3f8-6b69-415d-b18a-71bdd4c0680c/a8dfa82f-b698-485d-8692-a58c190558df.jpg",
+    "image": "/cutouts/make-up-for-ever-super-boost-lightweight-moisturizing-skin-tint.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Dewy Skin Tint (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -59686,7 +60014,9 @@
     "buyLink": "https://go.shopmy.us/p-81542999",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Dewy Skin Tint (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/8693f3f8-6b69-415d-b18a-71bdd4c0680c/a8dfa82f-b698-485d-8692-a58c190558df.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2742",
@@ -59843,7 +60173,7 @@
     "brand": "Murad",
     "name": "Lipid-Enriched Double Cleansing Balm",
     "price": 37,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/bbf31d12-30e9-4bb8-8492-b60f48cceefd/dab368b7-7b66-46f0-a41a-38ccda54b658.jpg",
+    "image": "/cutouts/murad-lipid-enriched-double-cleansing-balm.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Cleansing Balm (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -59855,7 +60185,9 @@
     "buyLink": "https://www.ulta.com/p/lipid-enriched-double-cleansing-balm-pimprod2055965?sku=2652067",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Cleansing Balm (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/bbf31d12-30e9-4bb8-8492-b60f48cceefd/dab368b7-7b66-46f0-a41a-38ccda54b658.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2750",
@@ -59951,7 +60283,7 @@
     "brand": "Victoria Beckham Beauty by Augustinus Bader",
     "name": "The Foundation Drops with TFC8",
     "price": 110,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/496772ee-e795-48ce-adb4-13e5239cd2e4/40bc7a09-f42b-4aa7-adfa-1ba5311c3872.jpg",
+    "image": "/cutouts/victoria-beckham-beauty-by-augustinus-bader-the-foundation-drops-with-tfc8.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Dewy Foundation (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -59963,7 +60295,9 @@
     "buyLink": "https://go.shopmy.us/p-82383294",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Dewy Foundation (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/496772ee-e795-48ce-adb4-13e5239cd2e4/40bc7a09-f42b-4aa7-adfa-1ba5311c3872.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2755",
@@ -59993,7 +60327,7 @@
     "brand": "Nuda",
     "name": "Tonefoam Self-Tanning Mousse Express Olive",
     "price": 44,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/dc0e5530-96dc-43b9-bc4f-40d2b12b2908/896bca2d-ff90-4304-a468-b6d5f286191f.jpg",
+    "image": "/cutouts/nuda-tonefoam-self-tanning-mousse-express-olive.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Self-Tanning Mousse or Water (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -60005,7 +60339,9 @@
     "buyLink": "https://go.shopmy.us/p-82385586",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Self-Tanning Mousse or Water (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/dc0e5530-96dc-43b9-bc4f-40d2b12b2908/896bca2d-ff90-4304-a468-b6d5f286191f.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2757",
@@ -60079,7 +60415,7 @@
     "brand": "RevitaLash",
     "name": "Advanced Eyelash Conditioner",
     "price": 152,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/ca54f9eb-6cd8-4060-ac73-cc05da291f6e/56c591b9-dc2d-41e7-88cd-6904232e3ff0.jpg",
+    "image": "/cutouts/revitalash-advanced-eyelash-conditioner.webp",
     "topAward": "InStyle Best Beauty Buys — Best Lash Serum (2026)",
     "awardCount": 2,
     "category": "Skincare",
@@ -60092,7 +60428,9 @@
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Lash Serum (2026)",
       "Cosmopolitan Beauty Awards — Best Eyelash Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/ca54f9eb-6cd8-4060-ac73-cc05da291f6e/56c591b9-dc2d-41e7-88cd-6904232e3ff0.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2761",
@@ -60186,7 +60524,7 @@
     "brand": "Bask & Lather",
     "name": "Strong Hold Edge Control",
     "price": 16,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/6333e457-2947-42ad-a6d9-60e925d6b472/bd244323-85a5-4460-9a0a-95adcfe9a4fd.jpg",
+    "image": "/cutouts/bask---lather-strong-hold-edge-control.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Edge Control (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -60198,7 +60536,9 @@
     "buyLink": "https://www.amazon.com/dp/B0CFZ6H1QQ?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Edge Control (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/6333e457-2947-42ad-a6d9-60e925d6b472/bd244323-85a5-4460-9a0a-95adcfe9a4fd.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2766",
@@ -60206,7 +60546,7 @@
     "brand": "Mooncat",
     "name": "Getting Even Nail Primer",
     "price": 14,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/8735696e-79df-4c16-aec7-cf3d55cc2d64/5450c036-761f-4b2b-9394-ce2739c5d12a.jpg",
+    "image": "/cutouts/mooncat-getting-even-nail-primer.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Ridge Filler (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -60218,7 +60558,9 @@
     "buyLink": "https://www.mooncat.com/products/getting-even-nail-primer",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Ridge Filler (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/8735696e-79df-4c16-aec7-cf3d55cc2d64/5450c036-761f-4b2b-9394-ce2739c5d12a.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2767",
@@ -60270,7 +60612,7 @@
     "brand": "Nars",
     "name": "Afterglow Sensual Shine Lipstick",
     "price": 34,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/7406afb7-745a-4807-bb37-5de3b7ad0354/73fb4d05-36b8-4bdd-a001-680220754e2e.jpg",
+    "image": "/cutouts/nars-afterglow-sensual-shine-lipstick.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Shiny Lipstick (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -60282,7 +60624,9 @@
     "buyLink": "https://www.sephora.com/product/nars-afterglow-sensual-shine-lipstick-P505364",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Shiny Lipstick (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/7406afb7-745a-4807-bb37-5de3b7ad0354/73fb4d05-36b8-4bdd-a001-680220754e2e.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2770",
@@ -60312,7 +60656,7 @@
     "brand": "Maybelline New York",
     "name": "Shadow Drip Eye Tint Shimmer Liquid Eyeshadow",
     "price": 8.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/8b8f1786-b7c2-4056-acda-fc0578c630c3/75d79521-547a-43cc-92bf-8288896b60f3.jpg",
+    "image": "/cutouts/maybelline-new-york-shadow-drip-eye-tint-shimmer-liquid-eyeshadow.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Cream Eyeshadow (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -60324,7 +60668,9 @@
     "buyLink": "https://go.shopmy.us/p-81543374",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Cream Eyeshadow (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/8b8f1786-b7c2-4056-acda-fc0578c630c3/75d79521-547a-43cc-92bf-8288896b60f3.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2772",
@@ -60504,7 +60850,7 @@
     "brand": "Sally Hansen",
     "name": "Miracle Gel Super Shiny Shield Topcoat",
     "price": 12.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/698ecd55-3f92-40a1-939c-665366f37075/43f58c72-94db-41a0-bcae-42011e7a44d9.jpg",
+    "image": "/cutouts/sally-hansen-miracle-gel-super-shiny-shield-topcoat.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Gel Top Coat (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -60516,7 +60862,9 @@
     "buyLink": "https://www.ulta.com/p/miracle-gel-super-shiny-shield-topcoat-pimprod2053368?sku=2641607",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Gel Top Coat (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/698ecd55-3f92-40a1-939c-665366f37075/43f58c72-94db-41a0-bcae-42011e7a44d9.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2781",
@@ -60630,7 +60978,7 @@
     "brand": "SkinBetter Science",
     "name": "AlphaRet Overnight Cream",
     "price": 145,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/a512aa19-3db3-4a28-aeb2-ba3f4ac5f849/411e1340-f7c1-4be7-a0c3-09cc263a2fff.jpg",
+    "image": "/cutouts/skinbetter-science-alpharet-overnight-cream.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hall of Fame Skincare Product (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -60642,7 +60990,9 @@
     "buyLink": "https://go.shopmy.us/p-81545953",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hall of Fame Skincare Product (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/a512aa19-3db3-4a28-aeb2-ba3f4ac5f849/411e1340-f7c1-4be7-a0c3-09cc263a2fff.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2787",
@@ -60672,7 +61022,7 @@
     "brand": "Laura Mercier",
     "name": "Translucent Hydrating Setting Spray Ultra-Blur",
     "price": 39,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/10e1fb2c-86b1-4387-8b41-8d6578648226/c710f16a-c04e-440e-88f5-981816031bb7.jpg",
+    "image": "/cutouts/laura-mercier-translucent-hydrating-setting-spray-ultra-blur.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Matte Setting Spray (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -60684,7 +61034,9 @@
     "buyLink": "https://go.shopmy.us/p-81544831",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Matte Setting Spray (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/10e1fb2c-86b1-4387-8b41-8d6578648226/c710f16a-c04e-440e-88f5-981816031bb7.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2789",
@@ -60692,7 +61044,7 @@
     "brand": "Sungboon Editor",
     "name": "Kojic Acid Niacinamide Radiance Soothing Gel Cleanser",
     "price": 17,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/ba9c8413-9b05-436a-8100-7c083d3f1b90/21ecfaf6-9c68-436a-9d87-ddf72193d366.jpg",
+    "image": "/cutouts/sungboon-editor-kojic-acid-niacinamide-radiance-soothing-gel-cleanser.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Brightening Cleanser (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -60704,7 +61056,9 @@
     "buyLink": "https://click.linksynergy.com/link?id=lDbatWRMyd4&offerid=2059424.542679039385542620933769&type=15&murl=https%3A%2F%2Fus.oliveyoung.com%2Fproducts%2FUA26643298",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Brightening Cleanser (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/ba9c8413-9b05-436a-8100-7c083d3f1b90/21ecfaf6-9c68-436a-9d87-ddf72193d366.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2790",
@@ -60755,7 +61109,7 @@
     "brand": "The Ordinary",
     "name": "Volufiline 92% + Pal-Isoleucine 1%",
     "price": 21.4,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/ae6a3891-5eb5-4472-925b-745685678086/6a41d4d8-d49f-484d-9be0-84e1fa83ab88.jpg",
+    "image": "/cutouts/the-ordinary-volufiline-92----pal-isoleucine-1-.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Skincare Steal (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -60767,7 +61121,9 @@
     "buyLink": "https://click.linksynergy.com/link?id=lDbatWRMyd4&offerid=2059424.5426713514097930263456763&type=15&murl=https%3A%2F%2Fus.oliveyoung.com%2Fproducts%2FUA59966808",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Skincare Steal (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/ae6a3891-5eb5-4472-925b-745685678086/6a41d4d8-d49f-484d-9be0-84e1fa83ab88.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2793",
@@ -60817,7 +61173,7 @@
     "brand": "Townhouse",
     "name": "Flawless Polish",
     "price": 14,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/8107a4fb-b5e5-4293-9b4f-65c995dfd1fc/c6625731-7ad8-4ccb-a45e-a071e6f57c66.jpg",
+    "image": "/cutouts/townhouse-flawless-polish.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Regular Nail Polish (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -60829,7 +61185,9 @@
     "buyLink": "https://shop.townhouse.co.uk/products/th-glazed-marshmallow",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Regular Nail Polish (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/8107a4fb-b5e5-4293-9b4f-65c995dfd1fc/c6625731-7ad8-4ccb-a45e-a071e6f57c66.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2796",
@@ -60857,7 +61215,7 @@
     "brand": "YSL Beauty",
     "name": "All Hours Hyper Bronzer",
     "price": 65,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/ec289b0b-e97b-4986-9a18-6ab1e2990ed1/6c85c89d-6078-439d-bb35-34100032db29.jpg",
+    "image": "/cutouts/ysl-beauty-all-hours-hyper-bronzer.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Powder Bronzer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -60869,7 +61227,9 @@
     "buyLink": "https://go.shopmy.us/p-81543618",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Powder Bronzer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/ec289b0b-e97b-4986-9a18-6ab1e2990ed1/6c85c89d-6078-439d-bb35-34100032db29.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2798",
@@ -60877,7 +61237,7 @@
     "brand": "Clinique",
     "name": "Chubby Stick Moisturizing Lip Color Balm",
     "price": 26,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/b7cc84d7-535d-45cf-9f68-cdd8d2867f94/32cd97bf-15e6-4d1a-9a05-958b8b18a69d.jpg",
+    "image": "/cutouts/clinique-chubby-stick-moisturizing-lip-color-balm.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Lip Crayon (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -60889,7 +61249,9 @@
     "buyLink": "https://go.shopmy.us/p-78192157",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Lip Crayon (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/b7cc84d7-535d-45cf-9f68-cdd8d2867f94/32cd97bf-15e6-4d1a-9a05-958b8b18a69d.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2799",
@@ -60941,7 +61303,7 @@
     "brand": "Olay",
     "name": "Super Serum Hand & Body Lotion",
     "price": 14.97,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/8e787ba8-e464-46b8-ae81-450b04af0f72/76543c72-224b-406e-a6d3-38a585e6093c.jpg",
+    "image": "/cutouts/olay-super-serum-hand---body-lotion.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Lightweight Body Lotion (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -60953,7 +61315,9 @@
     "buyLink": "https://www.amazon.com/dp/B0F1DNMVF1?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Lightweight Body Lotion (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/8e787ba8-e464-46b8-ae81-450b04af0f72/76543c72-224b-406e-a6d3-38a585e6093c.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2802",
@@ -61071,7 +61435,7 @@
     "brand": "Belnu",
     "name": "Chai Fleur Eau de Parfum",
     "price": 170,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/77095310-171f-4e32-b999-c4cd938368a1/40aff97c-5703-40d0-8539-fcd578de91b5.jpg",
+    "image": "/cutouts/belnu-chai-fleur-eau-de-parfum.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Niche Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -61083,7 +61447,9 @@
     "buyLink": "https://belnu.com/products/chai-fleur",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Niche Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/77095310-171f-4e32-b999-c4cd938368a1/40aff97c-5703-40d0-8539-fcd578de91b5.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2808",
@@ -61201,7 +61567,7 @@
     "brand": "Benefit Cosmetics",
     "name": "The POREfessional Degunker",
     "price": 36,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/6c2503d6-bc02-47e7-bd51-448ffe10975e/702991e9-99a9-423f-b70d-f38493aeaebe.jpg",
+    "image": "/cutouts/benefit-cosmetics-the-porefessional-degunker.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Acne Device (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61213,7 +61579,9 @@
     "buyLink": "https://go.shopmy.us/p-78151531",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Acne Device (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/6c2503d6-bc02-47e7-bd51-448ffe10975e/702991e9-99a9-423f-b70d-f38493aeaebe.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2814",
@@ -61221,7 +61589,7 @@
     "brand": "Neutrogena",
     "name": "Ultra Sheer Dry-Touch Broad Spectrum Max SPF 100+ Body Sunscreen",
     "price": 14.49,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/efd4155d-71d7-467e-8933-704f19d1330c/396be363-b800-4f2d-9b94-896f81eea966.jpg",
+    "image": "/cutouts/neutrogena-ultra-sheer-dry-touch-broad-spectrum-max-spf-100--body-sunscreen.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Waterproof Body Sunscreen (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -61233,7 +61601,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FPNZXRGZ?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Waterproof Body Sunscreen (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/efd4155d-71d7-467e-8933-704f19d1330c/396be363-b800-4f2d-9b94-896f81eea966.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2815",
@@ -61241,7 +61611,7 @@
     "brand": "Ole Henriksen",
     "name": "Vanilla Bonbon Pout Preserve Peptide Lip Treatment",
     "price": 24,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/2ba74635-d178-43a0-a3a2-2ef5ee4f7534/1154a801-06d9-4b02-b444-e15efe386616.jpg",
+    "image": "/cutouts/ole-henriksen-vanilla-bonbon-pout-preserve-peptide-lip-treatment.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Lip Treatment (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -61253,7 +61623,9 @@
     "buyLink": "https://go.shopmy.us/p-81545820",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Lip Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/2ba74635-d178-43a0-a3a2-2ef5ee4f7534/1154a801-06d9-4b02-b444-e15efe386616.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2816",
@@ -61283,7 +61655,7 @@
     "brand": "Dyson",
     "name": "Supersonic Travel Hair Dryer",
     "price": 299.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/152482aa-f47d-4f96-8a22-d7b111062c46/bc48a63c-997c-4897-93d7-949030445c7b.jpg",
+    "image": "/cutouts/dyson-supersonic-travel-hair-dryer.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Haircare Game Changer (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61295,7 +61667,9 @@
     "buyLink": "https://go.shopmy.us/p-78303093",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Haircare Game Changer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/152482aa-f47d-4f96-8a22-d7b111062c46/bc48a63c-997c-4897-93d7-949030445c7b.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2818",
@@ -61413,7 +61787,7 @@
     "brand": "Neutrogena",
     "name": "Ultra Gentle Face & Body Moisturizing Cream",
     "price": 11,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/9285a14d-beab-4cdc-83f7-040606442316/c5724170-c44d-494c-a086-ea8bbe8267cb.jpg",
+    "image": "/cutouts/neutrogena-ultra-gentle-face---body-moisturizing-cream.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Body Lotion for Sensitive Skin (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -61425,7 +61799,9 @@
     "buyLink": "https://www.amazon.com/dp/B0F7J45MH9?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Body Lotion for Sensitive Skin (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/9285a14d-beab-4cdc-83f7-040606442316/c5724170-c44d-494c-a086-ea8bbe8267cb.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2824",
@@ -61500,7 +61876,7 @@
     "brand": "TPH by Taraji",
     "name": "Never Salty",
     "price": 12.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/7bb8d340-ba44-48b2-b698-69f795a3fad2/c366fe3b-ad0e-4da8-b2b3-d3dad651eed9.jpg",
+    "image": "/cutouts/tph-by-taraji-never-salty.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Scalp Exfoliator (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -61512,7 +61888,9 @@
     "buyLink": "https://www.amazon.com/dp/B09JHWBRZG?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Scalp Exfoliator (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/7bb8d340-ba44-48b2-b698-69f795a3fad2/c366fe3b-ad0e-4da8-b2b3-d3dad651eed9.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2828",
@@ -61540,7 +61918,7 @@
     "brand": "Merit",
     "name": "Solo Shadow Eye Color",
     "price": 26,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/c14832a7-ee09-4738-9771-7b8faf805971/e770649c-134a-444d-9772-9fdd33e54e6b.jpg",
+    "image": "/cutouts/merit-solo-shadow-eye-color.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Eyeshadow (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -61552,7 +61930,9 @@
     "buyLink": "https://go.shopmy.us/p-82389186",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Eyeshadow (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/c14832a7-ee09-4738-9771-7b8faf805971/e770649c-134a-444d-9772-9fdd33e54e6b.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2830",
@@ -61600,7 +61980,7 @@
     "brand": "Redken",
     "name": "Shades ALK Liquid-Cream Alkaline Demi",
     "price": null,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/5c612a3c-4af8-47d9-9528-b4dd536f5463/793fdc51-f967-45c1-8fb1-f25b768c1776.jpg",
+    "image": "/cutouts/redken-shades-alk-liquid-cream-alkaline-demi.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Pro Hair Color (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -61612,7 +61992,9 @@
     "buyLink": "https://www.redkenpro.com/products/haircolor/shades-alk-alkaline-demi",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Pro Hair Color (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/5c612a3c-4af8-47d9-9528-b4dd536f5463/793fdc51-f967-45c1-8fb1-f25b768c1776.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2833",
@@ -61620,7 +62002,7 @@
     "brand": "Blake Brown Beauty",
     "name": "Hair and Body Refresh Mist",
     "price": 51.3,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/99d16fdc-655e-45ad-ace3-af0d9837b5e1/c8fc773a-03db-4473-ab49-15c812be4abc.jpg",
+    "image": "/cutouts/blake-brown-beauty-hair-and-body-refresh-mist.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hair Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -61632,7 +62014,9 @@
     "buyLink": "https://www.blakebrownbeauty.com/products/sandalwood-vanille-mist",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Hair Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/99d16fdc-655e-45ad-ace3-af0d9837b5e1/c8fc773a-03db-4473-ab49-15c812be4abc.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2834",
@@ -61916,7 +62300,7 @@
     "brand": "Chris McMillan",
     "name": "The Styling Balm",
     "price": 38,
-    "image": "https://media.allure.com/photos/68a5fad967004f3ffd22afa5/3:4/w_800,c_limit/Chris%20McMillan%20The%20Styling%20Balm.jpg",
+    "image": "/cutouts/chris-mcmillan-the-styling-balm.webp",
     "topAward": "Allure Best of Beauty — Best Multitasker (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -61928,7 +62312,9 @@
     "buyLink": "https://go.shopmy.us/p-78183896",
     "awardsWon": [
       "Allure Best of Beauty — Best Multitasker (2025)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/68a5fad967004f3ffd22afa5/3:4/w_800,c_limit/Chris%20McMillan%20The%20Styling%20Balm.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2848",
@@ -61936,7 +62322,7 @@
     "brand": "Oribe",
     "name": "Priming Lotion Leave-In Conditioning Detangler",
     "price": 42,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/de3bfc70-63a7-4151-bd5a-bfc6ad457491/051ba053-9316-4356-b6fd-08343f333983.jpg",
+    "image": "/cutouts/oribe-priming-lotion-leave-in-conditioning-detangler.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Leave-In Conditioner for Type 4 Hair (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -61948,7 +62334,9 @@
     "buyLink": "https://www.sephora.com/product/oribe-hair-priming-lotion-leave-in-conditioning-detangler-P469144",
     "awardsWon": [
       "Cosmopolitan Beauty Awards — Best Leave-In Conditioner for Type 4 Hair (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/de3bfc70-63a7-4151-bd5a-bfc6ad457491/051ba053-9316-4356-b6fd-08343f333983.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2849",
@@ -62751,7 +63139,7 @@
     "brand": "Shani Darden Skin Care",
     "name": "Triple Acid Signature Peel",
     "price": 125,
-    "image": "https://media.allure.com/photos/6a8f1a10a03089fdce078024/1:1/w_1600,c_limit/undefined",
+    "image": "/cutouts/shani-darden-skin-care-triple-acid-signature-peel.webp",
     "topAward": "Allure Best of Beauty — Best Monthly Peel (2025)",
     "awardCount": 2,
     "category": "Skincare",
@@ -62764,7 +63152,9 @@
     "awardsWon": [
       "Allure Best of Beauty — Best Monthly Peel (2025)",
       "Allure Best of Beauty — Best Monthly Peel (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f1a10a03089fdce078024/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-2887",
@@ -62901,7 +63291,7 @@
     "brand": "Neutrogena",
     "name": "Ultra Sheer Body Mist Sunscreen Broad SPF 70",
     "price": 25,
-    "image": "https://media.allure.com/photos/687db49fc31aeb8545e26390/3:4/w_800,c_limit/Neutrogena%20Ultra%20Sheer%20Body%20Mist%20Sunscreen%20Broad%20Spectrum%20SPF%2070%20.jpg",
+    "image": "/cutouts/neutrogena-ultra-sheer-body-mist-sunscreen-broad-spf-70.webp",
     "topAward": "Allure Best of Beauty — Best Body Steals (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -62913,7 +63303,9 @@
     "buyLink": "https://www.neutrogena.com/products/sun/neutrogena-ultra-sheer-lightweight-sunscreen-spray-spf-70-5-oz/6810040",
     "awardsWon": [
       "Allure Best of Beauty — Best Body Steals (2025)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/687db49fc31aeb8545e26390/3:4/w_800,c_limit/Neutrogena%20Ultra%20Sheer%20Body%20Mist%20Sunscreen%20Broad%20Spectrum%20SPF%2070%20.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2894",
@@ -63391,7 +63783,7 @@
     "brand": "Tory Burch",
     "name": "Sublime Eau de Parfum",
     "price": 125,
-    "image": "https://media.allure.com/photos/687d917cc31aeb8545e26362/3:4/w_800,c_limit/Tory%20Burch%20Sublime%20Eau%20de%20Parfum.jpg",
+    "image": "/cutouts/tory-burch-sublime-eau-de-parfum.webp",
     "topAward": "Allure Best of Beauty — Best Citrus Fragrance (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -63403,7 +63795,9 @@
     "buyLink": "https://go.shopmy.us/p-79607371",
     "awardsWon": [
       "Allure Best of Beauty — Best Citrus Fragrance (2025)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/687d917cc31aeb8545e26362/3:4/w_800,c_limit/Tory%20Burch%20Sublime%20Eau%20de%20Parfum.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2917",
@@ -64134,7 +64528,7 @@
     "brand": "Medicube",
     "name": "Hypochlorous Acid Daily Facial Spray",
     "price": null,
-    "image": "https://media.glamour.com/photos/69a737b84b95c4ecf0e121f9/3:4/w_800,c_limit/medicube%20Hypochlorous%20Acid%20Daily%20Facial%20Spraymedicube.jpg",
+    "image": "/cutouts/medicube-hypochlorous-acid-daily-facial-spray.webp",
     "topAward": "Glamour Beauty Awards — Drugstore Skin Care — Best Face Mist (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -64146,7 +64540,9 @@
     "buyLink": "https://www.ulta.com/p/hypochlorous-acid-daily-facial-spray-pimprod2054914?sku=2648012",
     "awardsWon": [
       "Glamour Beauty Awards — Drugstore Skin Care — Best Face Mist (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.glamour.com/photos/69a737b84b95c4ecf0e121f9/3:4/w_800,c_limit/medicube%20Hypochlorous%20Acid%20Daily%20Facial%20Spraymedicube.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2952",
@@ -64176,7 +64572,7 @@
     "brand": "Laura Mercier",
     "name": "Tinted Moisturizer Natural Dewy SPF 30",
     "price": null,
-    "image": "https://media.glamour.com/photos/69a87c28363ce9ca86d6435b/3:4/w_800,c_limit/Laura%20Mercier%20Tinted%20Moisturizer%20Natural%20Dewy%20SPF%2030.jpg",
+    "image": "/cutouts/laura-mercier-tinted-moisturizer-natural-dewy-spf-30.webp",
     "topAward": "Glamour Beauty Awards — Luxury Makeup — Best Tinted Moisturizer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -64188,7 +64584,9 @@
     "buyLink": "https://go.shopmy.us/p-81537793",
     "awardsWon": [
       "Glamour Beauty Awards — Luxury Makeup — Best Tinted Moisturizer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.glamour.com/photos/69a87c28363ce9ca86d6435b/3:4/w_800,c_limit/Laura%20Mercier%20Tinted%20Moisturizer%20Natural%20Dewy%20SPF%2030.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2954",
