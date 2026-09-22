@@ -51662,6 +51662,116 @@
   },
   {
     "id": "prod-2353",
+    "slug": "ilia-skin-blur-concealer",
+    "brand": "Ilia",
+    "name": "Skin Blur Concealer",
+    "price": null,
+    "image": "/cutouts/ilia-skin-blur-concealer.webp",
+    "topAward": "Allure Best of Beauty — Base (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88317537",
+    "awardsWon": [
+      "Allure Best of Beauty — Base (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a88a1e74b6bb2927a722b76/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2354",
+    "slug": "maria-nila-head---hair-heal-soothing-shampoo-and-conditioner",
+    "brand": "Maria Nila",
+    "name": "Head & Hair Heal Soothing Shampoo and Conditioner",
+    "price": null,
+    "image": "/cutouts/maria-nila-head---hair-heal-soothing-shampoo-and-conditioner.webp",
+    "topAward": "Allure Best of Beauty — Best Dry Hair Shampoo & Conditioner (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88321884",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Dry Hair Shampoo & Conditioner (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a94c0529cd141c667105639/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2355",
+    "slug": "head---shoulders-sulfate-free-shea-butter-shampoo-and-conditioner",
+    "brand": "Head & Shoulders",
+    "name": "Sulfate-Free Shea Butter Shampoo and Conditioner",
+    "price": null,
+    "image": "/cutouts/head---shoulders-sulfate-free-shea-butter-shampoo-and-conditioner.webp",
+    "topAward": "Allure Best of Beauty — Best Dandruff Shampoo & Conditioner (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://www.amazon.com/dp/B0GFXS539D?tag=vettbeauty-20",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Dandruff Shampoo & Conditioner (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8a59b6c5273bca4bd47666/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2356",
+    "slug": "donna-s-recipe-sweet-potato-pie-extra-creamy-hair-cream",
+    "brand": "Donna's Recipe",
+    "name": "Sweet Potato Pie Extra Creamy Hair Cream",
+    "price": null,
+    "image": "/cutouts/donna-s-recipe-sweet-potato-pie-extra-creamy-hair-cream.webp",
+    "topAward": "Allure Best of Beauty — Hair (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88308056",
+    "awardsWon": [
+      "Allure Best of Beauty — Hair (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8a68ee13737fb040f5b790/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2357",
+    "slug": "eltamd-uv-clear-acne-blemish-prone---oil-balancing-spf-50",
+    "brand": "EltaMD",
+    "name": "UV Clear Acne Blemish-Prone & Oil Balancing SPF 50",
+    "price": null,
+    "image": "/cutouts/eltamd-uv-clear-acne-blemish-prone---oil-balancing-spf-50.webp",
+    "topAward": "Allure Best of Beauty — Skin (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88332619",
+    "awardsWon": [
+      "Allure Best of Beauty — Skin (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f1b26d68baf99176951c7/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2358",
     "slug": "lumineux-performance-white-toothpaste-with-10--nano-hydroxyapatite",
     "brand": "Lumineux",
     "name": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
@@ -51683,7 +51793,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2354",
+    "id": "prod-2359",
     "slug": "lashify-control-kit",
     "brand": "Lashify",
     "name": "Control Kit",
@@ -51705,7 +51815,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2355",
+    "id": "prod-2360",
     "slug": "nyx-professional-makeup-butter-gloss-non-sticky-lip-gloss",
     "brand": "NYX Professional Makeup",
     "name": "Butter Gloss Non-Sticky Lip Gloss",
@@ -51725,7 +51835,7 @@
     ]
   },
   {
-    "id": "prod-2356",
+    "id": "prod-2361",
     "slug": "mediheal-madecassoside-blemish-repair-pad",
     "brand": "Mediheal",
     "name": "Madecassoside Blemish Repair Pad",
@@ -51747,7 +51857,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2357",
+    "id": "prod-2362",
     "slug": "clio-kill-cover-founwear-cushion",
     "brand": "CLIO",
     "name": "Kill Cover Founwear Cushion",
@@ -51769,7 +51879,91 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2358",
+    "id": "prod-2363",
+    "slug": "pantene-abundant---strong-shampoo-and-abundant---strong-breakage-defense-conditi",
+    "brand": "Pantene",
+    "name": "Abundant & Strong Shampoo and Abundant & Strong Breakage Defense Conditioner",
+    "price": null,
+    "image": "https://media.allure.com/photos/6aa95b8d592c7261ea594e94/1:1/w_1600,c_limit/undefined",
+    "topAward": "Allure Best of Beauty — Steals (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://pantene.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Steals (2026)"
+    ]
+  },
+  {
+    "id": "prod-2364",
+    "slug": "milani-cosmetics-make-it-last-original-natural-finish-setting-spray",
+    "brand": "Milani Cosmetics",
+    "name": "Make it Last Original—Natural Finish Setting Spray",
+    "price": null,
+    "image": "/cutouts/milani-cosmetics-make-it-last-original-natural-finish-setting-spray.webp",
+    "topAward": "Allure Best of Beauty — Steals (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://www.milanicosmetics.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Steals (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8e5959027b5efed707ef76/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2365",
+    "slug": "oribe-hair-alchemy-resilience-shampoo-and-conditioner",
+    "brand": "Oribe",
+    "name": "Hair Alchemy Resilience Shampoo and Conditioner",
+    "price": null,
+    "image": "https://media.allure.com/photos/6aa99e502149537b54d6787d/1:1/w_1600,c_limit/undefined",
+    "topAward": "Allure Best of Beauty — Splurges (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://www.sephora.com/search?keyword=Oribe%20Hair%20Alchemy%20Resilience%20Shampoo%20and%20Conditioner",
+    "awardsWon": [
+      "Allure Best of Beauty — Splurges (2026)"
+    ]
+  },
+  {
+    "id": "prod-2366",
+    "slug": "ciele-cosmetics-conceal---protect-spf-50",
+    "brand": "Ciele Cosmetics",
+    "name": "Conceal & Protect SPF 50",
+    "price": null,
+    "image": "/cutouts/ciele-cosmetics-conceal---protect-spf-50.webp",
+    "topAward": "Allure Best of Beauty — Best Clean Makeup (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://cielecosmetics.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Clean Makeup (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f45b79ed6dc48106cb5e7/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2367",
     "slug": "laura-geller-beauty-spackle-skin-perfecting-primer--hydrate",
     "brand": "Laura Geller Beauty",
     "name": "Spackle Skin Perfecting Primer: Hydrate",
@@ -51791,7 +51985,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2359",
+    "id": "prod-2368",
     "slug": "colorgram-fruity-glass-tint",
     "brand": "Colorgram",
     "name": "Fruity Glass Tint",
@@ -51813,7 +52007,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2360",
+    "id": "prod-2369",
     "slug": "clio-pro-eye-palette-air--02-rose-connect",
     "brand": "CLIO",
     "name": "Pro Eye Palette Air #02 Rose Connect",
@@ -51835,7 +52029,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2361",
+    "id": "prod-2370",
     "slug": "mediheal-madecassoside-blemish-repair-serum",
     "brand": "Mediheal",
     "name": "Madecassoside Blemish Repair Serum",
@@ -51857,7 +52051,7 @@
     ]
   },
   {
-    "id": "prod-2362",
+    "id": "prod-2371",
     "slug": "ouidad-curl-therapy-intense-repair-mask",
     "brand": "Ouidad",
     "name": "Curl Therapy Intense Repair Mask",
@@ -51879,7 +52073,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2363",
+    "id": "prod-2372",
     "slug": "aunt-jackie-s-curl-la-la-bounce-back--refreshing-serum",
     "brand": "Aunt Jackie's",
     "name": "Curl La La Bounce Back! Refreshing Serum",
@@ -51901,7 +52095,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2364",
+    "id": "prod-2373",
     "slug": "light-saver-triplesome-serum-spf-40",
     "brand": "Light Saver",
     "name": "Triplesome Serum SPF 40",
@@ -51922,7 +52116,7 @@
     ]
   },
   {
-    "id": "prod-2365",
+    "id": "prod-2374",
     "slug": "anua-niacinamide-10-txa-4-dark-spot-correcting-serum",
     "brand": "Anua",
     "name": "Niacinamide 10 TXA 4 Dark Spot Correcting Serum",
@@ -51944,7 +52138,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2366",
+    "id": "prod-2375",
     "slug": "medicube-collagen-night-wrapping-mask",
     "brand": "Medicube",
     "name": "Collagen Night Wrapping Mask",
@@ -51968,7 +52162,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2367",
+    "id": "prod-2376",
     "slug": "skin1004-madagascar-centella-hyalu-cica-water-fit-sun-serum",
     "brand": "SKIN1004",
     "name": "Madagascar Centella Hyalu-Cica Water-Fit Sun Serum",
@@ -51990,7 +52184,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2368",
+    "id": "prod-2377",
     "slug": "seapuri-dr--33-hair-ampoule",
     "brand": "Seapuri",
     "name": "Dr. 33 Hair Ampoule",
@@ -52012,7 +52206,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2369",
+    "id": "prod-2378",
     "slug": "purito-seoul-mighty-bamboo-panthenol-cream",
     "brand": "Purito Seoul",
     "name": "Mighty Bamboo Panthenol Cream",
@@ -52034,7 +52228,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2370",
+    "id": "prod-2379",
     "slug": "k-rastase-premi-re-concentr--d-calcifiant-ultra-r-parateur",
     "brand": "Kérastase",
     "name": "Première Concentré Décalcifiant Ultra-Réparateur",
@@ -52056,7 +52250,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2371",
+    "id": "prod-2380",
     "slug": "foodology-coleology-cutting-jelly",
     "brand": "Foodology",
     "name": "Coleology Cutting Jelly",
@@ -52076,7 +52270,7 @@
     ]
   },
   {
-    "id": "prod-2372",
+    "id": "prod-2381",
     "slug": "dior-capture-rich-creme",
     "brand": "Dior",
     "name": "Capture Rich Creme",
@@ -52098,7 +52292,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2373",
+    "id": "prod-2382",
     "slug": "dr--idriss-barrier-baste-moisturizing-lip-balm-in-dessert",
     "brand": "Dr. Idriss",
     "name": "Barrier Baste Moisturizing Lip Balm in Dessert",
@@ -52120,7 +52314,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2374",
+    "id": "prod-2383",
     "slug": "round-lab-birch-juice-moisturizing-sunscreen",
     "brand": "Round Lab",
     "name": "Birch Juice Moisturizing Sunscreen",
@@ -52142,7 +52336,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2375",
+    "id": "prod-2384",
     "slug": "bioheal-boh-panthecell-repair-cica-cream-mist",
     "brand": "Bioheal BOH",
     "name": "Panthecell Repair Cica Cream Mist",
@@ -52166,7 +52360,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2376",
+    "id": "prod-2385",
     "slug": "sungboon-editor-alaska-pdrn-ultra-moisturizing-barrier-cream",
     "brand": "Sungboon Editor",
     "name": "Alaska PDRN Ultra Moisturizing Barrier Cream",
@@ -52188,7 +52382,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2377",
+    "id": "prod-2386",
     "slug": "prequel-redness-reform-sulfur-cleanser",
     "brand": "Prequel",
     "name": "Redness Reform Sulfur Cleanser",
@@ -52210,7 +52404,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2378",
+    "id": "prod-2387",
     "slug": "w-dressroom-moisturizing-perfume-hand-cream-no-97-april-cotton",
     "brand": "W.DRESSROOM",
     "name": "Moisturizing Perfume Hand Cream No.97 April Cotton",
@@ -52232,7 +52426,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2379",
+    "id": "prod-2388",
     "slug": "shaeri-leave-in-cream",
     "brand": "Shaeri",
     "name": "Leave-In Cream",
@@ -52254,7 +52448,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2380",
+    "id": "prod-2389",
     "slug": "remington-botanicals-collection-1-flat-iron",
     "brand": "Remington",
     "name": "Botanicals Collection 1 Flat Iron",
@@ -52277,7 +52471,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2381",
+    "id": "prod-2390",
     "slug": "unove-deep-damage-treatment-ex",
     "brand": "UNOVE",
     "name": "Deep Damage Treatment EX",
@@ -52297,7 +52491,7 @@
     ]
   },
   {
-    "id": "prod-2382",
+    "id": "prod-2391",
     "slug": "merit-the-minimalist-perfecting-complexion-stick",
     "brand": "Merit",
     "name": "The Minimalist Perfecting Complexion Stick",
@@ -52318,7 +52512,7 @@
     ]
   },
   {
-    "id": "prod-2383",
+    "id": "prod-2392",
     "slug": "byos-peptide-lip-repair",
     "brand": "BYOS",
     "name": "Peptide Lip Repair",
@@ -52340,7 +52534,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2384",
+    "id": "prod-2393",
     "slug": "vt-reedle-shot-100-essence",
     "brand": "VT",
     "name": "Reedle Shot 100 Essence",
@@ -52362,7 +52556,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2385",
+    "id": "prod-2394",
     "slug": "mediheal-pdrn-lifting-pad-2",
     "brand": "Mediheal",
     "name": "PDRN Lifting Pad",
@@ -52386,7 +52580,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2386",
+    "id": "prod-2395",
     "slug": "flaus-electric-flosser",
     "brand": "Flaus",
     "name": "Electric Flosser",
@@ -52408,7 +52602,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2387",
+    "id": "prod-2396",
     "slug": "sheamoisture-silk-press-in-a-bottle",
     "brand": "SheaMoisture",
     "name": "Silk Press in a Bottle",
@@ -52431,7 +52625,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2388",
+    "id": "prod-2397",
     "slug": "mantle-the-dream-mask",
     "brand": "Mantle",
     "name": "The Dream Mask",
@@ -52451,7 +52645,7 @@
     ]
   },
   {
-    "id": "prod-2389",
+    "id": "prod-2398",
     "slug": "boldify-hairline-powder",
     "brand": "BOLDIFY",
     "name": "Hairline Powder",
@@ -52473,7 +52667,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2390",
+    "id": "prod-2399",
     "slug": "cerave-acne-clay-to-foam-cleanser",
     "brand": "CeraVe",
     "name": "Acne Clay To Foam Cleanser",
@@ -52495,7 +52689,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2391",
+    "id": "prod-2400",
     "slug": "banu-aha---bha-blemish-control---exfoliating-serum",
     "brand": "Banu",
     "name": "AHA + BHA Blemish Control & Exfoliating Serum",
@@ -52517,7 +52711,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2392",
+    "id": "prod-2401",
     "slug": "sofie-pavitt-face-reset-benzoyl-peroxide-acne-treatment-mask",
     "brand": "Sofie Pavitt",
     "name": "Face Reset Benzoyl Peroxide Acne Treatment Mask",
@@ -52539,7 +52733,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2393",
+    "id": "prod-2402",
     "slug": "prequel-gleanser---glycolic-non-drying-glycolic-acid-cleanser",
     "brand": "Prequel",
     "name": "Gleanser + Glycolic Non-Drying Glycolic Acid Cleanser",
@@ -52561,7 +52755,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2394",
+    "id": "prod-2403",
     "slug": "-minence-tulsi---snow-mushroom-cleansing-milk",
     "brand": "Éminence",
     "name": "Tulsi & Snow Mushroom Cleansing Milk",
@@ -52583,7 +52777,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2395",
+    "id": "prod-2404",
     "slug": "centellian24-madeca-matcha-toning-peeling-gel",
     "brand": "Centellian24",
     "name": "Madeca Matcha Toning Peeling Gel",
@@ -52606,7 +52800,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2396",
+    "id": "prod-2405",
     "slug": "korres-santorini-grape-poreless-skin-perfecting-toner",
     "brand": "KORRES",
     "name": "Santorini Grape Poreless Skin-Perfecting Toner",
@@ -52628,7 +52822,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2397",
+    "id": "prod-2406",
     "slug": "angela-caglia-cell-forte-eye-cr-me",
     "brand": "Angela Caglia",
     "name": "Cell Forte Eye Crème",
@@ -52650,7 +52844,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2398",
+    "id": "prod-2407",
     "slug": "roc-derm-correxion-eye-repair-dark-circle-cream",
     "brand": "RoC",
     "name": "Derm Correxion Eye Repair Dark Circle Cream",
@@ -52672,7 +52866,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2399",
+    "id": "prod-2408",
     "slug": "neostrata-intensive-eye-therapy",
     "brand": "NEOSTRATA",
     "name": "Intensive Eye Therapy",
@@ -52694,7 +52888,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2400",
+    "id": "prod-2409",
     "slug": "femmue-dream-glow-mask-revitalize-radiance",
     "brand": "FEMMUE",
     "name": "Dream Glow Mask Revitalize Radiance",
@@ -52716,7 +52910,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2401",
+    "id": "prod-2410",
     "slug": "medicube-kojic-acid-turmeric-night-wrapping-mask",
     "brand": "Medicube",
     "name": "Kojic Acid Turmeric Night Wrapping Mask",
@@ -52738,7 +52932,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2402",
+    "id": "prod-2411",
     "slug": "biodance-rejuvenating-caviar-pdrn-real-deep-mask",
     "brand": "BIODANCE",
     "name": "Rejuvenating Caviar PDRN Real Deep Mask",
@@ -52761,7 +52955,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2403",
+    "id": "prod-2412",
     "slug": "erno-laszlo-tightening-treatment-mask",
     "brand": "Erno Laszlo",
     "name": "Tightening Treatment Mask",
@@ -52783,7 +52977,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2404",
+    "id": "prod-2413",
     "slug": "dr--reju-all-advanced-pdrn-rejuvenating-cream",
     "brand": "Dr. Reju-All",
     "name": "Advanced PDRN Rejuvenating Cream",
@@ -52805,7 +52999,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2405",
+    "id": "prod-2414",
     "slug": "obagi-suzanobagimd-claribright-radiance-brightening-lotion",
     "brand": "OBAGI SUZANOBAGIMD",
     "name": "Claribright Radiance Brightening Lotion",
@@ -52827,7 +53021,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2406",
+    "id": "prod-2415",
     "slug": "hero-cosmetics-mighty-patch",
     "brand": "Hero Cosmetics",
     "name": "Mighty Patch",
@@ -52849,7 +53043,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2407",
+    "id": "prod-2416",
     "slug": "hydropeptide-collagen-reactivate-pm-lifting-treatment-moisturizer---retinol",
     "brand": "HydroPeptide",
     "name": "Collagen ReActivate PM Lifting Treatment Moisturizer + Retinol",
@@ -52871,7 +53065,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2408",
+    "id": "prod-2417",
     "slug": "numbuzin-no-9-nad--bio-super-defense-glow-sunscreen",
     "brand": "Numbuzin",
     "name": "No 9 NAD+ BIO Super Defense Glow Sunscreen",
@@ -52893,7 +53087,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2409",
+    "id": "prod-2418",
     "slug": "ultra-violette-future-screen-spf-50-mineral-fragrance-free-facial-sunscreen-seru",
     "brand": "Ultra Violette",
     "name": "Future Screen SPF 50 Mineral Fragrance Free Facial Sunscreen Serum",
@@ -52915,7 +53109,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2410",
+    "id": "prod-2419",
     "slug": "paula-s-choice-2--bha-liquid-exfoliant-toner-pads",
     "brand": "Paula's Choice",
     "name": "2% BHA Liquid Exfoliant Toner Pads",
@@ -52935,7 +53129,7 @@
     ]
   },
   {
-    "id": "prod-2411",
+    "id": "prod-2420",
     "slug": "jane-iredale-skintuition-spf-30-radiance-boosting-liquid-foundation",
     "brand": "Jane Iredale",
     "name": "Skintuition SPF 30 Radiance-Boosting Liquid Foundation",
@@ -52955,7 +53149,7 @@
     ]
   },
   {
-    "id": "prod-2412",
+    "id": "prod-2421",
     "slug": "e-l-f--cosmetics-glow-reviver-tinted-lip-oil",
     "brand": "e.l.f. Cosmetics",
     "name": "Glow Reviver Tinted Lip Oil",
@@ -52975,7 +53169,7 @@
     ]
   },
   {
-    "id": "prod-2413",
+    "id": "prod-2422",
     "slug": "big-sexyhair-big-altitude-mousse",
     "brand": "Big Sexyhair",
     "name": "Big Altitude Mousse",
@@ -52997,7 +53191,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2414",
+    "id": "prod-2423",
     "slug": "tresemm--ultra-fine-hairspray",
     "brand": "TRESemmé",
     "name": "Ultra Fine Hairspray",
@@ -53019,7 +53213,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2415",
+    "id": "prod-2424",
     "slug": "dr--dennis-gross-skincare-drx-spectralite-faceware-pro",
     "brand": "Dr. Dennis Gross Skincare",
     "name": "DRx SpectraLite FaceWare Pro",
@@ -53039,7 +53233,7 @@
     ]
   },
   {
-    "id": "prod-2416",
+    "id": "prod-2425",
     "slug": "la-roche-posay-toleriane-hydrating-gentle-facial-cleanser",
     "brand": "La Roche-Posay",
     "name": "Toleriane Hydrating Gentle Facial Cleanser",
@@ -53061,7 +53255,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2417",
+    "id": "prod-2426",
     "slug": "ma-nyo-pure-cleansing-facial-oil",
     "brand": "Ma:nyo",
     "name": "Pure Cleansing Facial Oil",
@@ -53083,7 +53277,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2418",
+    "id": "prod-2427",
     "slug": "dr--idriss-major-fade-active-seal",
     "brand": "Dr. Idriss",
     "name": "Major Fade Active Seal",
@@ -53105,7 +53299,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2419",
+    "id": "prod-2428",
     "slug": "beauty-of-joseon-day-dew-sunscreen",
     "brand": "Beauty of Joseon",
     "name": "Day Dew Sunscreen",
@@ -53125,7 +53319,7 @@
     ]
   },
   {
-    "id": "prod-2420",
+    "id": "prod-2429",
     "slug": "la-roche-posay-anthelios-mineral-ultra-light-face-sunscreen-spf-50",
     "brand": "La Roche-Posay",
     "name": "Anthelios Mineral Ultra-Light Face Sunscreen SPF 50",
@@ -53147,7 +53341,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2421",
+    "id": "prod-2430",
     "slug": "neurae-harmonie-serum",
     "brand": "Neurae",
     "name": "Harmonie Serum",
@@ -53169,7 +53363,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2422",
+    "id": "prod-2431",
     "slug": "olehenriksen-banana-bright-eye-cream",
     "brand": "OLEHENRIKSEN",
     "name": "Banana Bright Eye Cream",
@@ -53191,7 +53385,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2423",
+    "id": "prod-2432",
     "slug": "nyx-cosmetics-slim-lip-pencil",
     "brand": "NYX Cosmetics",
     "name": "Slim Lip Pencil",
@@ -53211,7 +53405,7 @@
     ]
   },
   {
-    "id": "prod-2424",
+    "id": "prod-2433",
     "slug": "gisou-honey-infused-hair-oil",
     "brand": "Gisou",
     "name": "Honey Infused Hair Oil",
@@ -53233,7 +53427,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2425",
+    "id": "prod-2434",
     "slug": "living-proof-perfect-hair-day-dry-shampoo",
     "brand": "Living Proof",
     "name": "Perfect Hair Day Dry Shampoo",
@@ -53255,7 +53449,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2426",
+    "id": "prod-2435",
     "slug": "k18-leave-in-molecular-hair-mask",
     "brand": "K18",
     "name": "Leave-In Molecular Hair Mask",
@@ -53277,7 +53471,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2427",
+    "id": "prod-2436",
     "slug": "epionce-intensive-nourishing-cream",
     "brand": "Epionce",
     "name": "Intensive Nourishing Cream",
@@ -53299,7 +53493,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2428",
+    "id": "prod-2437",
     "slug": "crown-affair-the-hair-towel",
     "brand": "Crown Affair",
     "name": "The Hair Towel",
@@ -53322,7 +53516,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2429",
+    "id": "prod-2438",
     "slug": "lys-bright-start-creamy-buildable-airbrush-concealer",
     "brand": "LYS",
     "name": "Bright Start Creamy Buildable Airbrush Concealer",
@@ -53342,7 +53536,7 @@
     ]
   },
   {
-    "id": "prod-2430",
+    "id": "prod-2439",
     "slug": "aquaphor-lip-repair-stick",
     "brand": "Aquaphor",
     "name": "Lip Repair Stick",
@@ -53364,7 +53558,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2431",
+    "id": "prod-2440",
     "slug": "beekman-1802-milk-shake-toner-mist",
     "brand": "Beekman 1802",
     "name": "Milk Shake Toner Mist",
@@ -53386,7 +53580,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2432",
+    "id": "prod-2441",
     "slug": "cosrx-advanced-snail-96-mucin-power-essence",
     "brand": "COSRX",
     "name": "Advanced Snail 96 Mucin Power Essence",
@@ -53408,7 +53602,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2433",
+    "id": "prod-2442",
     "slug": "the-ordinary-retinol-0-5--in-squalane",
     "brand": "The Ordinary",
     "name": "Retinol 0.5% in Squalane",
@@ -53430,7 +53624,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2434",
+    "id": "prod-2443",
     "slug": "eltamd-tinted-daily-face-moisturizer-with-spf",
     "brand": "EltaMD",
     "name": "Tinted Daily Face Moisturizer With SPF",
@@ -53452,7 +53646,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2435",
+    "id": "prod-2444",
     "slug": "e-l-f--cosmetics-power-grip-primer",
     "brand": "e.l.f. Cosmetics",
     "name": "Power Grip Primer",
@@ -53475,7 +53669,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2436",
+    "id": "prod-2445",
     "slug": "haus-labs-power-sculpt-velvet-bronzer",
     "brand": "Haus Labs",
     "name": "Power Sculpt Velvet Bronzer",
@@ -53497,7 +53691,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2437",
+    "id": "prod-2446",
     "slug": "nyx-cosmetics-epic-ink-waterproof-liquid-eyeliner",
     "brand": "NYX Cosmetics",
     "name": "Epic Ink Waterproof Liquid Eyeliner",
@@ -53517,7 +53711,7 @@
     ]
   },
   {
-    "id": "prod-2438",
+    "id": "prod-2447",
     "slug": "patrick-ta-major-dimension-essential-artistry-edit-eyeshadow-palette",
     "brand": "Patrick Ta",
     "name": "Major Dimension Essential Artistry Edit Eyeshadow Palette",
@@ -53539,7 +53733,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2439",
+    "id": "prod-2448",
     "slug": "hot-tools-pro-artist-digital-curling-iron",
     "brand": "Hot Tools",
     "name": "Pro Artist Digital Curling Iron",
@@ -53561,7 +53755,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2440",
+    "id": "prod-2449",
     "slug": "kristin-ess-hair-3-in-1-ceramic-flat-iron",
     "brand": "Kristin Ess Hair",
     "name": "3-in-1 Ceramic Flat Iron",
@@ -53581,7 +53775,7 @@
     ]
   },
   {
-    "id": "prod-2441",
+    "id": "prod-2450",
     "slug": "olaplex-no--4-shampoo",
     "brand": "Olaplex",
     "name": "No. 4 Shampoo",
@@ -53603,7 +53797,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2442",
+    "id": "prod-2451",
     "slug": "olaplex-no--5-conditioner",
     "brand": "Olaplex",
     "name": "No. 5 Conditioner",
@@ -53625,7 +53819,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2443",
+    "id": "prod-2452",
     "slug": "dove-advanced-care-antiperspirant",
     "brand": "Dove",
     "name": "Advanced Care Antiperspirant",
@@ -53647,7 +53841,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2444",
+    "id": "prod-2453",
     "slug": "bondi-sands-self-tanning-foam",
     "brand": "Bondi Sands",
     "name": "Self Tanning Foam",
@@ -53669,7 +53863,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2445",
+    "id": "prod-2454",
     "slug": "pca-skin-mgf-age-renewal-cream",
     "brand": "PCA SKIN",
     "name": "MGF Age Renewal Cream",
@@ -53691,7 +53885,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2446",
+    "id": "prod-2455",
     "slug": "rep-chage-red-out-soothing-moisturizer",
     "brand": "Repêchage",
     "name": "Red-Out Soothing Moisturizer",
@@ -53713,7 +53907,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2447",
+    "id": "prod-2456",
     "slug": "dr--anetta-reszko-skorr-glow",
     "brand": "Dr. Anetta Reszko",
     "name": "SKORR Glow",
@@ -53735,7 +53929,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2448",
+    "id": "prod-2457",
     "slug": "patrick-ta-beauty-major-skin-soft-blur-brightening-concealer",
     "brand": "Patrick Ta Beauty",
     "name": "Major Skin Soft Blur Brightening Concealer",
@@ -53755,7 +53949,7 @@
     ]
   },
   {
-    "id": "prod-2449",
+    "id": "prod-2458",
     "slug": "smashbox-photo-finish-pore-vanishing-primer",
     "brand": "Smashbox",
     "name": "Photo Finish Pore Vanishing Primer",
@@ -53777,7 +53971,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2450",
+    "id": "prod-2459",
     "slug": "rhode-highlight-milk",
     "brand": "Rhode",
     "name": "Highlight Milk",
@@ -53799,27 +53993,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2451",
-    "slug": "ilia-skin-blur-concealer",
-    "brand": "Ilia",
-    "name": "Skin Blur Concealer",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Base (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88317537",
-    "awardsWon": [
-      "Allure Best of Beauty — Base (2026)"
-    ]
-  },
-  {
-    "id": "prod-2452",
+    "id": "prod-2460",
     "slug": "dior-beauty-forever-skin-glow",
     "brand": "Dior Beauty",
     "name": "Forever Skin Glow",
@@ -53841,7 +54015,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2453",
+    "id": "prod-2461",
     "slug": "est-e-lauder-double-wear-stay-in-place-makeup",
     "brand": "Estée Lauder",
     "name": "Double Wear Stay-In-Place Makeup",
@@ -53863,7 +54037,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2454",
+    "id": "prod-2462",
     "slug": "jones-road-beauty-your-skin-foundation-stick",
     "brand": "Jones Road Beauty",
     "name": "Your Skin Foundation Stick",
@@ -53885,7 +54059,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2455",
+    "id": "prod-2463",
     "slug": "it-cosmetics-do-it-all-sheer-tint-face-balm",
     "brand": "It Cosmetics",
     "name": "Do It All Sheer Tint Face Balm",
@@ -53905,7 +54079,7 @@
     ]
   },
   {
-    "id": "prod-2456",
+    "id": "prod-2464",
     "slug": "haus-labs-triclone-skin-tech-concealer",
     "brand": "Haus Labs",
     "name": "Triclone Skin Tech Concealer",
@@ -53925,7 +54099,7 @@
     ]
   },
   {
-    "id": "prod-2457",
+    "id": "prod-2465",
     "slug": "saie-dew-bronze",
     "brand": "Saie",
     "name": "Dew Bronze",
@@ -53945,7 +54119,7 @@
     ]
   },
   {
-    "id": "prod-2458",
+    "id": "prod-2466",
     "slug": "one-size-boucl--silk-airbrushed-talc-free-finishing-powder",
     "brand": "One/Size",
     "name": "Bouclé Silk Airbrushed Talc-Free Finishing Powder",
@@ -53967,7 +54141,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2459",
+    "id": "prod-2467",
     "slug": "kosas-cloud-set-loose-translucent-setting---blurring-powder",
     "brand": "Kosas",
     "name": "Cloud Set Loose Translucent Setting + Blurring Powder",
@@ -53989,7 +54163,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2460",
+    "id": "prod-2468",
     "slug": "morphe-lifeproof-continuous-setting-mist",
     "brand": "Morphe",
     "name": "Lifeproof Continuous Setting Mist",
@@ -54011,7 +54185,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2461",
+    "id": "prod-2469",
     "slug": "saltair-driftwood-multi-lipid-body-butter",
     "brand": "Saltair",
     "name": "Driftwood Multi-Lipid Body Butter",
@@ -54033,7 +54207,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2462",
+    "id": "prod-2470",
     "slug": "cyklar-vanilla-verve-vitamin-c-body-oil",
     "brand": "Cyklar",
     "name": "Vanilla Verve Vitamin C Body Oil",
@@ -54055,7 +54229,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2463",
+    "id": "prod-2471",
     "slug": "blue-lizard-sheer-mineral-sunscreen-spf-50",
     "brand": "Blue Lizard",
     "name": "Sheer Mineral Sunscreen SPF 50",
@@ -54077,7 +54251,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2464",
+    "id": "prod-2472",
     "slug": "salt---stone-bergamot---hinoki-body-wash",
     "brand": "Salt & Stone",
     "name": "Bergamot & Hinoki Body Wash",
@@ -54099,7 +54273,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2465",
+    "id": "prod-2473",
     "slug": "vaseline-pro-vitab3-supple---soft-serum-burst-lotion",
     "brand": "Vaseline",
     "name": "Pro VitaB3 Supple & Soft Serum Burst Lotion",
@@ -54121,7 +54295,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2466",
+    "id": "prod-2474",
     "slug": "neutrogena-clear-body-sunscreen-spray-spf-50",
     "brand": "Neutrogena",
     "name": "Clear Body Sunscreen Spray SPF 50",
@@ -54143,7 +54317,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2467",
+    "id": "prod-2475",
     "slug": "fwee-lip---cheek-blurry-pudding-pot",
     "brand": "Fwee",
     "name": "Lip & Cheek Blurry Pudding Pot",
@@ -54165,7 +54339,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2468",
+    "id": "prod-2476",
     "slug": "smashbox-smashbox-x-becca-shimmering-skin-perfector-pressed-highlighter",
     "brand": "Smashbox",
     "name": "Smashbox x Becca Shimmering Skin Perfector Pressed Highlighter",
@@ -54187,7 +54361,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2469",
+    "id": "prod-2477",
     "slug": "vacation-classic-lotion-spf-50",
     "brand": "Vacation",
     "name": "Classic Lotion SPF 50",
@@ -54209,7 +54383,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2470",
+    "id": "prod-2478",
     "slug": "peta-jane-light-tanning-mousse",
     "brand": "Peta Jane",
     "name": "Light Tanning Mousse",
@@ -54231,7 +54405,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2471",
+    "id": "prod-2479",
     "slug": "cosrx-the-ceramide-skin-barrier-moisturizer",
     "brand": "COSRX",
     "name": "The Ceramide Skin Barrier Moisturizer",
@@ -54253,7 +54427,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2472",
+    "id": "prod-2480",
     "slug": "defenage-7x-calming-complex",
     "brand": "DefenAge",
     "name": "7X Calming Complex",
@@ -54275,7 +54449,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2473",
+    "id": "prod-2481",
     "slug": "mac-cosmetics-studio-fix-powder-plus-foundation",
     "brand": "MAC Cosmetics",
     "name": "Studio Fix Powder Plus Foundation",
@@ -54298,147 +54472,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2474",
-    "slug": "salt---stone-santal---vetiver-deodorant",
-    "brand": "Salt & Stone",
-    "name": "Santal & Vetiver Deodorant",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Deodorant Stick (2026)",
-    "awardCount": 1,
-    "category": "Body",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88319643",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Deodorant Stick (2026)"
-    ]
-  },
-  {
-    "id": "prod-2475",
-    "slug": "billie-the-wax-kit-body---underarm",
-    "brand": "Billie",
-    "name": "The Wax Kit Body & Underarm",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Wax (2026)",
-    "awardCount": 1,
-    "category": "Body",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88320079",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Wax (2026)"
-    ]
-  },
-  {
-    "id": "prod-2476",
-    "slug": "loopha-oud---amber-hand---body-wash",
-    "brand": "Loopha",
-    "name": "Oud + Amber Hand & Body Wash",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Hand Wash (2026)",
-    "awardCount": 1,
-    "category": "Body",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88344404",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Hand Wash (2026)"
-    ]
-  },
-  {
-    "id": "prod-2477",
-    "slug": "maria-nila-head---hair-heal-soothing-shampoo-and-conditioner",
-    "brand": "Maria Nila",
-    "name": "Head & Hair Heal Soothing Shampoo and Conditioner",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Dry Hair Shampoo & Conditioner (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88321884",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Dry Hair Shampoo & Conditioner (2026)"
-    ]
-  },
-  {
-    "id": "prod-2478",
-    "slug": "olaplex-no--4curl-bond-shaper-hydrating-curl-shampoo---no--5curl-bond-shaper-hyd",
-    "brand": "Olaplex",
-    "name": "No. 4Curl Bond Shaper Hydrating Curl Shampoo & No. 5Curl Bond Shaper Hydrating Curl Conditioner",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Hair (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88322180",
-    "awardsWon": [
-      "Allure Best of Beauty — Hair (2026)"
-    ]
-  },
-  {
-    "id": "prod-2479",
-    "slug": "head---shoulders-sulfate-free-shea-butter-shampoo-and-conditioner",
-    "brand": "Head & Shoulders",
-    "name": "Sulfate-Free Shea Butter Shampoo and Conditioner",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Dandruff Shampoo & Conditioner (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://www.amazon.com/dp/B0GFXS539D?tag=vettbeauty-20",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Dandruff Shampoo & Conditioner (2026)"
-    ]
-  },
-  {
-    "id": "prod-2480",
-    "slug": "-honey-deep-moist-hair-oil",
-    "brand": "&Honey",
-    "name": "Deep Moist Hair Oil",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Finishing Oil (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88307051",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Finishing Oil (2026)"
-    ]
-  },
-  {
-    "id": "prod-2481",
+    "id": "prod-2482",
     "slug": "dove-advanced-care-cool-essentials-dry-spray-antiperspirant-deodorant",
     "brand": "Dove",
     "name": "Advanced Care Cool Essentials Dry Spray Antiperspirant Deodorant",
@@ -54460,7 +54494,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2482",
+    "id": "prod-2483",
     "slug": "flamingo-original-razor",
     "brand": "Flamingo",
     "name": "Original Razor",
@@ -54480,7 +54514,7 @@
     ]
   },
   {
-    "id": "prod-2483",
+    "id": "prod-2484",
     "slug": "evolvetogether-hydrating-hand-cream",
     "brand": "Evolvetogether",
     "name": "Hydrating Hand Cream",
@@ -54502,7 +54536,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2484",
+    "id": "prod-2485",
     "slug": "colgate-optic-white-overnight-whitening-pen",
     "brand": "Colgate",
     "name": "Optic White Overnight Whitening Pen",
@@ -54522,7 +54556,7 @@
     ]
   },
   {
-    "id": "prod-2485",
+    "id": "prod-2486",
     "slug": "colgate-optic-white-pro-series-toothpaste",
     "brand": "Colgate",
     "name": "Optic White Pro Series Toothpaste",
@@ -54544,7 +54578,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2486",
+    "id": "prod-2487",
     "slug": "biolage-professional-hair-spa-color-last-shampoo-and-conditioner",
     "brand": "Biolage Professional Hair Spa",
     "name": "Color Last Shampoo and Conditioner",
@@ -54564,7 +54598,7 @@
     ]
   },
   {
-    "id": "prod-2487",
+    "id": "prod-2488",
     "slug": "n-cessaire-rosemary-shampoo-and-conditioner",
     "brand": "Nécessaire",
     "name": "Rosemary Shampoo and Conditioner",
@@ -54584,7 +54618,7 @@
     ]
   },
   {
-    "id": "prod-2488",
+    "id": "prod-2489",
     "slug": "c-cred-hydrating-shampoo-and-conditioner",
     "brand": "Cécred",
     "name": "Hydrating Shampoo and Conditioner",
@@ -54604,7 +54638,7 @@
     ]
   },
   {
-    "id": "prod-2489",
+    "id": "prod-2490",
     "slug": "ouai-detox-shampoo",
     "brand": "Ouai",
     "name": "Detox Shampoo",
@@ -54626,7 +54660,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2490",
+    "id": "prod-2491",
     "slug": "ref-aha-scalp-detox-treatment",
     "brand": "Ref",
     "name": "AHA Scalp Detox Treatment",
@@ -54648,7 +54682,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2491",
+    "id": "prod-2492",
     "slug": "pattern-repair360-leave-in-foam",
     "brand": "Pattern",
     "name": "Repair360 Leave-In Foam",
@@ -54670,7 +54704,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2492",
+    "id": "prod-2493",
     "slug": "c-cred-detangling-spray",
     "brand": "Cécred",
     "name": "Detangling Spray",
@@ -54692,7 +54726,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2493",
+    "id": "prod-2494",
     "slug": "ouai-bond-repair-balm",
     "brand": "Ouai",
     "name": "Bond Repair Balm",
@@ -54714,7 +54748,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2494",
+    "id": "prod-2495",
     "slug": "redken-acidic-color-gloss-gloss-in-mask",
     "brand": "Redken",
     "name": "Acidic Color Gloss Gloss-in-Mask",
@@ -54736,7 +54770,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2495",
+    "id": "prod-2496",
     "slug": "pattern-palo-santo-curl-gel",
     "brand": "Pattern",
     "name": "Palo Santo Curl Gel",
@@ -54758,7 +54792,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2496",
+    "id": "prod-2497",
     "slug": "framesi-for-me-bring-me-to-the-beach-salt-spray-223",
     "brand": "Framesi",
     "name": "For-Me Bring Me to the Beach Salt Spray 223",
@@ -54780,7 +54814,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2497",
+    "id": "prod-2498",
     "slug": "k-rastase-gloss-absolu-anti-frizz-glaze-milk",
     "brand": "Kérastase",
     "name": "Gloss Absolu Anti-Frizz Glaze Milk",
@@ -54802,7 +54836,115 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2498",
+    "id": "prod-2499",
+    "slug": "salt---stone-santal---vetiver-deodorant",
+    "brand": "Salt & Stone",
+    "name": "Santal & Vetiver Deodorant",
+    "price": null,
+    "image": "/cutouts/salt---stone-santal---vetiver-deodorant.webp",
+    "topAward": "Allure Best of Beauty — Best Deodorant Stick (2026)",
+    "awardCount": 1,
+    "category": "Body",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88319643",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Deodorant Stick (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a88d1774c3eca484b9316c7/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2500",
+    "slug": "billie-the-wax-kit-body---underarm",
+    "brand": "Billie",
+    "name": "The Wax Kit Body & Underarm",
+    "price": null,
+    "image": "/cutouts/billie-the-wax-kit-body---underarm.webp",
+    "topAward": "Allure Best of Beauty — Best Wax (2026)",
+    "awardCount": 1,
+    "category": "Body",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88320079",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Wax (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a88d53f4c3eca484b9316d8/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2501",
+    "slug": "loopha-oud---amber-hand---body-wash",
+    "brand": "Loopha",
+    "name": "Oud + Amber Hand & Body Wash",
+    "price": null,
+    "image": "/cutouts/loopha-oud---amber-hand---body-wash.webp",
+    "topAward": "Allure Best of Beauty — Best Hand Wash (2026)",
+    "awardCount": 1,
+    "category": "Body",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88344404",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Hand Wash (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a88d91a3222466d2eb0204c/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2502",
+    "slug": "olaplex-no--4curl-bond-shaper-hydrating-curl-shampoo---no--5curl-bond-shaper-hyd",
+    "brand": "Olaplex",
+    "name": "No. 4Curl Bond Shaper Hydrating Curl Shampoo & No. 5Curl Bond Shaper Hydrating Curl Conditioner",
+    "price": null,
+    "image": "https://media.allure.com/photos/6a8a58f5dfc80e7b7247df68/1:1/w_1600,c_limit/undefined",
+    "topAward": "Allure Best of Beauty — Hair (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88322180",
+    "awardsWon": [
+      "Allure Best of Beauty — Hair (2026)"
+    ]
+  },
+  {
+    "id": "prod-2503",
+    "slug": "-honey-deep-moist-hair-oil",
+    "brand": "&Honey",
+    "name": "Deep Moist Hair Oil",
+    "price": null,
+    "image": "/cutouts/-honey-deep-moist-hair-oil.webp",
+    "topAward": "Allure Best of Beauty — Best Finishing Oil (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88307051",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Finishing Oil (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a94c2915d0e96606ff94eed/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2504",
     "slug": "shiseido-vital-perfection-uplifting-and-firming-day-cream-spf-30",
     "brand": "Shiseido",
     "name": "Vital Perfection Uplifting and Firming Day Cream SPF 30",
@@ -54822,7 +54964,7 @@
     ]
   },
   {
-    "id": "prod-2499",
+    "id": "prod-2505",
     "slug": "peach---lily-super-root-ginseng-facial-oil",
     "brand": "Peach & Lily",
     "name": "Super Root Ginseng Facial Oil",
@@ -54844,7 +54986,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2500",
+    "id": "prod-2506",
     "slug": "mac-cosmetics-prep---prime-lip-primer-base",
     "brand": "MAC Cosmetics",
     "name": "Prep + Prime Lip Primer Base",
@@ -54867,67 +55009,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2501",
-    "slug": "donna-s-recipe-sweet-potato-pie-extra-creamy-hair-cream",
-    "brand": "Donna's Recipe",
-    "name": "Sweet Potato Pie Extra Creamy Hair Cream",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Hair (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88308056",
-    "awardsWon": [
-      "Allure Best of Beauty — Hair (2026)"
-    ]
-  },
-  {
-    "id": "prod-2502",
-    "slug": "l-or-al-paris-voluminous-panorama-chromatics-mascara",
-    "brand": "L'Oréal Paris",
-    "name": "Voluminous Panorama Chromatics Mascara",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Eyes (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://www.amazon.com/dp/B0FTHPR1HY?tag=vettbeauty-20",
-    "awardsWon": [
-      "Allure Best of Beauty — Eyes (2026)"
-    ]
-  },
-  {
-    "id": "prod-2503",
-    "slug": "g-t2b-glued-brow---edge-gel",
-    "brand": "Göt2b",
-    "name": "Glued Brow & Edge Gel",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Clear Brow Gel (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88309712",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Clear Brow Gel (2026)"
-    ]
-  },
-  {
-    "id": "prod-2504",
+    "id": "prod-2507",
     "slug": "sarah-creal-beauty-eyes-up-creamy-kajal-longwear-liner",
     "brand": "Sarah Creal Beauty",
     "name": "Eyes Up Creamy Kajal Longwear Liner",
@@ -54947,7 +55029,7 @@
     ]
   },
   {
-    "id": "prod-2505",
+    "id": "prod-2508",
     "slug": "glossier-boy-brow",
     "brand": "Glossier",
     "name": "Boy Brow",
@@ -54967,7 +55049,7 @@
     ]
   },
   {
-    "id": "prod-2506",
+    "id": "prod-2509",
     "slug": "anastasia-beverly-hills-archibrow-pencil",
     "brand": "Anastasia Beverly Hills",
     "name": "ArchiBrow Pencil",
@@ -54987,7 +55069,7 @@
     ]
   },
   {
-    "id": "prod-2507",
+    "id": "prod-2510",
     "slug": "makeup-by-mario-ethereal-eyes-eyeshadow-palette--the-original",
     "brand": "Makeup By Mario",
     "name": "Ethereal Eyes Eyeshadow Palette: The Original",
@@ -55009,7 +55091,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2508",
+    "id": "prod-2511",
     "slug": "mac-multisculpt-matte-liquid-colour",
     "brand": "MAC",
     "name": "Multisculpt Matte Liquid Colour",
@@ -55029,7 +55111,7 @@
     ]
   },
   {
-    "id": "prod-2509",
+    "id": "prod-2512",
     "slug": "bobbi-brown-cosmetics-long-wear-cream-eyeshadow-stick",
     "brand": "Bobbi Brown Cosmetics",
     "name": "Long-Wear Cream Eyeshadow Stick",
@@ -55051,7 +55133,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2510",
+    "id": "prod-2513",
     "slug": "fenty-hair-the-imposter-invisi-boost-volumizing-dry-shampoo",
     "brand": "Fenty Hair",
     "name": "The Imposter Invisi-Boost Volumizing Dry Shampoo",
@@ -55073,7 +55155,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2511",
+    "id": "prod-2514",
     "slug": "r-co-bleu-essential-air-dry-blow-dry-cr-me",
     "brand": "R+Co",
     "name": "Bleu Essential Air Dry/Blow Dry Crème",
@@ -55095,7 +55177,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2512",
+    "id": "prod-2515",
     "slug": "rizos-curls-6-in-1-styling-cream",
     "brand": "Rizos Curls",
     "name": "6-in-1 Styling Cream",
@@ -55117,7 +55199,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2513",
+    "id": "prod-2516",
     "slug": "chris-mcmillan-the-mousse",
     "brand": "Chris McMillan",
     "name": "The Mousse",
@@ -55139,7 +55221,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2514",
+    "id": "prod-2517",
     "slug": "overtone-color-depositing-treatment-mask",
     "brand": "Overtone",
     "name": "Color Depositing Treatment Mask",
@@ -55161,7 +55243,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2515",
+    "id": "prod-2518",
     "slug": "no-gray-quick-color-shampoo",
     "brand": "No Gray",
     "name": "Quick Color Shampoo",
@@ -55183,7 +55265,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2516",
+    "id": "prod-2519",
     "slug": "dear-dahlia-lip-paradise-sensual-lip-glow",
     "brand": "Dear Dahlia",
     "name": "Lip Paradise Sensual Lip Glow",
@@ -55203,7 +55285,7 @@
     ]
   },
   {
-    "id": "prod-2517",
+    "id": "prod-2520",
     "slug": "hung-vanngo-beauty-creamy-matte-lipstick",
     "brand": "Hung Vanngo Beauty",
     "name": "Creamy Matte Lipstick",
@@ -55225,7 +55307,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2518",
+    "id": "prod-2521",
     "slug": "haus-labs-atomic-shake-lip-lacquer",
     "brand": "Haus Labs",
     "name": "Atomic Shake Lip Lacquer",
@@ -55247,7 +55329,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2519",
+    "id": "prod-2522",
     "slug": "personal-day-emotional-support-lip-balm",
     "brand": "Personal Day",
     "name": "Emotional Support Lip Balm",
@@ -55269,7 +55351,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2520",
+    "id": "prod-2523",
     "slug": "poundcake-cake-theory-lip-tone-equalizing-oil",
     "brand": "Poundcake",
     "name": "Cake Theory Lip Tone Equalizing Oil",
@@ -55289,7 +55371,7 @@
     ]
   },
   {
-    "id": "prod-2521",
+    "id": "prod-2524",
     "slug": "mac-dazzlelips-crayon",
     "brand": "MAC",
     "name": "Dazzlelips Crayon",
@@ -55309,7 +55391,7 @@
     ]
   },
   {
-    "id": "prod-2522",
+    "id": "prod-2525",
     "slug": "kevyn-aucoin-beauty-unforgettable-lip-definer",
     "brand": "Kevyn Aucoin Beauty",
     "name": "Unforgettable Lip Definer",
@@ -55329,7 +55411,7 @@
     ]
   },
   {
-    "id": "prod-2523",
+    "id": "prod-2526",
     "slug": "kulfi-lassi-lips-staining-lip-liner",
     "brand": "Kulfi",
     "name": "Lassi Lips Staining Lip Liner",
@@ -55349,7 +55431,51 @@
     ]
   },
   {
-    "id": "prod-2524",
+    "id": "prod-2527",
+    "slug": "l-or-al-paris-voluminous-panorama-chromatics-mascara",
+    "brand": "L'Oréal Paris",
+    "name": "Voluminous Panorama Chromatics Mascara",
+    "price": null,
+    "image": "/cutouts/l-or-al-paris-voluminous-panorama-chromatics-mascara.webp",
+    "topAward": "Allure Best of Beauty — Eyes (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://www.amazon.com/dp/B0FTHPR1HY?tag=vettbeauty-20",
+    "awardsWon": [
+      "Allure Best of Beauty — Eyes (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a98486c9d031e5147df61a8/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2528",
+    "slug": "g-t2b-glued-brow---edge-gel",
+    "brand": "Göt2b",
+    "name": "Glued Brow & Edge Gel",
+    "price": null,
+    "image": "/cutouts/g-t2b-glued-brow---edge-gel.webp",
+    "topAward": "Allure Best of Beauty — Best Clear Brow Gel (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88309712",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Clear Brow Gel (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a9071bfa2752af8400ce868/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2529",
     "slug": "sulwhasoo-essential-revitalizing-water-ex",
     "brand": "Sulwhasoo",
     "name": "Essential Revitalizing Water EX",
@@ -55371,7 +55497,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2525",
+    "id": "prod-2530",
     "slug": "mac-cosmetics-studio-fix-longwear-cushion-foundation--spf50-pa----",
     "brand": "MAC Cosmetics",
     "name": "Studio Fix Longwear Cushion Foundation [SPF50/PA+++]",
@@ -55394,47 +55520,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2526",
-    "slug": "eltamd-uv-clear-acne-blemish-prone---oil-balancing-spf-50",
-    "brand": "EltaMD",
-    "name": "UV Clear Acne Blemish-Prone & Oil Balancing SPF 50",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Skin (2026)",
-    "awardCount": 1,
-    "category": "Skincare",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88332619",
-    "awardsWon": [
-      "Allure Best of Beauty — Skin (2026)"
-    ]
-  },
-  {
-    "id": "prod-2527",
-    "slug": "d-s----durga-debaser-in-bloom",
-    "brand": "D.S. & Durga",
-    "name": "Debaser In Bloom",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Floral Fragrance (2026)",
-    "awardCount": 1,
-    "category": "Fragrance",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-88345167",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Floral Fragrance (2026)"
-    ]
-  },
-  {
-    "id": "prod-2528",
+    "id": "prod-2531",
     "slug": "the-inkey-list-oat-balm-cleanser",
     "brand": "The Inkey List",
     "name": "Oat Balm Cleanser",
@@ -55456,7 +55542,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2529",
+    "id": "prod-2532",
     "slug": "la-roche-posay-toleriane-moisturizing-milky-facial-cleanser",
     "brand": "La Roche-Posay",
     "name": "Toleriane Moisturizing Milky Facial Cleanser",
@@ -55478,7 +55564,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2530",
+    "id": "prod-2533",
     "slug": "the-face-shop-rice-water-bright-foaming-cleanser",
     "brand": "The Face Shop",
     "name": "Rice Water Bright Foaming Cleanser",
@@ -55500,7 +55586,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2531",
+    "id": "prod-2534",
     "slug": "isdin-essential-scrub",
     "brand": "Isdin",
     "name": "Essential Scrub",
@@ -55522,7 +55608,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2532",
+    "id": "prod-2535",
     "slug": "elemis-dynamic-resurfacing-facial-pads",
     "brand": "Elemis",
     "name": "Dynamic Resurfacing Facial Pads",
@@ -55544,7 +55630,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2533",
+    "id": "prod-2536",
     "slug": "tower-28-sos-rescue-spray",
     "brand": "Tower 28",
     "name": "SOS Rescue Spray",
@@ -55567,7 +55653,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2534",
+    "id": "prod-2537",
     "slug": "ootd-dark-spot-vitamin-c-serum",
     "brand": "OOTD",
     "name": "Dark Spot Vitamin C Serum",
@@ -55589,7 +55675,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2535",
+    "id": "prod-2538",
     "slug": "erly-daily-splash-hydrating-serum",
     "brand": "Erly",
     "name": "Daily Splash Hydrating Serum",
@@ -55611,7 +55697,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2536",
+    "id": "prod-2539",
     "slug": "caudalie-resveratrol-lift-instant-firming-serum",
     "brand": "Caudalie",
     "name": "Resveratrol-Lift Instant Firming Serum",
@@ -55633,7 +55719,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2537",
+    "id": "prod-2540",
     "slug": "paula-s-choice-pro-collagen-peptide-plumping-moisturizer",
     "brand": "Paula’s Choice",
     "name": "Pro-Collagen Peptide Plumping Moisturizer",
@@ -55653,7 +55739,7 @@
     ]
   },
   {
-    "id": "prod-2538",
+    "id": "prod-2541",
     "slug": "medik8-advanced-pro-collagen--peptide-cream",
     "brand": "Medik8",
     "name": "Advanced Pro-Collagen+ Peptide Cream",
@@ -55675,7 +55761,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2539",
+    "id": "prod-2542",
     "slug": "shiseido-vital-perfection-uplifting-and-firming-advanced-eye-cream",
     "brand": "Shiseido",
     "name": "Vital Perfection Uplifting and Firming Advanced Eye Cream",
@@ -55697,7 +55783,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2540",
+    "id": "prod-2543",
     "slug": "fenty-skin-dew-n-plump-intense-hydration-slushie-mask",
     "brand": "Fenty Skin",
     "name": "Dew N Plump Intense Hydration Slushie Mask",
@@ -55719,7 +55805,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2541",
+    "id": "prod-2544",
     "slug": "sonni-sundown-restoration-electrolyte-sheet-mask",
     "brand": "Sonni",
     "name": "SunDown Restoration Electrolyte Sheet Mask",
@@ -55741,7 +55827,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2542",
+    "id": "prod-2545",
     "slug": "differin-0-1--adapalene-gel",
     "brand": "Differin",
     "name": "0.1% Adapalene Gel",
@@ -55763,7 +55849,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2543",
+    "id": "prod-2546",
     "slug": "byoma-blemish-acne-treatment-spot-paste",
     "brand": "Byoma",
     "name": "Blemish Acne Treatment Spot Paste",
@@ -55785,7 +55871,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2544",
+    "id": "prod-2547",
     "slug": "beauty-power-eyebrow-razor",
     "brand": "Beauty Power",
     "name": "Eyebrow Razor",
@@ -55805,7 +55891,7 @@
     ]
   },
   {
-    "id": "prod-2545",
+    "id": "prod-2548",
     "slug": "therabody-theraface-depuffing-wand",
     "brand": "Therabody",
     "name": "TheraFace Depuffing Wand",
@@ -55825,7 +55911,7 @@
     ]
   },
   {
-    "id": "prod-2546",
+    "id": "prod-2549",
     "slug": "shark-chillpill",
     "brand": "Shark",
     "name": "ChillPill",
@@ -55847,7 +55933,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2547",
+    "id": "prod-2550",
     "slug": "about-face-holostick",
     "brand": "About Face",
     "name": "Holostick",
@@ -55867,7 +55953,7 @@
     ]
   },
   {
-    "id": "prod-2548",
+    "id": "prod-2551",
     "slug": "falscara-studio-mini",
     "brand": "Falscara",
     "name": "Studio Mini",
@@ -55889,7 +55975,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2549",
+    "id": "prod-2552",
     "slug": "lilac-st--aura-nanosoft",
     "brand": "Lilac St.",
     "name": "Aura NanoSoft",
@@ -55911,7 +55997,29 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2550",
+    "id": "prod-2553",
+    "slug": "d-s----durga-debaser-in-bloom",
+    "brand": "D.S. & Durga",
+    "name": "Debaser In Bloom",
+    "price": null,
+    "image": "/cutouts/d-s----durga-debaser-in-bloom.webp",
+    "topAward": "Allure Best of Beauty — Best Floral Fragrance (2026)",
+    "awardCount": 1,
+    "category": "Fragrance",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-88345167",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Floral Fragrance (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f1f3f54af8f441182bbe6/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2554",
     "slug": "dermelect-rapid-repair-radiance-remedy-oil",
     "brand": "Dermelect",
     "name": "Rapid Repair Radiance Remedy Oil",
@@ -55933,7 +56041,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2551",
+    "id": "prod-2555",
     "slug": "kiehl-s-ultra-facial-meltdown-recovery-cream",
     "brand": "Kiehl's",
     "name": "Ultra Facial Meltdown Recovery Cream",
@@ -55955,7 +56063,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2552",
+    "id": "prod-2556",
     "slug": "mac-cosmetics-powder-kiss-lipstick",
     "brand": "MAC Cosmetics",
     "name": "Powder Kiss Lipstick",
@@ -55978,67 +56086,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2553",
-    "slug": "cereria-moll--1899-bulgarian-rose---oud",
-    "brand": "Cereria Mollá 1899",
-    "name": "Bulgarian Rose & Oud",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Floral Candle (2026)",
-    "awardCount": 1,
-    "category": "Fragrance",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://cereriamolla.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Floral Candle (2026)"
-    ]
-  },
-  {
-    "id": "prod-2554",
-    "slug": "capri-blue-volcano-signature-reed-diffuser",
-    "brand": "Capri Blue",
-    "name": "Volcano Signature Reed Diffuser",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Scent (2026)",
-    "awardCount": 1,
-    "category": "Fragrance",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://capri-blue.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Scent (2026)"
-    ]
-  },
-  {
-    "id": "prod-2555",
-    "slug": "olive---june-gel-mani-system",
-    "brand": "Olive & June",
-    "name": "Gel Mani System",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best At-Home Gel Polish (2026)",
-    "awardCount": 1,
-    "category": "Nails",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://oliveandjune.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Best At-Home Gel Polish (2026)"
-    ]
-  },
-  {
-    "id": "prod-2556",
+    "id": "prod-2557",
     "slug": "laura-mercier-real-flawless-foundation-brush",
     "brand": "Laura Mercier",
     "name": "Real Flawless Foundation Brush",
@@ -56058,7 +56106,7 @@
     ]
   },
   {
-    "id": "prod-2557",
+    "id": "prod-2558",
     "slug": "danessa-myricks-beauty-yummy-face-3-0-all-over-concealer-brush",
     "brand": "Danessa Myricks Beauty",
     "name": "Yummy Face 3.0 All Over Concealer Brush",
@@ -56078,7 +56126,7 @@
     ]
   },
   {
-    "id": "prod-2558",
+    "id": "prod-2559",
     "slug": "saie-the-all-over-powder-brush",
     "brand": "Saie",
     "name": "The All-Over Powder Brush",
@@ -56098,7 +56146,7 @@
     ]
   },
   {
-    "id": "prod-2559",
+    "id": "prod-2560",
     "slug": "m-ph-underpainting-dual-ended-sculpting-brush",
     "brand": "M.Ph",
     "name": "Underpainting Dual-Ended Sculpting Brush",
@@ -56118,7 +56166,7 @@
     ]
   },
   {
-    "id": "prod-2560",
+    "id": "prod-2561",
     "slug": "r-phr-lc-02-synthetic-petit-complexion-brush",
     "brand": "Rēphr",
     "name": "LC 02 Synthetic Petit Complexion Brush",
@@ -56138,7 +56186,7 @@
     ]
   },
   {
-    "id": "prod-2561",
+    "id": "prod-2562",
     "slug": "rose-and-ben-beauty-c41-blush-brush",
     "brand": "Rose and Ben Beauty",
     "name": "C41 Blush Brush",
@@ -56158,7 +56206,7 @@
     ]
   },
   {
-    "id": "prod-2562",
+    "id": "prod-2563",
     "slug": "ilia-blending-brush",
     "brand": "Ilia",
     "name": "Blending Brush",
@@ -56178,7 +56226,7 @@
     ]
   },
   {
-    "id": "prod-2563",
+    "id": "prod-2564",
     "slug": "shu-uemura-iconic-eyelash-curler",
     "brand": "Shu Uemura",
     "name": "Iconic Eyelash Curler",
@@ -56198,7 +56246,7 @@
     ]
   },
   {
-    "id": "prod-2564",
+    "id": "prod-2565",
     "slug": "fhi-heat-aeromax-style-dryer",
     "brand": "FHI Heat",
     "name": "AeroMax Style Dryer",
@@ -56218,7 +56266,7 @@
     ]
   },
   {
-    "id": "prod-2565",
+    "id": "prod-2566",
     "slug": "shark-beauty-shark-glam-5-in-1-air-styler---dryer",
     "brand": "Shark Beauty",
     "name": "Shark Glam 5-in-1 Air Styler & Dryer",
@@ -56238,7 +56286,7 @@
     ]
   },
   {
-    "id": "prod-2566",
+    "id": "prod-2567",
     "slug": "revlon-one-step-multi-styler",
     "brand": "Revlon",
     "name": "One-Step Multi-Styler",
@@ -56258,7 +56306,7 @@
     ]
   },
   {
-    "id": "prod-2567",
+    "id": "prod-2568",
     "slug": "octavia-morgan-los-angeles-vanillin-supreme-eau-de-parfum",
     "brand": "Octavia Morgan",
     "name": "Los Angeles Vanillin Supreme Eau de Parfum",
@@ -56280,7 +56328,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2568",
+    "id": "prod-2569",
     "slug": "miu-miu-beauty-fleur-de-lait",
     "brand": "Miu Miu Beauty",
     "name": "Fleur de Lait",
@@ -56302,7 +56350,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2569",
+    "id": "prod-2570",
     "slug": "dedcool-mineral-milk",
     "brand": "DedCool",
     "name": "Mineral Milk",
@@ -56324,7 +56372,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2570",
+    "id": "prod-2571",
     "slug": "ysl-beauty-babycat-reno",
     "brand": "YSL Beauty",
     "name": "Babycat Reno",
@@ -56346,7 +56394,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2571",
+    "id": "prod-2572",
     "slug": "19-69-american-psycho",
     "brand": "19-69",
     "name": "American Psycho",
@@ -56368,7 +56416,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2572",
+    "id": "prod-2573",
     "slug": "phlur-peach-skin-hair-and-body-fragrance-mist",
     "brand": "Phlur",
     "name": "Peach Skin Hair and Body Fragrance Mist",
@@ -56390,7 +56438,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2573",
+    "id": "prod-2574",
     "slug": "voluspa-california-summers",
     "brand": "Voluspa",
     "name": "California Summers",
@@ -56412,7 +56460,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2574",
+    "id": "prod-2575",
     "slug": "dedcool-room---linen-spray-xtra-milk",
     "brand": "DedCool",
     "name": "Room + Linen Spray Xtra Milk",
@@ -56434,7 +56482,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2575",
+    "id": "prod-2576",
     "slug": "sally-hansen-insta-dri-nail-color",
     "brand": "Sally Hansen",
     "name": "Insta-Dri Nail Color",
@@ -56456,7 +56504,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2576",
+    "id": "prod-2577",
     "slug": "mooncat-pearl-clutcher",
     "brand": "Mooncat",
     "name": "Pearl Clutcher",
@@ -56478,7 +56526,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2577",
+    "id": "prod-2578",
     "slug": "essie-break-fix-liquid-nail-patch",
     "brand": "Essie",
     "name": "Break Fix Liquid Nail Patch",
@@ -56500,7 +56548,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2578",
+    "id": "prod-2579",
     "slug": "kiss-press-on-nails",
     "brand": "Kiss",
     "name": "Press-On Nails",
@@ -56520,7 +56568,69 @@
     ]
   },
   {
-    "id": "prod-2579",
+    "id": "prod-2580",
+    "slug": "cereria-moll--1899-bulgarian-rose---oud",
+    "brand": "Cereria Mollá 1899",
+    "name": "Bulgarian Rose & Oud",
+    "price": null,
+    "image": "https://media.allure.com/photos/6a8dc746ddfd2f85e05219d9/1:1/w_1600,c_limit/undefined",
+    "topAward": "Allure Best of Beauty — Best Floral Candle (2026)",
+    "awardCount": 1,
+    "category": "Fragrance",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://cereriamolla.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Floral Candle (2026)"
+    ]
+  },
+  {
+    "id": "prod-2581",
+    "slug": "capri-blue-volcano-signature-reed-diffuser",
+    "brand": "Capri Blue",
+    "name": "Volcano Signature Reed Diffuser",
+    "price": null,
+    "image": "https://media.allure.com/photos/6aa8be8a6f89e305b5051db9/1:1/w_1600,c_limit/undefined",
+    "topAward": "Allure Best of Beauty — Scent (2026)",
+    "awardCount": 1,
+    "category": "Fragrance",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://capri-blue.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Scent (2026)"
+    ]
+  },
+  {
+    "id": "prod-2582",
+    "slug": "olive---june-gel-mani-system",
+    "brand": "Olive & June",
+    "name": "Gel Mani System",
+    "price": null,
+    "image": "/cutouts/olive---june-gel-mani-system.webp",
+    "topAward": "Allure Best of Beauty — Best At-Home Gel Polish (2026)",
+    "awardCount": 1,
+    "category": "Nails",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://oliveandjune.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Best At-Home Gel Polish (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8dcd9c0e79b95afb4421b3/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2583",
     "slug": "kravebeauty-24-carrot-retinal",
     "brand": "KraveBeauty",
     "name": "24 Carrot Retinal",
@@ -56542,7 +56652,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2580",
+    "id": "prod-2584",
     "slug": "drunk-elephant-amino-rain-glasswater-serum",
     "brand": "Drunk Elephant",
     "name": "Amino Rain Glasswater Serum",
@@ -56564,7 +56674,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2581",
+    "id": "prod-2585",
     "slug": "medik-8-c-tetra-advanced",
     "brand": "Medik-8",
     "name": "C-TETRA ADVANCED",
@@ -56586,7 +56696,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2582",
+    "id": "prod-2586",
     "slug": "goodal-green-tangerine-niacinamide-10--serum",
     "brand": "Goodal",
     "name": "Green Tangerine Niacinamide 10% Serum",
@@ -56608,7 +56718,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2583",
+    "id": "prod-2587",
     "slug": "skinbetter-science-mystro-revive-renewing-serum",
     "brand": "Skinbetter Science",
     "name": "Mystro Revive Renewing Serum",
@@ -56630,7 +56740,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2584",
+    "id": "prod-2588",
     "slug": "alastin-restorative-skin-complex-with-trihex-",
     "brand": "ALASTIN",
     "name": "Restorative Skin Complex with TriHex+",
@@ -56652,7 +56762,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2585",
+    "id": "prod-2589",
     "slug": "u-beauty-the-smooth-dynamic-wrinkle-defense-serum",
     "brand": "U Beauty",
     "name": "The Smooth Dynamic Wrinkle Defense Serum",
@@ -56674,7 +56784,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2586",
+    "id": "prod-2590",
     "slug": "belif-aqua-bomb-glow-sunstick-spf-50",
     "brand": "belif",
     "name": "Aqua Bomb Glow Sunstick SPF 50",
@@ -56696,7 +56806,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2587",
+    "id": "prod-2591",
     "slug": "lanc-me-uv-expert-supra-screen-invisible-sunscreen-serum-spf-50",
     "brand": "Lancôme",
     "name": "UV Expert Supra Screen Invisible Sunscreen Serum SPF 50",
@@ -56716,7 +56826,7 @@
     ]
   },
   {
-    "id": "prod-2588",
+    "id": "prod-2592",
     "slug": "laura-geller-beauty-spackle-skin-perfecting-primer-broad-spectrum-spf-30",
     "brand": "Laura Geller Beauty",
     "name": "Spackle Skin Perfecting Primer Broad Spectrum SPF 30",
@@ -56738,7 +56848,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2589",
+    "id": "prod-2593",
     "slug": "summer-fridays-blush-butter-balm",
     "brand": "Summer Fridays",
     "name": "Blush Butter Balm",
@@ -56760,7 +56870,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2590",
+    "id": "prod-2594",
     "slug": "true-botanicals-bronze-well-regenerative-glow-drops",
     "brand": "True Botanicals",
     "name": "Bronze Well Regenerative Glow Drops",
@@ -56782,7 +56892,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2591",
+    "id": "prod-2595",
     "slug": "smashbox-precision-contour-stick",
     "brand": "Smashbox",
     "name": "Precision Contour Stick",
@@ -56804,7 +56914,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2592",
+    "id": "prod-2596",
     "slug": "ilia-beauty-soft-focus-blurring-blush",
     "brand": "ILIA Beauty",
     "name": "Soft Focus Blurring Blush",
@@ -56827,7 +56937,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2593",
+    "id": "prod-2597",
     "slug": "urban-decay-24-7-liquid-stick-retractable-eyeliner",
     "brand": "Urban Decay",
     "name": "24/7 Liquid Stick Retractable Eyeliner",
@@ -56847,7 +56957,7 @@
     ]
   },
   {
-    "id": "prod-2594",
+    "id": "prod-2598",
     "slug": "haus-labs-clear-cut-liquid-eyeliner",
     "brand": "Haus Labs",
     "name": "Clear Cut Liquid Eyeliner",
@@ -56867,7 +56977,7 @@
     ]
   },
   {
-    "id": "prod-2595",
+    "id": "prod-2599",
     "slug": "l-or-al-paris-extensionist-waterproof-mascara",
     "brand": "L'Oréal Paris",
     "name": "Extensionist Waterproof Mascara",
@@ -56889,7 +56999,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2596",
+    "id": "prod-2600",
     "slug": "anastasia-beverly-hills-glidr-shadow-stick",
     "brand": "Anastasia Beverly Hills",
     "name": "GLIDR Shadow Stick",
@@ -56911,7 +57021,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2597",
+    "id": "prod-2601",
     "slug": "milani-conceal---perfect-blur-out-skin-tint-stick",
     "brand": "Milani",
     "name": "Conceal + Perfect Blur Out Skin Tint Stick",
@@ -56934,7 +57044,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2598",
+    "id": "prod-2602",
     "slug": "native-deodorant",
     "brand": "Native",
     "name": "Deodorant",
@@ -56956,7 +57066,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2599",
+    "id": "prod-2603",
     "slug": "r-e-m--beauty-sweet-dreams-eyeshadow-quad",
     "brand": "r.e.m. beauty",
     "name": "sweet dreams eyeshadow quad",
@@ -56979,7 +57089,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2600",
+    "id": "prod-2604",
     "slug": "solawave-bye-acne-2-0",
     "brand": "Solawave",
     "name": "Bye Acne 2.0",
@@ -57001,7 +57111,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2601",
+    "id": "prod-2605",
     "slug": "timebeam-ice-baby-cryo-facial-roller",
     "brand": "Timebeam",
     "name": "Ice Baby Cryo Facial Roller",
@@ -57023,7 +57133,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2602",
+    "id": "prod-2606",
     "slug": "isima-curls-don-t-lie",
     "brand": "Isima",
     "name": "Curls Don't Lie",
@@ -57045,7 +57155,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2603",
+    "id": "prod-2607",
     "slug": "l-or-al-professionnel-vitamino-color-spectrum-shampoo",
     "brand": "L'Oréal Professionnel",
     "name": "Vitamino Color Spectrum Shampoo",
@@ -57067,7 +57177,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2604",
+    "id": "prod-2608",
     "slug": "bur-bur-growing-season",
     "brand": "Bur Bur",
     "name": "Growing Season",
@@ -57089,7 +57199,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2605",
+    "id": "prod-2609",
     "slug": "base-k-the-rice-powder-detox-micro-exfoliating-scalp-scaling-shampoo",
     "brand": "Base-K",
     "name": "The Rice Powder Detox Micro-Exfoliating Scalp Scaling Shampoo",
@@ -57111,7 +57221,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2606",
+    "id": "prod-2610",
     "slug": "commence-haircare-shine-enhancing-detangler",
     "brand": "Commence Haircare",
     "name": "Shine Enhancing Detangler",
@@ -57133,7 +57243,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2607",
+    "id": "prod-2611",
     "slug": "european-wax-center-ewc-treat-dual-sided-dry-brush",
     "brand": "European Wax Center",
     "name": "EWC TREAT Dual-Sided Dry Brush",
@@ -57153,7 +57263,7 @@
     ]
   },
   {
-    "id": "prod-2608",
+    "id": "prod-2612",
     "slug": "nakery-beauty-skinrecovery-ultra-strength-pain-therapy-cream",
     "brand": "Nakery Beauty",
     "name": "SkinRecovery Ultra-Strength Pain Therapy Cream",
@@ -57175,7 +57285,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2609",
+    "id": "prod-2613",
     "slug": "saltyface-tanning-foam",
     "brand": "Saltyface",
     "name": "Tanning Foam",
@@ -57198,7 +57308,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2610",
+    "id": "prod-2614",
     "slug": "dune-the-bod-guard-invisible-gel-spf-30",
     "brand": "DUNE",
     "name": "The Bod Guard Invisible Gel SPF 30",
@@ -57220,7 +57330,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2611",
+    "id": "prod-2615",
     "slug": "neom-wellbeing-perfect-night-s-sleep-mist",
     "brand": "NEOM Wellbeing",
     "name": "Perfect Night's Sleep Mist",
@@ -57242,7 +57352,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2612",
+    "id": "prod-2616",
     "slug": "siv-biome-balance-within",
     "brand": "SIV",
     "name": "Biome Balance Within",
@@ -57264,7 +57374,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2613",
+    "id": "prod-2617",
     "slug": "apr-s-gel-x-signature-manicure-kit",
     "brand": "Aprés",
     "name": "Gel-X Signature Manicure Kit",
@@ -57286,7 +57396,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2614",
+    "id": "prod-2618",
     "slug": "mane-it-s-giving-body-jumbo-hot-round-brush--60mm-",
     "brand": "Mane",
     "name": "It's Giving Body Jumbo Hot Round Brush (60MM)",
@@ -57306,7 +57416,7 @@
     ]
   },
   {
-    "id": "prod-2615",
+    "id": "prod-2619",
     "slug": "bio-ionic-10x-styling-iron",
     "brand": "Bio Ionic",
     "name": "10X Styling Iron",
@@ -57326,7 +57436,7 @@
     ]
   },
   {
-    "id": "prod-2616",
+    "id": "prod-2620",
     "slug": "ghd-chronos-curve-grand-iron",
     "brand": "GHD",
     "name": "Chronos Curve Grand Iron",
@@ -57346,7 +57456,7 @@
     ]
   },
   {
-    "id": "prod-2617",
+    "id": "prod-2621",
     "slug": "bellissima-italia-diffon-supreme-ionic-xl-curly-hair-dryer",
     "brand": "Bellissima Italia",
     "name": "Diffon Supreme Ionic XL Curly Hair Dryer",
@@ -57366,7 +57476,7 @@
     ]
   },
   {
-    "id": "prod-2618",
+    "id": "prod-2622",
     "slug": "emi-jay-bamboo-paddle-brush",
     "brand": "Emi Jay",
     "name": "Bamboo Paddle Brush",
@@ -57386,7 +57496,7 @@
     ]
   },
   {
-    "id": "prod-2619",
+    "id": "prod-2623",
     "slug": "british-m-hot-curling-ceramic-brush",
     "brand": "British M",
     "name": "Hot Curling Ceramic Brush",
@@ -57406,7 +57516,7 @@
     ]
   },
   {
-    "id": "prod-2620",
+    "id": "prod-2624",
     "slug": "yanibest-6a-mulberry-silk-bonnet-with-tie-band",
     "brand": "Yanibest",
     "name": "6A Mulberry Silk Bonnet with Tie Band",
@@ -57426,7 +57536,7 @@
     ]
   },
   {
-    "id": "prod-2621",
+    "id": "prod-2625",
     "slug": "solar-eclipse-claw-hair-clips",
     "brand": "Solar Eclipse",
     "name": "Claw Hair Clips",
@@ -57446,7 +57556,7 @@
     ]
   },
   {
-    "id": "prod-2622",
+    "id": "prod-2626",
     "slug": "the-hair-edit-gilded-ellipse-flat-lay-claw-clip",
     "brand": "The Hair Edit",
     "name": "Gilded Ellipse Flat Lay Claw Clip",
@@ -57466,7 +57576,7 @@
     ]
   },
   {
-    "id": "prod-2623",
+    "id": "prod-2627",
     "slug": "l--erickson-grab---go-pony-tube",
     "brand": "L. Erickson",
     "name": "Grab & Go Pony Tube",
@@ -57486,7 +57596,7 @@
     ]
   },
   {
-    "id": "prod-2624",
+    "id": "prod-2628",
     "slug": "arachne-l-uovo-the-everywhere-essentials-egg",
     "brand": "Arachne",
     "name": "L'uovo The Everywhere Essentials Egg",
@@ -57506,7 +57616,7 @@
     ]
   },
   {
-    "id": "prod-2625",
+    "id": "prod-2629",
     "slug": "colleen-rothschild-beauty-ethereal-glow-serum",
     "brand": "Colleen Rothschild Beauty",
     "name": "Ethereal Glow Serum",
@@ -57528,7 +57638,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2626",
+    "id": "prod-2630",
     "slug": "cocokind-ceramide-lip-blur-balm",
     "brand": "Cocokind",
     "name": "Ceramide Lip Blur Balm",
@@ -57550,7 +57660,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2627",
+    "id": "prod-2631",
     "slug": "charlotte-tilbury-unreal-lips-healthy-glow-nectar-oil",
     "brand": "Charlotte Tilbury",
     "name": "Unreal Lips Healthy Glow Nectar Oil",
@@ -57570,7 +57680,7 @@
     ]
   },
   {
-    "id": "prod-2628",
+    "id": "prod-2632",
     "slug": "shampoohotel-miami-hydrating-shampoo",
     "brand": "Shampoohotel",
     "name": "Miami Hydrating Shampoo",
@@ -57592,7 +57702,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2629",
+    "id": "prod-2633",
     "slug": "dermalogica-dynamic-skin-sculptor",
     "brand": "Dermalogica",
     "name": "Dynamic Skin Sculptor",
@@ -57614,7 +57724,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2630",
+    "id": "prod-2634",
     "slug": "saje-wellness-peppermint-halo",
     "brand": "Saje Wellness",
     "name": "Peppermint Halo",
@@ -57636,7 +57746,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2631",
+    "id": "prod-2635",
     "slug": "ritual-magnesium-",
     "brand": "Ritual",
     "name": "Magnesium+",
@@ -57658,7 +57768,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2632",
+    "id": "prod-2636",
     "slug": "deinde-instant-calming-recovery-gel",
     "brand": "DEINDE",
     "name": "Instant-Calming Recovery Gel",
@@ -57680,7 +57790,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2633",
+    "id": "prod-2637",
     "slug": "highbrow-hippie-root-replenish-active-growth-serum",
     "brand": "Highbrow Hippie",
     "name": "Root Replenish Active Growth Serum",
@@ -57702,7 +57812,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2634",
+    "id": "prod-2638",
     "slug": "hoka-clifton-10-running-shoes",
     "brand": "Hoka",
     "name": "Clifton 10 Running Shoes",
@@ -57724,167 +57834,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2635",
-    "slug": "sheamoisture-vitamin-c---niacinamide-even-tone-deodorant-stick-aluminum-free",
-    "brand": "SheaMoisture",
-    "name": "Vitamin C & Niacinamide Even Tone Deodorant Stick Aluminum Free",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Body Steals (2026)",
-    "awardCount": 1,
-    "category": "Body",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://sheamoisture.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Body Steals (2026)"
-    ]
-  },
-  {
-    "id": "prod-2636",
-    "slug": "pantene-abundant---strong-shampoo-and-abundant---strong-breakage-defense-conditi",
-    "brand": "Pantene",
-    "name": "Abundant & Strong Shampoo and Abundant & Strong Breakage Defense Conditioner",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Steals (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://pantene.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Steals (2026)"
-    ]
-  },
-  {
-    "id": "prod-2637",
-    "slug": "tgin--thank-god-it-s-natural--scalp-clarifying-shampoo",
-    "brand": "Tgin (Thank God It's Natural)",
-    "name": "Scalp Clarifying Shampoo",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Steals (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Tgin+%28Thank+God+It%27s+Natural%29+Scalp+Clarifying+Shampoo&tag=vettbeauty-20",
-    "awardsWon": [
-      "Allure Best of Beauty — Steals (2026)"
-    ]
-  },
-  {
-    "id": "prod-2638",
-    "slug": "dove-uv-repair---glow-10-in-1-radical-recovery-mask",
-    "brand": "Dove",
-    "name": "UV Repair & Glow 10-in-1 Radical Recovery Mask",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Hair Steals (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://www.dove.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Hair Steals (2026)"
-    ]
-  },
-  {
     "id": "prod-2639",
-    "slug": "l-or-al-paris-infallible-blur-fection-longwear-loose-setting-powder",
-    "brand": "L'Oréal Paris",
-    "name": "Infallible Blur-Fection Longwear Loose Setting Powder",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Steals (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://www.lorealparisusa.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Steals (2026)"
-    ]
-  },
-  {
-    "id": "prod-2640",
-    "slug": "milani-cosmetics-make-it-last-original-natural-finish-setting-spray",
-    "brand": "Milani Cosmetics",
-    "name": "Make it Last Original—Natural Finish Setting Spray",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Steals (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://www.milanicosmetics.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Steals (2026)"
-    ]
-  },
-  {
-    "id": "prod-2641",
-    "slug": "maybelline-new-york-lash-sensational-sky-tubes-tubing-mascara",
-    "brand": "Maybelline New York",
-    "name": "Lash Sensational Sky Tubes Tubing Mascara",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Steals (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://www.maybelline.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Steals (2026)"
-    ]
-  },
-  {
-    "id": "prod-2642",
-    "slug": "cetaphil-nourishing-oil-to-foam-cleanser",
-    "brand": "Cetaphil",
-    "name": "Nourishing Oil to Foam Cleanser",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Steals (2026)",
-    "awardCount": 1,
-    "category": "Skincare",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://cetaphil.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Steals (2026)"
-    ]
-  },
-  {
-    "id": "prod-2643",
     "slug": "hairitage-by-mindy-mcknight-fry-no-more-heat-protectant-mist",
     "brand": "Hairitage By Mindy McKnight",
     "name": "Fry No More Heat Protectant Mist",
@@ -57906,7 +57856,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2644",
+    "id": "prod-2640",
     "slug": "tresemm--a-list-collection-smoothing-cream",
     "brand": "Tresemmé",
     "name": "A-List Collection Smoothing Cream",
@@ -57928,7 +57878,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2645",
+    "id": "prod-2641",
     "slug": "being-haircare-curl-power-mousse",
     "brand": "Being Haircare",
     "name": "Curl Power Mousse",
@@ -57950,7 +57900,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2646",
+    "id": "prod-2642",
     "slug": "morphe-chromaplus-6-pan-eyeshadow-palette",
     "brand": "Morphe",
     "name": "ChromaPlus 6-Pan Eyeshadow Palette",
@@ -57970,7 +57920,7 @@
     ]
   },
   {
-    "id": "prod-2647",
+    "id": "prod-2643",
     "slug": "covergirl-clean-fresh-yummy-gloss-plumper",
     "brand": "CoverGirl",
     "name": "Clean Fresh Yummy Gloss Plumper",
@@ -57990,7 +57940,7 @@
     ]
   },
   {
-    "id": "prod-2648",
+    "id": "prod-2644",
     "slug": "wonderskin-1440-longwear-eyeliner",
     "brand": "Wonderskin",
     "name": "1440 Longwear Eyeliner",
@@ -58010,7 +57960,7 @@
     ]
   },
   {
-    "id": "prod-2649",
+    "id": "prod-2645",
     "slug": "bior--uv-aqua-rich-spf-50",
     "brand": "Bioré",
     "name": "UV Aqua Rich SPF 50",
@@ -58032,7 +57982,137 @@
     "imageCutout": true
   },
   {
+    "id": "prod-2646",
+    "slug": "sheamoisture-vitamin-c---niacinamide-even-tone-deodorant-stick-aluminum-free",
+    "brand": "SheaMoisture",
+    "name": "Vitamin C & Niacinamide Even Tone Deodorant Stick Aluminum Free",
+    "price": null,
+    "image": "/cutouts/sheamoisture-vitamin-c---niacinamide-even-tone-deodorant-stick-aluminum-free.webp",
+    "topAward": "Allure Best of Beauty — Best Body Steals (2026)",
+    "awardCount": 1,
+    "category": "Body",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://sheamoisture.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Body Steals (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8e5f476d4cc23e89ecde24/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2647",
+    "slug": "tgin--thank-god-it-s-natural--scalp-clarifying-shampoo",
+    "brand": "Tgin (Thank God It's Natural)",
+    "name": "Scalp Clarifying Shampoo",
+    "price": null,
+    "image": "/cutouts/tgin--thank-god-it-s-natural--scalp-clarifying-shampoo.webp",
+    "topAward": "Allure Best of Beauty — Steals (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://www.amazon.com/s?k=Tgin+%28Thank+God+It%27s+Natural%29+Scalp+Clarifying+Shampoo&tag=vettbeauty-20",
+    "awardsWon": [
+      "Allure Best of Beauty — Steals (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6aa4147513bdcca44aec8168/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2648",
+    "slug": "dove-uv-repair---glow-10-in-1-radical-recovery-mask",
+    "brand": "Dove",
+    "name": "UV Repair & Glow 10-in-1 Radical Recovery Mask",
+    "price": null,
+    "image": "/cutouts/dove-uv-repair---glow-10-in-1-radical-recovery-mask.webp",
+    "topAward": "Allure Best of Beauty — Best Hair Steals (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://www.dove.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Hair Steals (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8e5dd4a03089fdce076b19/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2649",
+    "slug": "l-or-al-paris-infallible-blur-fection-longwear-loose-setting-powder",
+    "brand": "L'Oréal Paris",
+    "name": "Infallible Blur-Fection Longwear Loose Setting Powder",
+    "price": null,
+    "image": "/cutouts/l-or-al-paris-infallible-blur-fection-longwear-loose-setting-powder.webp",
+    "topAward": "Allure Best of Beauty — Steals (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://www.lorealparisusa.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Steals (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8e5a9cda6b919cdb9a1447/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
     "id": "prod-2650",
+    "slug": "maybelline-new-york-lash-sensational-sky-tubes-tubing-mascara",
+    "brand": "Maybelline New York",
+    "name": "Lash Sensational Sky Tubes Tubing Mascara",
+    "price": null,
+    "image": "https://media.allure.com/photos/6a8e5a20da6b919cdb9a1441/1:1/w_1600,c_limit/undefined",
+    "topAward": "Allure Best of Beauty — Steals (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://www.maybelline.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Steals (2026)"
+    ]
+  },
+  {
+    "id": "prod-2651",
+    "slug": "cetaphil-nourishing-oil-to-foam-cleanser",
+    "brand": "Cetaphil",
+    "name": "Nourishing Oil to Foam Cleanser",
+    "price": null,
+    "image": "/cutouts/cetaphil-nourishing-oil-to-foam-cleanser.webp",
+    "topAward": "Allure Best of Beauty — Steals (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://cetaphil.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Steals (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8e4dccda6b919cdb9a1430/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2652",
     "slug": "clinique-even-better-clinical-vitamin-makeup-spf-45",
     "brand": "Clinique",
     "name": "Even Better Clinical Vitamin Makeup SPF 45",
@@ -58054,7 +58134,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2651",
+    "id": "prod-2653",
     "slug": "clio-cosmetics-kill-cover-mesh-glow-essential-cushion",
     "brand": "Clio Cosmetics",
     "name": "Kill Cover Mesh Glow Essential Cushion",
@@ -58076,7 +58156,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2652",
+    "id": "prod-2654",
     "slug": "being-haircare-major-moisture-moisturizing-leave-in-conditioner",
     "brand": "being Haircare",
     "name": "MAJOR MOISTURE Moisturizing Leave-In Conditioner",
@@ -58096,7 +58176,7 @@
     ]
   },
   {
-    "id": "prod-2653",
+    "id": "prod-2655",
     "slug": "igk-deep-repair-air-dry-styler",
     "brand": "IGK",
     "name": "Deep Repair Air Dry Styler",
@@ -58118,7 +58198,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2654",
+    "id": "prod-2656",
     "slug": "nulastin-vibrant-scalp-shampoo",
     "brand": "NULASTIN",
     "name": "Vibrant Scalp Shampoo",
@@ -58140,7 +58220,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2655",
+    "id": "prod-2657",
     "slug": "londontown-glow-getter-nail-luminizer",
     "brand": "LONDONTOWN",
     "name": "Glow Getter Nail Luminizer",
@@ -58162,7 +58242,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2656",
+    "id": "prod-2658",
     "slug": "dove-whole-body-deo-alcohol-free-spray",
     "brand": "Dove",
     "name": "Whole Body Deo Alcohol Free Spray",
@@ -58184,7 +58264,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2657",
+    "id": "prod-2659",
     "slug": "dossier-lost-americana-eau-de-parfum",
     "brand": "Dossier",
     "name": "Lost Americana Eau de Parfum",
@@ -58206,7 +58286,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2658",
+    "id": "prod-2660",
     "slug": "pure-enrichment-hume-sense-warm---cool-mist-top-fill-humidifier",
     "brand": "Pure Enrichment",
     "name": "Hume Sense Warm & Cool Mist Top-Fill Humidifier",
@@ -58228,7 +58308,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2659",
+    "id": "prod-2661",
     "slug": "b-box-insulated-flip-top-water-bottle-34-oz-",
     "brand": "B.Box",
     "name": "Insulated Flip-Top Water Bottle 34 oz.",
@@ -58250,107 +58330,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2660",
-    "slug": "dr--diamond-s-metacine-instafacial-infusion-biomimetic-microcollagen-matrix",
-    "brand": "Dr. Diamond's Metacine",
-    "name": "InstaFacial Infusion Biomimetic Microcollagen Matrix",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Splurges (2026)",
-    "awardCount": 1,
-    "category": "Skincare",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://drdiamondsmetacine.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Splurges (2026)"
-    ]
-  },
-  {
-    "id": "prod-2661",
-    "slug": "guerlain-l-art---la-mati-re-scented-candles",
-    "brand": "Guerlain",
-    "name": "L’Art & La Matière Scented Candles",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Body Splurges (2026)",
-    "awardCount": 1,
-    "category": "Fragrance",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Guerlain%20L'Art%20%26%20La%20Matiere%20Scented%20Candles",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Body Splurges (2026)"
-    ]
-  },
-  {
     "id": "prod-2662",
-    "slug": "oribe-hair-alchemy-resilience-shampoo-and-conditioner",
-    "brand": "Oribe",
-    "name": "Hair Alchemy Resilience Shampoo and Conditioner",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Splurges (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Oribe%20Hair%20Alchemy%20Resilience%20Shampoo%20and%20Conditioner",
-    "awardsWon": [
-      "Allure Best of Beauty — Splurges (2026)"
-    ]
-  },
-  {
-    "id": "prod-2663",
-    "slug": "burberry-beauty-beyond-wear-finishing-and-smoothing-loose-powder",
-    "brand": "Burberry Beauty",
-    "name": "Beyond Wear Finishing and Smoothing Loose Powder",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Splurges (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Burberry+Beauty+Beyond+Wear+Finishing+and+Smoothing+Loose+Powder&tag=vettbeauty-20",
-    "awardsWon": [
-      "Allure Best of Beauty — Splurges (2026)"
-    ]
-  },
-  {
-    "id": "prod-2664",
-    "slug": "stila-cosmetics-stay-all-day-chroma-flash-liquid-eye-liner",
-    "brand": "Stila Cosmetics",
-    "name": "Stay All Day Chroma-Flash Liquid Eye Liner",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Breakthroughs (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://stilacosmetics.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Breakthroughs (2026)"
-    ]
-  },
-  {
-    "id": "prod-2665",
     "slug": "le-prunier-plum-beauty-oil",
     "brand": "Le Prunier",
     "name": "Plum Beauty Oil",
@@ -58372,7 +58352,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2666",
+    "id": "prod-2663",
     "slug": "ranavat-brightening-mineral-sunscreen-spf-50-",
     "brand": "Ranavat",
     "name": "Brightening Mineral Sunscreen SPF 50+",
@@ -58394,7 +58374,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2667",
+    "id": "prod-2664",
     "slug": "la-mer-the-rejuvenating-night-cream",
     "brand": "La Mer",
     "name": "The Rejuvenating Night Cream",
@@ -58416,7 +58396,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2668",
+    "id": "prod-2665",
     "slug": "eighth-day-the-ultra-rich-intensive-moisturizer",
     "brand": "Eighth Day",
     "name": "The Ultra-Rich Intensive Moisturizer",
@@ -58438,7 +58418,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2669",
+    "id": "prod-2666",
     "slug": "david-mallett-conditioning-mist",
     "brand": "David Mallett",
     "name": "Conditioning Mist",
@@ -58460,7 +58440,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2670",
+    "id": "prod-2667",
     "slug": "jennifer-behr-tortoise-amira-jaw-clip",
     "brand": "Jennifer Behr",
     "name": "Tortoise Amira Jaw Clip",
@@ -58482,7 +58462,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2671",
+    "id": "prod-2668",
     "slug": "prada-beauty-conceal",
     "brand": "Prada Beauty",
     "name": "Conceal",
@@ -58504,7 +58484,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2672",
+    "id": "prod-2669",
     "slug": "fara-homidi-essential-bronzer-compact",
     "brand": "Fara Homidi",
     "name": "Essential Bronzer Compact",
@@ -58526,7 +58506,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2673",
+    "id": "prod-2670",
     "slug": "herm-s-beauty-silky-lipstick-shine",
     "brand": "Hermès Beauty",
     "name": "Silky Lipstick Shine",
@@ -58546,7 +58526,89 @@
     ]
   },
   {
+    "id": "prod-2671",
+    "slug": "dr--diamond-s-metacine-instafacial-infusion-biomimetic-microcollagen-matrix",
+    "brand": "Dr. Diamond's Metacine",
+    "name": "InstaFacial Infusion Biomimetic Microcollagen Matrix",
+    "price": null,
+    "image": "/cutouts/dr--diamond-s-metacine-instafacial-infusion-biomimetic-microcollagen-matrix.webp",
+    "topAward": "Allure Best of Beauty — Splurges (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://drdiamondsmetacine.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Splurges (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6aa4391119ecd426d458b576/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2672",
+    "slug": "guerlain-l-art---la-mati-re-scented-candles",
+    "brand": "Guerlain",
+    "name": "L’Art & La Matière Scented Candles",
+    "price": null,
+    "image": "https://media.allure.com/photos/6a8e149f1383ced99372eab1/1:1/w_1600,c_limit/undefined",
+    "topAward": "Allure Best of Beauty — Best Body Splurges (2026)",
+    "awardCount": 1,
+    "category": "Fragrance",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://www.sephora.com/search?keyword=Guerlain%20L'Art%20%26%20La%20Matiere%20Scented%20Candles",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Body Splurges (2026)"
+    ]
+  },
+  {
+    "id": "prod-2673",
+    "slug": "burberry-beauty-beyond-wear-finishing-and-smoothing-loose-powder",
+    "brand": "Burberry Beauty",
+    "name": "Beyond Wear Finishing and Smoothing Loose Powder",
+    "price": null,
+    "image": "https://media.allure.com/photos/6a8e001a65c01008d4020b9a/1:1/w_1600,c_limit/undefined",
+    "topAward": "Allure Best of Beauty — Splurges (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://www.amazon.com/s?k=Burberry+Beauty+Beyond+Wear+Finishing+and+Smoothing+Loose+Powder&tag=vettbeauty-20",
+    "awardsWon": [
+      "Allure Best of Beauty — Splurges (2026)"
+    ]
+  },
+  {
     "id": "prod-2674",
+    "slug": "stila-cosmetics-stay-all-day-chroma-flash-liquid-eye-liner",
+    "brand": "Stila Cosmetics",
+    "name": "Stay All Day Chroma-Flash Liquid Eye Liner",
+    "price": null,
+    "image": "https://media.allure.com/photos/6a8f287c21199e8aadd46386/1:1/w_1600,c_limit/undefined",
+    "topAward": "Allure Best of Beauty — Breakthroughs (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://stilacosmetics.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Breakthroughs (2026)"
+    ]
+  },
+  {
+    "id": "prod-2675",
     "slug": "versed-skin-solution-multi-serum-skin-tint-spf-40",
     "brand": "Versed",
     "name": "Skin Solution Multi-Serum Skin Tint SPF 40",
@@ -58568,7 +58630,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2675",
+    "id": "prod-2676",
     "slug": "youngblood-mineral-cosmetics-pro-glow-cr-me-highlighter-stick",
     "brand": "Youngblood Mineral Cosmetics",
     "name": "Pro Glow Crème Highlighter Stick",
@@ -58590,7 +58652,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2676",
+    "id": "prod-2677",
     "slug": "ch-rib--soft-hold-styling-gel-e",
     "brand": "Chéribé",
     "name": "Soft-Hold Styling Gelée",
@@ -58612,7 +58674,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2677",
+    "id": "prod-2678",
     "slug": "chris-mcmillan-the-dry-texture-and-volume-spray",
     "brand": "Chris McMillan",
     "name": "The Dry Texture and Volume Spray",
@@ -58634,7 +58696,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2678",
+    "id": "prod-2679",
     "slug": "olive---june-builder-gel-polish",
     "brand": "Olive & June",
     "name": "Builder Gel Polish",
@@ -58656,7 +58718,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2679",
+    "id": "prod-2680",
     "slug": "essie-expressie-quick-dry-nail-polish",
     "brand": "essie",
     "name": "Expressie Quick-Dry Nail Polish",
@@ -58678,7 +58740,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2680",
+    "id": "prod-2681",
     "slug": "stripes-beauty-rich---tight-firming-body-butter",
     "brand": "Stripes Beauty",
     "name": "Rich & Tight Firming Body Butter",
@@ -58700,7 +58762,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2681",
+    "id": "prod-2682",
     "slug": "m-61-perfect-body-spray-sunscreen-spf-30",
     "brand": "M-61",
     "name": "Perfect Body Spray Sunscreen SPF 30",
@@ -58723,7 +58785,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2682",
+    "id": "prod-2683",
     "slug": "sol-de-janeiro-cheirosa-91-perfume-mist",
     "brand": "Sol de Janeiro",
     "name": "Cheirosa 91 Perfume Mist",
@@ -58745,7 +58807,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2683",
+    "id": "prod-2684",
     "slug": "prada-beauty-paradoxe-radical-essence-eau-de-parfum",
     "brand": "Prada Beauty",
     "name": "Paradoxe Radical Essence Eau de Parfum",
@@ -58767,7 +58829,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2684",
+    "id": "prod-2685",
     "slug": "cymbiotika-liposomal-advanced-creatine",
     "brand": "Cymbiotika",
     "name": "Liposomal Advanced Creatine",
@@ -58789,7 +58851,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2685",
+    "id": "prod-2686",
     "slug": "metagenics-herwellness-estrovera",
     "brand": "Metagenics",
     "name": "HerWellness Estrovera",
@@ -58811,7 +58873,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2686",
+    "id": "prod-2687",
     "slug": "one-size-boucl--silk-airbrushed-finishing-powder",
     "brand": "One/Size",
     "name": "Bouclé Silk Airbrushed Finishing Powder",
@@ -58834,7 +58896,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2687",
+    "id": "prod-2688",
     "slug": "calpak-fit-gym-duffel",
     "brand": "Calpak",
     "name": "Fit Gym Duffel",
@@ -58856,7 +58918,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2688",
+    "id": "prod-2689",
     "slug": "prequel-gleanser-non-drying-glycerin-cleanser",
     "brand": "Prequel",
     "name": "Gleanser Non-Drying Glycerin Cleanser",
@@ -58876,7 +58938,7 @@
     ]
   },
   {
-    "id": "prod-2689",
+    "id": "prod-2690",
     "slug": "danessa-myricks-beauty-colorfix-sticks",
     "brand": "Danessa Myricks Beauty",
     "name": "Colorfix Sticks",
@@ -58896,7 +58958,7 @@
     ]
   },
   {
-    "id": "prod-2690",
+    "id": "prod-2691",
     "slug": "aestura-atobarrier365-hydro-essence",
     "brand": "Aestura",
     "name": "Atobarrier365 Hydro Essence",
@@ -58918,7 +58980,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2691",
+    "id": "prod-2692",
     "slug": "lubriderm-advanced-therapy-lotion-fragrance-free",
     "brand": "Lubriderm",
     "name": "Advanced Therapy Lotion Fragrance-Free",
@@ -58940,7 +59002,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2692",
+    "id": "prod-2693",
     "slug": "coterie-bun-balm",
     "brand": "Coterie",
     "name": "Bun Balm",
@@ -58962,7 +59024,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2693",
+    "id": "prod-2694",
     "slug": "aveeno-daily-moisturizing-body-wash--sensitive-skin-scents",
     "brand": "Aveeno",
     "name": "Daily Moisturizing Body Wash, Sensitive Skin Scents",
@@ -58984,7 +59046,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2694",
+    "id": "prod-2695",
     "slug": "iunik-beta--glucan-3x-barrier-cream",
     "brand": "IUNIK",
     "name": "Beta- Glucan 3X Barrier Cream",
@@ -59006,7 +59068,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2695",
+    "id": "prod-2696",
     "slug": "billie-shave-glaze",
     "brand": "Billie",
     "name": "Shave Glaze",
@@ -59029,7 +59091,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2696",
+    "id": "prod-2697",
     "slug": "caliray-lipguard-spf-31",
     "brand": "Caliray",
     "name": "Lipguard SPF 31",
@@ -59051,7 +59113,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2697",
+    "id": "prod-2698",
     "slug": "arove-aerious-waterless-powder-shampoo",
     "brand": "AROVE",
     "name": "AERIOUS Waterless Powder Shampoo",
@@ -59073,7 +59135,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2698",
+    "id": "prod-2699",
     "slug": "amika-soulstruck-nourishing-dry-hair-mask",
     "brand": "amika",
     "name": "Soulstruck Nourishing Dry Hair Mask",
@@ -59095,7 +59157,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2699",
+    "id": "prod-2700",
     "slug": "wavytalk-blowout-boost-grande",
     "brand": "WavyTalk",
     "name": "Blowout Boost Grande",
@@ -59117,7 +59179,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2700",
+    "id": "prod-2701",
     "slug": "aprilskin-carrotene-ipmp-exfoliating-body-wash",
     "brand": "APRILSKIN",
     "name": "Carrotene IPMP Exfoliating Body Wash",
@@ -59139,7 +59201,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2701",
+    "id": "prod-2702",
     "slug": "being-frenshe-whipped-body-butter",
     "brand": "Being Frenshe",
     "name": "Whipped Body Butter",
@@ -59161,7 +59223,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2702",
+    "id": "prod-2703",
     "slug": "farmhouse-fresh-ros--moon-dip-iridescent-ageless-body-mousse",
     "brand": "FarmHouse Fresh",
     "name": "ROSÉ MOON DIP IRIDESCENT AGELESS BODY MOUSSE",
@@ -59183,7 +59245,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2703",
+    "id": "prod-2704",
     "slug": "canopy-aroma-diffuser",
     "brand": "Canopy",
     "name": "Aroma Diffuser",
@@ -59205,7 +59267,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2704",
+    "id": "prod-2705",
     "slug": "image-skincare-vol-u-lift-glp-1-4d-skin-rebound-complex",
     "brand": "IMAGE Skincare",
     "name": "VOL.U.LIFT GLP-1 4D Skin Rebound Complex",
@@ -59227,7 +59289,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2705",
+    "id": "prod-2706",
     "slug": "bombas-all-sport-ankle-socks",
     "brand": "Bombas",
     "name": "All-Sport Ankle Socks",
@@ -59249,47 +59311,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2706",
-    "slug": "ciele-cosmetics-conceal---protect-spf-50",
-    "brand": "Ciele Cosmetics",
-    "name": "Conceal & Protect SPF 50",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Clean Makeup (2026)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://cielecosmetics.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Clean Makeup (2026)"
-    ]
-  },
-  {
     "id": "prod-2707",
-    "slug": "each---every-day-dream-body-wash",
-    "brand": "Each & Every",
-    "name": "Day Dream Body Wash",
-    "price": null,
-    "image": "",
-    "topAward": "Allure Best of Beauty — Best Clean Body Products (2026)",
-    "awardCount": 1,
-    "category": "Body",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": false,
-    "linkType": "search",
-    "buyLink": "https://eachandevery.com",
-    "awardsWon": [
-      "Allure Best of Beauty — Best Clean Body Products (2026)"
-    ]
-  },
-  {
-    "id": "prod-2708",
     "slug": "farmacy-green-clean-cleansing-balm",
     "brand": "Farmacy",
     "name": "Green Clean Cleansing Balm",
@@ -59311,7 +59333,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2709",
+    "id": "prod-2708",
     "slug": "yepoda-the-depuff-eyespresso",
     "brand": "Yepoda",
     "name": "The Depuff Eyespresso",
@@ -59333,7 +59355,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2710",
+    "id": "prod-2709",
     "slug": "honest-hydrogel-cream",
     "brand": "Honest",
     "name": "Hydrogel Cream",
@@ -59355,7 +59377,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2711",
+    "id": "prod-2710",
     "slug": "doctor-rogers-day-preventive-treatment",
     "brand": "Doctor Rogers",
     "name": "Day Preventive Treatment",
@@ -59377,7 +59399,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2712",
+    "id": "prod-2711",
     "slug": "saie-cityset-lightweight-setting-spray",
     "brand": "Saie",
     "name": "CitySet Lightweight Setting Spray",
@@ -59399,7 +59421,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2713",
+    "id": "prod-2712",
     "slug": "rye-beauty-tinted-brow-milk",
     "brand": "Rye Beauty",
     "name": "Tinted Brow Milk",
@@ -59419,7 +59441,7 @@
     ]
   },
   {
-    "id": "prod-2714",
+    "id": "prod-2713",
     "slug": "nooni-lip-oil",
     "brand": "Nooni",
     "name": "Lip Oil",
@@ -59441,7 +59463,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2715",
+    "id": "prod-2714",
     "slug": "josie-maran-whipped-argan-oil-body-butter",
     "brand": "Josie Maran",
     "name": "Whipped Argan Oil Body Butter",
@@ -59463,7 +59485,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2716",
+    "id": "prod-2715",
     "slug": "oak-essentials-perfecting-body-scrub",
     "brand": "Oak Essentials",
     "name": "Perfecting Body Scrub",
@@ -59485,7 +59507,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2717",
+    "id": "prod-2716",
     "slug": "herbivore-coco-rose-deodorant",
     "brand": "Herbivore",
     "name": "Coco Rose Deodorant",
@@ -59507,7 +59529,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2718",
+    "id": "prod-2717",
     "slug": "sidia-the-body-mist-in-braless",
     "brand": "Sidia",
     "name": "The Body Mist in Braless",
@@ -59529,7 +59551,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2719",
+    "id": "prod-2718",
     "slug": "rizos-curls-heat-protection-multivitamin-leave-in",
     "brand": "Rizos Curls",
     "name": "Heat Protection Multivitamin Leave-In",
@@ -59551,7 +59573,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2720",
+    "id": "prod-2719",
     "slug": "ochre-everything-hair-cream",
     "brand": "Ochre",
     "name": "Everything Hair Cream",
@@ -59573,7 +59595,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2721",
+    "id": "prod-2720",
     "slug": "divi-dry-shampoo",
     "brand": "Divi",
     "name": "Dry Shampoo",
@@ -59592,6 +59614,28 @@
       "Allure Best of Beauty — Best Clean Hair-Care (2026)"
     ],
     "imageOriginal": "https://media.allure.com/photos/6a8f494240236fc2af46476d/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2721",
+    "slug": "each---every-day-dream-body-wash",
+    "brand": "Each & Every",
+    "name": "Day Dream Body Wash",
+    "price": null,
+    "image": "/cutouts/each---every-day-dream-body-wash.webp",
+    "topAward": "Allure Best of Beauty — Best Clean Body Products (2026)",
+    "awardCount": 1,
+    "category": "Body",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "search",
+    "buyLink": "https://eachandevery.com",
+    "awardsWon": [
+      "Allure Best of Beauty — Best Clean Body Products (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f48285e68d079be1e6e4e/1:1/w_1600,c_limit/undefined",
     "imageCutout": true
   },
   {
