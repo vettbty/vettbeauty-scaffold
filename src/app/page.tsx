@@ -25,26 +25,22 @@ export default function Home() {
   // opens on real product shots rather than a wall of grey; the rest follow and
   // swap in as the image routine works through them.
   //
-  // Ordered as the publication ran it, NOT by award count — Sascha, 2026-09-21:
-  // "i dont want the products sorted ... by most awards i want the products of
-  // the lastest allure release". Award count is what "Top of the Record" is for;
-  // repeating it here would just print that list again with a different heading.
-  // So winners fall in the order Allure published its categories, and anything
-  // whose category is not in that running order sorts after it.
-  const CLASS_ORDER = [
-    'Base', 'Lips', 'Eyes', 'Skin', 'Hair', 'Body',
-    'Nails', 'Tools', 'Scent', 'Steals', 'Splurges',
-    'Breakthroughs', 'Sensitive', 'Clean',
-  ];
+  // NOT by award count — Sascha, 2026-09-21: "i dont want the products sorted
+  // ... by most awards i want the products of the lastest allure release".
+  // Award count is what "Top of the Record" directly below is for; repeating it
+  // here just prints that list again under a different heading.
+  //
+  // This used to order by Allure's own section running order, which worked while
+  // the award names were the coarse section labels the winners index publishes
+  // ("Skin", "Base"). 254 of the 308 have since been upgraded to the granular
+  // names off Allure's category pages ("Best Herbaceous Fragrance"), so there is
+  // no section label left to sort on. Alphabetical by brand instead: stable,
+  // and it does not pretend to an editorial order we can no longer read.
   const classCategory = (p: Product) => {
     const win = (p.awardsWon || []).find(
       w => w.startsWith(`${newest.name} — `) && w.endsWith(`(${newest.edition})`)
     );
     return win ? win.slice(`${newest.name} — `.length, win.lastIndexOf(' (')) : '';
-  };
-  const classRank = (p: Product) => {
-    const i = CLASS_ORDER.indexOf(classCategory(p));
-    return i === -1 ? CLASS_ORDER.length : i;
   };
   //
   // Packshot required. Showing the full class put 245 empty grey tiles on the
@@ -59,8 +55,8 @@ export default function Home() {
     )
     .sort((a, b) =>
       (b.image ? 1 : 0) - (a.image ? 1 : 0) ||
-      classRank(a) - classRank(b) ||
-      a.brand.localeCompare(b.brand)
+      a.brand.localeCompare(b.brand) ||
+      classCategory(a).localeCompare(classCategory(b))
     );
   return (
     <>
