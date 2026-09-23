@@ -53,6 +53,14 @@ export const awardPrograms: AwardProgram[] = [
 
 export const pressArticles: PressArticle[] = [
   {
+    id: '3',
+    title: 'The Reformulated SkinCeuticals C E Ferulic Is Even Better Than I Expected',
+    source: 'Vogue',
+    sourceUrl: 'https://www.vogue.com/article/skinceuticals-ce-ferulic-reformulation',
+    productName: 'SkinCeuticals C E Ferulic',
+    productSlug: 'skinceuticals-c-e-ferulic',
+  },
+  {
     id: '1',
     title: 'The Ordinary\'s Hyaluronic Acid Serum Packs 6 Benefits Into One Bottle',
     source: 'Vogue',
@@ -67,6 +75,14 @@ export const pressArticles: PressArticle[] = [
     sourceUrl: 'https://www.vogue.com/article/best-essie-nail-polish-colors',
     productName: 'Essie Nail Art Studio Jelly Gloss Nail Polish',
     productSlug: 'essie-nail-art-studio-jelly-gloss-nail-polish',
+  },
+  {
+    id: '4',
+    title: 'Everyone\'s Favorite Vitamin C Serum Just Got a Major Upgrade',
+    source: 'Allure',
+    sourceUrl: 'https://www.allure.com/story/skinceuticals-c-e-ferulic-serum-reformulation-2026',
+    productName: 'SkinCeuticals C E Ferulic',
+    productSlug: 'skinceuticals-c-e-ferulic',
   },
 ];
 
