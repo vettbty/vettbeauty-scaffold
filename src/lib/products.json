@@ -16573,7 +16573,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Blue+Lagoon+Skin+Science+Silica+Mud+Mask&tag=vettbeauty-20",
+    "buyLink": "https://www.bluelagoon.com",
     "awardsWon": [
       "Allure Best of Beauty — Best Skin Splurges (2026)"
     ],
@@ -50786,7 +50786,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Conair+1.25-Inch+Double+Ceramic+Curling+Iron&tag=vettbeauty-20",
+    "buyLink": "https://www.conair.com",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Curling Iron (2026)"
     ]
@@ -52261,7 +52261,7 @@
     "brand": "Ciele Cosmetics",
     "name": "Conceal & Protect SPF 50",
     "price": null,
-    "image": "/cutouts/ciele-cosmetics-conceal---protect-spf-50.webp",
+    "image": "https://media.allure.com/photos/6a8f45b79ed6dc48106cb5e7/1:1/w_1600,c_limit/undefined",
     "topAward": "Allure Best of Beauty — Best Clean Makeup (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -52273,9 +52273,7 @@
     "buyLink": "https://cielecosmetics.com",
     "awardsWon": [
       "Allure Best of Beauty — Best Clean Makeup (2026)"
-    ],
-    "imageOriginal": "https://media.allure.com/photos/6a8f45b79ed6dc48106cb5e7/1:1/w_1600,c_limit/undefined",
-    "imageCutout": true
+    ]
   },
   {
     "id": "prod-2382",
@@ -53714,7 +53712,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=NYX+Cosmetics+Slim+Lip+Pencil&tag=vettbeauty-20",
+    "buyLink": "https://www.nyxcosmetics.com",
     "awardsWon": [
       "Marie Claire Reader's Choice — Lip Liner (2026)"
     ]
@@ -54020,7 +54018,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=NYX+Cosmetics+Epic+Ink+Waterproof+Liquid+Eyeliner&tag=vettbeauty-20",
+    "buyLink": "https://www.nyxcosmetics.com",
     "awardsWon": [
       "Marie Claire Reader's Choice — Eyeliner (2026)"
     ]
@@ -56657,7 +56655,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Miu+Miu+Beauty+Fleur+de+Lait&tag=vettbeauty-20",
+    "buyLink": "https://www.miumiu.com",
     "awardsWon": [
       "Allure Best of Beauty — Best Fruity Fragrance (2026)"
     ],
@@ -58333,7 +58331,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Tgin+%28Thank+God+It%27s+Natural%29+Scalp+Clarifying+Shampoo&tag=vettbeauty-20",
+    "buyLink": "https://tginatural.com",
     "awardsWon": [
       "Allure Best of Beauty — Steals (2026)"
     ],
@@ -58791,7 +58789,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Prada+Beauty+Conceal&tag=vettbeauty-20",
+    "buyLink": "https://www.prada-beauty.com",
     "awardsWon": [
       "Allure Best of Beauty — Best Makeup Splurges (2026)"
     ],
@@ -58835,7 +58833,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "search",
-    "buyLink": "https://www.amazon.com/s?k=Hermes+Beauty+Silky+Lipstick+Shine&tag=vettbeauty-20",
+    "buyLink": "https://www.hermes.com",
     "awardsWon": [
       "Allure Best of Beauty — Best Makeup Splurges (2026)"
     ]
@@ -58846,7 +58844,7 @@
     "brand": "Dr. Diamond's Metacine",
     "name": "InstaFacial Infusion Biomimetic Microcollagen Matrix",
     "price": null,
-    "image": "/cutouts/dr--diamond-s-metacine-instafacial-infusion-biomimetic-microcollagen-matrix.webp",
+    "image": "https://media.allure.com/photos/6aa4391119ecd426d458b576/1:1/w_1600,c_limit/undefined",
     "topAward": "Allure Best of Beauty — Splurges (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -58858,9 +58856,7 @@
     "buyLink": "https://drdiamondsmetacine.com",
     "awardsWon": [
       "Allure Best of Beauty — Splurges (2026)"
-    ],
-    "imageOriginal": "https://media.allure.com/photos/6aa4391119ecd426d458b576/1:1/w_1600,c_limit/undefined",
-    "imageCutout": true
+    ]
   },
   {
     "id": "prod-2687",
