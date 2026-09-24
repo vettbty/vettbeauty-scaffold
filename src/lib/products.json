@@ -60076,28 +60076,6 @@
   },
   {
     "id": "prod-2744",
-    "slug": "aestura-atobarrier365-hydro-essence",
-    "brand": "Aestura",
-    "name": "Atobarrier365 Hydro Essence",
-    "price": null,
-    "image": "/cutouts/aestura-atobarrier365-hydro-essence.webp",
-    "topAward": "Allure Best of Beauty — Best for Sensitive Types (2026)",
-    "awardCount": 1,
-    "category": "Skincare",
-    "subcategory": "",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": true,
-    "linkType": "search",
-    "buyLink": "https://www.sephora.com/search?keyword=Aestura%20Atobarrier365%20Hydro%20Essence",
-    "awardsWon": [
-      "Allure Best of Beauty — Best for Sensitive Types (2026)"
-    ],
-    "imageOriginal": "https://media.allure.com/photos/6a8f420954af8f441182bdc3/1:1/w_1600,c_limit/undefined",
-    "imageCutout": true
-  },
-  {
-    "id": "prod-2745",
     "slug": "lubriderm-advanced-therapy-lotion-fragrance-free",
     "brand": "Lubriderm",
     "name": "Advanced Therapy Lotion Fragrance-Free",
@@ -60119,7 +60097,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2746",
+    "id": "prod-2745",
     "slug": "coterie-bun-balm",
     "brand": "Coterie",
     "name": "Bun Balm",
@@ -60141,7 +60119,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2747",
+    "id": "prod-2746",
     "slug": "aveeno-daily-moisturizing-body-wash--sensitive-skin-scents",
     "brand": "Aveeno",
     "name": "Daily Moisturizing Body Wash, Sensitive Skin Scents",
@@ -60163,7 +60141,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2748",
+    "id": "prod-2747",
     "slug": "iunik-beta--glucan-3x-barrier-cream",
     "brand": "IUNIK",
     "name": "Beta- Glucan 3X Barrier Cream",
@@ -60185,7 +60163,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-2749",
+    "id": "prod-2748",
     "slug": "billie-shave-glaze",
     "brand": "Billie",
     "name": "Shave Glaze",
@@ -60205,6 +60183,28 @@
       "NewBeauty Annual Awards — Best Shave Oil (2026)"
     ],
     "imageOriginal": "https://media.allure.com/photos/6a88d1dd3222466d2eb02011/1:1/w_1600,c_limit/undefined",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-2749",
+    "slug": "aestura-atobarrier365-hydro-essence",
+    "brand": "Aestura",
+    "name": "Atobarrier365 Hydro Essence",
+    "price": null,
+    "image": "/cutouts/aestura-atobarrier365-hydro-essence.webp",
+    "topAward": "Allure Best of Beauty — Best for Sensitive Types (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "US",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://click.linksynergy.com/link?id=lDbatWRMyd4&offerid=2059424.542676523662625309230524&type=15&murl=https%3A%2F%2Fus.oliveyoung.com%2Fproducts%2FUA17865094",
+    "awardsWon": [
+      "Allure Best of Beauty — Best for Sensitive Types (2026)"
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6a8f420954af8f441182bdc3/1:1/w_1600,c_limit/undefined",
     "imageCutout": true
   },
   {
