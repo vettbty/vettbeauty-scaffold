@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21",
+ "generated": "2026-09-23",
  "items": [
   {
    "brand": "BeautyStat",
@@ -11,8 +11,8 @@
    "url": "https://go.shopmy.us/p-78148186",
    "size": null,
    "slug": "beautystat-c-lip-serum-spf-30",
-   "image": "https://beautystat.com/cdn/shop/files/IMG_1531.jpg?v=1744809663",
-   "imageCutout": false,
+   "image": "/cutouts/beautystat-c-lip-serum-spf-30.webp",
+   "imageCutout": true,
    "topAward": "Harper's Bazaar Best of Beauty — Best Sunscreens (2026)",
    "category": "Skincare",
    "subcategory": "SPF",
@@ -28,11 +28,11 @@
    "was": 152,
    "now": 50.15,
    "percentOff": 67,
-   "url": "https://www.dermstore.com/p/revitalash-advanced-eyelash-conditioner-2ml-3-month-supply/15724060/",
-   "size": "2ml",
+   "url": "https://go.shopmy.us/p-88345776",
+   "size": "3.5ml",
    "slug": "revitalash-advanced-eyelash-conditioner",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/ca54f9eb-6cd8-4060-ac73-cc05da291f6e/56c591b9-dc2d-41e7-88cd-6904232e3ff0.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/revitalash-advanced-eyelash-conditioner.webp",
+   "imageCutout": true,
    "topAward": "InStyle Best Beauty Buys — Best Lash Serum (2026)",
    "category": "Skincare",
    "subcategory": "Serum",
@@ -83,27 +83,6 @@
    ]
   },
   {
-   "brand": "Paula's Choice",
-   "product": "Skin Perfecting 2% BHA Liquid Exfoliant",
-   "retailer": "Amazon",
-   "was": 37,
-   "now": 15,
-   "percentOff": 59,
-   "url": "https://www.amazon.com/dp/B07C5SS6YD",
-   "size": "1 Fl Oz",
-   "slug": "paula-s-choice-skin-perfecting-2--bha-liquid-exfoliant",
-   "image": "/cutouts/paula-s-choice-skin-perfecting-2--bha-liquid-exfoliant.webp",
-   "imageCutout": true,
-   "topAward": "Allure Readers Choice — Skin Winner (2026)",
-   "category": "Skincare",
-   "subcategory": "Exfoliant",
-   "awardCount": 2,
-   "awardsWon": [
-    "Allure Readers Choice — Skin Winner (2026)",
-    "Glowpick Awards (2025)"
-   ]
-  },
-  {
    "brand": "InfinitiPRO by Conair",
    "product": "Hair Steamer Styler",
    "retailer": "Ulta",
@@ -113,8 +92,8 @@
    "url": "https://go.shopmy.us/p-78564431",
    "size": null,
    "slug": "infinitipro-by-conair-hair-steamer-styler",
-   "image": "/cutouts/infinitipro-by-conair-hair-steamer-styler.webp",
-   "imageCutout": true,
+   "image": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/5673636a13eb48d54b39c7649a02e020fddf4ec4-3000x1950.tif?w=900&fit=max&auto=format",
+   "imageCutout": false,
    "topAward": "NewBeauty Annual Awards — Best Hair Steamer (2026)",
    "category": "Tools & Devices",
    "subcategory": "Hair Tool",
@@ -133,7 +112,7 @@
    "url": "https://www.amazon.com/dp/B0C7SFLV46",
    "size": "0.35 oz",
    "slug": "eos-super-balm",
-   "image": "https://evolutionofsmooth.com/cdn/shop/files/SuperBalm-coconutmilk-1000X1161.jpg?v=1763417800",
+   "image": "/levelled/eos-super-balm.webp",
    "imageCutout": false,
    "topAward": "InStyle Best Beauty Buys — Best Lip Balm (2025)",
    "category": "Skincare",
@@ -161,26 +140,6 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Hand Cream (2026)"
-   ]
-  },
-  {
-   "brand": "Rizos Curls",
-   "product": "Defining Mousse",
-   "retailer": "Ulta",
-   "was": 23,
-   "now": 11,
-   "percentOff": 52,
-   "url": "https://www.ulta.com/p/curl-defining-mousse-pimprod2040757",
-   "size": null,
-   "slug": "rizos-curls-defining-mousse",
-   "image": "/cutouts/rizos-curls-defining-mousse.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Curl Mousse (2026)",
-   "category": "Hair",
-   "subcategory": "Curl Mousse",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Curl Mousse (2026)"
    ]
   },
   {
@@ -255,54 +214,14 @@
    "url": "https://go.shopmy.us/p-81544654",
    "size": null,
    "slug": "l-oreal-paris-everpure-iron-sleek-smoothing-shampoo---conditioner",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/b4504ab8-1343-4439-9f2c-b1c84876530d/f0495217-dda5-4348-a566-7721d33e168f.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/l-oreal-paris-everpure-iron-sleek-smoothing-shampoo---conditioner.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Smoothing Shampoo and Conditioner (2026)",
    "category": "Hair",
    "subcategory": "Shampoo",
    "awardCount": 1,
    "awardsWon": [
     "Cosmopolitan Beauty Awards — Best Smoothing Shampoo and Conditioner (2026)"
-   ]
-  },
-  {
-   "brand": "Dove",
-   "product": "Aluminum Free Deodorant Spray",
-   "retailer": "Amazon",
-   "was": 27,
-   "now": 15.13,
-   "percentOff": 44,
-   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
-   "size": "4 oz",
-   "slug": "dove-aluminum-free-deodorant-spray",
-   "image": "/cutouts/dove-aluminum-free-deodorant-spray.webp",
-   "imageCutout": true,
-   "topAward": "Allure Readers Choice — Clean Winner (2026)",
-   "category": "Body",
-   "subcategory": "Deodorant",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Readers Choice — Clean Winner (2026)"
-   ]
-  },
-  {
-   "brand": "Differin",
-   "product": "Adapalene Gel 0.1%",
-   "retailer": "Ulta",
-   "was": 24,
-   "now": 13.99,
-   "percentOff": 42,
-   "url": "https://go.shopmy.us/p-78294069",
-   "size": "0.5 oz",
-   "slug": "differin-adapalene-gel-0-1-",
-   "image": "/cutouts/differin-adapalene-gel-0-1-.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Retinol All-over Acne Treatment (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Retinol All-over Acne Treatment (2025)"
    ]
   },
   {
@@ -326,23 +245,23 @@
    ]
   },
   {
-   "brand": "Kiss Nail",
-   "product": "Press-Ons",
-   "retailer": "Amazon",
-   "was": 14,
-   "now": 8.26,
-   "percentOff": 41,
-   "url": "https://www.amazon.com/included-Stardust-Wonder-Medium-Manicure/dp/B0FZDWHNSF",
-   "size": null,
-   "slug": "kiss-nail-press-ons",
-   "image": "/cutouts/kiss-nail-press-ons.webp",
+   "brand": "Differin",
+   "product": "Adapalene Gel 0.1%",
+   "retailer": "Ulta",
+   "was": 24,
+   "now": 13.99,
+   "percentOff": 42,
+   "url": "https://go.shopmy.us/p-78294069",
+   "size": "0.5 oz",
+   "slug": "differin-adapalene-gel-0-1-",
+   "image": "/cutouts/differin-adapalene-gel-0-1-.webp",
    "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Press-Ons (2026)",
-   "category": "Nails",
-   "subcategory": "Press-Ons",
+   "topAward": "Allure Best of Beauty — Best Retinol All-over Acne Treatment (2025)",
+   "category": "Skincare",
+   "subcategory": "",
    "awardCount": 1,
    "awardsWon": [
-    "InStyle Best Beauty Buys — Best Press-Ons (2026)"
+    "Allure Best of Beauty — Best Retinol All-over Acne Treatment (2025)"
    ]
   },
   {
@@ -364,6 +283,26 @@
    "awardsWon": [
     "Allure Best of Beauty — Best Kinky Hair Shampoo (2025)",
     "Marie Claire Skin & Hair Awards — Best Shampoo For Coily Hair (2025)"
+   ]
+  },
+  {
+   "brand": "Good Dye Young",
+   "product": "DYEposit",
+   "retailer": "Ulta",
+   "was": 20,
+   "now": 12,
+   "percentOff": 40,
+   "url": "https://go.shopmy.us/p-78477759",
+   "size": null,
+   "slug": "good-dye-young-dyeposit",
+   "image": "/cutouts/good-dye-young-dyeposit.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Semi-Permanent Hair Color (2025)",
+   "category": "Hair",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Semi-Permanent Hair Color (2025)"
    ]
   },
   {
@@ -389,53 +328,13 @@
    ]
   },
   {
-   "brand": "Good Dye Young",
-   "product": "DYEposit",
-   "retailer": "Ulta",
-   "was": 20,
-   "now": 12,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-78477759",
-   "size": null,
-   "slug": "good-dye-young-dyeposit",
-   "image": "/cutouts/good-dye-young-dyeposit.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Semi-Permanent Hair Color (2025)",
-   "category": "Hair",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Semi-Permanent Hair Color (2025)"
-   ]
-  },
-  {
-   "brand": "Medicube",
-   "product": "Toner Pads Zero Pore Pad 2.0",
-   "retailer": "Amazon",
-   "was": 31,
-   "now": 18.9,
-   "percentOff": 39,
-   "url": "https://www.amazon.com/medicube-Calming-Exfoliation-Minimizing-Blackhead/dp/B09V7Z4TJG",
-   "size": null,
-   "slug": "medicube-toner-pads-zero-pore-pad-2-0",
-   "image": "/cutouts/medicube-toner-pads-zero-pore-pad-2-0.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Toner Pads (2026)",
-   "category": "Skincare",
-   "subcategory": "Toner Pads",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Toner Pads (2026)"
-   ]
-  },
-  {
    "brand": "Batiste",
    "product": "Light Dry Shampoo Mellow Melon",
    "retailer": "Ulta",
    "was": 12,
    "now": 7.69,
    "percentOff": 36,
-   "url": "https://www.ulta.com/p/light-dry-shampoo-mellow-melon-pimprod2045775",
+   "url": "https://go.shopmy.us/p-88564286",
    "size": null,
    "slug": "batiste-light-dry-shampoo-mellow-melon",
    "image": "/cutouts/batiste-light-dry-shampoo-mellow-melon.webp",
@@ -458,8 +357,8 @@
    "url": "https://go.shopmy.us/p-78051096",
    "size": null,
    "slug": "ulike-air-10",
-   "image": "https://cdn.shopify.com/s/files/1/0656/9079/6273/files/B0CWPBDM1F.Main.jpg?v=1751607095",
-   "imageCutout": false,
+   "image": "/cutouts/ulike-air-10.webp",
+   "imageCutout": true,
    "topAward": "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
    "category": "Tools & Devices",
    "subcategory": "Skin Tool",
@@ -490,23 +389,43 @@
    ]
   },
   {
-   "brand": "Gillette Venus",
-   "product": "Pubic Hair and Skin Daily Ingrown Serum",
-   "retailer": "Amazon",
-   "was": 14.99,
-   "now": 9.99,
+   "brand": "Nair",
+   "product": "Body Cream With Soothing Aloe & Water Lily",
+   "retailer": "Ulta",
+   "was": 9.99,
+   "now": 6.74,
    "percentOff": 33,
-   "url": "https://www.amazon.com/dp/B08JHSZG7F",
+   "url": "https://go.shopmy.us/p-88564549",
    "size": null,
-   "slug": "gillette-venus-pubic-hair-and-skin-daily-ingrown-serum",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/a37ebce0-adb9-419d-a1dc-2154b28a6407/503ea051-17d7-4a90-a425-949566f914fe.jpg",
-   "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Treatment for Ingrown Hairs (2026)",
+   "slug": "nair-body-cream-with-soothing-aloe---water-lily",
+   "image": "/cutouts/nair-body-cream-with-soothing-aloe---water-lily.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Hair-Removal Cream (2026)",
    "category": "Body",
    "subcategory": "",
    "awardCount": 1,
    "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Treatment for Ingrown Hairs (2026)"
+    "Cosmopolitan Beauty Awards — Best Hair-Removal Cream (2026)"
+   ]
+  },
+  {
+   "brand": "Dove",
+   "product": "Aluminum Free Deodorant Spray",
+   "retailer": "Amazon",
+   "was": 27,
+   "now": 18.14,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
+   "size": "4 oz",
+   "slug": "dove-aluminum-free-deodorant-spray",
+   "image": "/cutouts/dove-aluminum-free-deodorant-spray.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Clean Winner (2026)",
+   "category": "Body",
+   "subcategory": "Deodorant",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Readers Choice — Clean Winner (2026)"
    ]
   },
   {
@@ -514,39 +433,19 @@
    "product": "Venus Original Razor",
    "retailer": "Amazon",
    "was": 14.97,
-   "now": 9.99,
+   "now": 9.97,
    "percentOff": 33,
    "url": "https://www.amazon.com/dp/B003EMPN7G",
    "size": "2 Count",
    "slug": "gillette-venus-original-razor",
-   "image": "/cutouts/gillette-venus-original-razor.webp",
-   "imageCutout": true,
+   "image": "/levelled/gillette-venus-original-razor.webp",
+   "imageCutout": false,
    "topAward": "Glamour Beauty Awards — Readers' Choice — Best Razor (2026)",
    "category": "Tools & Devices",
    "subcategory": "Skin Tool",
    "awardCount": 1,
    "awardsWon": [
     "Glamour Beauty Awards — Readers' Choice — Best Razor (2026)"
-   ]
-  },
-  {
-   "brand": "Nair",
-   "product": "Body Cream With Soothing Aloe & Water Lily",
-   "retailer": "Ulta",
-   "was": 9.99,
-   "now": 6.74,
-   "percentOff": 33,
-   "url": "https://www.ulta.com/p/body-cream-hair-remover-with-soothing-aloe-water-lily-pimprod2048107?sku=2632041",
-   "size": null,
-   "slug": "nair-body-cream-with-soothing-aloe---water-lily",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/deef8ade-0cde-4493-930a-88c11d43b433/26e75057-6538-48e3-bc3e-6942cb14c3f7.jpg",
-   "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Hair-Removal Cream (2026)",
-   "category": "Body",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Hair-Removal Cream (2026)"
    ]
   },
   {
@@ -571,27 +470,6 @@
    ]
   },
   {
-   "brand": "Supergoop",
-   "product": "Play Everyday Sunscreen Stick SPF 50",
-   "retailer": "Ulta",
-   "was": 32,
-   "now": 22,
-   "percentOff": 31,
-   "url": "https://www.ulta.com/p/play-everyday-sunscreen-stick-spf-50-pimprod2051453",
-   "size": null,
-   "slug": "supergoop-play-everyday-sunscreen-stick-spf-50",
-   "image": "/cutouts/supergoop-play-everyday-sunscreen-stick-spf-50.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Chemical Stick Sunscreen (2025)",
-   "category": "Body",
-   "subcategory": "SPF",
-   "awardCount": 2,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Chemical Stick Sunscreen (2025)",
-    "Marie Claire Reader's Choice — Body Sunscreen (2026)"
-   ]
-  },
-  {
    "brand": "Made by Mitchell",
    "product": "Curve Case Cream Makeup Palette",
    "retailer": "Ulta",
@@ -612,44 +490,44 @@
    ]
   },
   {
-   "brand": "Dr. Althea",
-   "product": "Pure Grinding Cleansing Balm",
+   "brand": "Supergoop",
+   "product": "Play Everyday Sunscreen Stick SPF 50",
    "retailer": "Ulta",
-   "was": 23,
-   "now": 16.03,
-   "percentOff": 30,
-   "url": "https://www.ulta.com/p/pure-grinding-cleansing-balm-pimprod2053606",
+   "was": 32,
+   "now": 22,
+   "percentOff": 31,
+   "url": "https://go.shopmy.us/p-88564710",
    "size": null,
-   "slug": "dr--althea-pure-grinding-cleansing-balm",
-   "image": "/cutouts/dr--althea-pure-grinding-cleansing-balm.webp",
+   "slug": "supergoop-play-everyday-sunscreen-stick-spf-50",
+   "image": "/cutouts/supergoop-play-everyday-sunscreen-stick-spf-50.webp",
    "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Cleansing Balm (2025)",
-   "category": "Skincare",
-   "subcategory": "Cleanser",
+   "topAward": "Allure Best of Beauty — Best Chemical Stick Sunscreen (2025)",
+   "category": "Body",
+   "subcategory": "SPF",
    "awardCount": 2,
    "awardsWon": [
-    "Allure Best of Beauty — Best Cleansing Balm (2025)",
-    "Glowpick Awards (2025)"
+    "Allure Best of Beauty — Best Chemical Stick Sunscreen (2025)",
+    "Marie Claire Reader's Choice — Body Sunscreen (2026)"
    ]
   },
   {
-   "brand": "Zoya",
-   "product": "Remove+ Nail Polish Remover",
-   "retailer": "Ulta",
-   "was": 12,
-   "now": 8.4,
-   "percentOff": 30,
-   "url": "https://www.ulta.com/p/remove-nail-polish-remover-xlsImpprod13741057",
+   "brand": "Gillette Venus",
+   "product": "Pubic Hair and Skin Daily Ingrown Serum",
+   "retailer": "Amazon",
+   "was": 14.99,
+   "now": 10.3,
+   "percentOff": 31,
+   "url": "https://www.amazon.com/dp/B08JHSZG7F",
    "size": null,
-   "slug": "zoya-remove--nail-polish-remover",
-   "image": "/cutouts/zoya-remove--nail-polish-remover.webp",
+   "slug": "gillette-venus-pubic-hair-and-skin-daily-ingrown-serum",
+   "image": "/cutouts/gillette-venus-pubic-hair-and-skin-daily-ingrown-serum.webp",
    "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Liquid Nail Polish Remover (2025)",
-   "category": "Nails",
-   "subcategory": "Nail Polish",
+   "topAward": "Cosmopolitan Beauty Awards — Best Treatment for Ingrown Hairs (2026)",
+   "category": "Body",
+   "subcategory": "",
    "awardCount": 1,
    "awardsWon": [
-    "Allure Best of Beauty — Best Liquid Nail Polish Remover (2025)"
+    "Cosmopolitan Beauty Awards — Best Treatment for Ingrown Hairs (2026)"
    ]
   },
   {
@@ -683,8 +561,8 @@
    "url": "https://go.shopmy.us/p-78146388",
    "size": null,
    "slug": "bali-body-gradual-tanning-butter",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/61d13a8f-a360-4a48-99e7-8119b13157af/c3a65093-a4b7-43ed-a71d-ce920ee1e0c7.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/bali-body-gradual-tanning-butter.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Gradual Self-Tanner (2026)",
    "category": "Body",
    "subcategory": "Self-Tanner",
@@ -703,8 +581,8 @@
    "url": "https://go.shopmy.us/p-78147289",
    "size": null,
    "slug": "batiste-hint-of-color-dry-shampoo",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/b889671f-3ca3-41fe-b73d-9404658980f6/491ddede-7855-434c-9784-9a9e5e53aa66.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/batiste-hint-of-color-dry-shampoo.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Tinted Dry Shampoo (2026)",
    "category": "Hair",
    "subcategory": "Dry Shampoo",
@@ -734,26 +612,6 @@
    ]
   },
   {
-   "brand": "Florence By Mills",
-   "product": "Love Core Black Cherry Hair & Body Mist",
-   "retailer": "Ulta",
-   "was": 18,
-   "now": 12.6,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-78453133",
-   "size": null,
-   "slug": "florence-by-mills-love-core-black-cherry-hair---body-mist",
-   "image": "/cutouts/florence-by-mills-love-core-black-cherry-hair---body-mist.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Body Steals (2025)",
-   "category": "Hair",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Body Steals (2025)"
-   ]
-  },
-  {
    "brand": "Frank Body",
    "product": "Triple Acid Body Mist",
    "retailer": "Ulta",
@@ -763,8 +621,8 @@
    "url": "https://go.shopmy.us/p-78453201",
    "size": null,
    "slug": "frank-body-triple-acid-body-mist",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/38ff8fcd-9bb7-46e9-951d-32218d46d6e6/f65f0b8b-314a-4dd7-9648-cadeeb006fb0.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/frank-body-triple-acid-body-mist.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Body Acne Treatment (2026)",
    "category": "Body",
    "subcategory": "",
@@ -783,34 +641,14 @@
    "url": "https://go.shopmy.us/p-78457021",
    "size": "13.5 oz",
    "slug": "garnier-all-in-one-micellar-cleansing-water",
-   "image": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/42d40c81983cb99b7e099fc1caf98dbad33b987c-1713x3000.tif?w=900&fit=max&auto=format",
-   "imageCutout": false,
+   "image": "/cutouts/garnier-all-in-one-micellar-cleansing-water.webp",
+   "imageCutout": true,
    "topAward": "NewBeauty Annual Awards — Best Micellar Water (2026)",
    "category": "Skincare",
    "subcategory": "Cleanser",
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Micellar Water (2026)"
-   ]
-  },
-  {
-   "brand": "Garnier Fructis",
-   "product": "Curl Knot Melter",
-   "retailer": "Amazon",
-   "was": 9.99,
-   "now": 6.97,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
-   "size": null,
-   "slug": "garnier-fructis-curl-knot-melter",
-   "image": "/cutouts/garnier-fructis-curl-knot-melter.webp",
-   "imageCutout": true,
-   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)",
-   "category": "Hair",
-   "subcategory": "Leave-In",
-   "awardCount": 1,
-   "awardsWon": [
-    "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)"
    ]
   },
   {
@@ -832,48 +670,6 @@
    "awardsWon": [
     "NewBeauty Annual Awards — Best At-Home Silk Press Treatment (2026)",
     "Marie Claire Prix d'Excellence — US Winner – Hair Care (2026)"
-   ]
-  },
-  {
-   "brand": "Zoya",
-   "product": "Ultra Glossy Seal Top Coat",
-   "retailer": "Ulta",
-   "was": 17,
-   "now": 11.9,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-79503370",
-   "size": null,
-   "slug": "zoya-ultra-glossy-seal-top-coat",
-   "image": "/cutouts/zoya-ultra-glossy-seal-top-coat.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Top Coat (2025)",
-   "category": "Nails",
-   "subcategory": "",
-   "awardCount": 2,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Top Coat (2025)",
-    "Allure Best of Beauty — Nails (2026)"
-   ]
-  },
-  {
-   "brand": "quip",
-   "product": "Sonic Toothbrush",
-   "retailer": "Amazon",
-   "was": 40,
-   "now": 27.99,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0DW5Z1S47",
-   "size": null,
-   "slug": "quip-sonic-toothbrush",
-   "image": "/cutouts/quip-sonic-toothbrush.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Toothbrush (2025)",
-   "category": "Wellness",
-   "subcategory": "",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Toothbrush (2025)",
-    "Glamour Beauty Awards — Beauty Innovators — Best Electric Toothbrush (2026)"
    ]
   },
   {
@@ -1046,8 +842,8 @@
    "url": "https://go.shopmy.us/p-81185371",
    "size": null,
    "slug": "nexxus-hy-volume-shampoo---conditioner",
-   "image": "/cutouts/nexxus-hy-volume-shampoo---conditioner.webp",
-   "imageCutout": true,
+   "image": "/levelled/nexxus-hy-volume-shampoo---conditioner.webp",
+   "imageCutout": false,
    "topAward": "Glamour Beauty Awards — Straight & Wavy Hair — Best Affordable Shampoo & Conditioner for Volume (2026)",
    "category": "Hair",
    "subcategory": "Shampoo",
@@ -1063,7 +859,7 @@
    "was": 19.99,
    "now": 13.99,
    "percentOff": 30,
-   "url": "https://www.ulta.com/p/advanced-invisible-clean-dry-shampoo-pimprod2049237?sku=2634148",
+   "url": "https://go.shopmy.us/p-88565394",
    "size": null,
    "slug": "nexxus-advanced-clean-invisible-dry-shampoo",
    "image": "/cutouts/nexxus-advanced-clean-invisible-dry-shampoo.webp",
@@ -1083,7 +879,7 @@
    "was": 16,
    "now": 11.2,
    "percentOff": 30,
-   "url": "https://www.ulta.com/p/sleek-styling-cream-taming-wand-pimprod2053412?sku=2642938",
+   "url": "https://go.shopmy.us/p-88565496",
    "size": null,
    "slug": "rizos-curls-sleek-styling-cream---taming-wand",
    "image": "/cutouts/rizos-curls-sleek-styling-cream---taming-wand.webp",
@@ -1103,11 +899,11 @@
    "was": 25,
    "now": 17.49,
    "percentOff": 30,
-   "url": "https://www.ulta.com/p/birch-juice-moisturizing-uvlock-sun-stick-spf-50-pimprod2052318?sku=2644755",
+   "url": "https://go.shopmy.us/p-88565686",
    "size": null,
    "slug": "round-lab-birch-moisturizing-sun-stick-spf-50",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/61c337ec-69f3-42d1-8440-870107d2d481/2eab763f-8e6a-4185-ac52-e90640cd8ad4.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/round-lab-birch-moisturizing-sun-stick-spf-50.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Sunscreen Stick (2026)",
    "category": "Skincare",
    "subcategory": "SPF",
@@ -1117,36 +913,16 @@
    ]
   },
   {
-   "brand": "Sally Hansen",
-   "product": "Miracle Gel Super Shiny Shield Topcoat",
-   "retailer": "Ulta",
-   "was": 12.99,
-   "now": 9.09,
-   "percentOff": 30,
-   "url": "https://www.ulta.com/p/miracle-gel-super-shiny-shield-topcoat-pimprod2053368?sku=2641607",
-   "size": null,
-   "slug": "sally-hansen-miracle-gel-super-shiny-shield-topcoat",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/698ecd55-3f92-40a1-939c-665366f37075/43f58c72-94db-41a0-bcae-42011e7a44d9.jpg",
-   "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Gel Top Coat (2026)",
-   "category": "Nails",
-   "subcategory": "Nail Polish",
-   "awardCount": 1,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Gel Top Coat (2026)"
-   ]
-  },
-  {
    "brand": "Nexxus",
    "product": "Air Shape Workable Hold Texture Spray",
    "retailer": "Ulta",
    "was": 19.99,
    "now": 13.99,
    "percentOff": 30,
-   "url": "https://www.ulta.com/p/air-shape-workable-hold-texture-spray-pimprod2056349?sku=2650035",
+   "url": "https://go.shopmy.us/p-88566118",
    "size": null,
    "slug": "nexxus-air-shape-workable-hold-texture-spray",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/348142e9-438d-47ce-9a11-a454b6cd6986/292ee1ef-9db3-4211-801a-2b5acbf9b558.jpg",
+   "image": "/levelled/nexxus-air-shape-workable-hold-texture-spray.webp",
    "imageCutout": false,
    "topAward": "Cosmopolitan Beauty Awards — Best Texturizing Spray (2026)",
    "category": "Hair",
@@ -1186,8 +962,8 @@
    "url": "https://go.shopmy.us/p-81546006",
    "size": null,
    "slug": "method-dream-foam-foaming-body-wash",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/22a405da-4760-4e1f-8e91-38fad43c180a/d79b34c8-c190-4b40-a39e-93b7588e5883.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/method-dream-foam-foaming-body-wash.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Foaming Body Wash (2026)",
    "category": "Body",
    "subcategory": "Body Wash",
@@ -1206,8 +982,8 @@
    "url": "https://go.shopmy.us/p-82389861",
    "size": null,
    "slug": "well-people-poutlove-peptide-lip-balm",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/b43831a7-2c7f-4ba9-8550-cc2ea5119993/c8a859e5-dd29-4a6f-a9c6-0e395ab3ca1a.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/well-people-poutlove-peptide-lip-balm.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Lip Color (2026)",
    "category": "Makeup",
    "subcategory": "Lipstick",
@@ -1217,11 +993,174 @@
    ]
   },
   {
+   "brand": "Dr. Althea",
+   "product": "Pure Grinding Cleansing Balm",
+   "retailer": "Ulta",
+   "was": 23,
+   "now": 16.03,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-88565009",
+   "size": null,
+   "slug": "dr--althea-pure-grinding-cleansing-balm",
+   "image": "/cutouts/dr--althea-pure-grinding-cleansing-balm.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Cleansing Balm (2025)",
+   "category": "Skincare",
+   "subcategory": "Cleanser",
+   "awardCount": 2,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Cleansing Balm (2025)",
+    "Glowpick Awards (2025)"
+   ]
+  },
+  {
+   "brand": "Zoya",
+   "product": "Remove+ Nail Polish Remover",
+   "retailer": "Ulta",
+   "was": 12,
+   "now": 8.4,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-88565214",
+   "size": null,
+   "slug": "zoya-remove--nail-polish-remover",
+   "image": "/cutouts/zoya-remove--nail-polish-remover.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Liquid Nail Polish Remover (2025)",
+   "category": "Nails",
+   "subcategory": "Nail Polish",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Liquid Nail Polish Remover (2025)"
+   ]
+  },
+  {
+   "brand": "Rizos Curls",
+   "product": "Defining Mousse",
+   "retailer": "Ulta",
+   "was": 23,
+   "now": 16.1,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-88563506",
+   "size": "6.8 oz",
+   "slug": "rizos-curls-defining-mousse",
+   "image": "/cutouts/rizos-curls-defining-mousse.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Curl Mousse (2026)",
+   "category": "Hair",
+   "subcategory": "Curl Mousse",
+   "awardCount": 1,
+   "awardsWon": [
+    "InStyle Best Beauty Buys — Best Curl Mousse (2026)"
+   ]
+  },
+  {
+   "brand": "Florence By Mills",
+   "product": "Love Core Black Cherry Hair & Body Mist",
+   "retailer": "Ulta",
+   "was": 18,
+   "now": 12.6,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-78453133",
+   "size": null,
+   "slug": "florence-by-mills-love-core-black-cherry-hair---body-mist",
+   "image": "/cutouts/florence-by-mills-love-core-black-cherry-hair---body-mist.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Body Steals (2025)",
+   "category": "Hair",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Body Steals (2025)"
+   ]
+  },
+  {
+   "brand": "Sally Hansen",
+   "product": "Miracle Gel Super Shiny Shield Topcoat",
+   "retailer": "Ulta",
+   "was": 12.99,
+   "now": 9.09,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-88565975",
+   "size": null,
+   "slug": "sally-hansen-miracle-gel-super-shiny-shield-topcoat",
+   "image": "/cutouts/sally-hansen-miracle-gel-super-shiny-shield-topcoat.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Gel Top Coat (2026)",
+   "category": "Nails",
+   "subcategory": "Nail Polish",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Gel Top Coat (2026)"
+   ]
+  },
+  {
+   "brand": "Zoya",
+   "product": "Ultra Glossy Seal Top Coat",
+   "retailer": "Ulta",
+   "was": 17,
+   "now": 11.9,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-79503370",
+   "size": null,
+   "slug": "zoya-ultra-glossy-seal-top-coat",
+   "image": "/cutouts/zoya-ultra-glossy-seal-top-coat.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Top Coat (2025)",
+   "category": "Nails",
+   "subcategory": "",
+   "awardCount": 2,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Top Coat (2025)",
+    "Allure Best of Beauty — Best Top Coat (2026)"
+   ]
+  },
+  {
+   "brand": "Garnier Fructis",
+   "product": "Curl Knot Melter",
+   "retailer": "Amazon",
+   "was": 9.99,
+   "now": 6.97,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
+   "size": null,
+   "slug": "garnier-fructis-curl-knot-melter",
+   "image": "/cutouts/garnier-fructis-curl-knot-melter.webp",
+   "imageCutout": true,
+   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)",
+   "category": "Hair",
+   "subcategory": "Leave-In",
+   "awardCount": 1,
+   "awardsWon": [
+    "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)"
+   ]
+  },
+  {
+   "brand": "quip",
+   "product": "Sonic Toothbrush",
+   "retailer": "Amazon",
+   "was": 40,
+   "now": 27.99,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0DW5Z1S47",
+   "size": null,
+   "slug": "quip-sonic-toothbrush",
+   "image": "/cutouts/quip-sonic-toothbrush.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Readers Choice — Favorite Toothbrush (2025)",
+   "category": "Wellness",
+   "subcategory": "",
+   "awardCount": 2,
+   "awardsWon": [
+    "NewBeauty Readers Choice — Favorite Toothbrush (2025)",
+    "Glamour Beauty Awards — Beauty Innovators — Best Electric Toothbrush (2026)"
+   ]
+  },
+  {
    "brand": "OWAY",
    "product": "Curly Hair Co-Wash",
    "retailer": "Amazon",
    "was": 60,
-   "now": 42.9,
+   "now": 42.75,
    "percentOff": 29,
    "url": "https://www.amazon.com/dp/B0B19BRTGN",
    "size": "240ml",
@@ -1244,7 +1183,7 @@
    "was": 19,
    "now": 13.93,
    "percentOff": 27,
-   "url": "https://www.ulta.com/p/345-relief-cream-mist-pimprod2055842",
+   "url": "https://go.shopmy.us/p-88566372",
    "size": null,
    "slug": "dr--althea-345-relief-cream-mist",
    "image": "/cutouts/dr--althea-345-relief-cream-mist.webp",
@@ -1285,10 +1224,10 @@
    "was": 81,
    "now": 59.99,
    "percentOff": 26,
-   "url": "https://www.ulta.com/p/gel-mani-system-pimprod2057049",
+   "url": "https://go.shopmy.us/p-88566555",
    "size": null,
    "slug": "olive---june-the-gel-mani-system",
-   "image": "https://media.allure.com/photos/688a622e9b37558081ff54da/3:4/w_800,c_limit/The%20Gel%20System%20(Olive%20and%20June).jpg",
+   "image": "/levelled/olive---june-the-gel-mani-system.webp",
    "imageCutout": false,
    "topAward": "Allure Best of Beauty — Best Breakthroughs (2025)",
    "category": "Nails",
@@ -1296,6 +1235,26 @@
    "awardCount": 1,
    "awardsWon": [
     "Allure Best of Beauty — Best Breakthroughs (2025)"
+   ]
+  },
+  {
+   "brand": "Ardell",
+   "product": "Seamless Underlash Extensions",
+   "retailer": "Ulta",
+   "was": 16,
+   "now": 11.89,
+   "percentOff": 26,
+   "url": "https://go.shopmy.us/p-88568239",
+   "size": null,
+   "slug": "ardell-seamless-underlash-extensions",
+   "image": "/cutouts/ardell-seamless-underlash-extensions.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Individual Lashes (2025)",
+   "category": "Makeup",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Individual Lashes (2025)"
    ]
   },
   {
@@ -1359,74 +1318,14 @@
    ]
   },
   {
-   "brand": "CeraVe",
-   "product": "Gentle Hydrating Shampoo",
-   "retailer": "Ulta",
-   "was": 10.99,
-   "now": 8.24,
-   "percentOff": 25,
-   "url": "https://www.ulta.com/p/gentle-hydrating-shampoo-pimprod2053200",
-   "size": null,
-   "slug": "cerave-gentle-hydrating-shampoo",
-   "image": "/cutouts/cerave-gentle-hydrating-shampoo.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Hair (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Hair (2025)"
-   ]
-  },
-  {
-   "brand": "CeraVe",
-   "product": "Gentle Hydrating Conditioner",
-   "retailer": "Ulta",
-   "was": 10.99,
-   "now": 8.24,
-   "percentOff": 25,
-   "url": "https://www.ulta.com/p/gentle-hydrating-conditioner-pimprod2053201",
-   "size": null,
-   "slug": "cerave-gentle-hydrating-conditioner",
-   "image": "/cutouts/cerave-gentle-hydrating-conditioner.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Hair (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Hair (2025)"
-   ]
-  },
-  {
-   "brand": "Cocokind",
-   "product": "Electrolyte Water Cream",
-   "retailer": "Ulta",
-   "was": 20,
-   "now": 14.99,
-   "percentOff": 25,
-   "url": "https://www.ulta.com/p/electrolyte-water-cream-pimprod2049076",
-   "size": null,
-   "slug": "cocokind-electrolyte-water-cream",
-   "image": "/cutouts/cocokind-electrolyte-water-cream.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Skin-Care Steals (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Skin-Care Steals (2025)"
-   ]
-  },
-  {
    "brand": "essie",
    "product": "Gel Couture Top Coat",
-   "retailer": "Amazon",
+   "retailer": "Ulta",
    "was": 13,
    "now": 9.75,
    "percentOff": 25,
-   "url": "https://www.amazon.com/Essie-Couture-Long-Lasting-Polish-8-Free/dp/B01E7UKT54",
-   "size": "0.46 fl oz",
+   "url": "https://go.shopmy.us/p-88567532",
+   "size": null,
    "slug": "essie-gel-couture-top-coat",
    "image": "/cutouts/essie-gel-couture-top-coat.webp",
    "imageCutout": true,
@@ -1470,7 +1369,7 @@
    "url": "https://go.shopmy.us/p-78171297",
    "size": null,
    "slug": "bushbalm-the-frankie-touch-up-trimmer",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/bb24f928-fcd0-4e2d-84f3-a15b3b7c1246/4e4712b1-ea2d-43c7-a1ba-2ccf1610d1be.jpg",
+   "image": "/levelled/bushbalm-the-frankie-touch-up-trimmer.webp",
    "imageCutout": false,
    "topAward": "Cosmopolitan Beauty Awards — Best Trimmer (2026)",
    "category": "Body",
@@ -1490,8 +1389,8 @@
    "url": "https://go.shopmy.us/p-78171609",
    "size": null,
    "slug": "byoma-foaming-rice-deep-cleanser",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/4a8526e6-1bed-46c5-9466-079206f5787c/ca9656a6-3de3-41f4-8b46-45789b53e0f8.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/byoma-foaming-rice-deep-cleanser.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Cleanser for Oily Skin (2026)",
    "category": "Skincare",
    "subcategory": "Cleanser",
@@ -1561,46 +1460,6 @@
    ]
   },
   {
-   "brand": "Essie",
-   "product": "Nail Art Studio Jelly Gloss Nail Polish",
-   "retailer": "Ulta",
-   "was": 13,
-   "now": 9.75,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-78425113",
-   "size": null,
-   "slug": "essie-nail-art-studio-jelly-gloss-nail-polish",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/d6522b26-fa0a-43e2-b86d-47e2170002b5/66dd4403-47fc-4327-9a6f-fbfcd174e31b.jpg",
-   "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Jelly Nail Polish (2026)",
-   "category": "Nails",
-   "subcategory": "Nail Polish",
-   "awardCount": 1,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Jelly Nail Polish (2026)"
-   ]
-  },
-  {
-   "brand": "Garnier",
-   "product": "Erase It All Makeup Cleansing Balm with Hyaluronic Acid",
-   "retailer": "Ulta",
-   "was": 14,
-   "now": 10.49,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-78456865",
-   "size": null,
-   "slug": "garnier-erase-it-all-makeup-cleansing-balm-with-hyaluronic-acid",
-   "image": "/cutouts/garnier-erase-it-all-makeup-cleansing-balm-with-hyaluronic-acid.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Skin-Care Steals (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Skin-Care Steals (2025)"
-   ]
-  },
-  {
    "brand": "Jenny Patinkin",
    "product": "Skin Smoothing Trio Dermaplaning Set",
    "retailer": "Ulta",
@@ -1610,34 +1469,14 @@
    "url": "https://go.shopmy.us/p-78558818",
    "size": null,
    "slug": "jenny-patinkin-skin-smoothing-trio-dermaplaning-set",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/75fa969c-8b51-4c16-b62a-ab8d24b1d095/16eae46b-1ec6-4c72-bd10-df9226c38435.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/jenny-patinkin-skin-smoothing-trio-dermaplaning-set.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Dermaplaning Tool (2026)",
    "category": "Tools & Devices",
    "subcategory": "Skin Tool",
    "awardCount": 1,
    "awardsWon": [
     "Cosmopolitan Beauty Awards — Best Dermaplaning Tool (2026)"
-   ]
-  },
-  {
-   "brand": "KISS",
-   "product": "Falscara Studio Lash Extension Kit",
-   "retailer": "Ulta",
-   "was": 30.99,
-   "now": 23.24,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-78566291",
-   "size": null,
-   "slug": "kiss-falscara-studio-lash-extension-kit",
-   "image": "/cutouts/kiss-falscara-studio-lash-extension-kit.webp",
-   "imageCutout": true,
-   "topAward": "Elle Beauty Awards — 2025 Future of Beauty Award — Color Cosmetics (2025)",
-   "category": "Makeup",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Elle Beauty Awards — 2025 Future of Beauty Award — Color Cosmetics (2025)"
    ]
   },
   {
@@ -1688,7 +1527,7 @@
    "was": 26.4,
    "now": 19.8,
    "percentOff": 25,
-   "url": "https://www.ulta.com/p/pdrn-lifting-pad-pimprod2056474?sku=2651288",
+   "url": "https://go.shopmy.us/p-88567652",
    "size": null,
    "slug": "mediheal-pdrn-lifting-pad-2",
    "image": "/cutouts/mediheal-pdrn-lifting-pad-2.webp",
@@ -1733,14 +1572,114 @@
    "url": "https://go.shopmy.us/p-82384382",
    "size": null,
    "slug": "luv-scrub-african-mesh-body-exfoliator",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/ae0da7a4-757a-4aea-9142-b2fade3e4f6e/a220e9ab-ca62-4025-9d77-223f820007dd.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/luv-scrub-african-mesh-body-exfoliator.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Body Exfoliating Tool (2026)",
    "category": "Body",
    "subcategory": "Body Scrub",
    "awardCount": 1,
    "awardsWon": [
     "Cosmopolitan Beauty Awards — Best Body Exfoliating Tool (2026)"
+   ]
+  },
+  {
+   "brand": "CeraVe",
+   "product": "Gentle Hydrating Shampoo",
+   "retailer": "Ulta",
+   "was": 10.99,
+   "now": 8.24,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-88566988",
+   "size": "12.0 oz",
+   "slug": "cerave-gentle-hydrating-shampoo",
+   "image": "/levelled/cerave-gentle-hydrating-shampoo.webp",
+   "imageCutout": false,
+   "topAward": "Allure Best of Beauty — Best Hair (2025)",
+   "category": "Skincare",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Hair (2025)"
+   ]
+  },
+  {
+   "brand": "CeraVe",
+   "product": "Gentle Hydrating Conditioner",
+   "retailer": "Ulta",
+   "was": 10.99,
+   "now": 8.24,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-88567102",
+   "size": "9.0 oz",
+   "slug": "cerave-gentle-hydrating-conditioner",
+   "image": "/levelled/cerave-gentle-hydrating-conditioner.webp",
+   "imageCutout": false,
+   "topAward": "Allure Best of Beauty — Best Hair (2025)",
+   "category": "Skincare",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Hair (2025)"
+   ]
+  },
+  {
+   "brand": "Essie",
+   "product": "Nail Art Studio Jelly Gloss Nail Polish",
+   "retailer": "Ulta",
+   "was": 13,
+   "now": 9.75,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-78425113",
+   "size": null,
+   "slug": "essie-nail-art-studio-jelly-gloss-nail-polish",
+   "image": "/cutouts/essie-nail-art-studio-jelly-gloss-nail-polish.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Jelly Nail Polish (2026)",
+   "category": "Nails",
+   "subcategory": "Nail Polish",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Jelly Nail Polish (2026)"
+   ]
+  },
+  {
+   "brand": "Garnier",
+   "product": "Erase It All Makeup Cleansing Balm with Hyaluronic Acid",
+   "retailer": "Ulta",
+   "was": 14,
+   "now": 10.49,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-78456865",
+   "size": null,
+   "slug": "garnier-erase-it-all-makeup-cleansing-balm-with-hyaluronic-acid",
+   "image": "/cutouts/garnier-erase-it-all-makeup-cleansing-balm-with-hyaluronic-acid.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Skin-Care Steals (2025)",
+   "category": "Skincare",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Skin-Care Steals (2025)"
+   ]
+  },
+  {
+   "brand": "KISS",
+   "product": "Falscara Studio Lash Extension Kit",
+   "retailer": "Ulta",
+   "was": 30.99,
+   "now": 23.24,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-78566291",
+   "size": null,
+   "slug": "kiss-falscara-studio-lash-extension-kit",
+   "image": "/cutouts/kiss-falscara-studio-lash-extension-kit.webp",
+   "imageCutout": true,
+   "topAward": "Elle Beauty Awards — 2025 Future of Beauty Award — Color Cosmetics (2025)",
+   "category": "Makeup",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "Elle Beauty Awards — 2025 Future of Beauty Award — Color Cosmetics (2025)"
    ]
   },
   {
@@ -1781,48 +1720,6 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Readers Choice — Favorite Moisturizer for Very Dry Skin (2025)"
-   ]
-  },
-  {
-   "brand": "Estée Lauder",
-   "product": "Advanced Night Repair Eye Lift + Sculpt",
-   "retailer": "Amazon",
-   "was": 85,
-   "now": 66,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-76852510",
-   "size": null,
-   "slug": "est-e-lauder-advanced-night-repair-eye-lift---sculpt",
-   "image": "/cutouts/est-e-lauder-advanced-night-repair-eye-lift---sculpt.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Firming Eye Cream (2026)",
-   "category": "Skincare",
-   "subcategory": "Eye Cream",
-   "awardCount": 3,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Firming Eye Cream (2026)",
-    "Vogue Beauty Awards — Vogue's Breakout Beauty Stars — Winner (2025)",
-    "Elle Beauty Awards — 2025 Future of Beauty Award — Skin (2025)"
-   ]
-  },
-  {
-   "brand": "SheaMoisture",
-   "product": "Silk Press In A Bottle Prep Cream",
-   "retailer": "Amazon",
-   "was": 14,
-   "now": 10.97,
-   "percentOff": 22,
-   "url": "https://www.amazon.com/SheaMoisture-Plant-Derived-Straightening-Technology-Protection/dp/B0FWKY2F3M",
-   "size": "3.3oz",
-   "slug": "sheamoisture-silk-press-in-a-bottle-prep-cream",
-   "image": "/cutouts/sheamoisture-silk-press-in-a-bottle-prep-cream.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Heat Protectant Cream (2026)",
-   "category": "Hair",
-   "subcategory": "Heat Protectant Cream",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Heat Protectant Cream (2026)"
    ]
   },
   {
@@ -1887,23 +1784,25 @@
    ]
   },
   {
-   "brand": "colorFX by imPRESS",
-   "product": "Press-On Nails",
-   "retailer": "Ulta",
-   "was": 11,
-   "now": 8.74,
-   "percentOff": 21,
-   "url": "https://go.shopmy.us/p-78194783",
+   "brand": "Estée Lauder",
+   "product": "Advanced Night Repair Eye Lift + Sculpt",
+   "retailer": "Amazon",
+   "was": 85,
+   "now": 66,
+   "percentOff": 22,
+   "url": "https://go.shopmy.us/p-76852510",
    "size": null,
-   "slug": "colorfx-by-impress-press-on-nails",
-   "image": "/cutouts/colorfx-by-impress-press-on-nails.webp",
+   "slug": "est-e-lauder-advanced-night-repair-eye-lift---sculpt",
+   "image": "/cutouts/est-e-lauder-advanced-night-repair-eye-lift---sculpt.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Press-On Nails (2025)",
-   "category": "Nails",
-   "subcategory": "Press-On Nails",
-   "awardCount": 1,
+   "topAward": "NewBeauty Annual Awards — Best Firming Eye Cream (2026)",
+   "category": "Skincare",
+   "subcategory": "Eye Cream",
+   "awardCount": 3,
    "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Press-On Nails (2025)"
+    "NewBeauty Annual Awards — Best Firming Eye Cream (2026)",
+    "Vogue Beauty Awards — Vogue's Breakout Beauty Stars — Winner (2025)",
+    "Elle Beauty Awards — 2025 Future of Beauty Award — Skin (2025)"
    ]
   },
   {
@@ -1924,6 +1823,46 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Tinted Brow Gel (2026)"
+   ]
+  },
+  {
+   "brand": "colorFX by imPRESS",
+   "product": "Press-On Nails",
+   "retailer": "Ulta",
+   "was": 11,
+   "now": 8.74,
+   "percentOff": 21,
+   "url": "https://go.shopmy.us/p-78194783",
+   "size": null,
+   "slug": "colorfx-by-impress-press-on-nails",
+   "image": "/cutouts/colorfx-by-impress-press-on-nails.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Readers Choice — Favorite Press-On Nails (2025)",
+   "category": "Nails",
+   "subcategory": "Press-On Nails",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Readers Choice — Favorite Press-On Nails (2025)"
+   ]
+  },
+  {
+   "brand": "SheaMoisture",
+   "product": "Silk Press In A Bottle Prep Cream",
+   "retailer": "Ulta",
+   "was": 14,
+   "now": 11.19,
+   "percentOff": 20,
+   "url": "https://go.shopmy.us/p-88567780",
+   "size": null,
+   "slug": "sheamoisture-silk-press-in-a-bottle-prep-cream",
+   "image": "/cutouts/sheamoisture-silk-press-in-a-bottle-prep-cream.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Heat Protectant Cream (2026)",
+   "category": "Hair",
+   "subcategory": "Heat Protectant Cream",
+   "awardCount": 1,
+   "awardsWon": [
+    "InStyle Best Beauty Buys — Best Heat Protectant Cream (2026)"
    ]
   },
   {
@@ -1968,26 +1907,6 @@
    ]
   },
   {
-   "brand": "Good Molecules",
-   "product": "Pineapple Exfoliating Powder",
-   "retailer": "Ulta",
-   "was": 16,
-   "now": 12.8,
-   "percentOff": 20,
-   "url": "https://go.shopmy.us/p-78474669",
-   "size": null,
-   "slug": "good-molecules-pineapple-exfoliating-powder",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/b96381c3-c487-40c4-a451-87bade644168/510bfaab-876e-46c0-b66a-0abd224ab669.jpg",
-   "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Exfoliating Powder (2026)",
-   "category": "Skincare",
-   "subcategory": "Exfoliant",
-   "awardCount": 1,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Exfoliating Powder (2026)"
-   ]
-  },
-  {
    "brand": "Hot Tools",
    "product": "Pro Artist 24K Gold Extended Barrel Curling Iron",
    "retailer": "Ulta",
@@ -2005,6 +1924,26 @@
    "awardCount": 1,
    "awardsWon": [
     "Allure Best of Beauty — Best Static Curling Iron (2025)"
+   ]
+  },
+  {
+   "brand": "Good Molecules",
+   "product": "Pineapple Exfoliating Powder",
+   "retailer": "Ulta",
+   "was": 16,
+   "now": 12.8,
+   "percentOff": 20,
+   "url": "https://go.shopmy.us/p-78474669",
+   "size": null,
+   "slug": "good-molecules-pineapple-exfoliating-powder",
+   "image": "/cutouts/good-molecules-pineapple-exfoliating-powder.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Exfoliating Powder (2026)",
+   "category": "Skincare",
+   "subcategory": "Exfoliant",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Exfoliating Powder (2026)"
    ]
   },
   {
@@ -2048,26 +1987,6 @@
    ]
   },
   {
-   "brand": "KISS",
-   "product": "Looks So Natural Lashes",
-   "retailer": "Ulta",
-   "was": 12,
-   "now": 9.74,
-   "percentOff": 19,
-   "url": "https://go.shopmy.us/p-78566332",
-   "size": null,
-   "slug": "kiss-looks-so-natural-lashes",
-   "image": "/cutouts/kiss-looks-so-natural-lashes.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Faux Lashes (2026)",
-   "category": "Makeup",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Faux Lashes (2026)"
-   ]
-  },
-  {
    "brand": "Wet n Wild",
    "product": "Lip Oil",
    "retailer": "Ulta",
@@ -2088,23 +2007,23 @@
    ]
   },
   {
-   "brand": "Mediheal",
-   "product": "Retinol Collagen Under Eye Patches",
-   "retailer": "Amazon",
-   "was": 22,
-   "now": 18,
-   "percentOff": 18,
-   "url": "https://www.amazon.com/Mediheal-Retinol-Collagen-Under-Patches/dp/B0D4Q8SR9Z",
-   "size": "60 Count",
-   "slug": "mediheal-retinol-collagen-under-eye-patches",
-   "image": "/cutouts/mediheal-retinol-collagen-under-eye-patches.webp",
+   "brand": "KISS",
+   "product": "Looks So Natural Lashes",
+   "retailer": "Ulta",
+   "was": 12,
+   "now": 9.74,
+   "percentOff": 19,
+   "url": "https://go.shopmy.us/p-78566332",
+   "size": null,
+   "slug": "kiss-looks-so-natural-lashes",
+   "image": "/cutouts/kiss-looks-so-natural-lashes.webp",
    "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Eye Mask (2026)",
-   "category": "Skincare",
-   "subcategory": "Eye Mask",
+   "topAward": "NewBeauty Annual Awards — Best Faux Lashes (2026)",
+   "category": "Makeup",
+   "subcategory": "",
    "awardCount": 1,
    "awardsWon": [
-    "InStyle Best Beauty Buys — Best Eye Mask (2026)"
+    "NewBeauty Annual Awards — Best Faux Lashes (2026)"
    ]
   },
   {
@@ -2119,12 +2038,12 @@
    "slug": "billie-shave-glaze",
    "image": "/cutouts/billie-shave-glaze.webp",
    "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Body (2026)",
+   "topAward": "Allure Best of Beauty — Best Shaving Oil (2026)",
    "category": "Body",
    "subcategory": "",
    "awardCount": 2,
    "awardsWon": [
-    "Allure Best of Beauty — Body (2026)",
+    "Allure Best of Beauty — Best Shaving Oil (2026)",
     "NewBeauty Annual Awards — Best Shave Oil (2026)"
    ]
   },
@@ -2149,23 +2068,23 @@
    ]
   },
   {
-   "brand": "Ardell",
-   "product": "Seamless Underlash Extensions",
+   "brand": "Mediheal",
+   "product": "Retinol Collagen Under Eye Patches",
    "retailer": "Ulta",
-   "was": 16,
-   "now": 13.29,
-   "percentOff": 17,
-   "url": "https://www.ulta.com/p/seamless-naked-underlash-extensions-pimprod2057121",
+   "was": 22,
+   "now": 18,
+   "percentOff": 18,
+   "url": "https://go.shopmy.us/p-88568101",
    "size": null,
-   "slug": "ardell-seamless-underlash-extensions",
-   "image": "/cutouts/ardell-seamless-underlash-extensions.webp",
+   "slug": "mediheal-retinol-collagen-under-eye-patches",
+   "image": "/cutouts/mediheal-retinol-collagen-under-eye-patches.webp",
    "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Individual Lashes (2025)",
-   "category": "Makeup",
-   "subcategory": "",
+   "topAward": "InStyle Best Beauty Buys — Best Eye Mask (2026)",
+   "category": "Skincare",
+   "subcategory": "Eye Mask",
    "awardCount": 1,
    "awardsWon": [
-    "Allure Best of Beauty — Best Individual Lashes (2025)"
+    "InStyle Best Beauty Buys — Best Eye Mask (2026)"
    ]
   },
   {
@@ -2195,11 +2114,11 @@
    "was": 10,
    "now": 8.39,
    "percentOff": 16,
-   "url": "https://www.ulta.com/p/super-lustrous-glass-shine-balm-pimprod2049340",
+   "url": "https://go.shopmy.us/p-88568365",
    "size": null,
    "slug": "revlon-super-lustrous-glass-shine-balm",
-   "image": "/cutouts/revlon-super-lustrous-glass-shine-balm.webp",
-   "imageCutout": true,
+   "image": "https://media.ulta.com/i/ulta/2634303?w=500&h=500",
+   "imageCutout": false,
    "topAward": "Allure Best of Beauty — Best Sheer Lipstick (2025)",
    "category": "Makeup",
    "subcategory": "Lipstick",
@@ -2218,8 +2137,8 @@
    "url": "https://go.shopmy.us/p-78204402",
    "size": null,
    "slug": "denman-d38-detangling-and-styling-paddle",
-   "image": "https://vader-prod.s3.amazonaws.com/product-images/78bf6558-548a-4385-8972-fd579ac45a8d/26eb97ab-bd9c-460c-abb5-0c16f74acd70.jpg",
-   "imageCutout": false,
+   "image": "/cutouts/denman-d38-detangling-and-styling-paddle.webp",
+   "imageCutout": true,
    "topAward": "Cosmopolitan Beauty Awards — Best Paddle Brush (2026)",
    "category": "Tools & Devices",
    "subcategory": "Hair Tool",
@@ -2249,75 +2168,6 @@
    ]
   },
   {
-   "brand": "Charlotte Tilbury",
-   "product": "Matte Revolution",
-   "retailer": "Amazon",
-   "was": 35,
-   "now": 29.6,
-   "percentOff": 15,
-   "url": "https://go.shopmy.us/p-76850287",
-   "size": null,
-   "slug": "charlotte-tilbury-matte-revolution",
-   "image": "/cutouts/charlotte-tilbury-matte-revolution.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Matte Lipstick (2025)",
-   "category": "Makeup",
-   "subcategory": "Lipstick",
-   "awardCount": 7,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Matte Lipstick (2025)",
-    "InStyle Best Beauty Buys — Best Lipstick (2025)",
-    "InStyle Best Beauty Buys — Best Lipstick (2026)",
-    "Glamour Beauty Awards — Readers' Choice — Best Lipstick (2026)",
-    "Glamour Beauty Awards — Best Lipstick (2025)",
-    "Cosmopolitan Beauty Awards — Best Matte Lipstick (2025)",
-    "Marie Claire Reader's Choice — Lipstick (2026)"
-   ]
-  },
-  {
-   "brand": "Supergoop",
-   "product": "Unseen Sunscreen SPF 50",
-   "retailer": "Amazon",
-   "was": 38,
-   "now": 32.3,
-   "percentOff": 15,
-   "url": "https://go.shopmy.us/p-76854799",
-   "size": "1.7oz",
-   "slug": "supergoop-unseen-sunscreen-spf-50",
-   "image": "/cutouts/supergoop-unseen-sunscreen-spf-50.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Chemical Gel Sunscreen (2025)",
-   "category": "Skincare",
-   "subcategory": "SPF",
-   "awardCount": 4,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Chemical Gel Sunscreen (2025)",
-    "Allure Readers Choice — Skin Winner (2026)",
-    "NewBeauty Annual Awards — Best Clear Sunscreen Gel (2026)",
-    "Glamour Beauty Awards — Readers' Choice — Best Face Sunscreen (2026)"
-   ]
-  },
-  {
-   "brand": "T3",
-   "product": "Singlepass Curl X",
-   "retailer": "Amazon",
-   "was": 160,
-   "now": 135.99,
-   "percentOff": 15,
-   "url": "https://www.amazon.com/T3-SinglePass-Extra-Long-Curling-Settings/dp/B0CRGTW5D2",
-   "size": null,
-   "slug": "t3-singlepass-curl-x",
-   "image": "/cutouts/t3-singlepass-curl-x.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Curling Iron (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Hair Tool",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Curling Iron (2026)"
-   ]
-  },
-  {
    "brand": "Obagi Medical",
    "product": "Professional-C Serum 20%",
    "retailer": "Dermstore",
@@ -2335,6 +2185,50 @@
    "awardCount": 1,
    "awardsWon": [
     "Allure Best of Beauty — Best Antioxidant Serum (2025)"
+   ]
+  },
+  {
+   "brand": "COSRX",
+   "product": "Advanced Snail 96 Mucin Power Essence",
+   "retailer": "Dermstore",
+   "was": 21,
+   "now": 17.76,
+   "percentOff": 15,
+   "url": "https://go.shopmy.us/p-88563191",
+   "size": "3.38 fl. oz",
+   "slug": "cosrx-advanced-snail-96-mucin-power-essence",
+   "image": "/cutouts/cosrx-advanced-snail-96-mucin-power-essence.webp",
+   "imageCutout": true,
+   "topAward": "Marie Claire Reader's Choice — Essence (2026)",
+   "category": "Skincare",
+   "subcategory": "Essence",
+   "awardCount": 1,
+   "awardsWon": [
+    "Marie Claire Reader's Choice — Essence (2026)"
+   ]
+  },
+  {
+   "brand": "Supergoop",
+   "product": "Unseen Sunscreen SPF 50",
+   "retailer": "Amazon",
+   "was": 38,
+   "now": 32.3,
+   "percentOff": 15,
+   "url": "https://go.shopmy.us/p-76854799",
+   "size": "1.7oz",
+   "slug": "supergoop-unseen-sunscreen-spf-50",
+   "image": "/cutouts/supergoop-unseen-sunscreen-spf-50.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Chemical Gel Sunscreen (2025)",
+   "category": "Skincare",
+   "subcategory": "SPF",
+   "awardCount": 5,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Chemical Gel Sunscreen (2025)",
+    "Allure Readers Choice — Skin Winner (2026)",
+    "NewBeauty Annual Awards — Best Clear Sunscreen Gel (2026)",
+    "Glamour Beauty Awards — Readers' Choice — Best Face Sunscreen (2026)",
+    "Cosmopolitan Readers Choice — Best Face Sunscreen (2026)"
    ]
   }
  ]
