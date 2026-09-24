@@ -1,0 +1,74 @@
+{
+ "jane-iredale-skintuition-spf-30-radiance-boosting-liquid-foundation": {
+  "url": "https://cdn.shopify.com/s/files/1/0338/3882/5612/files/Skintuition_38_Light_Medium_Soldier_SCF.jpg?v=1773765093",
+  "from": "https://janeiredale.com/products/skintuition-spf-30-radiance-boosting-liquid-foundation",
+  "ourName": "Jane Iredale Skintuition SPF 30 Radiance-Boosting Liquid Foundation",
+  "theirTitle": "Skintuition SPF 30 Radiance-Boosting Liquid Foundation",
+  "score": 1
+ },
+ "lys-bright-start-creamy-buildable-airbrush-concealer": {
+  "url": "https://cdn.shopify.com/s/files/1/0515/9344/5541/files/DEEP_CapsOff_Logo.png?v=1756929673",
+  "from": "https://lysbeauty.com/products/bright-start-creamy-buildable-airbrush-concealer",
+  "ourName": "LYS Bright Start Creamy Buildable Airbrush Concealer",
+  "theirTitle": "Bright Start Creamy Buildable Airbrush Concealer",
+  "score": 1
+ },
+ "m-ph-underpainting-dual-ended-sculpting-brush": {
+  "url": "https://cdn.shopify.com/s/files/1/0858/0884/0981/files/Sculpt_Allure.jpg?v=1789686138",
+  "from": "https://mphbeauty.com/products/underpainting-dual-ended-sculpting-brush",
+  "ourName": "M.Ph Underpainting Dual-Ended Sculpting Brush",
+  "theirTitle": "Underpainting Dual-Ended Sculpting Brush",
+  "score": 1
+ },
+ "fhi-heat-aeromax-style-dryer": {
+  "url": "https://cdn.shopify.com/s/files/1/0163/1548/2212/files/Curated_Collecton_Aeromax_Main_Image_1.jpg?v=1768500263",
+  "from": "https://fhiheat.com/products/aeromax%E2%84%A2-style-dryer",
+  "ourName": "FHI Heat AeroMax Style Dryer",
+  "theirTitle": "AeroMax™ Style Dryer",
+  "score": 1
+ },
+ "the-hair-edit-gilded-ellipse-flat-lay-claw-clip": {
+  "url": "https://cdn.shopify.com/s/files/1/0239/1320/1728/files/1-s2608-the_clips-large-web-main_2000x2000_617d1b49-46d0-48cb-9442-e9f710ba6e0c.png?v=1784725945",
+  "from": "https://thehairedit.com/products/gilded-ellipse-flat-lay-claw-clip",
+  "ourName": "The Hair Edit Gilded Ellipse Flat Lay Claw Clip",
+  "theirTitle": "Gilded Ellipse Flat Lay Claw Clip",
+  "score": 1
+ },
+ "ciele-cosmetics-conceal---protect-spf-50": {
+  "url": "https://cdn.shopify.com/s/files/1/0419/9461/6983/files/coneal_bob-17.jpg?v=1789628871",
+  "from": "https://cielecosmetics.com/products/conceal-protect-spf-50",
+  "ourName": "Ciele Cosmetics Conceal & Protect SPF 50",
+  "theirTitle": "conceal & PROTECT SPF 50+",
+  "score": 1
+ },
+ "each---every-day-dream-body-wash": {
+  "url": "https://cdn.shopify.com/s/files/1/0010/8563/6660/files/2026_BodyWash-DayDream-PDP-06.jpg?v=1772127019",
+  "from": "https://eachandevery.com/products/day-dream-citrus-vetiver-body-wash",
+  "ourName": "Each & Every Day Dream Body Wash",
+  "theirTitle": "Day Dream (Citrus & Vetiver) Body Wash",
+  "score": 1,
+  "rejected": true,
+  "rejectedWhy": "store image is a texture swatch, not the product"
+ },
+ "capri-blue-volcano-signature-reed-diffuser": {
+  "url": "https://cdn.shopify.com/s/files/1/0721/8774/0377/files/Allure-Badge-volcano-signature-blue-moonshot-reed-diffuser.webp?v=1789619375",
+  "from": "https://capri-blue.com/products/volcano-signature-reed-diffuser-8-fl-oz",
+  "ourName": "Capri Blue Volcano Signature Reed Diffuser",
+  "theirTitle": "Volcano Reed Diffuser",
+  "score": 1
+ },
+ "milani-cosmetics-make-it-last-original-natural-finish-setting-spray": {
+  "url": "https://cdn.shopify.com/s/files/1/1824/2901/files/1_MakeItLast_JumboSettingSpray_01_PDP_PoductWithSwatch_1.png?v=1717008875",
+  "from": "https://www.milanicosmetics.com/products/make-it-last-setting-spray-jumbo-size",
+  "ourName": "Milani Cosmetics Make it Last Original—Natural Finish Setting Spray",
+  "theirTitle": "Make It Last Original - Natural Finish Setting Spray Jumbo Size",
+  "score": 1
+ },
+ "dr--diamond-s-metacine-instafacial-infusion-biomimetic-microcollagen-matrix": {
+  "url": "https://cdn.shopify.com/s/files/1/0736/5401/0175/files/00_Infusion_5ML_4x5_91a0093f-55c7-489b-9eaf-a90659686ad3.jpg?v=1784802286",
+  "from": "https://drdiamondsmetacine.com/products/instafacial-infusion",
+  "ourName": "Dr. Diamond's Metacine InstaFacial Infusion Biomimetic Microcollagen Matrix",
+  "theirTitle": "INSTAFACIAL® INFUSION",
+  "score": 1
+ }
+}

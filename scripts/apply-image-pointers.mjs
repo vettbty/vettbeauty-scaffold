@@ -41,7 +41,7 @@ for (const p of products) {
     // Stamp the provenance whether or not the swap is needed this run: a
     // regenerate drops these fields, and where the image came from is the
     // thing worth keeping.
-    p.imageSource = 'retailer-page';
+    p.imageSource = swap.kind || 'retailer-page';
     p.imageResolvedFrom = swap.from;
     if (p.image !== swap.url && !String(p.image || '').startsWith('/')) { p.image = swap.url; swapped++; }
   }
