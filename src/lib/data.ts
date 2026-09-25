@@ -69,14 +69,6 @@ export const pressArticles: PressArticle[] = [
     productSlug: 'the-ordinary-hyaluronic-acid-2----b5--with-ceramides-',
   },
   {
-    id: '2',
-    title: 'Ballet Slippers, Bordeaux, and More of the Best Essie Nail Polishes',
-    source: 'Vogue',
-    sourceUrl: 'https://www.vogue.com/article/best-essie-nail-polish-colors',
-    productName: 'Essie Nail Art Studio Jelly Gloss Nail Polish',
-    productSlug: 'essie-nail-art-studio-jelly-gloss-nail-polish',
-  },
-  {
     id: '4',
     title: 'Everyone\'s Favorite Vitamin C Serum Just Got a Major Upgrade',
     source: 'Allure',
