@@ -16,11 +16,31 @@
   "drops": [
     {
       "slug": "luum-lash-service",
-      "why": "A salon service, not a product \u2014 removed from the record entirely (Sascha, 2026-08-23). Deleted from the master DB the same day; this drop covers CSV snapshots that predate the deletion."
+      "why": "A salon service, not a product — removed from the record entirely (Sascha, 2026-08-23). Deleted from the master DB the same day; this drop covers CSV snapshots that predate the deletion."
     },
     {
       "slug": "universkin-by-alma-zinc-sulfate-2-5",
-      "why": "Universkin by Alma sells personalized/compounded formulations, not fixed retail products \u2014 removed from the record (Sascha, 2026-08-23). Deleted from the master DB the same day."
+      "why": "Universkin by Alma sells personalized/compounded formulations, not fixed retail products — removed from the record (Sascha, 2026-08-23). Deleted from the master DB the same day."
+    },
+    {
+      "slug": "sciton-halo-laser",
+      "why": "An in-office laser treatment, a service not a product (Sascha, 2026-09-26). Deleted from the master DB the same day."
+    },
+    {
+      "slug": "the-tox-lymphatic-drainage-massage",
+      "why": "A massage service, not a product (Sascha, 2026-09-26). Deleted from the master DB the same day."
+    },
+    {
+      "slug": "malibu-c-eco-blue-packaging",
+      "why": "A packaging award, not a product award (Sascha, 2026-09-26). Deleted from the master DB the same day."
+    },
+    {
+      "slug": "innersense-organic-beauty-color-purity",
+      "why": "Salon-only hair colour system with no retail SKU (Sascha, 2026-09-26). Deleted from the master DB the same day."
+    },
+    {
+      "slug": "kiss-press-on-nails",
+      "why": "Award names no specific Kiss product, so there is nothing to link or picture (Sascha, 2026-09-26). Deleted from the master DB the same day."
     }
   ]
 }
