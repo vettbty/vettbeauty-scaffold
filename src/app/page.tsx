@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import EmailCapture from "@/components/EmailCapture";
 import Wordmark from '@/components/Wordmark';
 import SaveCount from '@/components/SaveCount';
 import { products2026, awardPrograms, pressArticles, publications } from '@/lib/data';
@@ -222,6 +223,8 @@ export default function Home() {
           ))}
         </div>
       </div>
+
+      <EmailCapture />
 
       <footer className="bg-white border-t border-cream-dark py-6 px-4 text-center">
         <p className="text-xs text-charcoal-light">© 2026 Vettbeauty · <Link href="/about" className="hover:text-charcoal">Only the Vetted</Link></p>
