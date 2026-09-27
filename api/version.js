@@ -14,9 +14,11 @@
  * deployment, so two calls that disagree prove a partial promotion — some
  * edges on the new build, others still on the old.
  *
- * `commit` reads "unknown" for CLI deploys: VERCEL_GIT_COMMIT_SHA is set by
- * the Git integration, and this project deploys with `vercel --prod` from a
- * laptop. It starts reporting the moment the repo is connected.
+ * `commit` and `branch` are populated even though this project deploys with
+ * `vercel --prod` from a laptop rather than through the Git integration: the
+ * CLI reads the local repository and sends the SHA with the upload. Verified
+ * against production on 2026-09-26 — it returned the deploying commit exactly.
+ * They fall back to "unknown" only if a deploy is made from outside a repo.
  *
  * Never cached, at any layer. A version endpoint served from an edge cache
  * reports the PREVIOUS deployment's answer — manufacturing exactly the false
