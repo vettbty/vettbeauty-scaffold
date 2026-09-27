@@ -113,7 +113,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
 
           {/* Info */}
           <div className="flex flex-col">
-            <p className="text-xs sm:text-sm font-semibold uppercase tracking-wider text-gold mb-2">
+            <p className="eyebrow text-xs sm:text-sm text-gold mb-2">
               {product.category}
               {product.subcategory && ` · ${product.subcategory}`}
             </p>
@@ -301,7 +301,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                     )}
                   </div>
                   <div className="p-3">
-                    <p className="text-[10px] font-semibold uppercase tracking-wider text-gold mb-1">{related.brand}</p>
+                    <p className="text-[10px] font-semibold uppercase microcap text-gold mb-1">{related.brand}</p>
                     <p className="text-sm font-semibold text-charcoal line-clamp-2">{related.name}</p>
                   </div>
                 </Link>

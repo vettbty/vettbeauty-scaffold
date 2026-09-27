@@ -87,7 +87,7 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
       )}
 
       {d.topAward && !hero && (
-        <span className="absolute bottom-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded">
+        <span className="absolute bottom-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
           {publication(d.topAward)}
         </span>
       )}
@@ -96,7 +96,7 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
 
   const heading = (
     <div className={hero ? 'px-5 pt-5' : 'p-3 pb-2'}>
-      <p className="text-[9px] font-semibold uppercase tracking-wider text-gold mb-0.5">{d.brand}</p>
+      <p className="text-[9px] font-semibold uppercase microcap text-gold mb-0.5">{d.brand}</p>
       <h3
         className={`font-semibold text-charcoal leading-snug ${
           hero ? 'text-lg mb-2' : 'text-xs line-clamp-2'
@@ -128,7 +128,7 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
       href={d.url}
       target="_blank"
       rel="noopener noreferrer"
-      className={`inline-flex items-center justify-center w-full rounded-lg font-semibold uppercase tracking-wider bg-gold text-white hover:bg-gold-dark transition-colors ${
+      className={`inline-flex items-center justify-center w-full rounded-lg font-semibold uppercase microcap bg-gold text-white hover:bg-gold-dark transition-colors ${
         hero ? 'mt-3 py-3 text-xs' : 'mt-2 py-2 text-[10px]'
       }`}
     >
@@ -148,7 +148,7 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
               <span className="text-charcoal-light line-through text-base">{money(d.was)}</span>
               {saving > 0 && <span className="text-xs font-semibold text-gold">Save ${saving}</span>}
             </div>
-            <p className="text-[10px] uppercase tracking-wider text-charcoal-light">
+            <p className="text-[10px] uppercase microcap text-charcoal-light">
               {d.retailer}
               {d.size && ` · ${d.size}`}
             </p>
@@ -169,7 +169,7 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
         <div className="flex items-baseline gap-1.5">
           <span className="font-bold text-charcoal text-sm">{money(d.now)}</span>
           <span className="text-charcoal-light line-through text-xs">{money(d.was)}</span>
-          <span className="text-[9px] uppercase tracking-wider text-charcoal-light ml-auto">
+          <span className="text-[9px] uppercase microcap text-charcoal-light ml-auto">
             {d.retailer}
           </span>
         </div>
@@ -233,7 +233,7 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
       </header>
 
       <section className="text-center px-4 pt-12 pb-6 max-w-2xl mx-auto">
-        <p className="text-xs font-semibold uppercase tracking-[0.15em] text-gold mb-3">Price Watch</p>
+        <p className="eyebrow text-xs text-gold mb-3">Price Watch</p>
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-charcoal mb-3">The Sale Rack</h1>
         <p className="text-base text-charcoal-light leading-relaxed max-w-md mx-auto">
           {items.length} award winners currently priced below what they cost when they won.
@@ -243,17 +243,17 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
           <div className="mt-5 flex items-center justify-center gap-6 text-center">
             <div>
               <p className="font-serif text-xl font-bold text-charcoal">{items.length}</p>
-              <p className="text-[10px] uppercase tracking-wider text-charcoal-light">Winners</p>
+              <p className="text-[10px] uppercase microcap text-charcoal-light">Winners</p>
             </div>
             <div className="w-px h-8 bg-cream-dark" />
             <div>
               <p className="font-serif text-xl font-bold text-charcoal">{deepest}%</p>
-              <p className="text-[10px] uppercase tracking-wider text-charcoal-light">Deepest cut</p>
+              <p className="text-[10px] uppercase microcap text-charcoal-light">Deepest cut</p>
             </div>
             <div className="w-px h-8 bg-cream-dark" />
             <div>
               <p className="font-serif text-xl font-bold text-charcoal">{money(cheapest)}</p>
-              <p className="text-[10px] uppercase tracking-wider text-charcoal-light">From</p>
+              <p className="text-[10px] uppercase microcap text-charcoal-light">From</p>
             </div>
           </div>
         )}
@@ -313,7 +313,7 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
 
       {top && (
         <div className="max-w-4xl mx-auto px-4 pb-8">
-          <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-charcoal-light mb-2">
+          <p className="eyebrow text-[10px] text-charcoal-light mb-2">
             {HERO_LABEL[sortBy]}
           </p>
           <Card d={top} hero />

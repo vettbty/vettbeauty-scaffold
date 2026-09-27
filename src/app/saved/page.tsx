@@ -153,7 +153,7 @@ export default function SavedPage() {
                 {/* Info */}
                 <div className="flex-1 min-w-0">
                   <Link href={`/product/${product.slug}`}>
-                    <p className="text-[10px] sm:text-xs font-semibold uppercase tracking-wider text-gold mb-1">{product.brand}</p>
+                    <p className="text-[10px] sm:text-xs font-semibold uppercase microcap text-gold mb-1">{product.brand}</p>
                     <h3 className="text-sm sm:text-base font-semibold text-charcoal leading-snug truncate">{product.name}</h3>
                   </Link>
                   <div className="flex items-center gap-3 mt-2">

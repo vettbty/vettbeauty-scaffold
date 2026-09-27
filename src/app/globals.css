@@ -25,7 +25,46 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-serif);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
+}
+
+/* Display headings sit tighter than body headings — Futura at size reads
+   sleeker closed up than opened out. */
+h1 {
+  letter-spacing: -0.012em;
+}
+
+/* ---- Editorial labels (Sascha, 2026-09-24, revised 09-26) ----
+   The eyebrow labels were tracked out to 0.15em-0.35em. At that width the
+   space between two words is no wider than the space between two letters, so
+   the line stops reading as words and starts reading as loose characters.
+   The fix: bring the letters back to 0.07em and give the WORD gap its own
+   widening instead. One class so the value lives in a single place.
+
+   These were briefly set in the masthead serif; Sascha 09-26: the serif read
+   as a foreign font next to the headline. Display type is Futura throughout,
+   labels included. */
+.eyebrow {
+  font-family: var(--font-serif);
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  word-spacing: 0.14em;
+}
+
+/* The 9-10px uppercase badges and brand lines: keep a little tracking (small
+   caps genuinely need it) but widen the word gap so multi-word labels like
+   "ALLURE BEST OF BEAUTY 2026" stay words. */
+.microcap {
+  letter-spacing: 0.04em;
+  word-spacing: 0.1em;
+}
+
+/* The publication strip sits directly beside an .eyebrow label, so it follows
+   the same rule: one display family, no serif guest appearance. */
+.masthead-name {
+  font-family: var(--font-serif);
+  letter-spacing: 0.005em;
 }
 
 .consensus-badge {
@@ -112,7 +151,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 10px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.05em;
+  word-spacing: 0.1em;
   color: var(--gold);
   margin-bottom: 4px;
 }
@@ -178,7 +218,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.05em;
+  word-spacing: 0.1em;
   color: var(--charcoal-light);
   margin-bottom: 12px;
   text-align: center;
