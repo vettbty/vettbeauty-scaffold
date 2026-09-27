@@ -285,7 +285,14 @@ h1 {
 .product-tile img {
   mix-blend-mode: multiply;
   object-fit: contain !important;
-  padding: 10%;
+  /* Was 10%/12%. 86% of the 2,613 cutouts are portrait (median aspect 0.48),
+     so they are height-limited in a square tile and the padding comes straight
+     off the drawn product: the median product was rendering at 37% of tile
+     width. Sascha, 2026-09-26, chose this over portrait tiles, which would
+     have gained more but cost 25% more scrolling on a 3,000-product grid.
+     8% rather than 6% because .cutout carries a 12px/16px drop shadow that
+     needs clearance or it clips against the tile edge. */
+  padding: 6%;
 }
 
 /* Real cutouts (alpha packshots from public/cutouts): no blend needed, and a
@@ -293,5 +300,5 @@ h1 {
 .product-tile img.cutout {
   mix-blend-mode: normal;
   filter: drop-shadow(0 12px 16px rgba(95, 59, 42, 0.16));
-  padding: 12%;
+  padding: 8%;
 }

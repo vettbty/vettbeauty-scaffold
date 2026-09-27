@@ -11,12 +11,20 @@
  * the key cannot move to the client.
  */
 
+import { rateLimit } from './_ratelimit.js';
+
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
     res.setHeader('Allow', 'POST');
     return res.status(405).json({ error: 'Method not allowed' });
+  }
+
+  const limit = rateLimit(req, { limit: 5, windowMs: 60_000 });
+  if (!limit.ok) {
+    res.setHeader('Retry-After', String(limit.retryAfter));
+    return res.status(429).json({ error: 'Too many requests' });
   }
 
   const body = typeof req.body === 'string' ? safeParse(req.body) : req.body;
