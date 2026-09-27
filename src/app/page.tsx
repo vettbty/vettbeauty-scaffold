@@ -4,7 +4,7 @@ import ProductGrid from "@/components/ProductGrid";
 import Wordmark from '@/components/Wordmark';
 import SaveCount from '@/components/SaveCount';
 import { products2026, awardPrograms, pressArticles, publications } from '@/lib/data';
-import type { Product } from '@/lib/data';
+import type { Product, AwardProgram } from '@/lib/data';
 
 export default function Home() {
   const top = [...products2026].sort((a, b) => b.awardCount - a.awardCount).slice(0, 8);
@@ -20,7 +20,14 @@ export default function Home() {
   // Only winners with a packshot are shown — the rest render a grey placeholder,
   // and a row of those reads as broken rather than new. They join as the image
   // routine works through them.
-  const newest = awardPrograms[0];
+  //
+  // Every class flagged justAdded gets that row, newest first — Sascha,
+  // 2026-09-27: "new additions need to be on site and mentioned on home page".
+  // Until then only awardPrograms[0] had a grid, and Cosmopolitan and Marie
+  // Claire Readers' Choice were a line of text in "Just In" further down.
+  const recordName = (prog: AwardProgram) => prog.recordName || prog.name;
+  const wonIn = (prog: AwardProgram) => (w: string) =>
+    w.startsWith(`${recordName(prog)} — `) && w.endsWith(`(${prog.edition})`);
   //
   // The WHOLE class is listed, not a preview of it — Sascha, 2026-09-21: "i want
   // all new products on home page". Winners with a packshot lead, so the section
@@ -38,28 +45,25 @@ export default function Home() {
   // names off Allure's category pages ("Best Herbaceous Fragrance"), so there is
   // no section label left to sort on. Alphabetical by brand instead: stable,
   // and it does not pretend to an editorial order we can no longer read.
-  const classCategory = (p: Product) => {
-    const win = (p.awardsWon || []).find(
-      w => w.startsWith(`${newest.name} — `) && w.endsWith(`(${newest.edition})`)
-    );
-    return win ? win.slice(`${newest.name} — `.length, win.lastIndexOf(' (')) : '';
+  const classCategory = (prog: AwardProgram, p: Product) => {
+    const win = (p.awardsWon || []).find(wonIn(prog));
+    return win ? win.slice(`${recordName(prog)} — `.length, win.lastIndexOf(' (')) : '';
   };
   //
   // Packshot required. Showing the full class put 245 empty grey tiles on the
   // homepage — Sascha, 2026-09-21: "junky and grey patches". A winner joins the
   // grid when it has an image, which the image routine fills in on Tue/Fri.
-  const newestWinners = products2026
-    .filter(p =>
-      p.image &&
-      (p.awardsWon || []).some(
-        w => w.startsWith(`${newest.name} — `) && w.endsWith(`(${newest.edition})`)
-      )
-    )
+  const winnersOf = (prog: AwardProgram) => products2026
+    .filter(p => p.image && (p.awardsWon || []).some(wonIn(prog)))
     .sort((a, b) =>
       (b.image ? 1 : 0) - (a.image ? 1 : 0) ||
       a.brand.localeCompare(b.brand) ||
-      classCategory(a).localeCompare(classCategory(b))
+      classCategory(prog, a).localeCompare(classCategory(prog, b))
     );
+  const newClasses = awardPrograms
+    .filter(prog => prog.justAdded)
+    .map(prog => ({ prog, winners: winnersOf(prog) }))
+    .filter(c => c.winners.length > 0);
   return (
     <>
       <header className="bg-cream border-b border-cream-dark">
@@ -103,25 +107,25 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Newest award class */}
-      {newestWinners.length > 0 && (
-        <>
+      {/* Newly added award classes */}
+      {newClasses.map(({ prog, winners }, i) => (
+        <section key={prog.id}>
           <div className="max-w-6xl mx-auto px-4 pt-10 pb-3 flex items-end justify-between gap-4">
             <div>
               <h2 className="font-serif text-xl sm:text-2xl font-semibold text-charcoal">
-                Just Announced: {newest.name} {newest.edition}
+                {i === 0 ? 'Just Announced' : 'Just Added'}: {prog.name} {prog.edition}
               </h2>
               <p className="text-sm text-charcoal-light mt-1">
-                {newest.winnerCount.toLocaleString()} winners, announced {newest.announcedDate}
+                {prog.winnerCount.toLocaleString()} winners, announced {prog.announcedDate}
               </p>
             </div>
             <Link href="/browse" className="text-sm font-medium text-gold hover:text-gold-dark shrink-0">See all →</Link>
           </div>
           <div className="max-w-6xl mx-auto px-4 pb-12">
-            <ProductGrid products={newestWinners} badge={`${newest.name} ${newest.edition}`} />
+            <ProductGrid products={winners} badge={`${prog.name} ${prog.edition}`} />
           </div>
-        </>
-      )}
+        </section>
+      ))}
 
       {/* Most-awarded preview */}
       <div className="max-w-6xl mx-auto px-4 pt-10 pb-3 flex items-end justify-between gap-4">

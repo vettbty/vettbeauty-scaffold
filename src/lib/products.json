@@ -28363,7 +28363,7 @@
     "brand": "BEYOND",
     "name": "Bodytamin Niacinamide B3 5% Brightening Body Lotion",
     "price": null,
-    "image": "",
+    "image": "/cutouts/beyond-bodytamin-niacinamide-b3-5--brightening-body-lotion.webp",
     "topAward": "Hwahae Beauty Awards (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -28375,7 +28375,9 @@
     "buyLink": "https://us.oliveyoung.com/products/UA22326812",
     "awardsWon": [
       "Hwahae Beauty Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://img.hwahae.co.kr/products/2130359/2130359_20250123153751.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1297",
@@ -29593,7 +29595,7 @@
     "brand": "Salt & Stone",
     "name": "Body Wash",
     "price": null,
-    "image": "",
+    "image": "/cutouts/salt---stone-body-wash.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Foaming Body Wash (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -29605,7 +29607,9 @@
     "buyLink": "https://go.shopmy.us/p-89317259",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Foaming Body Wash (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/df762132-c7fb-4c1b-9e5f-ed1223719a4c/0869237b-6c44-4015-87b6-f54016fe2857.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1352",
@@ -31428,7 +31432,7 @@
     "brand": "SHINGMULNARA",
     "name": "Young Green Tea Fresh Pore Cleansing Oil",
     "price": null,
-    "image": "",
+    "image": "/cutouts/shingmulnara-young-green-tea-fresh-pore-cleansing-oil.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -31440,7 +31444,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/305/305f3370-fa5e-11ef-8517-3fde4af4c15a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1435",
@@ -32010,7 +32016,7 @@
     "brand": "manyo",
     "name": "Bifida Biome Ampoule Lotion",
     "price": null,
-    "image": "",
+    "image": "/cutouts/manyo-bifida-biome-ampoule-lotion.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -32022,7 +32028,9 @@
     "buyLink": "https://www.dodoskin.com/products/ma-nyo-bifida-biome-ampoule-lotion-300ml",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/cac/caceb270-784e-11ee-96ab-dbc63377a30e.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1461",
@@ -32522,7 +32530,7 @@
     "brand": "The Whoo",
     "name": "Bichup Self-Generating Anti-Aging Essence",
     "price": null,
-    "image": "",
+    "image": "/cutouts/the-whoo-bichup-self-generating-anti-aging-essence.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -32534,7 +32542,9 @@
     "buyLink": "https://www.dodoskin.com/products/the-history-of-whoo-self-generating-anti-aging-essence-50ml",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/cb5/cb588b60-dcf5-11ee-872a-4f528fefc3a1.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1484",
@@ -32608,7 +32618,7 @@
     "brand": "Sooryehan",
     "name": "Water Spring Cream AD",
     "price": null,
-    "image": "",
+    "image": "/cutouts/sooryehan-water-spring-cream-ad.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -32620,7 +32630,9 @@
     "buyLink": "https://beautyboxkorea.com/product/sooryehan-hyo-water-spring-cream-ad-75ml/39901/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b0b/b0b82100-f313-11ef-9c6f-d92b40f5f893.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1488",
@@ -32674,7 +32686,7 @@
     "brand": "VADIVA",
     "name": "Stick-On Makeup Sponge",
     "price": null,
-    "image": "",
+    "image": "/cutouts/vadiva-stick-on-makeup-sponge.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -32686,7 +32698,9 @@
     "buyLink": "https://vadiva.kr/product/detail.html?product_no=42",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/333/333ce590-e381-11ef-8198-d94d0e14fec4.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1491",
@@ -32823,7 +32837,7 @@
     "brand": "9wishes",
     "name": "White Tone-Up Cream [SPF21]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/9wishes-white-tone-up-cream--spf21-.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -32835,7 +32849,9 @@
     "buyLink": "https://www.yesstyle.com/en/9wishes-white-tone-up-cream-50ml/info.html/pid.1129136580",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/c9c/c9c19cb0-0104-11ee-8e54-8f81297d233d.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1498",
@@ -32889,7 +32905,7 @@
     "brand": "Lab.it",
     "name": "Pore Soothing Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/lab-it-pore-soothing-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -32901,7 +32917,9 @@
     "buyLink": "https://www.amazon.com/dp/B0DFYCB7WZ?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/266/2660ad40-ea74-11ee-89bf-478f0be58326.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1501",
@@ -33285,7 +33303,7 @@
     "brand": "SIDMOOL",
     "name": "Premium Jojoba Oil",
     "price": null,
-    "image": "",
+    "image": "/cutouts/sidmool-premium-jojoba-oil.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -33297,7 +33315,9 @@
     "buyLink": "https://stylejolly.com/Product/Detail/view/pid/3253",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/3ac/3acee1d0-2ca8-11f0-ab38-0bddc91ce861.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1519",
@@ -33511,7 +33531,7 @@
     "brand": "wakemake",
     "name": "Water Glow Coating Balm [SPF30/PA++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/wakemake-water-glow-coating-balm--spf30-pa---.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 2,
     "category": "Makeup",
@@ -33524,7 +33544,9 @@
     "awardsWon": [
       "Glowpick Awards (2025)",
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/0c7/0c7042b0-9f27-11f0-a246-8d2a82f9cbb4.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1529",
@@ -33736,7 +33758,7 @@
     "brand": "Courcelles",
     "name": "Concealer Pencil [Original]",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/home/glowmee/upload/20171026/1508986107829.png",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -33846,7 +33868,7 @@
     "brand": "CODE GLOKOLOR",
     "name": "Fix-on Primer",
     "price": null,
-    "image": "",
+    "image": "/cutouts/code-glokolor-fix-on-primer.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -33858,7 +33880,9 @@
     "buyLink": "https://www.yesstyle.com/en/code-glokolor-fix-on-primer-30ml/info.html/pid.1124259195",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/dac/dac1a370-29ef-11ee-8764-8d688a0dc671.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1544",
@@ -34023,7 +34047,7 @@
     "brand": "IPKN",
     "name": "Tone Wear Tinted Base [SPF35/PA+++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ipkn-tone-wear-tinted-base--spf35-pa----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -34035,7 +34059,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/a0a/a0ab5b30-4984-11ef-8203-19333e2345f7.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1552",
@@ -34088,7 +34114,7 @@
     "brand": "tooq",
     "name": "Transparent Color Correcting Base [SPF28/PA++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/tooq-transparent-color-correcting-base--spf28-pa---.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -34100,7 +34126,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/8a6/8a68ae50-b4b1-11ec-85b9-8b89febcc392.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1555",
@@ -34484,7 +34512,7 @@
     "brand": "nonoer",
     "name": "Shine Lock Lip Tint",
     "price": null,
-    "image": "",
+    "image": "/cutouts/nonoer-shine-lock-lip-tint.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -34496,7 +34524,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/2b6/2b6e3ee0-fd49-11ef-8bfa-b758d1de7f4c.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1573",
@@ -34613,7 +34643,7 @@
     "brand": "nonoer",
     "name": "Over Dew Lip Pencil [Matte]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/nonoer-over-dew-lip-pencil--matte-.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -34625,7 +34655,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/017/017c4bd0-c0c8-11ef-81e6-b7e2037d8126.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1579",
@@ -34810,7 +34842,7 @@
     "brand": "NuTexture",
     "name": "Bouncy Lip Treatment",
     "price": null,
-    "image": "",
+    "image": "/cutouts/nutexture-bouncy-lip-treatment.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -34822,7 +34854,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/6ac/6ac879a0-fde7-11ee-b3b6-73f578b3037e.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1588",
@@ -34942,7 +34976,7 @@
     "brand": "wakemake",
     "name": "Spatula Wide Foundation Brush",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/product/501/501df2c0-ba2d-11f0-b6a4-cbc1b48b3be7.png",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -35950,7 +35984,7 @@
     "brand": "benefit",
     "name": "Dandelion Baby-Pink Brightening Blush",
     "price": null,
-    "image": "",
+    "image": "/cutouts/benefit-dandelion-baby-pink-brightening-blush.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -35962,7 +35996,9 @@
     "buyLink": "https://go.shopmy.us/p-89629726",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/a82/a8255940-dd68-11ec-9cdc-71fb4b226fda.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1640",
@@ -36532,7 +36568,7 @@
     "brand": "wakemake",
     "name": "Glow Contouring Highlighter Palette",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/product/2db/2dbbb6d0-cf89-11ee-9c14-ebc13c822eaf.jpeg",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -36983,7 +37019,7 @@
     "brand": "ARENCIA",
     "name": "Green Artisan's Cleanser",
     "price": null,
-    "image": "",
+    "image": "/cutouts/arencia-green-artisan-s-cleanser.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -36995,7 +37031,9 @@
     "buyLink": "https://www.dodoskin.com/en-de/products/arencia-green-artisans-skin-boosting-cleanser-120g",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/8bc/8bc0e980-0ddb-11f0-97f1-8d3b7a790e96.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1687",
@@ -37237,7 +37275,7 @@
     "awardsWon": [
       "Glowpick Awards (2025)"
     ],
-    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/6a5/6a57d440-714f-11ee-b6f4-e34fef4bd09e.jpeg",
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/ec9/ec9f6eb0-d0cd-11f0-908a-91820f0b5f5b.jpeg",
     "imageCutout": true
   },
   {
@@ -37537,7 +37575,7 @@
     "brand": "SIDMOOL",
     "name": "Dr.Troub Skin Returning Cleansing Milk",
     "price": null,
-    "image": "",
+    "image": "/cutouts/sidmool-dr-troub-skin-returning-cleansing-milk.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -37549,7 +37587,9 @@
     "buyLink": "https://www.amazon.com/dp/B07KPW8JL1?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/144/14457570-bc3f-11eb-b1c2-65658d8bcb85.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1712",
@@ -37804,7 +37844,7 @@
     "brand": "SIDMOOL",
     "name": "Green Tea Pureskin Peeling Gel",
     "price": null,
-    "image": "",
+    "image": "/cutouts/sidmool-green-tea-pureskin-peeling-gel.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -37816,7 +37856,9 @@
     "buyLink": "https://www.amazon.com/dp/B071J9WVB9?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/0ec/0ecb8b20-bc53-11eb-8009-11ce9f760627.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1724",
@@ -38408,7 +38450,7 @@
     "brand": "Veganifect",
     "name": "Ultra Nourishing Collagen Wrapping Mask",
     "price": null,
-    "image": "",
+    "image": "/cutouts/veganifect-ultra-nourishing-collagen-wrapping-mask.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -38420,7 +38462,9 @@
     "buyLink": "https://www.yesstyle.com/en/veganifect-ultra-nourishing-collagen-wrapping-mask-2025-version-80ml/info.html/pid.1134231879",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/ed7/ed76d9a0-2c8f-11f0-876b-55b0725267f3.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1751",
@@ -38922,7 +38966,7 @@
     "brand": "SHINGMULNARA",
     "name": "White Rice Bright Tone Up Sun Cushion [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/shingmulnara-white-rice-bright-tone-up-sun-cushion--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -38934,7 +38978,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/c28/c28dad40-17e1-11ef-b222-1f3ff933703b.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1774",
@@ -38988,7 +39034,7 @@
     "brand": "VERAMORE",
     "name": "Brightening Glowing Sun Serum [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/veramore-brightening-glowing-sun-serum--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -39000,7 +39046,9 @@
     "buyLink": "https://beautyboxkorea.com/product/veramore-brightening-glowing-sun-serum-spf50-pa-35ml/62013/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/329/329db630-0acf-11f0-ad30-73e16c3e7cee.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1777",
@@ -39008,7 +39056,7 @@
     "brand": "SCINIC",
     "name": "UV Expert Repair Sun Essence [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/scinic-uv-expert-repair-sun-essence--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -39020,7 +39068,9 @@
     "buyLink": "https://www.stylevana.com/en_US/scinic-uv-expert-repair-sun-essence-spf50-pa-50ml70540.html",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/a1c/a1cd2610-0559-11f0-a0b0-c583f955d4b9.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1778",
@@ -39028,7 +39078,7 @@
     "brand": "SHINGMULNARA",
     "name": "White Rice Bright Tone Sun Gel Lotion [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/shingmulnara-white-rice-bright-tone-sun-gel-lotion--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -39040,7 +39090,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/622/622899e0-216b-11ef-91f8-a18a3b96a530.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1779",
@@ -39092,7 +39144,7 @@
     "brand": "HOLIKA HOLIKA",
     "name": "Make Up Sun Cream (Matte Tone Up) [SPF50+/PA+++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/holika-holika-make-up-sun-cream--matte-tone-up---spf50--pa----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -39104,7 +39156,9 @@
     "buyLink": "https://beautyboxkorea.com/product/holika-holika-make-up-sun-cream-spf50-pa-matte-tone-up-60ml/59508/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/3f8/3f823850-ac07-11ec-8d00-8950fbbeca48.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1782",
@@ -39381,7 +39435,7 @@
     "brand": "Acnes",
     "name": "Perfect Solution Relief Body Mist",
     "price": null,
-    "image": "",
+    "image": "/cutouts/acnes-perfect-solution-relief-body-mist.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -39393,7 +39447,9 @@
     "buyLink": "https://soonsubeauty.com/products/acnes-perfect-solution-relief-body-mist-210ml",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/87a/87a6e010-a7e3-11ef-af8e-d75e1687b26a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1795",
@@ -39665,7 +39721,7 @@
     "brand": "COZY WHITE",
     "name": "Royal Jelly Foot Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/cozy-white-royal-jelly-foot-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -39677,7 +39733,9 @@
     "buyLink": "https://www.cozywhite.co.kr/61/?idx=222",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/f6d/f6d550f0-a60f-11ef-bf5a-4b8220d8dd32.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1808",
@@ -40673,7 +40731,7 @@
     "brand": "Toolif",
     "name": "Silky Natural Bristle Hair Brush",
     "price": null,
-    "image": "",
+    "image": "/cutouts/toolif-silky-natural-bristle-hair-brush.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -40685,7 +40743,9 @@
     "buyLink": "https://global.hemeko.com/us/store/products/814",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/720/72034c30-d9ed-11ef-8d33-cf7a43eb5da4.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1853",
@@ -40715,7 +40775,7 @@
     "brand": "ODEROI",
     "name": "Black Cherry Pore Tightening Cream Luftig",
     "price": null,
-    "image": "",
+    "image": "/cutouts/oderoi-black-cherry-pore-tightening-cream-luftig.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -40727,7 +40787,9 @@
     "buyLink": "https://www.amazon.com/dp/B0D95CGHFD?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/d82/d8209a90-ba2f-11f0-9ec8-c118c6f4fb65.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1855",
@@ -40982,7 +41044,7 @@
     "brand": "DENTISTE",
     "name": "Plus White Toothpaste",
     "price": null,
-    "image": "",
+    "image": "/cutouts/dentiste-plus-white-toothpaste.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -40994,7 +41056,9 @@
     "buyLink": "https://www.amazon.com/dp/B00M48YOEE?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/ef5/ef5347e0-88fd-11ee-8c69-dbc5dae0a62e.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1867",
@@ -41682,7 +41746,7 @@
     "brand": "Maison Margiela",
     "name": "Replica Lazy Sunday Morning eau de toilette",
     "price": null,
-    "image": "",
+    "image": "/cutouts/maison-margiela-replica-lazy-sunday-morning-eau-de-toilette.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -41694,7 +41758,9 @@
     "buyLink": "https://go.shopmy.us/p-89631012",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b30/b3046140-2c06-11f0-b77e-a110bb0e4a86.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1899",
@@ -41986,7 +42052,7 @@
     "brand": "UNIX",
     "name": "Ceramic Hair Flat Iron UCI-2932A",
     "price": null,
-    "image": "",
+    "image": "/cutouts/unix-ceramic-hair-flat-iron-uci-2932a.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -41998,7 +42064,9 @@
     "buyLink": "https://unixshop.co.kr/product/%EC%84%B8%EB%9D%BC%EB%AF%B9-%EC%98%A8%EB%8F%84%EC%A1%B0%EC%A0%88-%ED%8C%90%EA%B3%A0%EB%8D%B0%EA%B8%B0/451/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/c43/c43a8fc0-2c0b-11f0-b950-c7af6106ed2e.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1913",
@@ -42052,7 +42120,7 @@
     "brand": "Dr LABNOSH",
     "name": "Triple GLU",
     "price": null,
-    "image": "",
+    "image": "/cutouts/dr-labnosh-triple-glu.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -42064,7 +42132,9 @@
     "buyLink": "https://labnosh.com/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/4ba/4ba35340-2be7-11f0-87bd-f9ec236030d7.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1916",
@@ -42116,7 +42186,7 @@
     "brand": "baronsic",
     "name": "Ectoin Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/baronsic-ectoin-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -42128,7 +42198,9 @@
     "buyLink": "https://www.ballagrio.com/products/baronsie-ectoin-cream-200ml",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/96c/96c43030-5463-11ef-afb4-3f776f074d22.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1919",
@@ -42202,7 +42274,7 @@
     "brand": "AMUSE",
     "name": "Dew Jelly Master Cushion Foundation [SPF38/PA+++]",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/product/dc3/dc3615a0-69af-11ef-952d-f507eef10187.jpeg",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -42222,7 +42294,7 @@
     "brand": "COSNORI",
     "name": "Fluffy-fit Cushion [SPF50+/PA+++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/cosnori-fluffy-fit-cushion--spf50--pa----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -42234,7 +42306,9 @@
     "buyLink": "https://www.yesstyle.com/en/cosnori-fluffy-fit-cushion-4-colors-00-fair-light/info.html/pid.1134880973",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b76/b76de910-1f25-11f0-a797-39f85fe43e70.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1924",
@@ -42309,7 +42383,7 @@
     "brand": "t'else",
     "name": "White Tea Tree AC Plus Pack Cleanser",
     "price": null,
-    "image": "",
+    "image": "/cutouts/t-else-white-tea-tree-ac-plus-pack-cleanser.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42321,7 +42395,9 @@
     "buyLink": "https://www.yesstyle.com/en/realbarrier-telse-white-tee-tree-ac-plus-pack-cleanser-100ml/info.html/pid.1133948568",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/2fb/2fb6b360-70cb-11f0-8a80-07cb2891faf9.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1928",
@@ -42351,7 +42427,7 @@
     "brand": "fromrier",
     "name": "Vegan EGF Cica Water Sun Ampoule [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/fromrier-vegan-egf-cica-water-sun-ampoule--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42363,7 +42439,9 @@
     "buyLink": "https://www.dodoskin.com/products/fromrier-vegan-egf-cica-water-sun-ampoule-spf50-pa-56ml",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/e57/e5758ad0-e672-11ee-ab03-1b96f3a147b8.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1930",
@@ -42394,7 +42472,7 @@
     "brand": "ongredients",
     "name": "Skin Barrier Glow Serum",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ongredients-skin-barrier-glow-serum.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42406,7 +42484,9 @@
     "buyLink": "https://go.shopmy.us/p-89384579",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/857/857b1080-7ee9-11f0-8980-f140ad18acc2.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1932",
@@ -42414,7 +42494,7 @@
     "brand": "Veganifect",
     "name": "Green Barley Serum",
     "price": null,
-    "image": "",
+    "image": "/cutouts/veganifect-green-barley-serum.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42426,7 +42506,9 @@
     "buyLink": "https://www.yesstyle.com/en/veganifect-green-barley-zinc-serum-30ml/info.html/pid.1135880366",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/93a/93ab2950-3610-11f0-b16d-3bf2d51becd9.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1933",
@@ -42457,7 +42539,7 @@
     "brand": "essenciel",
     "name": "Skin Boosting Forte Serum",
     "price": null,
-    "image": "",
+    "image": "/cutouts/essenciel-skin-boosting-forte-serum.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42469,7 +42551,9 @@
     "buyLink": "https://www.amazon.com/dp/B0GV32RNJ6?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/ed2/ed2b4b50-5d5b-11f0-8aa9-8bd625696fbb.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1935",
@@ -42477,7 +42561,7 @@
     "brand": "KORSI",
     "name": "Emerald Aquaball Deep Moisture Cream (For Dry Skin)",
     "price": null,
-    "image": "",
+    "image": "/cutouts/korsi-emerald-aquaball-deep-moisture-cream--for-dry-skin-.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42489,7 +42573,9 @@
     "buyLink": "https://www.amazon.com/dp/B0GHWZSD7C?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/557/557300a0-8ecf-11f0-bc94-4324c39c6073.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1936",
@@ -42520,7 +42606,7 @@
     "brand": "KORSI",
     "name": "Emerald Aquaball Light Moisture Cream (For Oily Skin)",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/product/6db/6db736e0-8ed4-11f0-978e-3d44f85c5b55.jpeg",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42540,7 +42626,7 @@
     "brand": "MEDIFORCELL",
     "name": "Ultra Hyaluronic Acid Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/mediforcell-ultra-hyaluronic-acid-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42552,7 +42638,9 @@
     "buyLink": "https://skin-seoul.com/product/ultra-hyaluronic-acid-cream/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/29c/29c40f10-2c61-11f0-a385-218df478b65b.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1939",
@@ -42560,7 +42648,7 @@
     "brand": "Herbloom",
     "name": "Wonder Glow Vegan Tone Up Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/herbloom-wonder-glow-vegan-tone-up-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42572,7 +42660,9 @@
     "buyLink": "https://koolseoul.com/products/herbloom-wonder-glow-kombucha-vegan-tone-up-cream-50ml",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/727/72797da0-216a-11f0-a5a3-69b6736a6bff.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1940",
@@ -42580,7 +42670,7 @@
     "brand": "AMPLEN",
     "name": "Blemi Shot Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/amplen-blemi-shot-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -42592,7 +42682,9 @@
     "buyLink": "https://www.amazon.com/dp/B0F5H7TXVQ?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/bfc/bfcc0d50-0493-11f0-a6e7-f95117b86fb1.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1941",
@@ -42645,7 +42737,7 @@
     "brand": "Ameli",
     "name": "Step Basic",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ameli-step-basic.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -42657,7 +42749,9 @@
     "buyLink": "https://us.oliveyoung.com/products/UA77989388",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/83f/83f01230-9ddb-11ec-b88e-a71b5d033c82.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1944",
@@ -42687,7 +42781,7 @@
     "brand": "SheaMoisture",
     "name": "Coconut & Hibiscus Curl & Shine Shampoo",
     "price": null,
-    "image": "",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/d5d6c50e-0635-4f0a-af68-e4c81beace27/22c575a6-d7c0-4db9-a077-2f2eff32edab.jpg",
     "topAward": "Cosmopolitan Readers Choice — Best Shampoo for Type 4 Hair (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -42707,7 +42801,7 @@
     "brand": "Hanskin",
     "name": "Code-On D.D Cream Foundation [SPF38/PA++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/hanskin-code-on-d-d-cream-foundation--spf38-pa---.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -42719,7 +42813,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FKT2BPWZ?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/fd8/fd8e94e0-4724-11f0-83f1-03b9c9ad8405.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1947",
@@ -42819,7 +42915,7 @@
     "brand": "wakemake",
     "name": "Healthy Glow Balm Stick",
     "price": null,
-    "image": "",
+    "image": "/cutouts/wakemake-healthy-glow-balm-stick.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -42831,7 +42927,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/faf/faf19b10-3b6c-11f0-b18a-d9751bf1ace1.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1952",
@@ -42882,7 +42980,7 @@
     "brand": "glyf",
     "name": "Glue Gloss",
     "price": null,
-    "image": "",
+    "image": "/cutouts/glyf-glue-gloss.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -42894,7 +42992,9 @@
     "buyLink": "https://gaeul.store/products/glyf-glue-gloss-7-colors",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/e4f/e4fac2a0-1f4c-11f0-be75-dd4e25609486.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1955",
@@ -42924,7 +43024,7 @@
     "brand": "B by BANILA",
     "name": "Cover Lip Base",
     "price": null,
-    "image": "",
+    "image": "/cutouts/b-by-banila-cover-lip-base.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -42936,7 +43036,9 @@
     "buyLink": "https://www.amazon.com/dp/B0GLMKTJYP?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/6c5/6c546d20-ee63-11ef-b0f4-5d5df3e46b8a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1957",
@@ -42966,7 +43068,7 @@
     "brand": "BRAYE",
     "name": "Melting Lipsweet",
     "price": null,
-    "image": "",
+    "image": "/cutouts/braye-melting-lipsweet.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -42978,7 +43080,9 @@
     "buyLink": "https://us.oliveyoung.com/products/UA59127815",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/6ba/6ba23b00-9cf5-11f0-a605-41e27687aee4.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1959",
@@ -43032,7 +43136,7 @@
     "brand": "fwee",
     "name": "Pocket Cheek Palette",
     "price": null,
-    "image": "",
+    "image": "/cutouts/fwee-pocket-cheek-palette.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -43044,7 +43148,9 @@
     "buyLink": "https://go.shopmy.us/p-89541780",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/3d1/3d12b6a0-0e04-11f0-bdb5-b9ff8f079e8b.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1962",
@@ -43052,7 +43158,7 @@
     "brand": "AIBB",
     "name": "Blur Tin Pot",
     "price": null,
-    "image": "",
+    "image": "/cutouts/aibb-blur-tin-pot.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -43064,7 +43170,9 @@
     "buyLink": "https://beautyboxkorea.com/product/aibb-blur-tint-pot-53g/72249/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/059/059ab850-a7f4-11f0-9896-4d72ebc08b25.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1963",
@@ -43094,7 +43202,7 @@
     "brand": "CKD",
     "name": "Green Plum AHABHA Mochi Mask Cleanser",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ckd-green-plum-ahabha-mochi-mask-cleanser.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43106,7 +43214,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FCLTPQ2V?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/56f/56f7ac30-ce46-11f0-92bf-fb833fd60161.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1965",
@@ -43134,7 +43244,7 @@
     "brand": "AriuL",
     "name": "The Perfect Lemon Ginger Bubble Cleanser",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ariul-the-perfect-lemon-ginger-bubble-cleanser.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43146,7 +43256,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/6a4/6a417e20-136f-11f0-8f29-557f7ceaaa79.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1967",
@@ -43154,7 +43266,7 @@
     "brand": "NACIFIC",
     "name": "Rice Pepta Collagen Sherbet Cleansing Balm",
     "price": null,
-    "image": "",
+    "image": "/cutouts/nacific-rice-pepta-collagen-sherbet-cleansing-balm.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43166,7 +43278,9 @@
     "buyLink": "https://www.amazon.com/dp/B0DYMGQTV2?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/5a7/5a7da250-07a4-11f1-9457-07908f09d5b7.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1968",
@@ -43174,7 +43288,7 @@
     "brand": "medicube",
     "name": "Mini Booster Pro Plus",
     "price": null,
-    "image": "",
+    "image": "/cutouts/medicube-mini-booster-pro-plus.webp",
     "topAward": "Hwahae Beauty Awards (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -43186,7 +43300,9 @@
     "buyLink": "https://go.shopmy.us/p-89386455",
     "awardsWon": [
       "Hwahae Beauty Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://img.hwahae.co.kr/products/2155770/2155770_20250814140758.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1969",
@@ -43239,7 +43355,7 @@
     "brand": "BANILA CO",
     "name": "Clean It Zero Soothing Lip&Eye Makeup Remover",
     "price": null,
-    "image": "",
+    "image": "/cutouts/banila-co-clean-it-zero-soothing-lip-eye-makeup-remover.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43251,7 +43367,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/4a6/4a6f3ee0-2bcd-11f0-95fa-81b99bb48cb7.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1972",
@@ -43304,7 +43422,7 @@
     "brand": "AriuL",
     "name": "Expert Niacin Vita 5% Film Gel Mask",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ariul-expert-niacin-vita-5--film-gel-mask.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43316,7 +43434,9 @@
     "buyLink": "https://www.amazon.com/dp/B0F2RXTD13?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/20c/20cd4430-248c-11f0-8b3a-5d3e03068b7b.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1975",
@@ -43347,7 +43467,7 @@
     "brand": "HANYUL",
     "name": "Pure Artemisia Melting Mask to Balm Cleanser",
     "price": null,
-    "image": "",
+    "image": "/cutouts/hanyul-pure-artemisia-melting-mask-to-balm-cleanser.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43359,7 +43479,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/881/881ecbc0-3136-11f0-8ef9-ad654509a1d0.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1977",
@@ -43367,7 +43489,7 @@
     "brand": "innisfree",
     "name": "Super Volcanic Pore Clay Mask Cool Mint Chocolate",
     "price": null,
-    "image": "",
+    "image": "/cutouts/innisfree-super-volcanic-pore-clay-mask-cool-mint-chocolate.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43379,7 +43501,9 @@
     "buyLink": "https://www.amazon.com/dp/B0F2537ZJ5?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/d58/d58a8ca0-134a-11f0-af7e-2dea94914a68.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1978",
@@ -43387,7 +43511,7 @@
     "brand": "MEDIFORCELL",
     "name": "Firming Honey Collagen Wrapping Mask",
     "price": null,
-    "image": "",
+    "image": "/cutouts/mediforcell-firming-honey-collagen-wrapping-mask.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43399,7 +43523,9 @@
     "buyLink": "https://skin-seoul.com/product/firming-honey-collagen-wrapping-mask/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/2f8/2f81d3a0-2c62-11f0-9196-a3ce77c369fa.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1979",
@@ -43407,7 +43533,7 @@
     "brand": "ongredients",
     "name": "Skin Barrier Moisture Sun Cream [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/product/375/3750cc50-5ac3-11f0-b8cb-f747ff1470e1.jpeg",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43470,7 +43596,7 @@
     "brand": "ABOUT TONE",
     "name": "Sun Serum Base [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/about-tone-sun-serum-base--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43482,7 +43608,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/2d2/2d2c2510-9e77-11f0-8cc6-392b135daa06.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1983",
@@ -43490,7 +43618,7 @@
     "brand": "AESTURA",
     "name": "THERACNE365 Niacinamide 5% Blemish Body Mist",
     "price": null,
-    "image": "",
+    "image": "/cutouts/aestura-theracne365-niacinamide-5--blemish-body-mist.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -43502,7 +43630,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/566/56673d70-1385-11f0-bd31-1f9ee2c26e30.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1984",
@@ -43510,7 +43640,7 @@
     "brand": "AriuL",
     "name": "Smooth & Pure Daily Cotton Cooling Deo Tissue",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ariul-smooth---pure-daily-cotton-cooling-deo-tissue.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -43522,7 +43652,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/e27/e2728660-3a01-11f0-af42-b7f33dc4a912.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1985",
@@ -43530,7 +43662,7 @@
     "brand": "DASHING DIVA",
     "name": "Signature Hand & Nail Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/dashing-diva-signature-hand---nail-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -43542,7 +43674,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/4be/4beb59d0-5228-11f0-a208-3dc79ff97d90.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1986",
@@ -43570,7 +43704,7 @@
     "brand": "TREE HUT",
     "name": "Shea Sugar Scrub [Jelly Bear]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/tree-hut-shea-sugar-scrub--jelly-bear-.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -43582,7 +43716,9 @@
     "buyLink": "https://go.shopmy.us/p-89607632",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/fb9/fb92a550-73fc-11f0-bd25-ef29eeae5bb6.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1988",
@@ -43613,7 +43749,7 @@
     "brand": "RE:NOIA",
     "name": "No-Wash Ampoule Essence",
     "price": null,
-    "image": "",
+    "image": "/cutouts/re-noia-no-wash-ampoule-essence.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -43625,7 +43761,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b46/b46ef920-d182-11ef-b264-757f5aab53db.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1990",
@@ -43699,7 +43837,7 @@
     "brand": "irecipe",
     "name": "Aqua Phytoplex Cream in Toner Mist",
     "price": null,
-    "image": "",
+    "image": "/cutouts/irecipe-aqua-phytoplex-cream-in-toner-mist.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43711,7 +43849,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/820/82029ae0-b9ea-11f0-af8c-379bb836c3a6.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1994",
@@ -43719,7 +43859,7 @@
     "brand": "PHYSIOGEL",
     "name": "Daily Moisture Therapy Essence in Toner",
     "price": null,
-    "image": "",
+    "image": "/cutouts/physiogel-daily-moisture-therapy-essence-in-toner.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43731,7 +43871,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b1f/b1fc6de0-b9f2-11f0-97cf-eb8f804ad159.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1995",
@@ -43762,7 +43904,7 @@
     "brand": "DEIG",
     "name": "Hyaluronic Toner Pad",
     "price": null,
-    "image": "",
+    "image": "/cutouts/deig-hyaluronic-toner-pad.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43774,7 +43916,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/cff/cffda840-4b11-11f0-b30f-f10089b9e66c.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1997",
@@ -43828,7 +43972,7 @@
     "brand": "MIZON",
     "name": "7 Vegan Peptide Booster Serum",
     "price": null,
-    "image": "",
+    "image": "/cutouts/mizon-7-vegan-peptide-booster-serum.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -43840,7 +43984,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/49d/49dcd4e0-71d4-11f0-bd47-e15d8ac2b490.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2000",
@@ -44019,7 +44165,7 @@
     "brand": "it : fu",
     "name": "Repair Therapy Soonyuul Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/it---fu-repair-therapy-soonyuul-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -44031,7 +44177,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/e3f/e3ff28a0-821c-11ef-8b9b-1b15f457c8e8.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2009",
@@ -44039,7 +44187,7 @@
     "brand": "BANDI",
     "name": "NAILCURE PINK DIAA",
     "price": null,
-    "image": "",
+    "image": "/cutouts/bandi-nailcure-pink-diaa.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Nails",
@@ -44051,7 +44199,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/38c/38c83a20-785a-11ee-9c0c-8f13c8545ead.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2010",
@@ -44059,7 +44209,7 @@
     "brand": "rom&nd",
     "name": "Mood Pebble Hardner",
     "price": null,
-    "image": "",
+    "image": "/cutouts/rom-nd-mood-pebble-hardner.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Nails",
@@ -44071,7 +44221,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/858/85823310-26c5-11ef-866b-b5cae5cd81a3.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2011",
@@ -44079,7 +44231,7 @@
     "brand": "wakemake",
     "name": "Strong Growth Nail Serum",
     "price": null,
-    "image": "",
+    "image": "/cutouts/wakemake-strong-growth-nail-serum.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Nails",
@@ -44091,7 +44243,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/424/424f1500-64c4-11ed-a926-8fa6e798ff39.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2012",
@@ -44099,7 +44253,7 @@
     "brand": "withshyan",
     "name": "Refresh Nail Remover",
     "price": null,
-    "image": "",
+    "image": "/cutouts/withshyan-refresh-nail-remover.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Nails",
@@ -44111,7 +44265,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/deb/debe6770-45cb-11eb-b92f-398b2c886e3a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2013",
@@ -44119,7 +44275,7 @@
     "brand": "Rael",
     "name": "Regular Organic Cotton Cover Pads With Wings",
     "price": null,
-    "image": "",
+    "image": "/cutouts/rael-regular-organic-cotton-cover-pads-with-wings.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -44131,7 +44287,9 @@
     "buyLink": "https://go.shopmy.us/p-89608032",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/4ab/4aba33d0-bad6-11f0-9ed7-f369621c68b5.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2014",
@@ -44139,7 +44297,7 @@
     "brand": "GOONGBE",
     "name": "Soothing Sensitive Daily Wash",
     "price": null,
-    "image": "",
+    "image": "/cutouts/goongbe-soothing-sensitive-daily-wash.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -44151,7 +44309,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/be1/be1b62e0-1996-11f0-a48b-3b48196a001f.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2015",
@@ -44179,7 +44339,7 @@
     "brand": "VIDIVICI",
     "name": "Nude Perfection Skin.Fit Cushion [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/vidivici-nude-perfection-skin-fit-cushion--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44191,7 +44351,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/53d/53da7840-1fdf-11f0-9534-9db9f5270e69.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2017",
@@ -44221,7 +44383,7 @@
     "brand": "SUQQU",
     "name": "The Foundation [SPF30/PA+++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/suqqu-the-foundation--spf30-pa----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44233,7 +44395,9 @@
     "buyLink": "https://go.shopmy.us/p-89607544",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/afd/afd2c0f0-babf-11f0-aae7-317fdc21a428.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2019",
@@ -44335,7 +44499,7 @@
     "brand": "CODE GLOKOLOR",
     "name": "Fix-on Primer Hydro",
     "price": null,
-    "image": "",
+    "image": "/cutouts/code-glokolor-fix-on-primer-hydro.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44347,7 +44511,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/90e/90ee97d0-200b-11f0-9179-7dfef72448e4.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2024",
@@ -44377,7 +44543,7 @@
     "brand": "le'nect",
     "name": "Cling Makeup Beginner",
     "price": null,
-    "image": "",
+    "image": "/cutouts/le-nect-cling-makeup-beginner.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44389,7 +44555,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/bf2/bf265600-f619-11ee-804d-97eb3daed221.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2026",
@@ -44417,7 +44585,7 @@
     "brand": "LAURA MERCIER",
     "name": "Matte Eye Shadow",
     "price": null,
-    "image": "",
+    "image": "/cutouts/laura-mercier-matte-eye-shadow.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44429,7 +44597,9 @@
     "buyLink": "https://go.shopmy.us/p-89607425",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/c2d/c2ddb000-a752-11ef-b969-a929e009b3b3.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2028",
@@ -44437,7 +44607,7 @@
     "brand": "EDIT B",
     "name": "Marshmallow Tone Up Cushion [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/edit-b-marshmallow-tone-up-cushion--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44449,7 +44619,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/a59/a59348b0-7ca0-11f0-8bb0-a170a62b5d72.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2029",
@@ -44457,7 +44629,7 @@
     "brand": "IPKN",
     "name": "Personal Tone Correcting Base [SPF30/PA++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ipkn-personal-tone-correcting-base--spf30-pa---.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44469,7 +44641,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/59c/59c7b360-13cc-11ee-af34-1323ae3eb2f7.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2030",
@@ -44499,7 +44673,7 @@
     "brand": "QUOCH",
     "name": "Recovery Calming Blemish Balm",
     "price": null,
-    "image": "",
+    "image": "/cutouts/quoch-recovery-calming-blemish-balm.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44511,7 +44685,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/048/048d7d40-1d52-11ef-b23e-ed8decbb9d00.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2032",
@@ -44541,7 +44717,7 @@
     "brand": "DIOR",
     "name": "Rouge Dior [Satin]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/dior-rouge-dior--satin-.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44553,7 +44729,9 @@
     "buyLink": "https://go.shopmy.us/p-89357238",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/6ee/6ee2c590-b05c-11ef-b1b5-19c0205dfe31.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2034",
@@ -44561,7 +44739,7 @@
     "brand": "CHANEL",
     "name": "Rouge Coco Flash",
     "price": null,
-    "image": "",
+    "image": "/cutouts/chanel-rouge-coco-flash.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44573,7 +44751,9 @@
     "buyLink": "https://go.shopmy.us/p-89388478",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/var/app/current/common/upload/20200414/1586844570218.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2035",
@@ -44671,7 +44851,7 @@
     "brand": "Laka",
     "name": "Fruity Glam Tint Mini",
     "price": null,
-    "image": "",
+    "image": "/cutouts/laka-fruity-glam-tint-mini.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44683,7 +44863,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FFLTKL31?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/d06/d06d08c0-eff4-11ef-81be-07048a411c56.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2040",
@@ -44714,7 +44896,7 @@
     "brand": "rom&nd",
     "name": "Lip Mate Pencil",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/product/bda/bda7d170-0036-11ee-8a8d-21f90097918c.jpeg",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44754,7 +44936,7 @@
     "brand": "kkotppang",
     "name": "Melting Ice Balm",
     "price": null,
-    "image": "",
+    "image": "/cutouts/kkotppang-melting-ice-balm.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44766,7 +44948,9 @@
     "buyLink": "https://kkotppang.com/product/1%EC%A2%85-%EB%A9%9C%ED%8C%85-%EC%95%84%EC%9D%B4%EC%8A%A4%EB%B0%A4/47/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/6f4/6f472c20-9512-11ef-949c-95db6146f2fa.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2044",
@@ -44774,7 +44958,7 @@
     "brand": "B by BANILA",
     "name": "Volume Lip Plumper Maxi",
     "price": null,
-    "image": "",
+    "image": "/cutouts/b-by-banila-volume-lip-plumper-maxi.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44786,7 +44970,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FW22NSF7?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/a43/a43e4480-7f66-11ee-a402-27fdb19521ca.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2045",
@@ -44794,7 +44980,7 @@
     "brand": "BBIA",
     "name": "Lip Oil Balm",
     "price": null,
-    "image": "",
+    "image": "/cutouts/bbia-lip-oil-balm.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44806,7 +44992,9 @@
     "buyLink": "https://www.amazon.com/dp/B0BZYJ6X42?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/015/015b8fe0-94ea-11ee-9ee5-996804221adb.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2046",
@@ -44814,7 +45002,7 @@
     "brand": "medicube",
     "name": "AGE-R Mini Booster Pro",
     "price": null,
-    "image": "",
+    "image": "/cutouts/medicube-age-r-mini-booster-pro.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -44826,7 +45014,9 @@
     "buyLink": "https://go.shopmy.us/p-89386419",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/fac/fac096e0-c345-11ef-b6cf-857aa2ed5ca8.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2047",
@@ -44857,7 +45047,7 @@
     "brand": "MAC Cosmetics",
     "name": "MACximal Sleek Satin Lipstick",
     "price": null,
-    "image": "",
+    "image": "/cutouts/mac-cosmetics-macximal-sleek-satin-lipstick.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44869,7 +45059,9 @@
     "buyLink": "https://go.shopmy.us/p-89356421",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/ec5/ec5ec200-6bf4-11ef-a385-fbbe2d84ee5c.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2049",
@@ -44941,7 +45133,7 @@
     "brand": "Merry monde",
     "name": "Super Twim Pen Eyeliner",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/product/846/846631b0-718e-11f0-a096-3964e15b0bf0.jpeg",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44983,7 +45175,7 @@
     "brand": "KATE",
     "name": "Designing Eyebrow 3D",
     "price": null,
-    "image": "",
+    "image": "/cutouts/kate-designing-eyebrow-3d.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -44995,7 +45187,9 @@
     "buyLink": "https://www.amazon.com/dp/B071XTGPN2?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/531/531deb30-42bb-11ec-a646-0bad6af2f9a6.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2055",
@@ -45025,7 +45219,7 @@
     "brand": "KISS ME",
     "name": "Heroine Make Long & Curl Mascara",
     "price": null,
-    "image": "",
+    "image": "/cutouts/kiss-me-heroine-make-long---curl-mascara.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -45037,7 +45231,9 @@
     "buyLink": "https://go.shopmy.us/p-89632157",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/home/glowmee/upload/product/20200427/1587980718898.PNG",
+    "imageCutout": true
   },
   {
     "id": "prod-2057",
@@ -45112,7 +45308,7 @@
     "brand": "2aN",
     "name": "Dual Cheek",
     "price": null,
-    "image": "",
+    "image": "/cutouts/2an-dual-cheek.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -45124,7 +45320,9 @@
     "buyLink": "https://us.oliveyoung.com/products/UA84660572",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/10e/10e8ce80-70f0-11f0-800c-adc26f761632.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2061",
@@ -45132,7 +45330,7 @@
     "brand": "VIDIVICI",
     "name": "Petal Glow Cream Blush",
     "price": null,
-    "image": "",
+    "image": "/cutouts/vidivici-petal-glow-cream-blush.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -45144,7 +45342,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FF4B8L2R?tag=vettbeauty-20",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/a2e/a2ee6d40-308a-11f0-8b3f-7914824f5f9a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2062",
@@ -45195,7 +45395,7 @@
     "brand": "HOLIKA HOLIKA",
     "name": "Luminous Milk Beam Pot",
     "price": null,
-    "image": "",
+    "image": "/cutouts/holika-holika-luminous-milk-beam-pot.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -45207,7 +45407,9 @@
     "buyLink": "https://www.enpranimall.com/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/f7d/f7d76cc0-ea6d-11ef-847d-993f81924e86.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2065",
@@ -45237,7 +45439,7 @@
     "brand": "huemi",
     "name": "Multi-Use Glow On Palette",
     "price": null,
-    "image": "",
+    "image": "/cutouts/huemi-multi-use-glow-on-palette.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -45249,7 +45451,9 @@
     "buyLink": "https://huemi.co.kr/product/%EB%A9%80%ED%8B%B0%EC%9C%A0%EC%A6%88-%EA%B8%80%EB%A1%9C%EC%9A%B0-%EC%98%A8-%ED%8C%94%EB%A0%88%ED%8A%B8/44/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/c84/c84489e0-3c5f-11f0-8a8b-b7771e7216e2.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2067",
@@ -45279,7 +45483,7 @@
     "brand": "NAMING",
     "name": "Fluffy Volume & Shading Duo",
     "price": null,
-    "image": "",
+    "image": "/cutouts/naming-fluffy-volume---shading-duo.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -45291,7 +45495,9 @@
     "buyLink": "https://www.stylevana.com/en_US/naming-fluffy-volume-shading-duo-9-8g.html",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/8bd/8bd90ff0-719c-11ef-a686-efc672df343f.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2069",
@@ -45344,7 +45550,7 @@
     "brand": "I'M MEME",
     "name": "Multi Cube",
     "price": null,
-    "image": "",
+    "image": "/cutouts/i-m-meme-multi-cube.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -45356,7 +45562,9 @@
     "buyLink": "https://www.stylevana.com/en_US/memebox-i-m-meme-multi-cube-new-7-7g.html",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/c17/c17432d0-4373-11eb-b1c6-4950e4d7f51c.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2072",
@@ -45364,7 +45572,7 @@
     "brand": "Piccasso",
     "name": "133 Fixing Powder",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/home/glowmee/upload/20160108/1452220448969.jpg",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -45384,7 +45592,7 @@
     "brand": "too cool for school",
     "name": "Artclass By Rodin Finish Setting Oil Paper",
     "price": null,
-    "image": "",
+    "image": "/cutouts/too-cool-for-school-artclass-by-rodin-finish-setting-oil-paper.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -45396,7 +45604,9 @@
     "buyLink": "https://www.yami.com/us/en/p/by-rodin-finish-setting-oil-paper/1023752081",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/85d/85dd7e80-6b98-11ed-8d97-3150789f24d1.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2074",
@@ -45493,7 +45703,7 @@
     "brand": "Studio17",
     "name": "Eye Makeup Brush Set",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/product/8a3/8a353010-39da-11ef-81c3-c7e2afa4bb25.jpeg",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -45513,7 +45723,7 @@
     "brand": "Toolif",
     "name": "Glow Booster Cushion Puff",
     "price": null,
-    "image": "",
+    "image": "/cutouts/toolif-glow-booster-cushion-puff.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -45525,7 +45735,9 @@
     "buyLink": "https://www.stylekorean.com/shop/toolif-glow-booster-cushion-puff-5ea/1769594363/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/f11/f112c5a0-4a4a-11f0-9521-d5ef903e523a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2080",
@@ -45533,7 +45745,7 @@
     "brand": "Maquillage",
     "name": "Edge Free Eyelash Curler",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/product/500/50044bb0-679c-11eb-b591-07414105add5.png",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -45553,7 +45765,7 @@
     "brand": "BUNIO",
     "name": "Half Tight Cotton",
     "price": null,
-    "image": "",
+    "image": "/cutouts/bunio-half-tight-cotton.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -45565,7 +45777,9 @@
     "buyLink": "https://bunio.shop/product/bunio-12-half-tight-cotton-120ea/34/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/0c0/0c067d40-e28e-11ef-a8a4-2b20b996930d.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2082",
@@ -45596,7 +45810,7 @@
     "brand": "BANILA CO",
     "name": "Clean It Zero Pore Clarifying Cleansing Balm",
     "price": null,
-    "image": "",
+    "image": "/cutouts/banila-co-clean-it-zero-pore-clarifying-cleansing-balm.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -45608,7 +45822,9 @@
     "buyLink": "https://go.shopmy.us/p-89386920",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/f86/f8661de0-eb35-11ee-a7d7-99e5439fe66a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2084",
@@ -45662,7 +45878,7 @@
     "brand": "I'm from",
     "name": "Fig Scrub Mask",
     "price": null,
-    "image": "",
+    "image": "/cutouts/i-m-from-fig-scrub-mask.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -45674,7 +45890,9 @@
     "buyLink": "https://go.shopmy.us/p-89387813",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/837/83775eb0-edd5-11ef-9775-f9dbc06b3a45.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2087",
@@ -45704,7 +45922,7 @@
     "brand": "plu365",
     "name": "Facial Scrub [Honey Lemon]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/plu365-facial-scrub--honey-lemon-.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -45716,7 +45934,9 @@
     "buyLink": "https://kcbazar.com/product/plu-365-facial-scrub-honey-lemon-100-g/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/1f6/1f6dd250-d87c-11ef-a0b7-cb2fa2a6d87c.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2089",
@@ -45839,7 +46059,7 @@
     "brand": "MediAnswer",
     "name": "Vita Collagen Mask",
     "price": null,
-    "image": "",
+    "image": "/cutouts/medianswer-vita-collagen-mask.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -45851,7 +46071,9 @@
     "buyLink": "https://beautyboxkorea.com/product/medianswer-vita-collagen-mask-37g5ea-swf-rihey-pick/51691/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/e24/e247a3c0-a001-11ec-ac17-4b10b56167df.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2095",
@@ -45882,7 +46104,7 @@
     "brand": "slowment",
     "name": "Lifting Tension Cream Coating Mask",
     "price": null,
-    "image": "",
+    "image": "/cutouts/slowment-lifting-tension-cream-coating-mask.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -45894,7 +46116,9 @@
     "buyLink": "https://www.wconcept.com/product/lifting-tension-cream-coating-mask-5-sheets-/720600559.html",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b90/b90c1d90-3d12-11f0-aeaa-9308065a663a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2097",
@@ -45949,7 +46173,7 @@
     "brand": "Sulwhasoo",
     "name": "Clarifying Mask",
     "price": null,
-    "image": "",
+    "image": "/cutouts/sulwhasoo-clarifying-mask.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -45961,7 +46185,9 @@
     "buyLink": "https://go.shopmy.us/p-89386011",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/f35/f35dea90-be21-11ed-b489-a30689268174.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2100",
@@ -45991,7 +46217,7 @@
     "brand": "UNOVE",
     "name": "Water Essence Mist",
     "price": null,
-    "image": "",
+    "image": "/cutouts/unove-water-essence-mist.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -46003,7 +46229,9 @@
     "buyLink": "https://go.shopmy.us/p-89388981",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/f76/f76dc400-34f2-11ee-aa7e-f72aafe2c629.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2102",
@@ -46034,7 +46262,7 @@
     "brand": "isoi",
     "name": "Blemish Care Eye & Wrinkle Patch",
     "price": null,
-    "image": "",
+    "image": "/cutouts/isoi-blemish-care-eye---wrinkle-patch.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46046,7 +46274,9 @@
     "buyLink": "https://go.shopmy.us/p-89614712",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/284/2847f290-ba4c-11f0-911b-a3b94c285c1a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2104",
@@ -46076,7 +46306,7 @@
     "brand": "ANESSA",
     "name": "Perfect UV Sunscreen Skincare Milk [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/anessa-perfect-uv-sunscreen-skincare-milk--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46088,7 +46318,9 @@
     "buyLink": "https://www.strawberrynet.com/en-US/anessa-perfect-uv-sunscreen-skincare-milk-spf50-60ml/374959",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/019/01918db0-2bd5-11f0-a4ae-397141627a31.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2106",
@@ -46118,7 +46350,7 @@
     "brand": "innisfree",
     "name": "Tone Up No Sebum Sunscreen EX [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/innisfree-tone-up-no-sebum-sunscreen-ex--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46130,7 +46362,9 @@
     "buyLink": "https://skin-seoul.com/product/innisfree-ton-up-no-sebum-sunscreen-ex-spf50-pa/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/0fa/0fa43ca0-ee41-11ed-8ec5-7d2a2238dccd.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2108",
@@ -46160,7 +46394,7 @@
     "brand": "BUNIO",
     "name": "Calming Cool Toneup Sun Cushion [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/bunio-calming-cool-toneup-sun-cushion--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46172,7 +46406,9 @@
     "buyLink": "https://bunio.co.kr/product/%EB%B7%B0%EB%8B%88%EC%98%A4-%EC%B9%B4%EB%B0%8D-%EC%BF%A8-%ED%86%A4%EC%97%85-%EC%84%A0%EC%BF%A0%EC%85%98-25g-spf50-pa/289/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/137/137f3780-f312-11ef-bf06-877e3a807b32.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2110",
@@ -46180,7 +46416,7 @@
     "brand": "LAGOM",
     "name": "Airy Velvet Sun Stick [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/lagom-airy-velvet-sun-stick--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46192,7 +46428,9 @@
     "buyLink": "https://www.stylekorean.com/shop/lagom-airy-velvet-sun-stick-spf50-pa-18g/1717469267/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/5ad/5ad9b8c0-fd4a-11ef-8d52-27cb4587b84b.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2111",
@@ -46200,7 +46438,7 @@
     "brand": "SHINGMULNARA",
     "name": "Light Watery Sun Gel [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/shingmulnara-light-watery-sun-gel--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46212,7 +46450,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/d6f/d6f7b580-2c96-11f0-b85b-f91d62cd4bc3.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2112",
@@ -46220,7 +46460,7 @@
     "brand": "LAGOM",
     "name": "Cellus Sun Gel+ [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/lagom-cellus-sun-gel---spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46232,7 +46472,9 @@
     "buyLink": "https://jolse.com/product/lagom-cellus-sun-gel-plus-40ml/72605/",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/4ef/4ef17d50-a894-11ef-9562-759d70f782b9.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2113",
@@ -46240,7 +46482,7 @@
     "brand": "DERMAFIRM",
     "name": "Ultra Soothing Sun Makeup Base R4 [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/dermafirm-ultra-soothing-sun-makeup-base-r4--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -46252,7 +46494,9 @@
     "buyLink": "https://dermafirmshop.com/products/ultra-soothing-sun-makeup-base-r4-spf50-pa",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/14c/14c27d70-1994-11f0-ba7d-2708a631c018.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2114",
@@ -46260,7 +46504,7 @@
     "brand": "SHINGMULNARA",
     "name": "Waterproof Sun Spray [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/shingmulnara-waterproof-sun-spray--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 3,
     "category": "Skincare",
@@ -46274,7 +46518,9 @@
       "Glowpick Awards (2025)",
       "Glowpick Awards (2026)",
       "Hwahae Beauty Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/8e1/8e148b20-4948-11f1-a629-79376be8fdce.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2115",
@@ -46305,7 +46551,7 @@
     "brand": "SHINGMULNARA",
     "name": "Jeju Aloe Cooling Sun Spray [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/shingmulnara-jeju-aloe-cooling-sun-spray--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 2,
     "category": "Skincare",
@@ -46318,7 +46564,9 @@
     "awardsWon": [
       "Glowpick Awards (2025)",
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/718/7180dc20-f4d0-11ef-ab16-e750c82962f4.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2117",
@@ -46326,7 +46574,7 @@
     "brand": "BIODERMA",
     "name": "Atoderm 2-in-1 Oil",
     "price": null,
-    "image": "",
+    "image": "/cutouts/bioderma-atoderm-2-in-1-oil.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46338,7 +46586,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/213/213cf170-bae3-11f0-ad43-9d65c51c2471.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2118",
@@ -46392,7 +46642,7 @@
     "brand": "NIVEA",
     "name": "Dry Comfort Anti-Perspirant Stick",
     "price": null,
-    "image": "",
+    "image": "/cutouts/nivea-dry-comfort-anti-perspirant-stick.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46404,7 +46654,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/595/59541330-2caa-11f0-8559-21c0ee66897c.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2121",
@@ -46412,7 +46664,7 @@
     "brand": "CRYSTAL",
     "name": "Mineral Deodorant Roll-On - Unscented",
     "price": null,
-    "image": "",
+    "image": "/cutouts/crystal-mineral-deodorant-roll-on---unscented.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46424,7 +46676,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/de5/de553710-5779-11ee-ac88-53cadae923c9.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2122",
@@ -46432,7 +46686,7 @@
     "brand": "CRYSTAL",
     "name": "Mineral Deodorant Spray - Unscented",
     "price": null,
-    "image": "",
+    "image": "/cutouts/crystal-mineral-deodorant-spray---unscented.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46444,7 +46698,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/7a3/7a3f6ab0-baec-11f0-ad43-9d65c51c2471.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2123",
@@ -46452,7 +46708,7 @@
     "brand": "Aesop",
     "name": "Déodorant",
     "price": null,
-    "image": "",
+    "image": "/cutouts/aesop-d-odorant.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46464,7 +46720,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b33/b33561a0-c4ef-11eb-b606-db386b4ef3e7.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2124",
@@ -46472,7 +46730,7 @@
     "brand": "NIVEA",
     "name": "Pearl & Beauty Anti-Perspirant Deodorant Spray",
     "price": null,
-    "image": "",
+    "image": "/cutouts/nivea-pearl---beauty-anti-perspirant-deodorant-spray.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46484,7 +46742,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/36c/36c25d70-2cac-11f0-a23c-55cf6823fabd.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2125",
@@ -46492,7 +46752,7 @@
     "brand": "so natural",
     "name": "Peach Deo Pact",
     "price": null,
-    "image": "",
+    "image": "/cutouts/so-natural-peach-deo-pact.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46504,7 +46764,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/d45/d45929d0-7287-11f0-b899-d7d0c4acbc9e.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2126",
@@ -46512,7 +46774,7 @@
     "brand": "Neutrogena",
     "name": "Intense Repair Foot Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/neutrogena-intense-repair-foot-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46524,7 +46786,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/973/973da2c0-297a-11eb-8b23-e5a0a28173a3.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2127",
@@ -46532,7 +46796,7 @@
     "brand": "DermaB",
     "name": "Urea 9.8% Foot Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/dermab-urea-9-8--foot-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46544,7 +46808,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/7e5/7e50cde0-bae4-11f0-9f21-6f5fb99e83cc.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2128",
@@ -46662,7 +46928,7 @@
     "brand": "DR.BRONNER'S",
     "name": "Peppermint - Pure-Castile Magic Soap",
     "price": null,
-    "image": "",
+    "image": "/cutouts/dr-bronner-s-peppermint---pure-castile-magic-soap.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -46674,7 +46940,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/4e1/4e1d1610-0706-11ec-a0dc-a3b3cc6b1450.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2134",
@@ -46704,7 +46972,7 @@
     "brand": "Ryo",
     "name": "Root:Gen Scalp Care Shampoo for Women",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ryo-root-gen-scalp-care-shampoo-for-women.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -46716,7 +46984,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/4b0/4b07feb0-d282-11ed-a8b1-919776a2f3e0.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2136",
@@ -46746,7 +47016,7 @@
     "brand": "TSUBAKI",
     "name": "Premium Volume & Repair Shampoo",
     "price": null,
-    "image": "",
+    "image": "/cutouts/tsubaki-premium-volume---repair-shampoo.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -46758,7 +47028,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/f39/f39610a0-e52a-11ef-b9b6-81231dc295aa.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2138",
@@ -46766,7 +47038,7 @@
     "brand": "Longtake",
     "name": "Sandalwood Intensive Shampoo",
     "price": null,
-    "image": "",
+    "image": "/cutouts/longtake-sandalwood-intensive-shampoo.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -46778,7 +47050,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b11/b11f83c0-baf1-11ec-b832-05d2404c2e7f.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2139",
@@ -46854,7 +47128,7 @@
     "brand": "HAIR+",
     "name": "Protein Bond Water Essence",
     "price": null,
-    "image": "",
+    "image": "/cutouts/hair--protein-bond-water-essence.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -46866,7 +47140,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/3d0/3d069b40-838b-11ee-9d32-bd017d49063e.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2143",
@@ -46874,7 +47150,7 @@
     "brand": "URBAN TRIBE",
     "name": "Hydrate Leave-in Foam",
     "price": null,
-    "image": "",
+    "image": "/cutouts/urban-tribe-hydrate-leave-in-foam.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -46886,7 +47162,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/home/glowmee/upload/20180109/1515490087901.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2144",
@@ -46894,7 +47172,7 @@
     "brand": "SEEDBEE",
     "name": "Water Coloring",
     "price": null,
-    "image": "",
+    "image": "/cutouts/seedbee-water-coloring.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -46906,7 +47184,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/27d/27d0dde0-ba38-11f0-9cb6-2dba5397f620.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2145",
@@ -46914,7 +47194,7 @@
     "brand": "miseenscene",
     "name": "New Hello Bubble",
     "price": null,
-    "image": "",
+    "image": "/cutouts/miseenscene-new-hello-bubble.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -46926,7 +47206,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/fb2/fb245e80-53b7-11ef-8c67-2b34abb142d2.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2146",
@@ -46934,7 +47216,7 @@
     "brand": "Tangle ANGEL",
     "name": "Angel 2.0",
     "price": null,
-    "image": "",
+    "image": "/cutouts/tangle-angel-angel-2-0.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Hair",
@@ -46946,7 +47228,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/4d1/4d1bdce0-2d74-11eb-9073-930f38cb4a67.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2147",
@@ -46954,7 +47238,7 @@
     "brand": "Lement",
     "name": "Color Nail",
     "price": null,
-    "image": "",
+    "image": "/cutouts/lement-color-nail.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Nails",
@@ -46966,7 +47250,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b3d/b3d6c9c0-bacf-11f0-b7a6-0d27bb18f654.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2148",
@@ -46974,7 +47260,7 @@
     "brand": "DIOR",
     "name": "Crème Abricot",
     "price": null,
-    "image": "",
+    "image": "/cutouts/dior-cr-me-abricot.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Nails",
@@ -46986,7 +47272,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/5e5/5e5db090-cf01-11ef-a400-7be8f1de549a.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2149",
@@ -46994,7 +47282,7 @@
     "brand": "COSNORI",
     "name": "Silkrepair Nail Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/cosnori-silkrepair-nail-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Nails",
@@ -47006,7 +47294,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/b7f/b7fa5fd0-03d1-11ec-9413-85257552b9f2.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2150",
@@ -47014,7 +47304,7 @@
     "brand": "Madame Lash",
     "name": "Curved Vegan No-Glue Eyelashes [Glam]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/madame-lash-curved-vegan-no-glue-eyelashes--glam-.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -47026,7 +47316,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/687/6871a1c0-d17d-11f0-a3cf-7d55ac3502cd.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2151",
@@ -47233,7 +47525,7 @@
     "brand": "EUTHYMOL",
     "name": "Original Toothbrush [Classic]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/euthymol-original-toothbrush--classic-.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47245,7 +47537,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/7bd/7bd81c60-927d-11eb-9fe4-fd47cb2de914.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2161",
@@ -47253,7 +47547,7 @@
     "brand": "Dr. Tung's",
     "name": "Stainless Steel Tongue Cleaner",
     "price": null,
-    "image": "",
+    "image": "/cutouts/dr--tung-s-stainless-steel-tongue-cleaner.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47265,7 +47559,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/home/glowmee/upload/product/20200424/1587712892742.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2162",
@@ -47273,7 +47569,7 @@
     "brand": "OLENS",
     "name": "Mood Night Mood Brown",
     "price": null,
-    "image": "",
+    "image": "/cutouts/olens-mood-night-mood-brown.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47285,7 +47581,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/a6b/a6b46610-41d6-11ec-8b05-179178f72a86.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2163",
@@ -47293,7 +47591,7 @@
     "brand": "OLENS",
     "name": "Glowy Black",
     "price": null,
-    "image": "",
+    "image": "/cutouts/olens-glowy-black.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47305,7 +47603,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/789/7890b3f0-11fd-11ec-afa3-ebf051b0a171.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2164",
@@ -47313,7 +47613,7 @@
     "brand": "Alcon",
     "name": "DAILIES TOTAL1",
     "price": null,
-    "image": "",
+    "image": "/cutouts/alcon-dailies-total1.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47325,7 +47625,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/612/61244b80-bade-11f0-8fe3-d93c1f589888.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2165",
@@ -47333,7 +47635,7 @@
     "brand": "ACUVUE",
     "name": "OASYS 1-DAY with HydraLuxe",
     "price": null,
-    "image": "",
+    "image": "/cutouts/acuvue-oasys-1-day-with-hydraluxe.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47345,7 +47647,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/e31/e319fa90-4d91-11ec-9fa2-39a8d4f19d65.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2166",
@@ -47353,7 +47657,7 @@
     "brand": "CopperVision",
     "name": "Biofinity",
     "price": null,
-    "image": "",
+    "image": "https://dn5hzapyfrpio.cloudfront.net/home/glowmee/upload/20190409/1554801167969.png",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47373,7 +47677,7 @@
     "brand": "Alcon",
     "name": "AOSEPT PLUS",
     "price": null,
-    "image": "",
+    "image": "/cutouts/alcon-aosept-plus.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47385,7 +47689,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/7ef/7efc8cf0-4b50-11ec-8e0c-ff248ddd28a7.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2168",
@@ -47393,7 +47699,7 @@
     "brand": "Alcon",
     "name": "OPTI-FREE Express",
     "price": null,
-    "image": "",
+    "image": "/cutouts/alcon-opti-free-express.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47405,7 +47711,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/907/90731650-8840-11ee-9f7f-2b0f5c432925.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2169",
@@ -47413,7 +47721,7 @@
     "brand": "Alcon",
     "name": "OPTI-FREE Replenish",
     "price": null,
-    "image": "",
+    "image": "/cutouts/alcon-opti-free-replenish.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47425,7 +47733,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/49a/49a61210-4b50-11ec-8e0c-ff248ddd28a7.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2170",
@@ -47433,7 +47743,7 @@
     "brand": "JO MALONE",
     "name": "English Pear & Freesia Cologne",
     "price": null,
-    "image": "",
+    "image": "/cutouts/jo-malone-english-pear---freesia-cologne.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -47445,7 +47755,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/abf/abf7e600-bae6-11f0-8c60-b515fdb63b57.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2171",
@@ -47453,7 +47765,7 @@
     "brand": "ARIANA GRANDE",
     "name": "Sweet Like Candy Eau de Parfum",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ariana-grande-sweet-like-candy-eau-de-parfum.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -47465,7 +47777,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/home/glowmee/upload/20191011/1570770900648.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2172",
@@ -47495,7 +47809,7 @@
     "brand": "a ddct",
     "name": "The First Eau de Parfum",
     "price": null,
-    "image": "",
+    "image": "/cutouts/a-ddct-the-first-eau-de-parfum.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -47507,7 +47821,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/31a/31afbec0-5012-11f0-9f7c-4d4062a388c6.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2174",
@@ -47515,7 +47831,7 @@
     "brand": "Elizabeth Arden",
     "name": "Green Tea Scent Spray",
     "price": null,
-    "image": "",
+    "image": "/cutouts/elizabeth-arden-green-tea-scent-spray.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -47527,7 +47843,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/a5a/a5a30650-5627-11eb-8bf4-33523afdca81.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2175",
@@ -47535,7 +47853,7 @@
     "brand": "BULY",
     "name": "Eau Triple Scottish Lichen",
     "price": null,
-    "image": "",
+    "image": "/cutouts/buly-eau-triple-scottish-lichen.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -47547,7 +47865,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/c1f/c1fa6000-100b-11ee-8c4d-4ba433cea27b.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2176",
@@ -47599,7 +47919,7 @@
     "brand": "SPORTS RESEARCH",
     "name": "Omega-3 Fish Oil from Wild Alaska Pollock",
     "price": null,
-    "image": "",
+    "image": "/cutouts/sports-research-omega-3-fish-oil-from-wild-alaska-pollock.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47611,7 +47931,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/8fb/8fb29610-5719-11f0-bd7d-e38d5f82661c.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2179",
@@ -47619,7 +47941,7 @@
     "brand": "vinerlab",
     "name": "Boosty Arginine",
     "price": null,
-    "image": "",
+    "image": "/cutouts/vinerlab-boosty-arginine.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47631,7 +47953,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/0cc/0cc271a0-315b-11f0-97b1-635532c6fbd0.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2180",
@@ -47639,7 +47963,7 @@
     "brand": "Cell Fusion C",
     "name": "UV Formula Jelly",
     "price": null,
-    "image": "",
+    "image": "/cutouts/cell-fusion-c-uv-formula-jelly.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47651,7 +47975,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/860/860266e0-9a45-11ef-8379-ab345c16cf1b.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2181",
@@ -47659,7 +47985,7 @@
     "brand": "NUTRIMADE",
     "name": "Youth Formula",
     "price": null,
-    "image": "",
+    "image": "/cutouts/nutrimade-youth-formula.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Wellness",
@@ -47671,7 +47997,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/1eb/1ebe3470-31ec-11f0-bf85-212a935fe7ad.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2182",
@@ -47701,7 +48029,7 @@
     "brand": "NAAAMYUUU",
     "name": "iBodle CCP Cream",
     "price": null,
-    "image": "",
+    "image": "/cutouts/naaamyuuu-ibodle-ccp-cream.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Body",
@@ -47713,7 +48041,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/37d/37d0bdc0-bad6-11f0-b7a6-0d27bb18f654.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2184",
@@ -47787,7 +48117,7 @@
     "brand": "NATURE REPUBLIC",
     "name": "Blue Aloe Calming Pore Pad",
     "price": null,
-    "image": "",
+    "image": "/cutouts/nature-republic-blue-aloe-calming-pore-pad.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47799,7 +48129,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/7c8/7c8ae200-1699-11f1-aa4c-7dae87cd3d6f.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2188",
@@ -47807,7 +48139,7 @@
     "brand": "rdrd",
     "name": "Red Apple Lacto Calming Serum",
     "price": null,
-    "image": "",
+    "image": "/cutouts/rdrd-red-apple-lacto-calming-serum.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -47819,7 +48151,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/474/47496640-1129-11f1-9cbc-b3d4179759b5.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2189",
@@ -47939,7 +48273,7 @@
     "brand": "MONORIK",
     "name": "Mono Sheer Lip Palette",
     "price": null,
-    "image": "",
+    "image": "/cutouts/monorik-mono-sheer-lip-palette.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -47951,7 +48285,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/e22/e2295dc0-e44a-11f0-8d9d-ad1d668f0e48.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2195",
@@ -47981,7 +48317,7 @@
     "brand": "alternative stereo",
     "name": "Mood Layer Stick",
     "price": null,
-    "image": "",
+    "image": "/cutouts/alternative-stereo-mood-layer-stick.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -47993,7 +48329,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/acf/acfee900-ebaa-11f0-b573-1dd85903e2d0.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2197",
@@ -48024,7 +48362,7 @@
     "brand": "ongredients",
     "name": "Skin Barrier Calming Lip Essence",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ongredients-skin-barrier-calming-lip-essence.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -48036,7 +48374,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/bd9/bd9c9850-f7f5-11f0-817b-0bbc8b2071f7.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2199",
@@ -48152,7 +48492,7 @@
     "brand": "tooq",
     "name": "Water Cream Color Blusher",
     "price": null,
-    "image": "",
+    "image": "/cutouts/tooq-water-cream-color-blusher.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -48164,7 +48504,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/2d5/2d5fc360-bde0-11f0-8929-91ac79940073.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2205",
@@ -48194,7 +48536,7 @@
     "brand": "TOCOBO",
     "name": "Vita Soft Daily Sun Lotion [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/tocobo-vita-soft-daily-sun-lotion--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -48206,7 +48548,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/5b8/5b83b300-e76b-11f0-9888-3337808539c2.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2207",
@@ -48236,7 +48580,7 @@
     "brand": "CHASIN' RABBITS",
     "name": "All About Blur Purple Cover Cream [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/chasin--rabbits-all-about-blur-purple-cover-cream--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -48248,7 +48592,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/d1f/d1f94730-1140-11f1-8747-e1853e12af4a.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2209",
@@ -48279,7 +48625,7 @@
     "brand": "Biore",
     "name": "UV Aqua Rich Watery Essence [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/biore-uv-aqua-rich-watery-essence--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -48291,7 +48637,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/140/1403a710-16c8-11f1-a862-9db041b42fb5.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2211",
@@ -48322,7 +48670,7 @@
     "brand": "MegRhythm",
     "name": "Gentle Steam Eye Mask [Unscented]",
     "price": null,
-    "image": "https://dn5hzapyfrpio.cloudfront.net/product/6a5/6a57d440-714f-11ee-b6f4-e34fef4bd09e.jpeg",
+    "image": "/cutouts/megrhythm-gentle-steam-eye-mask--unscented--2.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Wellness",
@@ -48334,7 +48682,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/ec9/ec9f6eb0-d0cd-11f0-908a-91820f0b5f5b.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2213",
@@ -49028,7 +49378,7 @@
     "brand": "BRINGGREEN",
     "name": "Bamboo Hyalu Lip Essence",
     "price": null,
-    "image": "",
+    "image": "/cutouts/bringgreen-bamboo-hyalu-lip-essence.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 2,
     "category": "Makeup",
@@ -49041,7 +49391,9 @@
     "awardsWon": [
       "Glowpick Awards (2026)",
       "Olive Young Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/d58/d58cc160-be99-11ef-a1e1-839d740ebd04.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2245",
@@ -49420,7 +49772,7 @@
     "brand": "SHINGMULNARA",
     "name": "Oxygen Water Face & Body Sun Stick [SPF50+/PA++++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/shingmulnara-oxygen-water-face---body-sun-stick--spf50--pa-----.webp",
     "topAward": "Glowpick Awards (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -49432,7 +49784,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2026)"
-    ]
+    ],
+    "imageOriginal": "https://dn5hzapyfrpio.cloudfront.net/product/47b/47b57c30-0564-11f0-b33b-f5d17357bf5d.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-2263",
@@ -49983,7 +50337,7 @@
     "awardsWon": [
       "Allure Readers Choice — Makeup Winner (2026)"
     ],
-    "imageOriginal": "https://www.yslbeauty.com/dw/image/v2/BDCR_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw917194f9/images/PACKSHOTS/MAKEUP/LIPS/WW-51209YSL_ysl-loveshine/3614274132687_ysl-loveshine_main.png",
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2751592-main-zoom.jpg?imwidth=1224",
     "imageCutout": true
   },
   {
@@ -50059,7 +50413,7 @@
     "brand": "Ouai",
     "name": "Hair & Body Fragrance Mist",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ouai-hair---body-fragrance-mist.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hair Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -50071,7 +50425,9 @@
     "buyLink": "https://go.shopmy.us/p-89321409",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hair Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/2ce944c3-08dd-49e0-9a9a-0fec2d92dea0/9436f3c5-f26a-4709-a815-4de42de60cbe.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2292",
@@ -52686,7 +53042,7 @@
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Skin Scent (2026)"
     ],
-    "imageOriginal": "https://cdn.sanity.io/images/1k2t1bm0/production/4d691fe08cb3fbec74b30a989b61f5b3a5cc6b21-1440x1920.png",
+    "imageOriginal": "https://www.dsanddurga.com/cdn/shop/files/IDKW_edp50_final.jpg?v=1786744640&width=2048",
     "imageCutout": true
   },
   {
@@ -55567,7 +55923,7 @@
     "brand": "Cécred",
     "name": "Reconstructing Treatment Mask",
     "price": null,
-    "image": "",
+    "image": "/cutouts/c-cred-reconstructing-treatment-mask.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hair Mask for Type 4 Hair (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -55579,7 +55935,9 @@
     "buyLink": "https://go.shopmy.us/p-89319235",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hair Mask for Type 4 Hair (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cecred.com/cdn/shop/files/PDP-Carousel-Reconstructing-Treatment-Mask-Hero-Shot.jpg?v=1782156489",
+    "imageCutout": true
   },
   {
     "id": "prod-2546",
@@ -55587,7 +55945,7 @@
     "brand": "Sol de Janeiro",
     "name": "Delícia Drench Body Butter",
     "price": null,
-    "image": "",
+    "image": "https://soldejaneiro.com/cdn/shop/files/01_SDJ_PPage_DTC_BD_BC_240ML_OVERHEAD_RGB_1452X1452_3f8c70d0-1981-4b09-9038-87c2fb807fc6.jpg?v=1788872979",
     "topAward": "Cosmopolitan Readers Choice — Best Scented Body Lotion (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -55607,7 +55965,7 @@
     "brand": "Saie",
     "name": "The All-Over Powder Brush",
     "price": null,
-    "image": "",
+    "image": "https://saiehello.com/cdn/shop/files/AllOverPowderBrush01_1200x1200.jpg?v=1750185876",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -55728,7 +56086,7 @@
     "awardsWon": [
       "Marie Claire Prix d'Excellence — International Winner – Sun Protection (2026)"
     ],
-    "imageOriginal": "https://media.augustinusbader.com/catalog/product/m/i/mineral-spf-packshot1.png",
+    "imageOriginal": "https://cdn.mos.cms.futurecdn.net/gurBD4wxr9rtD2Bxy3K8YE.jpg",
     "imageCutout": true
   },
   {
@@ -55861,7 +56219,7 @@
     "awardsWon": [
       "Glamour Beauty Awards — Curly & Coily Hair — Best Edge Control (2026)"
     ],
-    "imageOriginal": "https://media.ulta.com/i/ulta/2642938?w=1200&h=1200",
+    "imageOriginal": "https://media.ulta.com/i/ulta/2642938?w=1000",
     "imageCutout": true
   },
   {
@@ -55883,7 +56241,7 @@
     "awardsWon": [
       "Glamour Beauty Awards — Wellness — Best Massage Oil (2026)"
     ],
-    "imageOriginal": "https://stripesbeauty.com/cdn/shop/files/Oh_My_Glide_-_PDP_-White-Bg_2048x2048.jpg",
+    "imageOriginal": "https://media.glamour.com/photos/69a9ea6e1f03fa21feac2b6a/master/w_1600,c_limit/Stripes%20Beauty%20Oh%20My%20Glide.jpg",
     "imageCutout": true
   },
   {
@@ -55892,7 +56250,7 @@
     "brand": "Laura Mercier",
     "name": "Real Flawless Foundation Brush",
     "price": null,
-    "image": "",
+    "image": "https://media.ulta.com/i/ulta/2633112?w=1200&h=1200&fmt=jpg&bg=rgb(255,255,255)",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -55912,7 +56270,7 @@
     "brand": "Rēphr",
     "name": "LC 02 Synthetic Petit Complexion Brush",
     "price": null,
-    "image": "",
+    "image": "https://cdn.shopify.com/s/files/1/0048/7204/4614/files/LC02.png?v=1762362111",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -55932,7 +56290,7 @@
     "brand": "Shark Beauty",
     "name": "Shark Glam 5-in-1 Air Styler & Dryer",
     "price": null,
-    "image": "",
+    "image": "https://www.sephora.com/productimages/sku/s3024833-main-zoom.jpg?pb=best-of-beauty-2026&imwidth=1224",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -55952,7 +56310,7 @@
     "brand": "Mane",
     "name": "It's Giving Body Jumbo Hot Round Brush (60MM)",
     "price": null,
-    "image": "",
+    "image": "https://www.sephora.com/productimages/sku/s2844009-main-zoom.jpg?pb=best-of-beauty-2026&imwidth=1224",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -55972,7 +56330,7 @@
     "brand": "Estée Lauder",
     "name": "Revitalizing Supreme+ Night Power Bounce Cream Moisturizer",
     "price": null,
-    "image": "",
+    "image": "/cutouts/est-e-lauder-revitalizing-supreme--night-power-bounce-cream-moisturizer.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Nighttime Moisturizer (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -55984,7 +56342,9 @@
     "buyLink": "https://go.shopmy.us/p-89316903",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Nighttime Moisturizer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/4fdbb486-4036-4418-983b-cfb05f6b78fb/4e6d55c7-fa93-4314-a622-e15788e5b8be.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2565",
@@ -55992,7 +56352,7 @@
     "brand": "Ole Henriksen",
     "name": "Banana Bright + Eye Crème",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ole-henriksen-banana-bright---eye-cr-me.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Eye Cream (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -56004,7 +56364,9 @@
     "buyLink": "https://go.shopmy.us/p-89315635",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Eye Cream (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/24969743-e71f-45f6-a238-dff90d14fa08/77732dd1-e70e-4d69-a2ff-4931218720d8.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2566",
@@ -56012,7 +56374,7 @@
     "brand": "Patrick Ta",
     "name": "Major Headlines Double-Take Crème & Powder Blush Duo",
     "price": null,
-    "image": "",
+    "image": "/cutouts/patrick-ta-major-headlines-double-take-cr-me---powder-blush-duo.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Cheek Palette (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -56024,7 +56386,9 @@
     "buyLink": "https://go.shopmy.us/p-89318442",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Cheek Palette (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/725aa0c5-ef54-418e-8ff6-b6226bb9a2be/5f08ce90-1759-488b-93ec-1637e18854d3.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2567",
@@ -56032,7 +56396,7 @@
     "brand": "Head & Shoulders",
     "name": "Classic Clean Dandruff Shampoo",
     "price": null,
-    "image": "",
+    "image": "/cutouts/head---shoulders-classic-clean-dandruff-shampoo.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Scalp Shampoo (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -56044,7 +56408,9 @@
     "buyLink": "https://www.amazon.com/dp/B0B96LXQ49?tag=vettbeauty-20",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Scalp Shampoo (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/ecbf1137-2846-48be-ad40-b76975974285/7fe209e0-1701-4324-9e5d-94c51e71dbf2.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2568",
@@ -56096,7 +56462,7 @@
     "brand": "Kérastase",
     "name": "Elixir Ultime Hydrating Hair Oil",
     "price": null,
-    "image": "",
+    "image": "/cutouts/k-rastase-elixir-ultime-hydrating-hair-oil.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hair Oil (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -56108,7 +56474,9 @@
     "buyLink": "https://go.shopmy.us/p-89319321",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hair Oil (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/a203a0ce-fa3f-4ba9-888d-c3b9110628a5/c278eff0-f072-4177-8fac-c04a4afa1da6.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2571",
@@ -56116,7 +56484,7 @@
     "brand": "SexyHair",
     "name": "Big Spray & Play Volumizing Hairspray",
     "price": null,
-    "image": "",
+    "image": "/cutouts/sexyhair-big-spray---play-volumizing-hairspray.webp",
     "topAward": "Cosmopolitan Readers Choice — Best Hairspray (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -56128,7 +56496,9 @@
     "buyLink": "https://go.shopmy.us/p-89316493",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best Hairspray (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/48fc2f83-265d-42d1-a2a5-9bdfadbebf3f/f8b95e80-8977-459a-bb74-2ee5fb9f5c0b.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2572",
@@ -56136,7 +56506,7 @@
     "brand": "L'Oréal Paris",
     "name": "Excellence Creme Universal Nudes",
     "price": null,
-    "image": "",
+    "image": "/cutouts/l-or-al-paris-excellence-creme-universal-nudes.webp",
     "topAward": "Cosmopolitan Readers Choice — Best At-Home Hair Color (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -56148,7 +56518,9 @@
     "buyLink": "https://go.shopmy.us/p-89319706",
     "awardsWon": [
       "Cosmopolitan Readers Choice — Best At-Home Hair Color (2026)"
-    ]
+    ],
+    "imageOriginal": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/product-images/fe4d3f93-5629-4b58-8ad5-cbfe2e654e3f/3dd006f1-c940-42a8-ad3d-f1cb6b6713b6.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2573",
@@ -56156,7 +56528,7 @@
     "brand": "British M",
     "name": "Hot Curling Ceramic Brush",
     "price": null,
-    "image": "",
+    "image": "/cutouts/british-m-hot-curling-ceramic-brush.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -56168,7 +56540,9 @@
     "buyLink": "https://www.amazon.com/dp/B0C84BFL7W?tag=vettbeauty-20",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cafe24img.poxo.com/contempoco/web/product/big/202608/dbad0cd24f2085eb1c90bfc205bcfd20.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2574",
@@ -56176,7 +56550,7 @@
     "brand": "The Hair Edit",
     "name": "Gilded Ellipse Flat Lay Claw Clip",
     "price": null,
-    "image": "",
+    "image": "/cutouts/the-hair-edit-gilded-ellipse-flat-lay-claw-clip.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -56188,7 +56562,9 @@
     "buyLink": "https://thehairedit.com/products/gilded-ellipse-flat-lay-claw-clip",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0239/1320/1728/files/917381466-s2608_allure-gilded-eclipse-clip_2000x2000_a363e00d-a51d-49ef-a562-be2aa4e90ff5.jpg?v=1790347349",
+    "imageCutout": true
   },
   {
     "id": "prod-2575",
@@ -57101,7 +57477,7 @@
     "brand": "Paula's Choice",
     "name": "2% BHA Liquid Exfoliant Toner Pads",
     "price": 16,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/71TbZaOcoIL._SL1500_.jpg",
     "topAward": "Marie Claire Reader's Choice — Exfoliator (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -57121,7 +57497,7 @@
     "brand": "Jane Iredale",
     "name": "Skintuition SPF 30 Radiance-Boosting Liquid Foundation",
     "price": 56,
-    "image": "",
+    "image": "/cutouts/jane-iredale-skintuition-spf-30-radiance-boosting-liquid-foundation.webp",
     "topAward": "Marie Claire Reader's Choice — Foundation (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -57133,7 +57509,9 @@
     "buyLink": "https://go.shopmy.us/p-89315950",
     "awardsWon": [
       "Marie Claire Reader's Choice — Foundation (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0338/3882/5612/files/Skintuition_38_Light_Medium_Soldier_SCF.jpg?v=1773765093&width=1600",
+    "imageCutout": true
   },
   {
     "id": "prod-2618",
@@ -57141,7 +57519,7 @@
     "brand": "e.l.f. Cosmetics",
     "name": "Glow Reviver Tinted Lip Oil",
     "price": 9,
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/616YIg55gvL._SL1500_.jpg",
     "topAward": "Marie Claire Reader's Choice — Lip Oil (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -57508,7 +57886,7 @@
     "brand": "LYS",
     "name": "Bright Start Creamy Buildable Airbrush Concealer",
     "price": 24,
-    "image": "",
+    "image": "https://www.sephora.com/productimages/sku/s2909984-main-zoom.jpg?imwidth=1500",
     "topAward": "Marie Claire Reader's Choice — Concealer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -58929,7 +59307,7 @@
     "awardsWon": [
       "Allure Best of Beauty — Best Finishing Oil (2026)"
     ],
-    "imageOriginal": "https://media.allure.com/photos/6a94c2915d0e96606ff94eed/1:1/w_1600,c_limit/undefined",
+    "imageOriginal": "https://use-image.oliveyoung.com/images/prd/4589546890796/thumbnail/59ef786c-7df4-44e3-8834-08116c53e817.jpg",
     "imageCutout": true
   },
   {
@@ -60382,7 +60760,7 @@
     "brand": "Ilia",
     "name": "Blending Brush",
     "price": null,
-    "image": "",
+    "image": "https://iliabeauty.com/cdn/shop/files/Blending_Blush_Allure_white.jpg?v=1789750470",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -60402,7 +60780,7 @@
     "brand": "Danessa Myricks Beauty",
     "name": "Yummy Face 3.0 All Over Concealer Brush",
     "price": null,
-    "image": "",
+    "image": "https://www.sephora.com/productimages/sku/s2792919-main-zoom.jpg?pb=best-of-beauty-2026&imwidth=1224",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -60422,7 +60800,7 @@
     "brand": "M.Ph",
     "name": "Underpainting Dual-Ended Sculpting Brush",
     "price": null,
-    "image": "",
+    "image": "https://www.sephora.com/productimages/sku/s2884617-main-zoom.jpg?pb=best-of-beauty-2026&imwidth=1224",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -60442,7 +60820,7 @@
     "brand": "Rose and Ben Beauty",
     "name": "C41 Blush Brush",
     "price": null,
-    "image": "",
+    "image": "/cutouts/rose-and-ben-beauty-c41-blush-brush.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -60454,7 +60832,9 @@
     "buyLink": "https://roseandbenbeauty.com/products/blush-brush",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0591/7271/6699/files/FAR-PDP-Carousel-2130X2840-C41-Front.jpg?v=1778706750",
+    "imageCutout": true
   },
   {
     "id": "prod-2772",
@@ -60462,7 +60842,7 @@
     "brand": "Shu Uemura",
     "name": "Iconic Eyelash Curler",
     "price": null,
-    "image": "",
+    "image": "/cutouts/shu-uemura-iconic-eyelash-curler.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -60474,7 +60854,9 @@
     "buyLink": "https://www.amazon.com/dp/B00KFP9XM6?tag=vettbeauty-20",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://static.thcdn.com/productimg/original/10366556-4065167223245014.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2773",
@@ -60482,7 +60864,7 @@
     "brand": "FHI Heat",
     "name": "AeroMax Style Dryer",
     "price": null,
-    "image": "",
+    "image": "https://cdn.shopify.com/s/files/1/0163/1548/2212/files/Curated_Collecton_Aeromax_Main_Image_1.jpg?v=1768500263",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -60502,7 +60884,7 @@
     "brand": "Revlon",
     "name": "One-Step Multi-Styler",
     "price": null,
-    "image": "",
+    "image": "https://target.scene7.com/is/image/Target/GUEST_1162af45-74f4-4b7e-a7c0-adb76fa0f801?wid=1200&hei=1200&fmt=pjpeg",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61308,7 +61690,7 @@
     "brand": "Bio Ionic",
     "name": "10X Styling Iron",
     "price": null,
-    "image": "",
+    "image": "/cutouts/bio-ionic-10x-styling-iron.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61320,7 +61702,9 @@
     "buyLink": "https://go.shopmy.us/p-89222820",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2869196-main-zoom.jpg?pb=best-of-beauty-2026&imwidth=1224",
+    "imageCutout": true
   },
   {
     "id": "prod-2812",
@@ -61328,7 +61712,7 @@
     "brand": "GHD",
     "name": "Chronos Curve Grand Iron",
     "price": null,
-    "image": "",
+    "image": "/cutouts/ghd-chronos-curve-grand-iron.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61340,7 +61724,9 @@
     "buyLink": "https://go.shopmy.us/p-89222681",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2991552-main-zoom.jpg?pb=best-of-beauty-2026&imwidth=1224",
+    "imageCutout": true
   },
   {
     "id": "prod-2813",
@@ -61348,7 +61734,7 @@
     "brand": "Bellissima Italia",
     "name": "Diffon Supreme Ionic XL Curly Hair Dryer",
     "price": null,
-    "image": "",
+    "image": "/cutouts/bellissima-italia-diffon-supreme-ionic-xl-curly-hair-dryer.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61360,7 +61746,9 @@
     "buyLink": "https://www.amazon.com/dp/B0BQ1Y7YP4?tag=vettbeauty-20",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://m.media-amazon.com/images/I/613yyF2i6AL._AC_SL1000_.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2814",
@@ -61368,7 +61756,7 @@
     "brand": "Emi Jay",
     "name": "Bamboo Paddle Brush",
     "price": null,
-    "image": "",
+    "image": "/cutouts/emi-jay-bamboo-paddle-brush.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61380,7 +61768,9 @@
     "buyLink": "https://go.shopmy.us/p-88972090",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2843779-main-zoom.jpg?pb=best-of-beauty-2026&imwidth=1224",
+    "imageCutout": true
   },
   {
     "id": "prod-2815",
@@ -61388,7 +61778,7 @@
     "brand": "Solar Eclipse",
     "name": "Claw Hair Clips",
     "price": null,
-    "image": "",
+    "image": "/cutouts/solar-eclipse-claw-hair-clips.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61400,7 +61790,9 @@
     "buyLink": "https://go.shopmy.us/p-89540527",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0336/2796/3523/files/Allure_9357401058644.jpg?v=1789666096",
+    "imageCutout": true
   },
   {
     "id": "prod-2816",
@@ -61408,7 +61800,7 @@
     "brand": "L. Erickson",
     "name": "Grab & Go Pony Tube",
     "price": null,
-    "image": "",
+    "image": "https://cdn.shopify.com/s/files/1/0065/2682/8632/files/LI4563Neutral-NEW_Shopify_Optimized_Allure.jpg?v=1789660257",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61428,7 +61820,7 @@
     "brand": "Arachne",
     "name": "L'uovo The Everywhere Essentials Egg",
     "price": null,
-    "image": "",
+    "image": "/cutouts/arachne-l-uovo-the-everywhere-essentials-egg.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61440,7 +61832,9 @@
     "buyLink": "https://www.arachne.com/products/luovo-essentials-egg-all-black",
     "awardsWon": [
       "Allure Best of Beauty — Tools (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0841/7977/9894/files/AOVO215_LUOVO_CHOCOLATEGLAZE_PDP_img_01.webp?v=1779203933",
+    "imageCutout": true
   },
   {
     "id": "prod-2818",
@@ -62778,7 +63172,7 @@
     "brand": "Prequel",
     "name": "Gleanser Non-Drying Glycerin Cleanser",
     "price": null,
-    "image": "",
+    "image": "/cutouts/prequel-gleanser-non-drying-glycerin-cleanser.webp",
     "topAward": "Allure Best of Beauty — Sensitive (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -62790,7 +63184,9 @@
     "buyLink": "https://go.shopmy.us/p-88971253",
     "awardsWon": [
       "Allure Best of Beauty — Sensitive (2026)"
-    ]
+    ],
+    "imageOriginal": "https://media.allure.com/photos/6aa43ab42b26b8766254a04c/master/w_2560/undefined",
+    "imageCutout": true
   },
   {
     "id": "prod-2880",
@@ -62922,7 +63318,7 @@
     "awardsWon": [
       "Allure Best of Beauty — Best for Sensitive Types (2026)"
     ],
-    "imageOriginal": "https://media.allure.com/photos/6a8f420954af8f441182bdc3/1:1/w_1600,c_limit/undefined",
+    "imageOriginal": "https://use-image.oliveyoung.com/images/prd/8809013342426/thumbnail/72692562-e4a2-4ed5-b922-a66ae4df405c.png",
     "imageCutout": true
   },
   {
@@ -69926,7 +70322,7 @@
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Moisturizer Under Makeup (2025)"
     ],
-    "imageOriginal": "https://media.augustinusbader.com/catalog/product/a/b/ab2022_the-rich-cream-50ml_2.png",
+    "imageOriginal": "https://static.thcdn.com/productimg/original/13315093-1235276909612463.jpg",
     "imageCutout": true
   },
   {
