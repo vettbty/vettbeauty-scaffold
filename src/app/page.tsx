@@ -3,11 +3,11 @@ import EmailCapture from "@/components/EmailCapture";
 import ProductGrid from "@/components/ProductGrid";
 import Wordmark from '@/components/Wordmark';
 import SaveCount from '@/components/SaveCount';
-import { products2026, awardPrograms, pressArticles, publications } from '@/lib/data';
+import { shoppable, awardPrograms, pressArticles, publications } from '@/lib/data';
 import type { Product, AwardProgram } from '@/lib/data';
 
 export default function Home() {
-  const top = [...products2026].sort((a, b) => b.awardCount - a.awardCount).slice(0, 8);
+  const top = [...shoppable].sort((a, b) => b.awardCount - a.awardCount).slice(0, 8);
 
   // The newest award class, taken from the top of awardPrograms so this follows
   // whatever was recorded most recently instead of naming a programme here.
@@ -53,7 +53,7 @@ export default function Home() {
   // Packshot required. Showing the full class put 245 empty grey tiles on the
   // homepage — Sascha, 2026-09-21: "junky and grey patches". A winner joins the
   // grid when it has an image, which the image routine fills in on Tue/Fri.
-  const winnersOf = (prog: AwardProgram) => products2026
+  const winnersOf = (prog: AwardProgram) => shoppable
     .filter(p => p.image && (p.awardsWon || []).some(wonIn(prog)))
     .sort((a, b) =>
       (b.image ? 1 : 0) - (a.image ? 1 : 0) ||
@@ -91,7 +91,7 @@ export default function Home() {
           href="/browse"
           className="inline-flex items-center gap-2 bg-charcoal text-white px-7 py-3 rounded-xl font-semibold text-sm hover:bg-charcoal-light transition-colors"
         >
-          Browse {products2026.length.toLocaleString()} winners →
+          Browse {shoppable.length.toLocaleString()} winners →
         </Link>
       </section>
 

@@ -47,6 +47,12 @@ export interface PressArticle {
 
 export const products2026: Product[] = productsJson as Product[];
 
+// The grids feature only winners a reader can actually buy. A product with no
+// working buy link keeps its page (search, sitemap, direct links) but stays off
+// the homepage and browse grids until a link sitting finds one — Sascha,
+// 2026-09-28: "whats the point of featuring them".
+export const shoppable: Product[] = products2026.filter(p => p.buyLink);
+
 export const awardPrograms: AwardProgram[] = [
   { id: '6', name: 'Allure Best of Beauty', edition: '2026', winnerCount: 308, announcedDate: '15 Sep 2026', region: 'US', justAdded: true },
   { id: '7', name: 'Cosmopolitan Readers\' Choice', edition: '2026', winnerCount: 129, announcedDate: '2 Sep 2026', region: 'US', recordName: 'Cosmopolitan Readers Choice', justAdded: true },

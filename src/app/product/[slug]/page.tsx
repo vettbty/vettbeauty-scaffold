@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { products2026 } from '@/lib/data';
+import { products2026, shoppable } from '@/lib/data';
 import SaveButton from '@/components/SaveButton';
 
 // Generate static paths for all products
@@ -275,7 +275,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             More {product.category} Winners
           </h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4">
-            {products2026
+            {shoppable
               .filter(p => p.category === product.category && p.id !== product.id)
               .slice(0, 4)
               .map(related => (

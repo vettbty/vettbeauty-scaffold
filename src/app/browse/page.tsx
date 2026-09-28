@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useState, useMemo, useRef } from 'react';
-import { products2026 } from '@/lib/data';
+import { products2026, shoppable } from '@/lib/data';
 import SaveCount from '@/components/SaveCount';
 import Wordmark from '@/components/Wordmark';
 
@@ -45,7 +45,10 @@ export default function Home() {
   }, []);
 
   const filteredProducts = useMemo(() => {
-    let filtered = products2026;
+    // Browsing shows buyable winners only; a typed search reaches every winner,
+    // so a reader looking for a specific product can still find its page.
+    const searching = searchQuery.trim() !== '' || brandQuery.trim() !== '';
+    let filtered = searching ? products2026 : shoppable;
     if (activeFilter !== 'all') {
       filtered = filtered.filter(p => p.category === categoryMap[activeFilter]);
     }
