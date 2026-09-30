@@ -52691,8 +52691,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "none",
-    "buyLink": "",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-90568727",
     "awardsWon": [
       "Hwahae Beauty Awards (2026)"
     ]
