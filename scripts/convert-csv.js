@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { execSync } = require('child_process');
 
 const csv = fs.readFileSync('./products.csv', 'utf-8');
 const lines = csv.split('\n').filter(l => l.trim());
@@ -123,3 +124,20 @@ if (fs.existsSync('./src/lib/data-overrides.json')) {
 
 fs.writeFileSync('./src/lib/products.json', JSON.stringify(products, null, 2));
 console.log(`Converted ${products.length} products`);
+
+/* There are three image stores, and the block above re-applies only one of
+   them. The other two — the lifted backdrops in levelled.json, and the
+   replacement sources in resolved-new-images.json — were being dropped on
+   every regenerate, which silently put 246 products back to the raw photo the
+   lift exists to fix and erased all of the imageSource provenance with it.
+   Nothing was lost when that happened, because the stores themselves are on
+   disk; only the pointers into them were. So reconcile all three here rather
+   than leaving it to be noticed. The reconciler is idempotent and it is the
+   same one run by hand after a cutout or lift pass. */
+try {
+  execSync('node scripts/apply-image-pointers.mjs', { stdio: 'inherit' });
+} catch (e) {
+  console.error('\n  ! apply-image-pointers.mjs failed — products.json now points only at cutouts.');
+  console.error('    The lifted backdrops and resolved sources are still on disk; re-run it before deploying.');
+  process.exitCode = 1;
+}
