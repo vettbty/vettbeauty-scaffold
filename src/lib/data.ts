@@ -123,12 +123,6 @@ export const awardPrograms: AwardProgram[] = [
   // buyable-only, so these 27 are on their product pages but cannot join a grid
   // until the link waterfall has been run over them.
   { id: '15', name: 'Harper\'s Bazaar Hair Awards', edition: '2026', winnerCount: 27, announcedDate: '11 Feb 2026', region: 'US', recordName: "Harper's Bazaar Hair Awards" },
-  // ELLE's global programme — beauty editors across ~50 ELLE editions vote, one
-  // winner per category. Announced January 2026 and found on 2026-10-01, eight
-  // months late, because every Elle entry in the calendar pointed at October.
-  // No justAdded grid yet: 14 of the 20 are new to the catalogue and have
-  // neither image nor link.
-  { id: '16', name: 'ELLE International Beauty Awards', edition: '2026', winnerCount: 20, announcedDate: 'Jan 2026', region: 'International', recordName: 'ELLE International Beauty Awards' },
   { id: '13', name: 'Glowpick Awards', edition: '2026', winnerCount: 491, announcedDate: 'H1 2026', region: 'Korea' },
   { id: '14', name: 'Hwahae Beauty Awards', edition: '2026', winnerCount: 408, announcedDate: '2026', region: 'Korea' },
 ];
