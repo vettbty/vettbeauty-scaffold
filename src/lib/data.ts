@@ -1,4 +1,5 @@
 import productsJson from './products.json';
+import { subcategoryFor } from './taxonomy';
 
 export interface Product {
   id: string;
@@ -45,7 +46,12 @@ export interface PressArticle {
   productSlug: string;
 }
 
-export const products2026: Product[] = productsJson as Product[];
+// Every product carries a subcategory from the browse taxonomy — the curated
+// label where there is one, else inferred from the name (see taxonomy.ts).
+export const products2026: Product[] = (productsJson as Product[]).map(p => ({
+  ...p,
+  subcategory: subcategoryFor(p.category, p.subcategory, p.name),
+}));
 
 // The grids feature only winners a reader can actually buy. A product with no
 // working buy link keeps its page (search, sitemap, direct links) but stays off

@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { products2026, shoppable } from '@/lib/data';
 import SaveButton from '@/components/SaveButton';
+import { CATEGORIES, OTHER, slugify } from '@/lib/taxonomy';
 
 // Generate static paths for all products
 export function generateStaticParams() {
@@ -62,6 +63,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
   if (!product) {
     notFound();
   }
+  const categoryKey = CATEGORIES.find(c => c.label === product.category)?.key ?? slugify(product.category);
 
   const parsedAwards = product.awardsWon.map(parseAward);
   const uniqueSources = [...new Set(parsedAwards.map(a => a.source))];
@@ -74,13 +76,24 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
           <nav className="flex items-center gap-2 text-sm text-charcoal-light">
             <Link href="/" className="hover:text-charcoal transition-colors">Home</Link>
             <span>/</span>
-            <Link 
-              href="/browse" 
+            <Link
+              href={`/browse?cat=${categoryKey}`}
               className="hover:text-charcoal transition-colors"
             >
               {product.category}
             </Link>
             <span>/</span>
+            {product.subcategory && product.subcategory !== OTHER && (
+              <>
+                <Link
+                  href={`/browse?cat=${categoryKey}&sub=${slugify(product.subcategory)}`}
+                  className="hover:text-charcoal transition-colors"
+                >
+                  {product.subcategory}
+                </Link>
+                <span>/</span>
+              </>
+            )}
             <span className="text-charcoal truncate max-w-[200px]">{product.name}</span>
           </nav>
         </div>
@@ -115,7 +128,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
           <div className="flex flex-col">
             <p className="eyebrow text-xs sm:text-sm text-gold mb-2">
               {product.category}
-              {product.subcategory && ` · ${product.subcategory}`}
+              {product.subcategory && product.subcategory !== OTHER && ` · ${product.subcategory}`}
             </p>
             
             <h1 className="font-serif text-2xl sm:text-3xl md:text-4xl font-bold text-charcoal mb-2 leading-tight">
