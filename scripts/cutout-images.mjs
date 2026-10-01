@@ -59,6 +59,7 @@ const BORDER_TOL = 12;           // how far a border pixel may sit from that col
 const BORDER_SPREAD = 24;        // p5..p95 luminance range a flat backdrop stays within
 const BG_MIN_LUM = 120;          // a backdrop darker than this is not a sweep
 const RESIDUE_MAX = 0.25;        // largest flat backdrop slab the keep may still contain
+const HOLE_MAX = 0.05;           // enclosed transparency, on a shrunk mask: above this the fill got inside
 const SHADOW_MIN = 0.84;         // a cast shadow does not dim the backdrop further than this
 const SHADOW_MAX = 1.02;         // a shadow only ever dims: never treat a brighter pixel as backdrop
 const SHADOW_TOL = 12;           // how far a shadow pixel may sit from the dimmed backdrop
@@ -84,6 +85,32 @@ function flood(w, h, ok) {
     if (y > 0) q.push(p - w); if (y < h - 1) q.push(p + w);
   }
   return alpha;
+}
+
+/** Transparency enclosed by the product, as a share of it — a bite the fill took.
+ *  Measured on a 300px copy: at full resolution a bite is almost always still
+ *  joined to the outside by the one-pixel channel the fill came in through, so
+ *  nothing reads as enclosed. Shrinking closes that channel while leaving real
+ *  openings open, so a bitten tube is caught and a cushion compact, an LED mask
+ *  or an open lunch box is not. */
+async function enclosedFraction(buf) {
+  const { data, info } = await sharp(buf).resize(300, 300, { fit: 'inside' })
+    .ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+  const { width: w, height: h, channels: ch } = info, N = w * h;
+  const clear = new Uint8Array(N);
+  for (let p = 0; p < N; p++) clear[p] = data[p*ch + 3] < 24 ? 1 : 0;
+  const outside = new Uint8Array(N), q = [];
+  const seed = (p) => { if (clear[p] && !outside[p]) { outside[p] = 1; q.push(p); } };
+  for (let x = 0; x < w; x++) { seed(x); seed((h-1)*w + x); }
+  for (let y = 0; y < h; y++) { seed(y*w); seed(y*w + w-1); }
+  while (q.length) {
+    const p = q.pop(), x = p % w, y = (p / w) | 0;
+    if (x > 0) seed(p-1); if (x < w-1) seed(p+1);
+    if (y > 0) seed(p-w); if (y < h-1) seed(p+w);
+  }
+  let product = 0, hole = 0;
+  for (let p = 0; p < N; p++) { if (!clear[p]) product++; else if (!outside[p]) hole++; }
+  return product ? hole / product : 0;
 }
 
 /** Connected opaque regions, largest first. */
@@ -261,19 +288,47 @@ async function cutout(slug, url) {
     for (let x = Math.floor(w*0.4); x < Math.ceil(w*0.6); x++) { cTot++; if (soft[y*w + x] <= 8) cGone++; }
   if (cTot && cGone / cTot > 0.5) return { skipped: 'fill reached the centre of the frame' };
 
+  /* HOLES. The two checks above only catch the fill when it destroys the
+     product — shattering it, or taking the middle of the frame. They say
+     nothing about the far more common damage: the fill finds a gap in a pale
+     product's outline, walks inside, and eats a bite out of it while leaving a
+     single connected silhouette with a solid centre. That ships as a product
+     with a chunk missing (Sascha, 2026-09-30: "bunch of photos with white
+     parts and deleted bits"), and 49 of them were live.
+     A clean packshot's transparency is all OUTSIDE the product, so flood the
+     transparent region inwards from the frame edge: whatever it cannot reach
+     is enclosed by product, and is a bite the fill took.
+     Measured on a downscaled alpha, which is the whole trick. At full
+     resolution a bite is almost always still joined to the outside by a
+     one-pixel channel — the gap the fill came in through — so nothing reads as
+     enclosed and the check finds nothing. Shrinking the mask first closes that
+     channel while leaving real openings open, so a bitten tube is caught and a
+     cushion compact, an LED mask or an open lunch box is not. */
   const rgba = Buffer.alloc(N * 4);
   for (let p = 0; p < N; p++) {
     rgba[p*4] = data[p*ch]; rgba[p*4+1] = data[p*ch+1]; rgba[p*4+2] = data[p*ch+2]; rgba[p*4+3] = soft[p];
   }
+  const cut = await sharp(rgba, { raw: { width: w, height: h, channels: 4 } })
+    .trim({ threshold: 1 })
+    .webp({ quality: 82 })
+    .toBuffer();
+
+  /* The bite check runs HERE, on the finished image, because the trim is what
+     makes a bite visible to it: before cropping, the chewed-out region is
+     usually still joined to the transparent margin, so nothing reads as
+     enclosed and the check passes everything. Measured on the trimmed output
+     at 300px it is unambiguous — cocokind's cleanser read 0% before the trim
+     and 17% after. */
+  const bite = await enclosedFraction(cut);
+  if (process.env.CUTOUT_DEBUG) console.log(`    bite ${(bite*100).toFixed(1)}%  ${slug}`);
+  if (bite > HOLE_MAX) return { skipped: `ate a bite out of the product (${(bite*100).toFixed(0)}%)` };
+
   /* Written to a temp file and moved into place only once sharp has produced
      the whole thing. A --recut re-runs slugs that already ship a cutout, and a
      half-written webp over a good one would be a worse outcome than the bad
      cutout it replaces. */
   const tmp = path.join(outDir, `.${slug}.tmp.webp`);
-  await sharp(rgba, { raw: { width: w, height: h, channels: 4 } })
-    .trim({ threshold: 1 })
-    .webp({ quality: 82 })
-    .toFile(tmp);
+  fs.writeFileSync(tmp, cut);
   fs.renameSync(tmp, path.join(outDir, slug + '.webp'));
   return { ok: true, mode };
 }
