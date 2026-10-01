@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { products2026, shoppable } from '@/lib/data';
 import SaveButton from '@/components/SaveButton';
 import { CATEGORIES, OTHER, slugify } from '@/lib/taxonomy';
+import { descriptionFor } from '@/lib/descriptions';
 
 // Generate static paths for all products
 export function generateStaticParams() {
@@ -63,6 +64,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
   if (!product) {
     notFound();
   }
+  const about = descriptionFor(product.slug);
   const categoryKey = CATEGORIES.find(c => c.label === product.category)?.key ?? slugify(product.category);
 
   const parsedAwards = product.awardsWon.map(parseAward);
@@ -136,6 +138,31 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             </h1>
             
             <p className="text-lg sm:text-xl text-charcoal-light mb-6">{product.brand}</p>
+
+            {about && (
+              <div className="mb-6">
+                <p className="text-sm sm:text-base text-charcoal leading-relaxed">{about.text}</p>
+                {about.star.length > 0 && (
+                  <div className="mt-4">
+                    <p className="eyebrow text-xs text-gold mb-2">Star ingredients</p>
+                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                      {about.star.map(i => (
+                        <li key={i.name} className="bg-white rounded-lg px-3 py-2 shadow-sm">
+                          <p className="text-sm font-semibold text-charcoal">{i.name}</p>
+                          <p className="text-xs text-charcoal-light leading-snug">{i.does}</p>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+                <p className="mt-3 text-[11px] text-charcoal-light">
+                  Details from{' '}
+                  <a href={about.source} target="_blank" rel="noopener noreferrer nofollow" className="underline hover:text-charcoal">
+                    {product.brand}&apos;s website
+                  </a>
+                </p>
+              </div>
+            )}
 
             {/* Consensus Score */}
             <div className="bg-white rounded-xl p-4 sm:p-6 shadow-sm mb-6">
