@@ -106,8 +106,10 @@ export default function Home() {
     // Publications last: the pool before them feeds the publication counts.
     const prePub = pool;
     if (selectedSources.length) {
+      // Year and publication must hold for the same award: "Glowpick, 2026"
+      // means a 2026 Glowpick win, not a 2025 Glowpick plus any 2026 award.
       pool = pool.filter(p => {
-        const won = new Set(p.awardsWon.map(programOf));
+        const won = new Set(p.awardsWon.filter(a => selectedYear === 'all' || a.includes(`(${selectedYear})`)).map(programOf));
         return sourceMode === 'all' ? selectedSources.every(src => won.has(src)) : selectedSources.some(src => won.has(src));
       });
     }
@@ -141,10 +143,11 @@ export default function Home() {
     for (const p of prePub) {
       if (activeCategory && p.category !== activeCategory) continue;
       if (activeCategory && activeSubLabel && p.subcategory !== activeSubLabel) continue;
-      for (const src of new Set(p.awardsWon.map(programOf))) c[src] = (c[src] ?? 0) + 1;
+      const inYear = p.awardsWon.filter(a => selectedYear === 'all' || a.includes(`(${selectedYear})`));
+      for (const src of new Set(inYear.map(programOf))) c[src] = (c[src] ?? 0) + 1;
     }
     return c;
-  }, [prePub, activeCategory, activeSubLabel]);
+  }, [prePub, activeCategory, activeSubLabel, selectedYear]);
 
   const filteredProducts = useMemo(() => {
     let filtered = base;
