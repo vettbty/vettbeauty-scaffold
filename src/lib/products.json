@@ -328,16 +328,17 @@
     "name": "Triclone Skin Tech Medium Coverage Foundation",
     "price": 49,
     "image": "/levelled/haus-labs-by-lady-gaga-triclone-skin-tech-medium-coverage-foundation.webp",
-    "topAward": "Allure Best of Beauty — Best Liquid Foundation (2025)",
-    "awardCount": 2,
+    "topAward": "ELLE International Beauty Awards — Best Foundation (2026)",
+    "awardCount": 3,
     "category": "Makeup",
     "subcategory": "Foundation",
     "year": 2026,
-    "region": "US",
+    "region": "International, US",
     "hasPhoto": true,
     "linkType": "exact",
     "buyLink": "https://go.shopmy.us/p-79291471",
     "awardsWon": [
+      "ELLE International Beauty Awards — Best Foundation (2026)",
       "Allure Best of Beauty — Best Liquid Foundation (2025)",
       "InStyle Best Beauty Buys — Best Liquid Foundation (2025)"
     ],
@@ -1428,16 +1429,17 @@
     "name": "Rouge Dior On Stage",
     "price": 48,
     "image": "/levelled/dior-rouge-dior-on-stage.webp",
-    "topAward": "Allure Best of Beauty — Best Sheer Lipstick (2025)",
-    "awardCount": 1,
+    "topAward": "ELLE International Beauty Awards — Best Lips (2026)",
+    "awardCount": 2,
     "category": "Makeup",
     "subcategory": "Lipstick",
     "year": 2026,
-    "region": "US",
+    "region": "International, US",
     "hasPhoto": true,
     "linkType": "exact",
     "buyLink": "https://go.shopmy.us/p-77358914",
     "awardsWon": [
+      "ELLE International Beauty Awards — Best Lips (2026)",
       "Allure Best of Beauty — Best Sheer Lipstick (2025)"
     ],
     "imageOriginal": "https://media.ulta.com/i/ulta/2645213?w=500&h=500",
@@ -12190,16 +12192,17 @@
     "name": "Vertigo Lift Mascara",
     "price": 32,
     "image": "/levelled/armani-beauty-vertigo-lift-mascara.webp",
-    "topAward": "NewBeauty Annual Awards — Best Lengthening Mascara (2026)",
-    "awardCount": 2,
+    "topAward": "ELLE International Beauty Awards — Best Mascara (2026)",
+    "awardCount": 3,
     "category": "Makeup",
     "subcategory": "Mascara",
     "year": 2026,
-    "region": "US",
+    "region": "International, US",
     "hasPhoto": true,
     "linkType": "exact",
     "buyLink": "https://go.shopmy.us/p-77050649",
     "awardsWon": [
+      "ELLE International Beauty Awards — Best Mascara (2026)",
       "NewBeauty Annual Awards — Best Lengthening Mascara (2026)",
       "Allure Best of Beauty — Best Volumizing Mascara (2026)"
     ],
@@ -17818,16 +17821,17 @@
     "name": "Chance Eau Splendide",
     "price": 143,
     "image": "/cutouts/chanel-chance-eau-splendide.webp",
-    "topAward": "Vogue UK Beauty Awards — Vogue's Future Of Beauty Innovator: Fragrance — Winner (2025)",
-    "awardCount": 5,
+    "topAward": "ELLE International Beauty Awards — Best Fragrance (2026)",
+    "awardCount": 6,
     "category": "Fragrance",
     "subcategory": "Eau de Parfum",
     "year": 2026,
-    "region": "UK, US",
+    "region": "International, UK, US",
     "hasPhoto": true,
     "linkType": "exact",
     "buyLink": "https://go.shopmy.us/p-77679889",
     "awardsWon": [
+      "ELLE International Beauty Awards — Best Fragrance (2026)",
       "Vogue UK Beauty Awards — Vogue's Future Of Beauty Innovator: Fragrance — Winner (2025)",
       "Elle Future of Beauty Awards — 2025 Future of Beauty Award — Body (2025)",
       "NewBeauty Annual Awards — Best Floral Fragrance (2026)",
@@ -18288,16 +18292,17 @@
     "name": "The Dewy Skin Cream",
     "price": null,
     "image": "/cutouts/tatcha-the-dewy-skin-cream.webp",
-    "topAward": "Glamour Beauty Awards — Readers' Choice — Best Moisturizer (2026)",
-    "awardCount": 1,
+    "topAward": "ELLE International Beauty Awards — Best Day Care (2026)",
+    "awardCount": 2,
     "category": "Skincare",
     "subcategory": "Moisturizer",
     "year": 2026,
-    "region": "US",
+    "region": "International, US",
     "hasPhoto": true,
     "linkType": "exact",
     "buyLink": "https://go.shopmy.us/p-81195997",
     "awardsWon": [
+      "ELLE International Beauty Awards — Best Day Care (2026)",
       "Glamour Beauty Awards — Readers' Choice — Best Moisturizer (2026)"
     ],
     "imageOriginal": "https://media.glamour.com/photos/69aa3cdb1e66dcd7e458d5e9/3:4/w_800,c_limit/Tatcha%20The%20Dewy%20SkinCream.jpg",
@@ -21113,16 +21118,17 @@
     "name": "Satin Kajal Liner",
     "price": 34,
     "image": "/levelled/victoria-beckham-beauty-satin-kajal-liner.webp",
-    "topAward": "InStyle Best Beauty Buys — Best Pencil Eyeliner (2025)",
-    "awardCount": 2,
+    "topAward": "ELLE International Beauty Awards — Best Eye Colour (2026)",
+    "awardCount": 3,
     "category": "Makeup",
     "subcategory": "Eyeliner",
     "year": 2026,
-    "region": "US",
+    "region": "International, US",
     "hasPhoto": true,
     "linkType": "exact",
     "buyLink": "https://go.shopmy.us/p-79292363",
     "awardsWon": [
+      "ELLE International Beauty Awards — Best Eye Colour (2026)",
       "InStyle Best Beauty Buys — Best Pencil Eyeliner (2025)",
       "InStyle Best Beauty Buys — Best Pencil Eyeliner (2026)"
     ],
@@ -77993,6 +77999,286 @@
   },
   {
     "id": "prod-3502",
+    "slug": "charlotte-tilbury-airbrush-flawless-finish-setting-spray",
+    "brand": "Charlotte Tilbury",
+    "name": "Airbrush Flawless Finish Setting Spray",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Skin Finish (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Skin Finish (2026)"
+    ]
+  },
+  {
+    "id": "prod-3503",
+    "slug": "bioderma-sensibio-h2o-2",
+    "brand": "Bioderma",
+    "name": "Sensibio H2O",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Cleanser (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Cleanser (2026)"
+    ]
+  },
+  {
+    "id": "prod-3504",
+    "slug": "sisley-sisle-a-l-int-gral-anti--ge-longevity-essential-serum",
+    "brand": "Sisley",
+    "name": "Sisleÿa L'Intégral Anti-Âge Longevity Essential Serum",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Youth Care (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Youth Care (2026)"
+    ]
+  },
+  {
+    "id": "prod-3505",
+    "slug": "aesop-lucent-facial-refiner",
+    "brand": "Aesop",
+    "name": "Lucent Facial Refiner",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Exfoliator & Mask (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Exfoliator & Mask (2026)"
+    ]
+  },
+  {
+    "id": "prod-3506",
+    "slug": "shiseido-expert-sun-protector-clear-stick-spf-50-",
+    "brand": "Shiseido",
+    "name": "Expert Sun Protector Clear Stick SPF 50+",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Suncare (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Suncare (2026)"
+    ]
+  },
+  {
+    "id": "prod-3507",
+    "slug": "biotherm-collagen-fit-intensive-hydra-body-cream",
+    "brand": "Biotherm",
+    "name": "Collagen Fit Intensive Hydra Body Cream",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Body Moisturiser (2026)",
+    "awardCount": 1,
+    "category": "Body",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Body Moisturiser (2026)"
+    ]
+  },
+  {
+    "id": "prod-3508",
+    "slug": "lanc-me-absolue-soft-body-balm",
+    "brand": "Lancôme",
+    "name": "Absolue Soft Body Balm",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Body Firming (2026)",
+    "awardCount": 1,
+    "category": "Body",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Body Firming (2026)"
+    ]
+  },
+  {
+    "id": "prod-3509",
+    "slug": "k-rastase-gloss-absolu-bain-hydra-glaze",
+    "brand": "Kérastase",
+    "name": "Gloss Absolu Bain Hydra-Glaze",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Shampoo (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Shampoo (2026)"
+    ]
+  },
+  {
+    "id": "prod-3510",
+    "slug": "aveda-miraculous-oil",
+    "brand": "Aveda",
+    "name": "Miraculous Oil",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Hair Care (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Hair Care (2026)"
+    ]
+  },
+  {
+    "id": "prod-3511",
+    "slug": "dyson-airwrap-co-anda2x",
+    "brand": "Dyson",
+    "name": "Airwrap Co-anda2x",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Styling (2026)",
+    "awardCount": 1,
+    "category": "Tools & Devices",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Styling (2026)"
+    ]
+  },
+  {
+    "id": "prod-3512",
+    "slug": "opi-nature-strong-vegan-nail-lacquer",
+    "brand": "OPI",
+    "name": "Nature Strong Vegan Nail Lacquer",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Manicure (2026)",
+    "awardCount": 1,
+    "category": "Nails",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Manicure (2026)"
+    ]
+  },
+  {
+    "id": "prod-3513",
+    "slug": "melvita-nectarcalm-soothing-moisturizing-fluid",
+    "brand": "Melvita",
+    "name": "NectarCalm Soothing Moisturizing Fluid",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Green Skin Care (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Green Skin Care (2026)"
+    ]
+  },
+  {
+    "id": "prod-3514",
+    "slug": "rms-beauty-revitalize-hydra-concealer",
+    "brand": "RMS Beauty",
+    "name": "Revitalize Hydra Concealer",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Green Make Up (2026)",
+    "awardCount": 1,
+    "category": "Makeup",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Green Make Up (2026)"
+    ]
+  },
+  {
+    "id": "prod-3515",
+    "slug": "rahua-scalp---skin-toner",
+    "brand": "Rahua",
+    "name": "Scalp & Skin Toner",
+    "price": null,
+    "image": "",
+    "topAward": "ELLE International Beauty Awards — Best Green Hair Care (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": false,
+    "linkType": "none",
+    "buyLink": "",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Green Hair Care (2026)"
+    ]
+  },
+  {
+    "id": "prod-3516",
     "slug": "flamingo-estate-tulsi---california-lavender-conditioner",
     "brand": "Flamingo Estate",
     "name": "Tulsi & California Lavender Conditioner",
@@ -78014,7 +78300,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3503",
+    "id": "prod-3517",
     "slug": "lelub--ultra-glide-water-based-lubricant",
     "brand": "Lelubé",
     "name": "Ultra-Glide Water-Based Lubricant",
@@ -78036,7 +78322,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3504",
+    "id": "prod-3518",
     "slug": "joico-scalp-vitality-exfoliating-foaming-scrub",
     "brand": "Joico",
     "name": "Scalp Vitality Exfoliating Foaming Scrub",
@@ -78058,7 +78344,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3505",
+    "id": "prod-3519",
     "slug": "shani-darden-skin-care-retinol-reform-with-1--encapsulated-retinol",
     "brand": "Shani Darden Skin Care",
     "name": "Retinol Reform with 1% Encapsulated Retinol",
@@ -78081,7 +78367,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3506",
+    "id": "prod-3520",
     "slug": "dior-capture-pro-collagen-shot",
     "brand": "Dior",
     "name": "Capture Pro-Collagen Shot",
@@ -78103,7 +78389,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3507",
+    "id": "prod-3521",
     "slug": "sisley-paris-sisle-a-l-integral-anti-age-longevity-essential-serum",
     "brand": "Sisley Paris",
     "name": "Sisleÿa L'Integral Anti-Age Longevity Essential Serum",
@@ -78125,7 +78411,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3508",
+    "id": "prod-3522",
     "slug": "augustinus-bader-the-rich-eye-cream",
     "brand": "Augustinus Bader",
     "name": "The Rich Eye Cream",
@@ -78147,7 +78433,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3509",
+    "id": "prod-3523",
     "slug": "neutrogena-collagen-bank-15--vitamin-c-face-serum",
     "brand": "Neutrogena",
     "name": "Collagen Bank 15% Vitamin C Face Serum",
@@ -78169,7 +78455,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3510",
+    "id": "prod-3524",
     "slug": "briogeo-style---treat-supreme-shine-strengthening---styling-oil",
     "brand": "Briogeo",
     "name": "Style + Treat Supreme Shine Strengthening & Styling Oil",
@@ -78191,7 +78477,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3511",
+    "id": "prod-3525",
     "slug": "n-cessaire-the-deodorant",
     "brand": "Nécessaire",
     "name": "The Deodorant",
@@ -78213,7 +78499,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3512",
+    "id": "prod-3526",
     "slug": "iota-diamond-truffle-contour-body-oil",
     "brand": "iota",
     "name": "Diamond Truffle Contour Body Oil",
@@ -78235,7 +78521,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3513",
+    "id": "prod-3527",
     "slug": "isamaya-pistachio-color-correcting-skin-tint-serum",
     "brand": "ISAMAYA",
     "name": "Pistachio Color Correcting Skin Tint Serum",
@@ -78257,7 +78543,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3514",
+    "id": "prod-3528",
     "slug": "huda-beauty-lip-contour-lip-stain",
     "brand": "Huda Beauty",
     "name": "Lip Contour Lip Stain",
@@ -78279,7 +78565,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3515",
+    "id": "prod-3529",
     "slug": "opi-rapidry-quick-dry-lacquer",
     "brand": "OPI",
     "name": "RapiDry Quick-Dry Lacquer",
@@ -78301,7 +78587,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3516",
+    "id": "prod-3530",
     "slug": "neutrogena-makeup-remover-cleansing-wipes",
     "brand": "Neutrogena",
     "name": "Makeup Remover Cleansing Wipes",
@@ -78323,7 +78609,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3517",
+    "id": "prod-3531",
     "slug": "monastery-made-rose-cleansing-oil",
     "brand": "Monastery Made",
     "name": "Rose Cleansing Oil",
@@ -78343,7 +78629,7 @@
     ]
   },
   {
-    "id": "prod-3518",
+    "id": "prod-3532",
     "slug": "bloomeffects-royal-tulip-hydrating-bi-phase-tonic",
     "brand": "Bloomeffects",
     "name": "Royal Tulip Hydrating Bi-Phase Tonic",
@@ -78366,7 +78652,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3519",
+    "id": "prod-3533",
     "slug": "essie-gel-couture-top-coat",
     "brand": "essie",
     "name": "Gel Couture Top Coat",
@@ -78389,7 +78675,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3520",
+    "id": "prod-3534",
     "slug": "haus-labs-triclone-skin-tech-foundation",
     "brand": "Haus Labs",
     "name": "Triclone Skin Tech Foundation",
@@ -78413,7 +78699,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3521",
+    "id": "prod-3535",
     "slug": "andalou-brightening-pumpkin-honey-glycolic-mask",
     "brand": "Andalou",
     "name": "Brightening Pumpkin Honey Glycolic Mask",
@@ -78435,7 +78721,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3522",
+    "id": "prod-3536",
     "slug": "mediheal-retinol-collagen-under-eye-patches",
     "brand": "Mediheal",
     "name": "Retinol Collagen Under Eye Patches",
@@ -78457,7 +78743,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3523",
+    "id": "prod-3537",
     "slug": "erly-daily-dew-illuminating-serum",
     "brand": "Erly",
     "name": "Daily Dew Illuminating Serum",
@@ -78479,7 +78765,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3524",
+    "id": "prod-3538",
     "slug": "dr--diamond-s-metacine-instafacial-plasma",
     "brand": "Dr. Diamond's Metacine",
     "name": "InstaFacial Plasma",
@@ -78501,7 +78787,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3525",
+    "id": "prod-3539",
     "slug": "sickscience-network",
     "brand": "SickScience",
     "name": "NetWork",
@@ -78523,7 +78809,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3526",
+    "id": "prod-3540",
     "slug": "peach---lily-beam-blocker-invisible-sunscreen",
     "brand": "Peach & Lily",
     "name": "Beam Blocker Invisible Sunscreen",
@@ -78546,7 +78832,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3527",
+    "id": "prod-3541",
     "slug": "sachajuan-clarifying-scalp-scrub",
     "brand": "Sachajuan",
     "name": "Clarifying Scalp Scrub",
@@ -78568,7 +78854,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3528",
+    "id": "prod-3542",
     "slug": "tresemm--a-list-collection-style-extend-dry-shampoo",
     "brand": "TreSemmé",
     "name": "A-List Collection Style Extend Dry Shampoo",
@@ -78590,7 +78876,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3529",
+    "id": "prod-3543",
     "slug": "costa-brazil-kaya-anti-aging-face-oil",
     "brand": "Costa Brazil",
     "name": "Kaya Anti-Aging Face Oil",
@@ -78612,7 +78898,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3530",
+    "id": "prod-3544",
     "slug": "sofie-pavitt-face-micellar-cleansing-pads",
     "brand": "Sofie Pavitt Face",
     "name": "Micellar Cleansing Pads",
@@ -78634,7 +78920,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3531",
+    "id": "prod-3545",
     "slug": "sensodyne-clinical-repair-whiten---shine-toothpaste",
     "brand": "Sensodyne",
     "name": "Clinical Repair Whiten & Shine Toothpaste",
@@ -78656,7 +78942,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3532",
+    "id": "prod-3546",
     "slug": "dsg-by-dick-s-sporting-goods-momentum-t-back-sports-bra",
     "brand": "DSG by Dick's Sporting Goods",
     "name": "Momentum T-Back Sports Bra",
@@ -78680,7 +78966,7 @@
     "imageResolvedFrom": "media.glamour.com"
   },
   {
-    "id": "prod-3533",
+    "id": "prod-3547",
     "slug": "currentbody-leg-recovery-compression-boots",
     "brand": "Currentbody",
     "name": "Leg Recovery Compression Boots",
@@ -78702,7 +78988,7 @@
     "imageResolvedFrom": "https://currentbody.us/products/currentbody-wellness-leg-recovery-compression-boots"
   },
   {
-    "id": "prod-3534",
+    "id": "prod-3548",
     "slug": "braun-skin-i-expert-smart-ipl-device",
     "brand": "Braun",
     "name": "Skin i·expert Smart IPL Device",
@@ -78724,7 +79010,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3535",
+    "id": "prod-3549",
     "slug": "monastery-made-monastery-x-coppola-hideaways-essence",
     "brand": "Monastery Made",
     "name": "Monastery x Coppola Hideaways Essence",
@@ -78746,7 +79032,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3536",
+    "id": "prod-3550",
     "slug": "silver-mirror-signature-facial-mask",
     "brand": "Silver Mirror",
     "name": "Signature Facial Mask",
@@ -78768,7 +79054,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3537",
+    "id": "prod-3551",
     "slug": "costa-brazil--leo-para-o-corpo-kaya-jungle-firming-oil",
     "brand": "Costa Brazil",
     "name": "Óleo Para O Corpo Kaya Jungle Firming Oil",
@@ -78790,7 +79076,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3538",
+    "id": "prod-3552",
     "slug": "yon-ka-paris-vitamin-c-serum",
     "brand": "Yon-Ka Paris",
     "name": "Vitamin C Serum",
@@ -78812,7 +79098,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3539",
+    "id": "prod-3553",
     "slug": "revision-skincare-nectifirm-advanced",
     "brand": "Revision Skincare",
     "name": "Nectifirm ADVANCED",
@@ -78836,7 +79122,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3540",
+    "id": "prod-3554",
     "slug": "augustinus-bader-the-rich-cream",
     "brand": "Augustinus Bader",
     "name": "The Rich Cream",
@@ -78858,7 +79144,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3541",
+    "id": "prod-3555",
     "slug": "k-rastase-gloss-absolu-bain-hydra-glaze-shampoo",
     "brand": "Kérastase",
     "name": "Gloss Absolu Bain Hydra-Glaze Shampoo",
@@ -78880,7 +79166,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3542",
+    "id": "prod-3556",
     "slug": "ami-col--skin-enhancing-tint",
     "brand": "Ami Colé",
     "name": "Skin-Enhancing Tint",
@@ -78902,7 +79188,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3543",
+    "id": "prod-3557",
     "slug": "isamaya-5-point-lift",
     "brand": "Isamaya",
     "name": "5 Point Lift",
@@ -78924,7 +79210,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3544",
+    "id": "prod-3558",
     "slug": "fara-homidi-essential-lip-compact",
     "brand": "Fara Homidi",
     "name": "Essential Lip Compact",
@@ -78946,7 +79232,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3545",
+    "id": "prod-3559",
     "slug": "mielle-kalahari-melon---aloe-vera-deep-hydration-2-minute-deep-conditioner",
     "brand": "Mielle",
     "name": "Kalahari Melon & Aloe Vera Deep Hydration 2-Minute Deep Conditioner",
@@ -78968,7 +79254,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3546",
+    "id": "prod-3560",
     "slug": "danessa-myricks-groundwork-palette-defining-neutrals",
     "brand": "Danessa Myricks",
     "name": "Groundwork Palette Defining Neutrals",
@@ -78990,7 +79276,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3547",
+    "id": "prod-3561",
     "slug": "westman-atelier-baby-cheeks-blush-stick",
     "brand": "Westman Atelier",
     "name": "Baby Cheeks Blush Stick",
@@ -79012,7 +79298,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3548",
+    "id": "prod-3562",
     "slug": "rescuemd-restorative-lip-treatment",
     "brand": "RescueMD",
     "name": "Restorative Lip Treatment",
@@ -79034,7 +79320,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3549",
+    "id": "prod-3563",
     "slug": "patrick-ta-beauty-major-headlines-double-take-cr-me---powder-blush-duo",
     "brand": "Patrick Ta Beauty",
     "name": "Major Headlines Double-Take Crème & Powder Blush Duo",
@@ -79058,7 +79344,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3550",
+    "id": "prod-3564",
     "slug": "opi-nail-polish",
     "brand": "OPI",
     "name": "Nail Polish",
@@ -79080,7 +79366,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3551",
+    "id": "prod-3565",
     "slug": "kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask",
     "brand": "Kristin Ess",
     "name": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
@@ -79102,7 +79388,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3552",
+    "id": "prod-3566",
     "slug": "eltamd-uv-skin-recovery-broad-spectrum-spf-50-face-sunscreen",
     "brand": "EltaMD",
     "name": "UV Skin Recovery Broad-Spectrum SPF 50 Face Sunscreen",
@@ -79124,7 +79410,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3553",
+    "id": "prod-3567",
     "slug": "drunk-elephant-c-tango-multivitamin-eye-cream",
     "brand": "Drunk Elephant",
     "name": "C-Tango Multivitamin Eye Cream",
@@ -79146,7 +79432,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3554",
+    "id": "prod-3568",
     "slug": "revision-skincare-derm-defense-barrier-cream",
     "brand": "Revision Skincare",
     "name": "Derm Defense Barrier Cream",
@@ -79168,7 +79454,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3555",
+    "id": "prod-3569",
     "slug": "exuviance-age-reverse--total-360-eye-contour",
     "brand": "Exuviance",
     "name": "AGE REVERSE+ Total 360 Eye Contour",
@@ -79190,7 +79476,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3556",
+    "id": "prod-3570",
     "slug": "byroe-peach-kombucha-tea-purifying-clay-mask",
     "brand": "Byroe",
     "name": "Peach Kombucha Tea Purifying Clay Mask",
@@ -79212,7 +79498,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3557",
+    "id": "prod-3571",
     "slug": "no7-hydraluminous--day-gel",
     "brand": "No7",
     "name": "HydraLuminous+ Day Gel",
@@ -79234,7 +79520,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3558",
+    "id": "prod-3572",
     "slug": "glo-skin-beauty-beta-clarity-pro-5-liquid-exfoliant",
     "brand": "Glo Skin Beauty",
     "name": "Beta-Clarity Pro 5 Liquid Exfoliant",
@@ -79256,7 +79542,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3559",
+    "id": "prod-3573",
     "slug": "gopure-tighten---lift-neck-cream",
     "brand": "goPure",
     "name": "Tighten & Lift Neck Cream",
@@ -79278,7 +79564,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3560",
+    "id": "prod-3574",
     "slug": "naturopathica-pear---fig-polishing-enzyme-peel",
     "brand": "Naturopathica",
     "name": "Pear & Fig Polishing Enzyme Peel",
@@ -79300,7 +79586,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3561",
+    "id": "prod-3575",
     "slug": "nuface-trinity-",
     "brand": "NuFACE",
     "name": "Trinity+",
@@ -79322,7 +79608,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3562",
+    "id": "prod-3576",
     "slug": "aramore-nad--cell-energizing-lotion",
     "brand": "ARAMORE",
     "name": "NAD+ Cell Energizing Lotion",
@@ -79344,7 +79630,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3563",
+    "id": "prod-3577",
     "slug": "origins-youthtopia-liquid-exfoliating-apple-face-peel",
     "brand": "Origins",
     "name": "Youthtopia Liquid Exfoliating Apple Face Peel",
@@ -79366,7 +79652,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3564",
+    "id": "prod-3578",
     "slug": "erno-laszlo-soothing-relief-hydration-emulsion",
     "brand": "Erno Laszlo",
     "name": "Soothing Relief Hydration Emulsion",
@@ -79388,7 +79674,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3565",
+    "id": "prod-3579",
     "slug": "u-beauty-the-plasma-lip-compound",
     "brand": "U Beauty",
     "name": "The Plasma Lip Compound",
@@ -79410,7 +79696,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3566",
+    "id": "prod-3580",
     "slug": "dior-addict-shine-lipstick",
     "brand": "Dior",
     "name": "Addict Shine Lipstick",
@@ -79432,7 +79718,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3567",
+    "id": "prod-3581",
     "slug": "bondiboost-hg-miracle-hair-mask",
     "brand": "BondiBoost",
     "name": "HG Miracle Hair Mask",
@@ -79454,7 +79740,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3568",
+    "id": "prod-3582",
     "slug": "sol-de-janeiro-cheirosa-59-del-cia-drench-perfume-mist",
     "brand": "Sol de Janeiro",
     "name": "Cheirosa 59 Delícia Drench Perfume Mist",
@@ -79476,7 +79762,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3569",
+    "id": "prod-3583",
     "slug": "perlier-shea-butter---sweet-almond-body-balm",
     "brand": "Perlier",
     "name": "Shea Butter + Sweet Almond Body Balm",
@@ -79498,7 +79784,7 @@
     "imageLevelled": true
   },
   {
-    "id": "prod-3570",
+    "id": "prod-3584",
     "slug": "natura-ekos-tukum--exfoliating-shower-gel",
     "brand": "Natura Ekos",
     "name": "Tukumã Exfoliating Shower Gel",
@@ -79520,7 +79806,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3571",
+    "id": "prod-3585",
     "slug": "the-outset-lip-oasis-glossy-treatment",
     "brand": "The Outset",
     "name": "Lip Oasis Glossy Treatment",

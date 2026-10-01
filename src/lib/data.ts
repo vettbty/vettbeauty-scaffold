@@ -123,6 +123,17 @@ export const awardPrograms: AwardProgram[] = [
   // buyable-only, so these 27 are on their product pages but cannot join a grid
   // until the link waterfall has been run over them.
   { id: '15', name: 'Harper\'s Bazaar Hair Awards', edition: '2026', winnerCount: 27, announcedDate: '11 Feb 2026', region: 'US', recordName: "Harper's Bazaar Hair Awards" },
+  // ELLE's global programme — editors across ~50 ELLE editions vote, one winner
+  // per category, 14th edition. Announced January 2026 and found on 2026-10-01
+  // because every other Elle entry in the calendar pointed at October.
+  //
+  // Sourced from ELLE Sweden and ELLE Poland republishing the full
+  // international list, cross-checked line by line, because the canonical site
+  // is blocked by SNI filtering on this network and loads in no client here.
+  // Sascha asked for it on the site on that basis. See the _sourcing_note in
+  // data/awards/elle-international-beauty-awards-2026.json; re-verify against
+  // the canonical page if it ever becomes reachable.
+  { id: '16', name: 'ELLE International Beauty Awards', edition: '2026', winnerCount: 20, announcedDate: 'Jan 2026', region: 'International', recordName: 'ELLE International Beauty Awards' },
   { id: '13', name: 'Glowpick Awards', edition: '2026', winnerCount: 491, announcedDate: 'H1 2026', region: 'Korea' },
   { id: '14', name: 'Hwahae Beauty Awards', edition: '2026', winnerCount: 408, announcedDate: '2026', region: 'Korea' },
 ];
