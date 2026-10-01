@@ -118,11 +118,10 @@ export const awardPrograms: AwardProgram[] = [
   { id: '5', name: 'Marie Claire Reader\'s Choice', edition: '2026', winnerCount: 57, announcedDate: '15 Apr 2026', region: 'US', justAdded: true },
   { id: '4', name: 'NewBeauty Annual Awards', edition: '2026', winnerCount: 357, announcedDate: '31 Mar 2026', region: 'US' },
   { id: '12', name: 'Glamour Beauty Awards', edition: '2026', winnerCount: 248, announcedDate: '18 Mar 2026', region: 'US' },
-  // The second of Harper's Bazaar's two US programmes. No justAdded grid yet:
-  // the article publishes no retailer links at all, and the grids are
-  // buyable-only, so these 27 are on their product pages but cannot join a grid
-  // until the link waterfall has been run over them.
-  { id: '15', name: 'Harper\'s Bazaar Hair Awards', edition: '2026', winnerCount: 27, announcedDate: '11 Feb 2026', region: 'US', recordName: "Harper's Bazaar Hair Awards" },
+  // The second of Harper's Bazaar's two US programmes. The article publishes no
+  // retailer links at all, so all 27 were linked by hand on 2026-10-01; 26 of
+  // 27 now carry a packshot AND a verified link, which is what the grid needs.
+  { id: '15', name: 'Harper\'s Bazaar Hair Awards', edition: '2026', winnerCount: 27, announcedDate: '11 Feb 2026', region: 'US', recordName: "Harper's Bazaar Hair Awards", justAdded: true },
   // ELLE's global programme — editors across ~50 ELLE editions vote, one winner
   // per category, 14th edition. Announced January 2026 and found on 2026-10-01
   // because every other Elle entry in the calendar pointed at October.
@@ -133,7 +132,12 @@ export const awardPrograms: AwardProgram[] = [
   // Sascha asked for it on the site on that basis. See the _sourcing_note in
   // data/awards/elle-international-beauty-awards-2026.json; re-verify against
   // the canonical page if it ever becomes reachable.
-  { id: '16', name: 'ELLE International Beauty Awards', edition: '2026', winnerCount: 20, announcedDate: 'Jan 2026', region: 'International', recordName: 'ELLE International Beauty Awards' },
+  //
+  // 13 of the 20 now have both a packshot and a verified link and so appear on
+  // the grid; the rest join as images land. Six brands (Aesop, Biotherm,
+  // Lancôme, Kérastase, Dyson, Bioderma) bot-wall image harvesting even though
+  // their links verified in a browser.
+  { id: '16', name: 'ELLE International Beauty Awards', edition: '2026', winnerCount: 20, announcedDate: 'Jan 2026', region: 'International', recordName: 'ELLE International Beauty Awards', justAdded: true },
   { id: '13', name: 'Glowpick Awards', edition: '2026', winnerCount: 491, announcedDate: 'H1 2026', region: 'Korea' },
   { id: '14', name: 'Hwahae Beauty Awards', edition: '2026', winnerCount: 408, announcedDate: '2026', region: 'Korea' },
 ];
