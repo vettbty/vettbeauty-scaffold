@@ -46,8 +46,8 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
 
   const tile = (
     <div
-      className={`product-tile relative overflow-hidden ${
-        hero ? 'aspect-[4/3] sm:aspect-square' : 'aspect-square'
+      className={`product-tile sale-tile relative overflow-hidden ${
+        hero ? 'hero-tile aspect-[4/3] sm:aspect-square' : 'aspect-square'
       }`}
     >
       {d.image ? (

@@ -302,3 +302,15 @@ h1 {
   filter: drop-shadow(0 12px 16px rgba(95, 59, 42, 0.16));
   padding: 8%;
 }
+
+/* Sale cards carry overlays the other grids do not: the discount circle top
+   left, the award count top right, the publication label bottom left. At the
+   shared 6-8% padding a tall product ran under all three, and the hero tube
+   filled its tile edge to edge (Sascha, 2026-09-30: "too big"). Inset the
+   product so it clears the overlays; percentages resolve against tile width. */
+.product-tile.sale-tile img {
+  padding: 19% 11% 13% !important;
+}
+.product-tile.sale-tile.hero-tile img {
+  padding: 13% 12% 6% !important;
+}
