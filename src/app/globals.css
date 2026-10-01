@@ -291,8 +291,13 @@ h1 {
      width. Sascha, 2026-09-26, chose this over portrait tiles, which would
      have gained more but cost 25% more scrolling on a 3,000-product grid.
      8% rather than 6% because .cutout carries a 12px/16px drop shadow that
-     needs clearance or it clips against the tile edge. */
-  padding: 6%;
+     needs clearance or it clips against the tile edge.
+     Sascha, 2026-09-30, after living with it: "all images are far too big ...
+     every grid every product". Every image is now trimmed to the product
+     (scripts/trim-images.mjs; cutouts already were), so one padding rule sizes
+     them all alike: the product's long side fills 64% of the tile, and the
+     18% top band clears the award label and count badges. */
+  padding: 18%;
 }
 
 /* Real cutouts (alpha packshots from public/cutouts): no blend needed, and a
@@ -300,7 +305,6 @@ h1 {
 .product-tile img.cutout {
   mix-blend-mode: normal;
   filter: drop-shadow(0 12px 16px rgba(95, 59, 42, 0.16));
-  padding: 8%;
 }
 
 /* Sale cards carry overlays the other grids do not: the discount circle top
@@ -309,8 +313,8 @@ h1 {
    filled its tile edge to edge (Sascha, 2026-09-30: "too big"). Inset the
    product so it clears the overlays; percentages resolve against tile width. */
 .product-tile.sale-tile img {
-  padding: 19% 11% 13% !important;
+  padding: 22% 18% 14% !important;
 }
 .product-tile.sale-tile.hero-tile img {
-  padding: 13% 12% 6% !important;
+  padding: 16% !important;
 }
