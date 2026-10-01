@@ -1345,7 +1345,7 @@
     "slug": "homecourt-cece-perfume-oil",
     "brand": "Homecourt",
     "name": "Cece Perfume Oil",
-    "price": 36,
+    "price": null,
     "image": "/cutouts/homecourt-cece-perfume-oil.webp",
     "topAward": "Allure Best of Beauty — Best Rollerball Perfume Oil (2026)",
     "awardCount": 1,
@@ -1355,7 +1355,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-90770797",
+    "buyLink": "https://homecourt.co/products/perfume-oil",
     "awardsWon": [
       "Allure Best of Beauty — Best Rollerball Perfume Oil (2026)"
     ],
@@ -1399,7 +1399,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "exact",
-    "buyLink": "https://www.ulta.com/p/great-cover-up-root-touch-up-brow-filler-pimprod2030502",
+    "buyLink": "https://go.shopmy.us/p-90770797",
     "awardsWon": [
       "Allure Best of Beauty — Best Powder Root Coverage (2025)",
       "Allure Best of Beauty — Best Root Coverage (2026)"
@@ -3005,7 +3005,7 @@
     "slug": "ecotools-better-brush-volumizing-round-brush",
     "brand": "EcoTools",
     "name": "Better Brush Volumizing Round Brush",
-    "price": 17,
+    "price": 16,
     "image": "/cutouts/ecotools-better-brush-volumizing-round-brush.webp",
     "topAward": "Allure Best of Beauty — Best Round Hairbrush (2025)",
     "awardCount": 1,
@@ -3015,7 +3015,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-90770290",
+    "buyLink": "https://go.shopmy.us/p-78418376",
     "awardsWon": [
       "Allure Best of Beauty — Best Round Hairbrush (2025)"
     ],
@@ -3061,7 +3061,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "exact",
-    "buyLink": "https://www.ulta.com/p/ultimate-detangler-extra-gentle-pimprod2051519",
+    "buyLink": "https://go.shopmy.us/p-90770290",
     "awardsWon": [
       "Allure Best of Beauty — Best Paddle Hairbrush (2025)",
       "Allure Best of Beauty — Tools (2026)",
@@ -23702,7 +23702,7 @@
     "slug": "nyx-professional-makeup-epic-ink-waterproof-liquid-eyeliner",
     "brand": "Nyx Professional Makeup",
     "name": "Epic Ink Waterproof Liquid Eyeliner",
-    "price": 39,
+    "price": 10,
     "image": "/cutouts/nyx-professional-makeup-epic-ink-waterproof-liquid-eyeliner.webp",
     "topAward": "Allure Readers Choice — Makeup Winner (2026)",
     "awardCount": 2,
@@ -23712,7 +23712,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-90770902",
+    "buyLink": "https://go.shopmy.us/p-79611103",
     "awardsWon": [
       "Allure Readers Choice — Makeup Winner (2026)",
       "Cosmopolitan Readers Choice — Best Liquid Eyeliner (2026)"
@@ -23997,7 +23997,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "exact",
-    "buyLink": "https://www.sephora.com/product/youth-to-the-people-superfood-niacinamide-body-cleanser-wash-P509278",
+    "buyLink": "https://go.shopmy.us/p-90770902",
     "awardsWon": [
       "Allure Readers Choice — Clean Winner (2026)"
     ],
@@ -72146,7 +72146,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "exact",
-    "buyLink": "https://www.ulta.com/p/hypochlorous-acid-daily-facial-spray-pimprod2054914?sku=2648012",
+    "buyLink": "https://go.shopmy.us/p-90771013",
     "awardsWon": [
       "Glamour Beauty Awards — Drugstore Skin Care — Best Face Mist (2026)"
     ],
@@ -73742,7 +73742,7 @@
     "slug": "ami-col--skin-enhancing-tint",
     "brand": "Ami Colé",
     "name": "Skin-Enhancing Tint",
-    "price": null,
+    "price": 32,
     "image": "/cutouts/ami-col--skin-enhancing-tint.webp",
     "topAward": "InStyle Best Beauty Buys — Best Skin Tint (2025)",
     "awardCount": 1,
@@ -73752,7 +73752,7 @@
     "region": "US",
     "hasPhoto": true,
     "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-90771013",
+    "buyLink": "https://go.shopmy.us/p-78140508",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Skin Tint (2025)"
     ],
