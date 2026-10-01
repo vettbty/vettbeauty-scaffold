@@ -13,6 +13,18 @@ const categoryMap: Record<string, string> = Object.fromEntries(CATEGORIES.map(c 
 // "Allure Best of Beauty — Best Serum (2026)" and "Glowpick Awards (2025)" →
 // the programme name alone, so each publication is one choice, not one per year.
 const programOf = (award: string) => award.split(' — ')[0].replace(/\s*\(\d{4}\)\s*$/, '').trim();
+// One edition of a programme: "Harper's Bazaar Skincare Awards 2026". The
+// publication filter picks editions, so the year is always in view.
+const editionOf = (award: string) => {
+  const y = award.match(/\((\d{4})\)\s*$/)?.[1];
+  return y ? `${programOf(award)} ${y}` : programOf(award);
+};
+// Which country's list an edition is. Programme names only say "UK" for the UK
+// lists, so "Harper's Bazaar Skincare Awards" (the US list) read as if Harper's
+// Bazaar had only a UK edition. Grouping the checklist by country fixes that.
+const REGIONS = ['US', 'UK', 'Korea'] as const;
+const regionOf = (edition: string): typeof REGIONS[number] =>
+  /\bUK\b/.test(edition) ? 'UK' : /^(Glowpick|Hwahae|Olive Young)/.test(edition) ? 'Korea' : 'US';
 
 type Sort = 'auto' | 'relevance' | 'awards' | 'price-asc' | 'price-desc' | 'name' | 'brand';
 
@@ -36,12 +48,16 @@ export default function Home() {
       brands.add(p.brand);
       p.awardsWon.forEach(a => {
         const y = a.match(/\((\d{4})\)/); if (y) years.add(y[1]);
-        const src = programOf(a); if (src) sources.add(src);
+        const src = editionOf(a); if (src) sources.add(src);
       });
     });
     return {
       availableYears: [...years].sort().reverse(),
-      availableSources: [...sources].sort(),
+      // Newest edition first within each programme.
+      availableSources: [...sources].sort((x, y) => {
+        const px = x.replace(/ \d{4}$/, ''), py = y.replace(/ \d{4}$/, '');
+        return px === py ? y.localeCompare(x) : px.localeCompare(py);
+      }),
       availableBrands: [...brands].sort((a, b) => a.localeCompare(b)),
     };
   }, []);
@@ -109,7 +125,7 @@ export default function Home() {
       // Year and publication must hold for the same award: "Glowpick, 2026"
       // means a 2026 Glowpick win, not a 2025 Glowpick plus any 2026 award.
       pool = pool.filter(p => {
-        const won = new Set(p.awardsWon.filter(a => selectedYear === 'all' || a.includes(`(${selectedYear})`)).map(programOf));
+        const won = new Set(p.awardsWon.filter(a => selectedYear === 'all' || a.includes(`(${selectedYear})`)).map(editionOf));
         return sourceMode === 'all' ? selectedSources.every(src => won.has(src)) : selectedSources.some(src => won.has(src));
       });
     }
@@ -144,7 +160,7 @@ export default function Home() {
       if (activeCategory && p.category !== activeCategory) continue;
       if (activeCategory && activeSubLabel && p.subcategory !== activeSubLabel) continue;
       const inYear = p.awardsWon.filter(a => selectedYear === 'all' || a.includes(`(${selectedYear})`));
-      for (const src of new Set(inYear.map(programOf))) c[src] = (c[src] ?? 0) + 1;
+      for (const src of new Set(inYear.map(editionOf))) c[src] = (c[src] ?? 0) + 1;
     }
     return c;
   }, [prePub, activeCategory, activeSubLabel, selectedYear]);
@@ -173,10 +189,9 @@ export default function Home() {
   const labelFor = (p: Product) => {
     const fits = (a: string) =>
       (selectedYear === 'all' || a.includes(`(${selectedYear})`)) &&
-      (!selectedSources.length || selectedSources.includes(programOf(a)));
+      (!selectedSources.length || selectedSources.includes(editionOf(a)));
     const award = fits(p.topAward) ? p.topAward : p.awardsWon.find(fits) ?? p.topAward;
-    const year = award.match(/\((\d{4})\)/)?.[1];
-    return year ? `${programOf(award)} ${year}` : programOf(award);
+    return editionOf(award);
   };
 
   const chooseCategory = (key: string) => { setActiveFilter(key); setActiveSub('all'); };
@@ -374,24 +389,34 @@ export default function Home() {
                 ))}
               </div>
             </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4">
-              {availableSources.map(src => {
-                const checked = selectedSources.includes(src);
-                const n = sourceCounts[src] ?? 0;
-                return (
-                  <label key={src} className={`flex items-center gap-2 py-1.5 text-xs cursor-pointer ${n || checked ? 'text-charcoal' : 'text-charcoal-light/50'}`}>
-                    <input
-                      type="checkbox"
-                      checked={checked}
-                      onChange={() => setSelectedSources(cur => checked ? cur.filter(x => x !== src) : [...cur, src])}
-                      className="w-4 h-4 accent-gold"
-                    />
-                    <span className="flex-1">{src}</span>
-                    <span className="text-charcoal-light tabular-nums">{n}</span>
-                  </label>
-                );
-              })}
-            </div>
+            {REGIONS.map(region => {
+              const editions = availableSources.filter(src => regionOf(src) === region &&
+                (selectedYear === 'all' || src.endsWith(` ${selectedYear}`) || selectedSources.includes(src)));
+              if (!editions.length) return null;
+              return (
+                <div key={region} className="mt-2 first:mt-0">
+                  <p className="eyebrow text-[10px] text-gold mb-1">{region === 'Korea' ? 'Korea' : `${region} editions`}</p>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4">
+                    {editions.map(src => {
+                      const checked = selectedSources.includes(src);
+                      const n = sourceCounts[src] ?? 0;
+                      return (
+                        <label key={src} className={`flex items-center gap-2 py-1.5 text-xs cursor-pointer ${n || checked ? 'text-charcoal' : 'text-charcoal-light/50'}`}>
+                          <input
+                            type="checkbox"
+                            checked={checked}
+                            onChange={() => setSelectedSources(cur => checked ? cur.filter(x => x !== src) : [...cur, src])}
+                            className="w-4 h-4 accent-gold"
+                          />
+                          <span className="flex-1">{src}</span>
+                          <span className="text-charcoal-light tabular-nums">{n}</span>
+                        </label>
+                      );
+                    })}
+                  </div>
+                </div>
+              );
+            })}
             <div className="flex justify-between items-center mt-2 pt-2 border-t border-cream-dark">
               <button onClick={() => setSelectedSources([])} disabled={!selectedSources.length} className="text-xs text-gold font-medium disabled:opacity-40">Clear publications</button>
               <button onClick={() => setSourcesOpen(false)} className="text-xs font-semibold text-charcoal">Done</button>

@@ -81,6 +81,646 @@
    "permanent": false
   },
   {
+   "source": "/product/3ce-glazy-lip-glow--rose-glaze-",
+   "destination": "/product/3ce-glazy-lip-glow",
+   "permanent": true
+  },
+  {
+   "source": "/product/alastin-skincare-restorative-skin-complex-anti-aging-face-serum",
+   "destination": "/product/alastin-restorative-skin-complex-with-trihex-",
+   "permanent": true
+  },
+  {
+   "source": "/product/alastin-skincare-restorative-skin-complex-with-trihex-",
+   "destination": "/product/alastin-restorative-skin-complex-with-trihex-",
+   "permanent": true
+  },
+  {
+   "source": "/product/anastasia-beverly-hills-glidr-shadow-stick",
+   "destination": "/product/anastasia-beverly-hills-glidr-eyeshadow-stick",
+   "permanent": true
+  },
+  {
+   "source": "/product/aperire-spa-relief-be-frozen-pore-mask-2",
+   "destination": "/product/aperire-spa-relief-be-frozen-pore-mask",
+   "permanent": true
+  },
+  {
+   "source": "/product/aquaphor-lip-repair",
+   "destination": "/product/aquaphor-lip-repair-stick",
+   "permanent": true
+  },
+  {
+   "source": "/product/arencia-fresh-green-rice-mochi-cleanser-2",
+   "destination": "/product/arencia-fresh-green-rice-mochi-cleanser",
+   "permanent": true
+  },
+  {
+   "source": "/product/armani-beauty-eye-tint-liquid-eyeshadow",
+   "destination": "/product/armani-beauty-eye-tint-long-lasting-liquid-eyeshadow",
+   "permanent": true
+  },
+  {
+   "source": "/product/avene-thermal-spring-water",
+   "destination": "/product/av-ne-thermal-spring-water",
+   "permanent": true
+  },
+  {
+   "source": "/product/batiste-original-dry-shampoo",
+   "destination": "/product/batiste-dry-shampoo--original-",
+   "permanent": true
+  },
+  {
+   "source": "/product/biore-uv-aqua-rich-aqua-protect-mist--spf50-pa-----",
+   "destination": "/product/biore-uv-aqua-rich-aqua-protect-mist--spf50--pa-----",
+   "permanent": true
+  },
+  {
+   "source": "/product/cellfusionc-skin-blemish-balm-intensive--natural-light-",
+   "destination": "/product/cell-fusion-c-skin-blemish-balm-intensive",
+   "permanent": true
+  },
+  {
+   "source": "/product/christophe-robin-cleansing-purifying-scrub",
+   "destination": "/product/christophe-robin-cleansing-purifying-scrub-with-sea-salt",
+   "permanent": true
+  },
+  {
+   "source": "/product/cl--de-peau-eye-contour-cream-supreme",
+   "destination": "/product/cl--de-peau-beaut--eye-contour-cream-supreme",
+   "permanent": true
+  },
+  {
+   "source": "/product/clarins-extra-firming-energy-moisturizer",
+   "destination": "/product/clarins-extra-firming-energy-refillable-moisturizer",
+   "permanent": true
+  },
+  {
+   "source": "/product/clarins-lip-comfort-hydrating-oil",
+   "destination": "/product/clarins-lip-comfort-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/d-alba-white-truffle-waterfull-tone-up-sunscreen--spf50--pa------2",
+   "destination": "/product/d-alba-white-truffle-waterfull-tone-up-sunscreen--spf50--pa-----",
+   "permanent": true
+  },
+  {
+   "source": "/product/degree-clinical-5x-dry-spray-antiperspirant---ultra-dry",
+   "destination": "/product/degree-clinical-5x-ultra-dry-spray",
+   "permanent": true
+  },
+  {
+   "source": "/product/differin-0-1--adapalene-gel",
+   "destination": "/product/differin-adapalene-gel-0-1-",
+   "permanent": true
+  },
+  {
+   "source": "/product/dior-addict-lip-glow-oil",
+   "destination": "/product/dior-lip-glow-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/dior-backstage-rosy-glow-blush-stick",
+   "destination": "/product/dior-rosy-glow-stick-blush",
+   "permanent": true
+  },
+  {
+   "source": "/product/dior-dior-addict-lip-glow-oil",
+   "destination": "/product/dior-lip-glow-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/dior-miss-dior-eau-de-parfum-2",
+   "destination": "/product/dior-miss-dior-eau-de-parfum",
+   "permanent": true
+  },
+  {
+   "source": "/product/dove-advanced-care-cool-essentials-dry-spray-antiperspirant-deodorant",
+   "destination": "/product/dove-advanced-care-cool-essentials-antiperspirant-dry-spray",
+   "permanent": true
+  },
+  {
+   "source": "/product/dove-original-beauty-bar",
+   "destination": "/product/dove-beauty-bar",
+   "permanent": true
+  },
+  {
+   "source": "/product/dove-serum--radiance-body-wash",
+   "destination": "/product/dove-serum--radiance-oil-body-wash",
+   "permanent": true
+  },
+  {
+   "source": "/product/dr--dennis-gross-skincare-drx-spectralite-faceware-pro",
+   "destination": "/product/dr--dennis-gross-drx-spectralite-faceware-pro-led-device",
+   "permanent": true
+  },
+  {
+   "source": "/product/e-l-f--cosmetics-glow-reviver-tinted-lip-oil",
+   "destination": "/product/e-l-f--cosmetics-glow-reviver-lip-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/eighth-day-the-ultra-rich-intensive-moisturizer",
+   "destination": "/product/eighth-day-ultra-rich-intensive-moisturizer",
+   "permanent": true
+  },
+  {
+   "source": "/product/eltamd-uv-daily-hydration--broad-spectrum-spf-50",
+   "destination": "/product/eltamd-uv-daily-hydration-",
+   "permanent": true
+  },
+  {
+   "source": "/product/epres-ephd-bond-repair-nail-treatment",
+   "destination": "/product/epres-bond-repair-treatment",
+   "permanent": true
+  },
+  {
+   "source": "/product/epres-ephd-nail-bond-repair-treatment",
+   "destination": "/product/epres-bond-repair-treatment",
+   "permanent": true
+  },
+  {
+   "source": "/product/est-e-lauder-double-wear-stay-in-place-makeup",
+   "destination": "/product/estee-lauder-double-wear-stay-in-place-makeup--spf10-pa---",
+   "permanent": true
+  },
+  {
+   "source": "/product/etude-pang-pang-hair-shadow--p1-dark-brown-",
+   "destination": "/product/etude-pang-pang-hair-shadow",
+   "permanent": true
+  },
+  {
+   "source": "/product/fenty-beauty-by-rihanna-the-homecurl-curl-defining-styling-cream",
+   "destination": "/product/fenty-hair-the-homecurl-curl-defining-cream",
+   "permanent": true
+  },
+  {
+   "source": "/product/fwee-blurry-pudding-pot-nd03-without",
+   "destination": "/product/fwee-blurry-pudding-pot",
+   "permanent": true
+  },
+  {
+   "source": "/product/fwee-lip---cheek-blurry-pudding-pot",
+   "destination": "/product/fwee-blurry-pudding-pot",
+   "permanent": true
+  },
+  {
+   "source": "/product/g-t2b-glued-brow---edge-gel",
+   "destination": "/product/g-t2b-glued-2-in-1-brow-and-edge-gel",
+   "permanent": true
+  },
+  {
+   "source": "/product/garnier-micellar-cleansing-water-all-in-1",
+   "destination": "/product/garnier-all-in-one-micellar-cleansing-water",
+   "permanent": true
+  },
+  {
+   "source": "/product/garnier-skinactive-all-in-1-micellar-cleansing-water",
+   "destination": "/product/garnier-all-in-one-micellar-cleansing-water",
+   "permanent": true
+  },
+  {
+   "source": "/product/garnier-skinactive-micellar-cleansing-water",
+   "destination": "/product/garnier-all-in-one-micellar-cleansing-water",
+   "permanent": true
+  },
+  {
+   "source": "/product/gisou-honey-gloss-ceramide-therapy-hair-mask",
+   "destination": "/product/gisou-honey-gloss-ceramide-therapy-hydrating-hair-mask",
+   "permanent": true
+  },
+  {
+   "source": "/product/glow-recipe-pdrn---repair---soothe-korean-toner-pads",
+   "destination": "/product/glow-recipe-pdrn-repair---soothe-korean-prickly-pear-toner-pads",
+   "permanent": true
+  },
+  {
+   "source": "/product/herm-s-beauty-silky-lipstick-shine",
+   "destination": "/product/herm-s-rouge-herm-s-silky-lipstick-shine",
+   "permanent": true
+  },
+  {
+   "source": "/product/hero-cosmetics-mighty-patch",
+   "destination": "/product/hero-mighty-patch-original",
+   "permanent": true
+  },
+  {
+   "source": "/product/hero-cosmetics-mighty-patch-original",
+   "destination": "/product/hero-mighty-patch-original",
+   "permanent": true
+  },
+  {
+   "source": "/product/hero-cosmetics-mighty-patch-original-acne-patch",
+   "destination": "/product/hero-mighty-patch-original",
+   "permanent": true
+  },
+  {
+   "source": "/product/hero-cosmetics-the-original-mighty-patch",
+   "destination": "/product/hero-mighty-patch-original",
+   "permanent": true
+  },
+  {
+   "source": "/product/hourglass-vanish-airbrush-concealer",
+   "destination": "/product/hourglass-cosmetics-vanish-airbrush-concealer",
+   "permanent": true
+  },
+  {
+   "source": "/product/igk-best-interest-deep-repair-air-dry-styler",
+   "destination": "/product/igk-deep-repair-air-dry-styler",
+   "permanent": true
+  },
+  {
+   "source": "/product/ilia-blending-brush",
+   "destination": "/product/ilia-beauty-blending-brush",
+   "permanent": true
+  },
+  {
+   "source": "/product/illiyoon-ceramide-ato6-0-top-to-toe-wash",
+   "destination": "/product/illiyoon-ceramide-ato-6-0-top-to-toe-wash",
+   "permanent": true
+  },
+  {
+   "source": "/product/innbeauty-project-extreme-cream-eye",
+   "destination": "/product/innbeauty-extreme-eye-cream",
+   "permanent": true
+  },
+  {
+   "source": "/product/irecipe-aqua-phytoplex-cream-in-toner-mist",
+   "destination": "/product/irecipe-aqua-phytoplex-cream-in-toner-mist-60ml",
+   "permanent": true
+  },
+  {
+   "source": "/product/jones-road-just-enough-tinted-moisturiser",
+   "destination": "/product/jones-road-just-enough-tinted-moisturizer",
+   "permanent": true
+  },
+  {
+   "source": "/product/k18-biomimetic-hairscience-leave-in-molecular-repair-hair-mask",
+   "destination": "/product/k18-leave-in-molecular-repair-hair-mask",
+   "permanent": true
+  },
+  {
+   "source": "/product/k18-heatbounce",
+   "destination": "/product/k18-heatbounce-conditioning-heat-protectant",
+   "permanent": true
+  },
+  {
+   "source": "/product/k18-heatbounce-leave-in-conditioner-heat-protectant",
+   "destination": "/product/k18-heatbounce-conditioning-heat-protectant",
+   "permanent": true
+  },
+  {
+   "source": "/product/k18-leave-in-molecular-hair-mask",
+   "destination": "/product/k18-leave-in-molecular-repair-hair-mask",
+   "permanent": true
+  },
+  {
+   "source": "/product/la-roche-posay-toleriane-moisturizing-milky-facial-cleanser",
+   "destination": "/product/la-roche-posay-toleriane-moisturizing-milky-cleanser",
+   "permanent": true
+  },
+  {
+   "source": "/product/laka-fruity-glam-tint",
+   "destination": "/product/laka-fruity-glam-tint-mini",
+   "permanent": true
+  },
+  {
+   "source": "/product/laura-mercier-translucent-loose-setting-powder-ultra-blur",
+   "destination": "/product/laura-mercier-translucent-loose-talc-free-setting-powder-ultra-blur",
+   "permanent": true
+  },
+  {
+   "source": "/product/lys-bright-start-creamy-buildable-airbrush-concealer",
+   "destination": "/product/lys-beauty-bright-start-creamy-buildable-airbrush-concealer",
+   "permanent": true
+  },
+  {
+   "source": "/product/ma-nyo-pure-cleansing-facial-oil",
+   "destination": "/product/ma-nyo-pure-cleansing-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/makep-rem-safe-me--relief-moisture-cleansing-milk",
+   "destination": "/product/makeprem-safe-me--relief-moisture-cleansing-milk",
+   "permanent": true
+  },
+  {
+   "source": "/product/manucurist-paris-active-smooth-polish",
+   "destination": "/product/manucurist-active-smooth",
+   "permanent": true
+  },
+  {
+   "source": "/product/manyo-pure-cleansing-oil",
+   "destination": "/product/ma-nyo-pure-cleansing-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/manyo-pure-soybean-cleansing-oil",
+   "destination": "/product/ma-nyo-pure-cleansing-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/maybelline-lash-sensational-sky-tubes-tubing-mascara",
+   "destination": "/product/maybelline-new-york-lash-sensational-sky-tubes-tubing-mascara",
+   "permanent": true
+  },
+  {
+   "source": "/product/maybelline-new-york-instant-age-rewind-multi-use-concealer",
+   "destination": "/product/maybelline-new-york-instant-age-rewind-eraser-multi-use-concealer",
+   "permanent": true
+  },
+  {
+   "source": "/product/medicube-booster-pro",
+   "destination": "/product/medicube-age-r-booster-pro",
+   "permanent": true
+  },
+  {
+   "source": "/product/medicube-pdrn-pink-peptide-serum--salmon-dna-pdrn-",
+   "destination": "/product/medicube-pdrn-pink-peptide-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/medicube-toner-pads-zero-pore-pad-2-0",
+   "destination": "/product/medicube-zero-pore-pad-2-0",
+   "permanent": true
+  },
+  {
+   "source": "/product/medicube-zero-pore-pads",
+   "destination": "/product/medicube-zero-pore-pad-2-0",
+   "permanent": true
+  },
+  {
+   "source": "/product/mediheal-madecassoside-blemish-pad-2",
+   "destination": "/product/mediheal-madecassoside-blemish-pad",
+   "permanent": true
+  },
+  {
+   "source": "/product/mediheal-madecassoside-blemish-repair-pad",
+   "destination": "/product/mediheal-madecassoside-blemish-pad",
+   "permanent": true
+  },
+  {
+   "source": "/product/mediheal-pdrn-lifting-pad-2",
+   "destination": "/product/mediheal-pdrn-lifting-pad",
+   "permanent": true
+  },
+  {
+   "source": "/product/megrhythm-gentle-steam-eye-mask--unscented--2",
+   "destination": "/product/megrhythm-gentle-steam-eye-mask--unscented-",
+   "permanent": true
+  },
+  {
+   "source": "/product/merit-the-minimalist",
+   "destination": "/product/merit-the-minimalist-perfecting-complexion-stick",
+   "permanent": true
+  },
+  {
+   "source": "/product/merit-the-minimalist-complexion-stick",
+   "destination": "/product/merit-the-minimalist-perfecting-complexion-stick",
+   "permanent": true
+  },
+  {
+   "source": "/product/merit-the-uniform",
+   "destination": "/product/merit-the-uniform-tinted-spf",
+   "permanent": true
+  },
+  {
+   "source": "/product/mise-en-sc-ne-curling-essence-2x-volume-curl",
+   "destination": "/product/miseenscene-curling-essence-2x-volume-curl",
+   "permanent": true
+  },
+  {
+   "source": "/product/neurae-harmonie-serum",
+   "destination": "/product/neura--harmonie-the-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/nexxus-air-shape-workable-hold-texture-spray",
+   "destination": "/product/nexxus-air-shape-texture-spray",
+   "permanent": true
+  },
+  {
+   "source": "/product/nexxus-keraphix-liquid-crystallizer-hair-strengthening-treatment",
+   "destination": "/product/nexxus-keraphix-liquid-crystallizer-treatment",
+   "permanent": true
+  },
+  {
+   "source": "/product/nexxus-nexxus-advanced-invisible-dry-shampoo",
+   "destination": "/product/nexxus-advanced-clean-invisible-dry-shampoo",
+   "permanent": true
+  },
+  {
+   "source": "/product/no7-future-renew-damage-reversal-night-serum",
+   "destination": "/product/no7-future-renew-night-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/nyx-cosmetics-epic-ink-waterproof-liquid-eyeliner",
+   "destination": "/product/nyx-professional-makeup-epic-ink-waterproof-liquid-eyeliner",
+   "permanent": true
+  },
+  {
+   "source": "/product/olaplex-no-4-bond-maintenance-shampoo",
+   "destination": "/product/olaplex-no--4-shampoo",
+   "permanent": true
+  },
+  {
+   "source": "/product/olaplex-no-5-bond-maintenance-conditioner",
+   "destination": "/product/olaplex-no--5-conditioner",
+   "permanent": true
+  },
+  {
+   "source": "/product/ole-henriksen-banana-bright---eye-cr-me",
+   "destination": "/product/olehenriksen-banana-bright-eye-cream",
+   "permanent": true
+  },
+  {
+   "source": "/product/olens-vivi-ring-1day-choco",
+   "destination": "/product/olens-vivi-ring-choco",
+   "permanent": true
+  },
+  {
+   "source": "/product/olive---june-gel-mani-system",
+   "destination": "/product/olive---june-the-gel-mani-system",
+   "permanent": true
+  },
+  {
+   "source": "/product/one-size-boucl--silk-airbrushed-talc-free-finishing-powder",
+   "destination": "/product/one-size-boucl--silk-airbrushed-finishing-powder",
+   "permanent": true
+  },
+  {
+   "source": "/product/one-size-on--til-dawn-mattifying-waterproof-setting-spray",
+   "destination": "/product/one-size-one-size-on--til-dawn-mattifying-waterproof-setting-spray",
+   "permanent": true
+  },
+  {
+   "source": "/product/ouai-hair---body-fragrance-mist",
+   "destination": "/product/ouai-hair-and-body-mist",
+   "permanent": true
+  },
+  {
+   "source": "/product/panoxyl-acne-treatment-bar-10--benzoyl-peroxide",
+   "destination": "/product/panoxyl-acne-treatment-bar",
+   "permanent": true
+  },
+  {
+   "source": "/product/patrick-ta-beauty-major-dimension-essential-artistry-edit-eyeshadow-palette",
+   "destination": "/product/patrick-ta-major-dimension-essential-artistry-edit-eyeshadow-palette",
+   "permanent": true
+  },
+  {
+   "source": "/product/patrick-ta-major-headlines-double-take-cr-me---powder-blush-duo",
+   "destination": "/product/patrick-ta-beauty-major-headlines-double-take-cr-me---powder-blush-duo",
+   "permanent": true
+  },
+  {
+   "source": "/product/paula-s-choice-2--bha-liquid-exfoliant",
+   "destination": "/product/paula-s-choice-skin-perfecting-2--bha-liquid-exfoliant",
+   "permanent": true
+  },
+  {
+   "source": "/product/primera-retinol-volume-lip-serum-tube",
+   "destination": "/product/primera-retinol-volume-lip-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/r-z-evergreen-styling-cream",
+   "destination": "/product/r-z-evergreen-style-cream",
+   "permanent": true
+  },
+  {
+   "source": "/product/ranavat-brightening-mineral-sunscreen-spf-50-",
+   "destination": "/product/ranavat-brightening-mineral-face-sunscreen",
+   "permanent": true
+  },
+  {
+   "source": "/product/redken-acidic-color-gloss-1-min-gloss-in-mask",
+   "destination": "/product/redken-acidic-color-gloss-gloss-in-mask",
+   "permanent": true
+  },
+  {
+   "source": "/product/revitalash-cosmetics-revitabrow-advanced-eyebrow-conditioner-2",
+   "destination": "/product/revitalash-cosmetics-revitabrow-advanced-eyebrow-conditioner",
+   "permanent": true
+  },
+  {
+   "source": "/product/rom-nd-glasting-color-gloss--01-peony-ballet-",
+   "destination": "/product/rom-nd-glasting-color-gloss",
+   "permanent": true
+  },
+  {
+   "source": "/product/saie-cityset-lightweight-setting-spray",
+   "destination": "/product/saie-cityset-setting-spray",
+   "permanent": true
+  },
+  {
+   "source": "/product/sarah-creal-beauty-face-flex-concealer---complexion-enhancer",
+   "destination": "/product/sarah-creal-beauty-face-flex-concealer-and-complexion-enhancer",
+   "permanent": true
+  },
+  {
+   "source": "/product/secret-clinical-strength-completely-clean-invisible-solid-antiperspirant-deodora",
+   "destination": "/product/secret-clinical-invisible-solid-antiperspirant-completely-clean",
+   "permanent": true
+  },
+  {
+   "source": "/product/sexyhair-big-spray---play-volumizing-hairspray",
+   "destination": "/product/sexy-hair-big-spray---play-volumizing-hairspray",
+   "permanent": true
+  },
+  {
+   "source": "/product/shani-darden-skin-care-body-reform-treatment-serum",
+   "destination": "/product/shani-darden-body-reform-treatment-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/shark-beauty-flexstyle-air-styling---drying-system",
+   "destination": "/product/shark-air-styling---drying-system",
+   "permanent": true
+  },
+  {
+   "source": "/product/skin1004-madagascar-centella-hyalu-cica-water-fit-sun-serum",
+   "destination": "/product/skin1004-madagascar-centella-hyalu-cica-water-fit-sun-serum--spf50--pa-----",
+   "permanent": true
+  },
+  {
+   "source": "/product/skinceuticals-p-tiox-anti-wrinkle-serum",
+   "destination": "/product/skinceuticals-p-tiox",
+   "permanent": true
+  },
+  {
+   "source": "/product/skinfood-carrot-carotene-mask",
+   "destination": "/product/skinfood-carrot-carotene-daily-mask",
+   "permanent": true
+  },
+  {
+   "source": "/product/the-ordinary-hyaluronic-acid-2----b5",
+   "destination": "/product/the-ordinary-hyaluronic-acid-2----b5--with-ceramides-",
+   "permanent": true
+  },
+  {
+   "source": "/product/the-wet-brush-original-detangler",
+   "destination": "/product/wet-brush-original-detangler",
+   "permanent": true
+  },
+  {
+   "source": "/product/thesaem-cover-perfection-triple-pot-concealer--01-correct-beige-",
+   "destination": "/product/the-saem-cover-perfection-triple-pot-concealer",
+   "permanent": true
+  },
+  {
+   "source": "/product/thrive-causemetics-liquid-lash-extensions-mascara",
+   "destination": "/product/thrive-causemetics-liquid-lash-extensions",
+   "permanent": true
+  },
+  {
+   "source": "/product/tilt-the-lashscape-lengthening-mascara",
+   "destination": "/product/tilt-beauty-lashscape-mascara",
+   "permanent": true
+  },
+  {
+   "source": "/product/too-cool-for-school-frottage-pencil",
+   "destination": "/product/too-cool-for-school-artclass-frottage-pencil",
+   "permanent": true
+  },
+  {
+   "source": "/product/tower-28-sos-rescue-spray",
+   "destination": "/product/tower-28-beauty-sos-rescue-spray",
+   "permanent": true
+  },
+  {
+   "source": "/product/urban-decay-24-7-glide-on-waterproof-eyeliner-pencil",
+   "destination": "/product/urban-decay-24-7-glide-on-eyeliner-pencil",
+   "permanent": true
+  },
+  {
+   "source": "/product/vt-cosmetics-reedle-shot-100-2",
+   "destination": "/product/vt-cosmetics-reedle-shot-100",
+   "permanent": true
+  },
+  {
+   "source": "/product/vt-reedle-shot-100-essence",
+   "destination": "/product/vt-cosmetics-reedle-shot-100",
+   "permanent": true
+  },
+  {
+   "source": "/product/whipped-muhwabutter-vegan-pack-cleanser",
+   "destination": "/product/whipped-vegan-pack-cleanser---muhwabutter",
+   "permanent": true
+  },
+  {
+   "source": "/product/ziip-beauty-halo",
+   "destination": "/product/ziip-halo",
+   "permanent": true
+  },
+  {
+   "source": "/product/zoya-remove-plus-nail-polish-remover",
+   "destination": "/product/zoya-remove--nail-polish-remover",
+   "permanent": true
+  },
+  {
    "source": "/p/:slug",
    "destination": "/product/:slug",
    "permanent": false
