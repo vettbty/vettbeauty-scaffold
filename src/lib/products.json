@@ -2944,7 +2944,7 @@
     "brand": "LAFCO New York",
     "name": "Chamomile Lavender Laundry Detergent",
     "price": null,
-    "image": "/cutouts/lafco-new-york-chamomile-lavender-laundry-detergent.webp",
+    "image": "/levelled/lafco-new-york-chamomile-lavender-laundry-detergent.webp",
     "topAward": "Allure Best of Beauty — Best Laundry Detergent (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -2958,7 +2958,7 @@
       "Allure Best of Beauty — Best Laundry Detergent (2026)"
     ],
     "imageOriginal": "https://media.allure.com/photos/6a8dc97c0a33800faa9cc5a6/1:1/w_1600,c_limit/undefined",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-132",
@@ -6331,7 +6331,7 @@
     "brand": "Biodance",
     "name": "Caviar PDRN Eye Patches",
     "price": 18,
-    "image": "/cutouts/biodance-caviar-pdrn-eye-patches.webp",
+    "image": "/levelled/biodance-caviar-pdrn-eye-patches.webp",
     "topAward": "Harper's Bazaar Skincare Awards — Best Eye Treatments (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -6345,7 +6345,7 @@
       "Harper's Bazaar Skincare Awards — Best Eye Treatments (2026)"
     ],
     "imageOriginal": "https://biodance.com/cdn/shop/files/pdrneyepatches_f7a111b9-ba1a-4c40-a508-ef72ae2cc2ba.png?v=1783677917",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-284",
@@ -20259,7 +20259,7 @@
     "brand": "Quince",
     "name": "Power-Up High-Rise Training Leggings",
     "price": null,
-    "image": "/cutouts/quince-power-up-high-rise-training-leggings.webp",
+    "image": "/levelled/quince-power-up-high-rise-training-leggings.webp",
     "topAward": "Glamour Beauty Awards — Wellness — Best Compression Leggings (2026)",
     "awardCount": 1,
     "category": "Wellness",
@@ -20273,9 +20273,9 @@
       "Glamour Beauty Awards — Wellness — Best Compression Leggings (2026)"
     ],
     "imageOriginal": "https://images.quince.com/1Np8NVT74X3u6AnKgrnk9N/ebf172c8884cbb1ac14a1a6c424cbf0a/W-PNT-79-BLK_2456_EDITED_1.jpg?w=1600&q=85&h=2000",
-    "imageCutout": true,
     "imageSource": "image-search",
-    "imageResolvedFrom": "cdna.lystit.com"
+    "imageResolvedFrom": "cdna.lystit.com",
+    "imageLevelled": true
   },
   {
     "id": "prod-911",
@@ -21392,7 +21392,7 @@
     "brand": "Davines",
     "name": "Love Smoothing Lightweight Milk",
     "price": null,
-    "image": "/cutouts/davines-love-smoothing-lightweight-milk.webp",
+    "image": "/levelled/davines-love-smoothing-lightweight-milk.webp",
     "topAward": "Allure Best of Beauty — Best Straight Hair Leave-In Conditioner (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -21406,7 +21406,7 @@
       "Allure Best of Beauty — Best Straight Hair Leave-In Conditioner (2026)"
     ],
     "imageOriginal": "https://media.allure.com/photos/6a8a5f45c5273bca4bd47672/1:1/w_1600,c_limit/undefined",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-962",
@@ -23424,7 +23424,7 @@
     "brand": "Ouai",
     "name": "Leave In Conditioner",
     "price": 32,
-    "image": "/cutouts/ouai-leave-in-conditioner.webp",
+    "image": "/levelled/ouai-leave-in-conditioner.webp",
     "topAward": "Allure Readers Choice — Hair Winner (2026)",
     "awardCount": 2,
     "category": "Hair",
@@ -23439,9 +23439,9 @@
       "Cosmopolitan Readers Choice — Best Leave-In Conditioner (2026)"
     ],
     "imageOriginal": "https://cdn.shopify.com/s/files/1/1043/7322/files/Update_3_LIC-MELROSEPLACE_260611-18-26_Site_Asset_PDP_Product_Thumbnail_1440x1780_5.jpg?v=1783622735",
-    "imageCutout": true,
     "imageSource": "retailer-page",
-    "imageResolvedFrom": "https://www.sephora.com/product/ouai-haircare-leave-in-conditioner-P457420"
+    "imageResolvedFrom": "https://www.sephora.com/product/ouai-haircare-leave-in-conditioner-P457420",
+    "imageLevelled": true
   },
   {
     "id": "prod-1053",
@@ -25295,7 +25295,7 @@
     "brand": "La Roche-Posay",
     "name": "Hyalu B5 Suractivated Cream With Hyaluronic Acid",
     "price": 39.99,
-    "image": "/cutouts/la-roche-posay-hyalu-b5-suractivated-cream-with-hyaluronic-acid.webp",
+    "image": "/levelled/la-roche-posay-hyalu-b5-suractivated-cream-with-hyaluronic-acid.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Plumping Moisturizer (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -25309,7 +25309,7 @@
       "Cosmopolitan Beauty Awards — Best Plumping Moisturizer (2026)"
     ],
     "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/5f8dd3a6-e18c-4982-be61-f71c0b9e6f84/f01b437b-b2ed-4266-9ebe-4f28a044d969.jpg",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-1137",
@@ -25449,7 +25449,7 @@
     "brand": "CeraVe",
     "name": "Intensive Moisturizing Cream",
     "price": 23,
-    "image": "/cutouts/cerave-intensive-moisturizing-cream.webp",
+    "image": "/levelled/cerave-intensive-moisturizing-cream.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Moisturizer for Sensitive Skin (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -25463,7 +25463,7 @@
       "Cosmopolitan Beauty Awards — Best Moisturizer for Sensitive Skin (2026)"
     ],
     "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/6d064f12-54d8-4859-9990-76ae11abd034/e725b682-47fe-42b2-ace8-86fd7900ba59.jpg",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-1144",
@@ -25669,7 +25669,7 @@
     "brand": "Vacation",
     "name": "Classic Spray SPF 50",
     "price": 19,
-    "image": "/cutouts/vacation-classic-spray-spf-50.webp",
+    "image": "/levelled/vacation-classic-spray-spf-50.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Chemical Body Sunscreen (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -25683,7 +25683,7 @@
       "Cosmopolitan Beauty Awards — Best Chemical Body Sunscreen (2026)"
     ],
     "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/36424695-fd1a-4302-9d41-a9b13fc5ac6a/9fe46fa6-41e6-4929-83bd-6f29903fbe9c.jpg",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-1154",
@@ -29520,7 +29520,7 @@
     "brand": "Neuraé",
     "name": "Harmonie The Caring Cleanser",
     "price": 115,
-    "image": "/cutouts/neura--harmonie-the-caring-cleanser.webp",
+    "image": "/levelled/neura--harmonie-the-caring-cleanser.webp",
     "topAward": "Harper's Bazaar Skincare Awards — Best Face and Body Cleansers (2026)",
     "awardCount": 2,
     "category": "Skincare",
@@ -29535,7 +29535,7 @@
       "Cosmopolitan Beauty Awards — Best Oil Cleanser (2026)"
     ],
     "imageOriginal": "https://www.neurae.com/dw/image/v2/BCXZ_PRD/on/demandware.static/-/Sites-masterCatalog_Neurae/default/dw431cd22f/102060_01.jpg?sw=1000&sh=1000&q=80",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-1326",
@@ -59915,7 +59915,7 @@
     "brand": "Stripes Beauty",
     "name": "Oh My Glide Intimate Play Oil",
     "price": null,
-    "image": "/cutouts/stripes-beauty-oh-my-glide-intimate-play-oil.webp",
+    "image": "/levelled/stripes-beauty-oh-my-glide-intimate-play-oil.webp",
     "topAward": "Glamour Beauty Awards — Wellness — Best Massage Oil (2026)",
     "awardCount": 1,
     "category": "Wellness",
@@ -59929,7 +59929,7 @@
       "Glamour Beauty Awards — Wellness — Best Massage Oil (2026)"
     ],
     "imageOriginal": "https://media.glamour.com/photos/69a9ea6e1f03fa21feac2b6a/master/w_1600,c_limit/Stripes%20Beauty%20Oh%20My%20Glide.jpg",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-2691",
@@ -64508,7 +64508,7 @@
     "brand": "Overtone",
     "name": "Color Depositing Treatment Mask",
     "price": null,
-    "image": "/cutouts/overtone-color-depositing-treatment-mask.webp",
+    "image": "/levelled/overtone-color-depositing-treatment-mask.webp",
     "topAward": "Allure Best of Beauty — Best Semi-Permanent Hair Color (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -64522,7 +64522,7 @@
       "Allure Best of Beauty — Best Semi-Permanent Hair Color (2026)"
     ],
     "imageOriginal": "https://media.allure.com/photos/6a94c3312500f029ff54ead4/1:1/w_1600,c_limit/undefined",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-2898",
@@ -64976,7 +64976,7 @@
     "brand": "Erly",
     "name": "Daily Splash Hydrating Serum",
     "price": null,
-    "image": "/cutouts/erly-daily-splash-hydrating-serum.webp",
+    "image": "/levelled/erly-daily-splash-hydrating-serum.webp",
     "topAward": "Allure Best of Beauty — Best Hydrating Facial Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -64990,7 +64990,7 @@
       "Allure Best of Beauty — Best Hydrating Facial Serum (2026)"
     ],
     "imageOriginal": "https://media.allure.com/photos/6a8f10fc95b91a009928bedc/1:1/w_1600,c_limit/undefined",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-2919",
@@ -66739,7 +66739,7 @@
     "brand": "Solar Eclipse",
     "name": "Claw Hair Clips",
     "price": null,
-    "image": "/cutouts/solar-eclipse-claw-hair-clips.webp",
+    "image": "/levelled/solar-eclipse-claw-hair-clips.webp",
     "topAward": "Allure Best of Beauty — Tools (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -66753,9 +66753,9 @@
       "Allure Best of Beauty — Tools (2026)"
     ],
     "imageOriginal": "https://cdn.shopify.com/s/files/1/0336/2796/3523/files/Allure_9357401058644.jpg?v=1789666096",
-    "imageCutout": true,
     "imageSource": "image-search",
-    "imageResolvedFrom": "carolinerandell.co.uk"
+    "imageResolvedFrom": "carolinerandell.co.uk",
+    "imageLevelled": true
   },
   {
     "id": "prod-2998",
@@ -71478,7 +71478,7 @@
     "brand": "PUR",
     "name": "4-in-1 Skin Tint Mineral Sunscreen Broad Spectrum SPF 50",
     "price": 42,
-    "image": "/cutouts/pur-4-in-1-skin-tint-mineral-sunscreen-broad-spectrum-spf-50.webp",
+    "image": "/levelled/pur-4-in-1-skin-tint-mineral-sunscreen-broad-spectrum-spf-50.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Tinted Sunscreen (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -71492,7 +71492,7 @@
       "Cosmopolitan Beauty Awards — Best Tinted Sunscreen (2026)"
     ],
     "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/3d8d3903-8adf-48d2-b976-8eb67db45463/4a9e1f75-8de3-49b9-b498-be082f36b577.jpg",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-3211",
@@ -74145,7 +74145,7 @@
     "brand": "Dibs Beauty",
     "name": "Duet Baked Bronzer",
     "price": null,
-    "image": "/cutouts/dibs-beauty-duet-baked-bronzer.webp",
+    "image": "/levelled/dibs-beauty-duet-baked-bronzer.webp",
     "topAward": "Allure Best of Beauty — Best Powder Bronzer (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -74159,7 +74159,7 @@
       "Allure Best of Beauty — Best Powder Bronzer (2026)"
     ],
     "imageOriginal": "https://media.allure.com/photos/6a88a47c6ac83ed4ca421a96/1:1/w_1600,c_limit/undefined",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-3332",
