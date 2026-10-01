@@ -60,14 +60,31 @@ export const products2026: Product[] = (productsJson as Product[]).map(p => ({
 export const shoppable: Product[] = products2026.filter(p => p.buyLink);
 
 export const awardPrograms: AwardProgram[] = [
+  // Newest first. This list had drifted badly out of step with the record: it
+  // showed 8 programmes while the database held 14 for 2026, so Cosmopolitan's
+  // 342-winner Holy Grail class, Glamour's 248 and both Harper's Bazaar
+  // programmes were live on product pages but invisible here. Counts below are
+  // the award rows actually in the database, not a publication's headline claim
+  // — see the Allure 319-vs-307 and Cosmo 151-vs-134 notes in data/awards.
+  { id: '9', name: 'Harper\'s Bazaar UK Best of the Best', edition: '2026', winnerCount: 93, announcedDate: 'Sep 2026', region: 'UK', recordName: "Harper's Bazaar UK Best of the Best", justAdded: true },
   { id: '8', name: 'NewBeauty Readers\' Choice', edition: '2026', winnerCount: 104, announcedDate: '29 Sep 2026', region: 'US', recordName: 'NewBeauty Readers Choice', justAdded: true },
   { id: '6', name: 'Allure Best of Beauty', edition: '2026', winnerCount: 307, announcedDate: '15 Sep 2026', region: 'US', justAdded: true },
   { id: '7', name: 'Cosmopolitan Readers\' Choice', edition: '2026', winnerCount: 126, announcedDate: '2 Sep 2026', region: 'US', recordName: 'Cosmopolitan Readers Choice', justAdded: true },
-  { id: '5', name: 'Marie Claire Reader\'s Choice', edition: '2026', winnerCount: 57, announcedDate: '15 Apr 2026', region: 'US', justAdded: true },
   { id: '1', name: 'Allure Readers\' Choice', edition: '2026', winnerCount: 66, announcedDate: 'Jun 2026', region: 'US' },
   { id: '2', name: 'InStyle Best Beauty Buys', edition: '2026', winnerCount: 154, announcedDate: '20 May 2026', region: 'US' },
-  { id: '3', name: 'Marie Claire Prix d\'Excellence', edition: '2026', winnerCount: 19, announcedDate: 'May 2026', region: 'US' },
+  // Cosmopolitan runs two programmes a year. This is the editor-judged Holy
+  // Grail class; the reader-voted one is listed above. The record name stays
+  // 'Cosmopolitan Beauty Awards', which is how it prefixes awardsWon.
+  { id: '10', name: 'Cosmopolitan Holy Grail Beauty Awards', edition: '2026', winnerCount: 342, announcedDate: '11 May 2026', region: 'US', recordName: 'Cosmopolitan Beauty Awards' },
+  { id: '11', name: 'Harper\'s Bazaar Skincare Awards', edition: '2026', winnerCount: 64, announcedDate: '11 May 2026', region: 'US', recordName: "Harper's Bazaar Skincare Awards" },
+  // France, not US — the Prix d'Excellence is Marie Claire France's programme,
+  // and the publications table has always said so.
+  { id: '3', name: 'Marie Claire Prix d\'Excellence', edition: '2026', winnerCount: 19, announcedDate: 'May 2026', region: 'France' },
+  { id: '5', name: 'Marie Claire Reader\'s Choice', edition: '2026', winnerCount: 57, announcedDate: '15 Apr 2026', region: 'US', justAdded: true },
   { id: '4', name: 'NewBeauty Annual Awards', edition: '2026', winnerCount: 357, announcedDate: '31 Mar 2026', region: 'US' },
+  { id: '12', name: 'Glamour Beauty Awards', edition: '2026', winnerCount: 248, announcedDate: '18 Mar 2026', region: 'US' },
+  { id: '13', name: 'Glowpick Awards', edition: '2026', winnerCount: 491, announcedDate: 'H1 2026', region: 'Korea' },
+  { id: '14', name: 'Hwahae Beauty Awards', edition: '2026', winnerCount: 408, announcedDate: '2026', region: 'Korea' },
 ];
 
 export const pressArticles: PressArticle[] = [
