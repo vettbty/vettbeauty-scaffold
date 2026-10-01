@@ -1,31 +1,6 @@
 {
- "generated": "2026-09-30",
- "stats": {
-  "amazon": {
-   "attempted": 201,
-   "priced": 176,
-   "blocked": 0,
-   "unreachable": 8,
-   "noPrice": 17,
-   "deals": 23
-  },
-  "ulta": {
-   "attempted": 285,
-   "priced": 271,
-   "blocked": 0,
-   "unreachable": 14,
-   "noPrice": 0,
-   "deals": 94
-  },
-  "dermstore": {
-   "attempted": 28,
-   "priced": 16,
-   "blocked": 0,
-   "unreachable": 1,
-   "noPrice": 11,
-   "deals": 6
-  }
- },
+ "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
+ "generated": "2026-10-01",
  "items": [
   {
    "productId": "6c29a9eb-186f-4044-b622-2faa658567f7",
@@ -76,18 +51,6 @@
    "listing": "Can"
   },
   {
-   "productId": "59678bc9-5fa2-4dc3-89d7-800fb1b9be31",
-   "brand": "It's A 10 Haircare",
-   "product": "Clear Miracle Leave-In",
-   "retailer": "Ulta",
-   "was": 27,
-   "now": 11,
-   "percentOff": 59,
-   "url": "https://go.shopmy.us/p-78558659",
-   "size": null,
-   "listing": "Clear Miracle Leave-In - It&#x27;s A 10"
-  },
-  {
    "productId": "a680f976-9d9b-4671-a752-7b198205253a",
    "brand": "InfinitiPRO by Conair",
    "product": "Hair Steamer Styler",
@@ -98,6 +61,18 @@
    "url": "https://go.shopmy.us/p-78564431",
    "size": null,
    "listing": "Hair Steamer for Curly Hair with Diffuser Attachment - Conair"
+  },
+  {
+   "productId": "59678bc9-5fa2-4dc3-89d7-800fb1b9be31",
+   "brand": "It's A 10 Haircare",
+   "product": "Clear Miracle Leave-In",
+   "retailer": "Ulta",
+   "was": 27,
+   "now": 11,
+   "percentOff": 59,
+   "url": "https://go.shopmy.us/p-78558659",
+   "size": null,
+   "listing": "Clear Miracle Leave-In - It&#x27;s A 10"
   },
   {
    "productId": "37d748fc-f68a-4cb6-8194-bfc7d9c0dd7f",
@@ -112,18 +87,6 @@
    "listing": "2.0 oz Air Dry Styler for Light Moisture, Definition + Shine - Odele"
   },
   {
-   "productId": "6b699bab-9a41-4e82-ad4b-0c64af160667",
-   "brand": "eos",
-   "product": "Super Balm",
-   "retailer": "amazon",
-   "was": 11,
-   "now": 4.97,
-   "percentOff": 55,
-   "url": "https://www.amazon.com/dp/B0C7SFLV46",
-   "size": "0.35 oz",
-   "listing": "Amazon.com : eos 24H Super Balm- Honey Apple, Day or Night Lip Treatment, 0.35 oz | Made with Hydrating Cocoa, Shea, & A"
-  },
-  {
    "productId": "e3ca146c-1f60-421f-8cf6-0ca6614edfcf",
    "brand": "Curlsmith",
    "product": "Curl Defining Styling Soufflé",
@@ -134,6 +97,18 @@
    "url": "https://go.shopmy.us/p-89621715",
    "size": "2.0 oz",
    "listing": "2.0 oz Curl Defining Strong-Hold Styling Gel Souffle - Curlsmith"
+  },
+  {
+   "productId": "6b699bab-9a41-4e82-ad4b-0c64af160667",
+   "brand": "eos",
+   "product": "Super Balm",
+   "retailer": "amazon",
+   "was": 11,
+   "now": 4.97,
+   "percentOff": 55,
+   "url": "https://www.amazon.com/dp/B0C7SFLV46",
+   "size": "0.35 oz",
+   "listing": "Amazon.com : eos 24H Super Balm- Honey Apple, Day or Night Lip Treatment, 0.35 oz | Made with Hydrating Cocoa, Shea, & A"
   },
   {
    "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
@@ -184,6 +159,18 @@
    "listing": "6.7 oz Dercos Selenium Sulfide Anti-Dandruff Shampoo - Vichy"
   },
   {
+   "productId": "7dad7018-5c04-4c0a-8888-c4689368e7d7",
+   "brand": "BOLDIFY",
+   "product": "Hairline Powder",
+   "retailer": "amazon",
+   "was": 30,
+   "now": 15.99,
+   "percentOff": 47,
+   "url": "https://www.amazon.com/dp/B08N1CWL7S",
+   "size": "4g",
+   "listing": "Amazon.com: Boldify Hairline Powder, Root Touch Up Hair Color Dark Brown 4g | Instantly Fills Thinning Hair & Sparse Hai"
+  },
+  {
    "productId": "0aee5d4f-fcdf-4fcd-92a3-f2511dd8a710",
    "brand": "Burst Oral Care",
    "product": "Precision Whitening Pen",
@@ -208,18 +195,6 @@
    "listing": "EverPure Sulfate Free Iron Sleek Smoothing Shampoo - L&#x27;Oréal Paris"
   },
   {
-   "productId": "3127b806-a206-4f2e-9a7d-7722c923c51f",
-   "brand": "Seen",
-   "product": "Body Wash, Fragrance Free",
-   "retailer": "Dermstore",
-   "was": 24,
-   "now": 13.99,
-   "percentOff": 42,
-   "url": "https://go.shopmy.us/p-79609452",
-   "size": "10 fl. oz",
-   "listing": "SEEN Body Wash Fragrance Free 10 fl. oz"
-  },
-  {
    "productId": "0cfc57b8-2611-443c-8ba6-4744f0f50c87",
    "brand": "Differin",
    "product": "Adapalene Gel 0.1%",
@@ -230,6 +205,18 @@
    "url": "https://go.shopmy.us/p-78294069",
    "size": "0.5 oz",
    "listing": "0.5 oz Adapalene 0.1% Acne Treatment Gel - Differin"
+  },
+  {
+   "productId": "3127b806-a206-4f2e-9a7d-7722c923c51f",
+   "brand": "Seen",
+   "product": "Body Wash, Fragrance Free",
+   "retailer": "Dermstore",
+   "was": 24,
+   "now": 13.99,
+   "percentOff": 42,
+   "url": "https://go.shopmy.us/p-79609452",
+   "size": "10 fl. oz",
+   "listing": "SEEN Body Wash Fragrance Free 10 fl. oz"
   },
   {
    "productId": "8bcb6361-4e3b-4897-af09-aea0fdc459a6",
@@ -244,30 +231,6 @@
    "listing": "Amazon.com: Creme of Nature Argan Oil Sulfate-Free Moisture Shampoo, 12 fl oz | Moisturizing shampoo that gently cleanse"
   },
   {
-   "productId": "b408f816-2d9e-4c10-b757-8861c29d3daf",
-   "brand": "Shiseido",
-   "product": "Ultimune Power Infusing Serum",
-   "retailer": "amazon",
-   "was": 210,
-   "now": 125,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-76855040",
-   "size": "2.5 oz",
-   "listing": "Amazon.com: Shiseido Ultimune Power Infusing Serum - 2.5 oz - Breakthrough Lightweight Face Serum - Boosts Radiance & Im"
-  },
-  {
-   "productId": "7dad7018-5c04-4c0a-8888-c4689368e7d7",
-   "brand": "BOLDIFY",
-   "product": "Hairline Powder",
-   "retailer": "amazon",
-   "was": 30,
-   "now": 17.95,
-   "percentOff": 40,
-   "url": "https://www.amazon.com/dp/B08N1CWL7S",
-   "size": "4g",
-   "listing": "Amazon.com: Boldify Hairline Powder, Root Touch Up Hair Color Dark Brown 4g | Instantly Fills Thinning Hair & Sparse Hai"
-  },
-  {
    "productId": "bccc4731-123b-4386-ad50-976424e62867",
    "brand": "Good Dye Young",
    "product": "DYEposit",
@@ -280,16 +243,16 @@
    "listing": "Copper DYEposit Color Depositing Hair Mask - Good Dye Young"
   },
   {
-   "productId": "32406d04-834c-414f-94d9-5e49bc17cc18",
-   "brand": "Hot Tools",
-   "product": "Pro Artist Digital Curling Iron",
+   "productId": "b408f816-2d9e-4c10-b757-8861c29d3daf",
+   "brand": "Shiseido",
+   "product": "Ultimune Power Infusing Serum",
    "retailer": "amazon",
-   "was": 100,
-   "now": 61.5,
-   "percentOff": 39,
-   "url": "https://www.amazon.com/dp/B09P22MMF8",
-   "size": null,
-   "listing": "Amazon.com: Hot Tools Pro Artist Black Gold Digital 1\" Curling Iron | For Bouncy Curls with High Shine Finish, 26 Heat L"
+   "was": 210,
+   "now": 125,
+   "percentOff": 40,
+   "url": "https://go.shopmy.us/p-76855040",
+   "size": "2.5 oz",
+   "listing": "Amazon.com: Shiseido Ultimune Power Infusing Serum - 2.5 oz - Breakthrough Lightweight Face Serum - Boosts Radiance & Im"
   },
   {
    "productId": "6cc53b5a-c7ae-46e7-9c1b-dececf6a10da",
@@ -302,6 +265,18 @@
    "url": "https://go.shopmy.us/p-90522334",
    "size": "1.3 oz",
    "listing": "1.3 oz Cicalfate+ Restorative Protective Cream - Avène"
+  },
+  {
+   "productId": "32406d04-834c-414f-94d9-5e49bc17cc18",
+   "brand": "Hot Tools",
+   "product": "Pro Artist Digital Curling Iron",
+   "retailer": "amazon",
+   "was": 100,
+   "now": 61.5,
+   "percentOff": 39,
+   "url": "https://www.amazon.com/dp/B09P22MMF8",
+   "size": null,
+   "listing": "Amazon.com: Hot Tools Pro Artist Black Gold Digital 1\" Curling Iron | For Bouncy Curls with High Shine Finish, 26 Heat L"
   },
   {
    "productId": "a29a07e9-bedd-428e-9fbb-cce07b0c700a",
@@ -333,11 +308,23 @@
    "product": "Aluminum Free Deodorant Spray",
    "retailer": "amazon",
    "was": 27,
-   "now": 18.17,
-   "percentOff": 33,
+   "now": 17.75,
+   "percentOff": 34,
    "url": "https://www.amazon.com/dp/B0DB6CNFM4",
    "size": "4 oz",
    "listing": "Amazon.com : Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz : B"
+  },
+  {
+   "productId": "9cf45f37-9aaf-4acf-a564-e39b306907e3",
+   "brand": "Gillette",
+   "product": "Venus Original Razor",
+   "retailer": "amazon",
+   "was": 14.97,
+   "now": 9.97,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B003EMPN7G",
+   "size": "2 Count",
+   "listing": "Amazon.com: Gillette Venus Smooth Razor for Women, Includes 1 Reusable Razor Handle + 2 Count 3-Bladed Refills, Ergonomi"
   },
   {
    "productId": "9cb09fbd-627e-4499-ba57-dc0b3659c2f9",
@@ -362,18 +349,6 @@
    "url": "https://www.amazon.com/dp/B0CQ3D4H1Y",
    "size": "105 fl oz",
    "listing": "Amazon.com: Tide Free & Gentle Liquid Laundry Detergent, 80 Loads, 105 fl oz, Tide Laundry Detergent, Clean Laundry Dete"
-  },
-  {
-   "productId": "9cf45f37-9aaf-4acf-a564-e39b306907e3",
-   "brand": "Gillette",
-   "product": "Venus Original Razor",
-   "retailer": "amazon",
-   "was": 14.97,
-   "now": 9.97,
-   "percentOff": 33,
-   "url": "https://www.amazon.com/dp/B003EMPN7G",
-   "size": "2 Count",
-   "listing": "Amazon.com: Gillette Venus Smooth Razor for Women, Includes 1 Reusable Razor Handle + 2 Count 3-Bladed Refills, Ergonomi"
   },
   {
    "productId": "0d8e8c1a-2811-4cb6-a082-851ae4337d01",
@@ -412,6 +387,18 @@
    "listing": "Billie It&#x27;s Topless 1 Step Gel-Like Manicure Nail Polish - Nails Inc."
   },
   {
+   "productId": "861bc92f-7e75-4da6-a7f1-cb217a25f934",
+   "brand": "Made by Mitchell",
+   "product": "Curve Case Cream Makeup Palette",
+   "retailer": "Ulta",
+   "was": 33,
+   "now": 22.75,
+   "percentOff": 31,
+   "url": "https://go.shopmy.us/p-89624016",
+   "size": null,
+   "listing": "Deep Curve Case Cream Makeup Palette - Made By Mitchell"
+  },
+  {
    "productId": "cd81a42b-9540-404f-b72c-15bbcbf27959",
    "brand": "Gillette Venus",
    "product": "Pubic Hair and Skin Daily Ingrown Serum",
@@ -436,64 +423,16 @@
    "listing": "PLAY Everyday Sunscreen Stick SPF 50 - Supergoop!"
   },
   {
-   "productId": "861bc92f-7e75-4da6-a7f1-cb217a25f934",
-   "brand": "Made by Mitchell",
-   "product": "Curve Case Cream Makeup Palette",
-   "retailer": "Ulta",
-   "was": 33,
-   "now": 22.75,
+   "productId": "087977dc-e91b-4a43-8317-171c35ba9130",
+   "brand": "OWAY",
+   "product": "Curly Hair Co-Wash",
+   "retailer": "amazon",
+   "was": 60,
+   "now": 41.12,
    "percentOff": 31,
-   "url": "https://go.shopmy.us/p-89624016",
-   "size": null,
-   "listing": "Deep Curve Case Cream Makeup Palette - Made By Mitchell"
-  },
-  {
-   "productId": "0d0f9e91-0ca8-49ae-ac2f-fa09d15c34d5",
-   "brand": "Garnier Fructis",
-   "product": "Curl Knot Melter",
-   "retailer": "amazon",
-   "was": 9.99,
-   "now": 6.97,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
-   "size": null,
-   "listing": "Amazon.com : Garnier Fructis Curl Knot Melter Multi-Use Anti-Breakage Detangling Milk, Moisturizing Detangler Spray and "
-  },
-  {
-   "productId": "a5c855a6-fdb2-4b51-a321-86c08accf860",
-   "brand": "quip",
-   "product": "Sonic Toothbrush",
-   "retailer": "amazon",
-   "was": 40,
-   "now": 27.99,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0DW5Z1S47",
-   "size": null,
-   "listing": "Amazon.com: Quip Sonic Electric Toothbrush for Adults, Extra Brush Head, Marine Blue | Includes 2 Brush Heads and Travel"
-  },
-  {
-   "productId": "365244a3-339e-4a60-8dfe-0fae5bc7993b",
-   "brand": "WavyTalk",
-   "product": "Blowout Boost Grande",
-   "retailer": "amazon",
-   "was": 69,
-   "now": 47.96,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0F4KCTX6J",
-   "size": null,
-   "listing": "Amazon.com : Wavytalk Thermal Brush Blowout Boost Grande 1.77″ Big Bouncy Blowout Waves | Negative Ion Technology, Tourm"
-  },
-  {
-   "productId": "c4726d38-7c93-4340-bfb6-aac4949035a1",
-   "brand": "Silk'n",
-   "product": "Hair Removal Device",
-   "retailer": "amazon",
-   "was": 599,
-   "now": 419,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0D819HDRL",
-   "size": null,
-   "listing": "Amazon.com: Silk&#x27;n Infinity Fast Compact IPL Laser Hair Removal Device for Women and Men, Painless Permanent Hair R"
+   "url": "https://www.amazon.com/dp/B0B19BRTGN",
+   "size": "240ml",
+   "listing": "Amazon.com : Oway: Curly Hair Bath [240ml] : Beauty & Personal Care"
   },
   {
    "productId": "5096ba40-ede1-498b-b3b7-2f4f48fd9614",
@@ -544,18 +483,6 @@
    "listing": "Micro Edge Styler - RevAir"
   },
   {
-   "productId": "882d8e2f-fb16-4508-87ac-fefde4da546c",
-   "brand": "Bali Body",
-   "product": "Gradual Tanning Butter",
-   "retailer": "Ulta",
-   "was": 33,
-   "now": 23.1,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-78146388",
-   "size": null,
-   "listing": "Gradual Tanning Butter - Bali Body"
-  },
-  {
    "productId": "67c059af-f729-427e-918f-94da03277542",
    "brand": "Batiste",
    "product": "Hint of Color Dry Shampoo",
@@ -592,18 +519,6 @@
    "listing": "Black Cherry Love Core Hair & Body Mist - florence by mills"
   },
   {
-   "productId": "e7878278-f0f9-4881-8918-93f928d00678",
-   "brand": "Frank Body",
-   "product": "Triple Acid Body Mist",
-   "retailer": "Ulta",
-   "was": 19.95,
-   "now": 13.96,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-78453201",
-   "size": null,
-   "listing": "Triple Acid Body Mist - frank body"
-  },
-  {
    "productId": "05de965c-4b34-4dbd-8792-bd5ba62e6856",
    "brand": "Garnier",
    "product": "All-in-One Micellar Cleansing Water",
@@ -614,6 +529,18 @@
    "url": "https://go.shopmy.us/p-78457021",
    "size": "13.5 oz",
    "listing": "13.5 oz SkinActive Micellar Cleansing Water All-in-1 Waterproof Makeup Remover - Garnier"
+  },
+  {
+   "productId": "0d0f9e91-0ca8-49ae-ac2f-fa09d15c34d5",
+   "brand": "Garnier Fructis",
+   "product": "Curl Knot Melter",
+   "retailer": "amazon",
+   "was": 9.99,
+   "now": 6.97,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
+   "size": null,
+   "listing": "Amazon.com : Garnier Fructis Curl Knot Melter Multi-Use Anti-Breakage Detangling Milk, Moisturizing Detangler Spray and "
   },
   {
    "productId": "eee71491-a3b8-427b-9ef9-c8916a00640a",
@@ -638,6 +565,18 @@
    "url": "https://go.shopmy.us/p-79503370",
    "size": null,
    "listing": "Ultra Glossy Topcoat - Zoya"
+  },
+  {
+   "productId": "a5c855a6-fdb2-4b51-a321-86c08accf860",
+   "brand": "quip",
+   "product": "Sonic Toothbrush",
+   "retailer": "amazon",
+   "was": 40,
+   "now": 27.99,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0DW5Z1S47",
+   "size": null,
+   "listing": "Amazon.com: Quip Sonic Electric Toothbrush for Adults, Extra Brush Head, Marine Blue | Includes 2 Brush Heads and Travel"
   },
   {
    "productId": "dc7736db-bd93-44e3-8ed0-96c2043119cc",
@@ -676,18 +615,6 @@
    "listing": "Miami Hydrating Shampoo - SHAMPOOHOTEL"
   },
   {
-   "productId": "1497657c-53ae-47d0-8ba6-d3e6d1a5e04e",
-   "brand": "LONDONTOWN",
-   "product": "Glow Getter Nail Luminizer",
-   "retailer": "Ulta",
-   "was": 20,
-   "now": 14,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-80216665",
-   "size": null,
-   "listing": "Original Glow Getter Nail Luminizer - Londontown"
-  },
-  {
    "productId": "d5f051c7-36a9-4c4e-8a47-812b58d532ba",
    "brand": "Nexxus",
    "product": "Keraphix Liquid Crystallizer Treatment",
@@ -712,16 +639,16 @@
    "listing": "Kiseki Molecular Repair Mizu Hair Oil - NatureLab. Tokyo"
   },
   {
-   "productId": "75ff276d-a7d2-40e1-b155-a5efdbad5ca1",
-   "brand": "Sun Bum",
-   "product": "Daily Glow Tinted Moisturizer SPF 30",
-   "retailer": "Ulta",
-   "was": 19.99,
-   "now": 13.99,
+   "productId": "c4726d38-7c93-4340-bfb6-aac4949035a1",
+   "brand": "Silk'n",
+   "product": "Hair Removal Device",
+   "retailer": "amazon",
+   "was": 599,
+   "now": 419,
    "percentOff": 30,
-   "url": "https://go.shopmy.us/p-80755770",
+   "url": "https://www.amazon.com/dp/B0D819HDRL",
    "size": null,
-   "listing": "Daily Glow Tinted Moisturizer SPF 30 - Sun Bum"
+   "listing": "Amazon.com: Silk&#x27;n Infinity Fast Compact IPL Laser Hair Removal Device for Women and Men, Painless Permanent Hair R"
   },
   {
    "productId": "19fdfcf5-f87f-4ac5-8a4c-5638b0d07867",
@@ -734,18 +661,6 @@
    "url": "https://go.shopmy.us/p-81020618",
    "size": "Mini",
    "listing": "Pink Quartz 1-Step DIY Glossy Gel Manicure Kit - Le Mini Macaron"
-  },
-  {
-   "productId": "dca97e25-a640-4721-abda-235b6fb5e318",
-   "brand": "Nexxus",
-   "product": "Hy Volume Shampoo & Conditioner",
-   "retailer": "Ulta",
-   "was": 19.99,
-   "now": 13.99,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-81185371",
-   "size": null,
-   "listing": "HY-VOLUME Shampoo - Nexxus"
   },
   {
    "productId": "e43c3ad1-6bd3-4689-a417-f0846f106286",
@@ -808,18 +723,6 @@
    "listing": "Shade 5 BeautyScreen Peptide Foundation Tint SPF 50 - Naked Sundays"
   },
   {
-   "productId": "9da54392-709f-4c94-a551-0e504b6587d3",
-   "brand": "Method",
-   "product": "Dream Foam Foaming Body Wash",
-   "retailer": "Ulta",
-   "was": 12.5,
-   "now": 8.75,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-81546006",
-   "size": null,
-   "listing": "Dark Cherry & Raspberry Dream Foam Foaming Body Wash - method"
-  },
-  {
    "productId": "01b4edf5-03df-4010-88f5-2f6ec1ff01c5",
    "brand": "Well People",
    "product": "Poutlove Peptide Lip Balm",
@@ -832,16 +735,88 @@
    "listing": "Pink Grapefruit Poutlove Peptide Lip Balm - Well People"
   },
   {
-   "productId": "675d8421-2677-488b-a67d-dd7e8d67ef3b",
-   "brand": "Briogeo",
-   "product": "Farewell Frizz Blow Dry Perfection & Heat Protectant Crème",
-   "retailer": "Dermstore",
-   "was": 26,
-   "now": 18.99,
-   "percentOff": 27,
-   "url": "https://go.shopmy.us/p-78168422",
-   "size": "4 oz",
-   "listing": "Briogeo Farewell Frizz™ Blow Dry Perfection &#38; Heat Protectant Crème 4 oz"
+   "productId": "882d8e2f-fb16-4508-87ac-fefde4da546c",
+   "brand": "Bali Body",
+   "product": "Gradual Tanning Butter",
+   "retailer": "Ulta",
+   "was": 33,
+   "now": 23.1,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-78146388",
+   "size": null,
+   "listing": "Gradual Tanning Butter - Bali Body"
+  },
+  {
+   "productId": "e7878278-f0f9-4881-8918-93f928d00678",
+   "brand": "Frank Body",
+   "product": "Triple Acid Body Mist",
+   "retailer": "Ulta",
+   "was": 19.95,
+   "now": 13.96,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-78453201",
+   "size": null,
+   "listing": "Triple Acid Body Mist - frank body"
+  },
+  {
+   "productId": "1497657c-53ae-47d0-8ba6-d3e6d1a5e04e",
+   "brand": "LONDONTOWN",
+   "product": "Glow Getter Nail Luminizer",
+   "retailer": "Ulta",
+   "was": 20,
+   "now": 14,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-80216665",
+   "size": null,
+   "listing": "Original Glow Getter Nail Luminizer - Londontown"
+  },
+  {
+   "productId": "365244a3-339e-4a60-8dfe-0fae5bc7993b",
+   "brand": "WavyTalk",
+   "product": "Blowout Boost Grande",
+   "retailer": "amazon",
+   "was": 69,
+   "now": 47.96,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0F4KCTX6J",
+   "size": null,
+   "listing": "Amazon.com : Wavytalk Thermal Brush Blowout Boost Grande 1.77″ Big Bouncy Blowout Waves | Negative Ion Technology, Tourm"
+  },
+  {
+   "productId": "75ff276d-a7d2-40e1-b155-a5efdbad5ca1",
+   "brand": "Sun Bum",
+   "product": "Daily Glow Tinted Moisturizer SPF 30",
+   "retailer": "Ulta",
+   "was": 19.99,
+   "now": 13.99,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-80755770",
+   "size": null,
+   "listing": "Daily Glow Tinted Moisturizer SPF 30 - Sun Bum"
+  },
+  {
+   "productId": "dca97e25-a640-4721-abda-235b6fb5e318",
+   "brand": "Nexxus",
+   "product": "Hy Volume Shampoo & Conditioner",
+   "retailer": "Ulta",
+   "was": 19.99,
+   "now": 13.99,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-81185371",
+   "size": null,
+   "listing": "HY-VOLUME Shampoo - Nexxus"
+  },
+  {
+   "productId": "9da54392-709f-4c94-a551-0e504b6587d3",
+   "brand": "Method",
+   "product": "Dream Foam Foaming Body Wash",
+   "retailer": "Ulta",
+   "was": 12.5,
+   "now": 8.75,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-81546006",
+   "size": null,
+   "listing": "Dark Cherry & Raspberry Dream Foam Foaming Body Wash - method"
   },
   {
    "productId": "e3fa4145-8029-4e0d-9b7f-d86072dc641b",
@@ -856,16 +831,16 @@
    "listing": "345 Relief Cream Mist - Dr. Althea"
   },
   {
-   "productId": "0a53b9b2-3645-4407-9f3e-abe4e6ffd9d4",
-   "brand": "Dr. Scholl's",
-   "product": "Dry Cracked Foot Repair Ultra-Hydrating Foot Cream",
-   "retailer": "amazon",
-   "was": 7.99,
-   "now": 5.89,
-   "percentOff": 26,
-   "url": "https://www.amazon.com/dp/B08YZBKZPB",
-   "size": "3.5 oz",
-   "listing": "Amazon.com: Dr. Scholl&#x27;s Dry, Cracked Foot Repair Ultra-Hydrating Foot Cream Moisturizer, 3.5 oz, Skin Care Foot Lo"
+   "productId": "675d8421-2677-488b-a67d-dd7e8d67ef3b",
+   "brand": "Briogeo",
+   "product": "Farewell Frizz Blow Dry Perfection & Heat Protectant Crème",
+   "retailer": "Dermstore",
+   "was": 26,
+   "now": 18.99,
+   "percentOff": 27,
+   "url": "https://go.shopmy.us/p-78168422",
+   "size": "4 oz",
+   "listing": "Briogeo Farewell Frizz™ Blow Dry Perfection &#38; Heat Protectant Crème 4 oz"
   },
   {
    "productId": "511a0094-3935-4704-908a-2632e7e388e6",
@@ -892,16 +867,16 @@
    "listing": "Seamless One Day Underlash Extension Kit – Faux Mink D Curl - Ardell"
   },
   {
-   "productId": "087977dc-e91b-4a43-8317-171c35ba9130",
-   "brand": "OWAY",
-   "product": "Curly Hair Co-Wash",
+   "productId": "0a53b9b2-3645-4407-9f3e-abe4e6ffd9d4",
+   "brand": "Dr. Scholl's",
+   "product": "Dry Cracked Foot Repair Ultra-Hydrating Foot Cream",
    "retailer": "amazon",
-   "was": 60,
-   "now": 44.89,
-   "percentOff": 25,
-   "url": "https://www.amazon.com/dp/B0B19BRTGN",
-   "size": "240ml",
-   "listing": "Amazon.com : Oway: Curly Hair Bath [240ml] : Beauty & Personal Care"
+   "was": 7.99,
+   "now": 5.89,
+   "percentOff": 26,
+   "url": "https://www.amazon.com/dp/B08YZBKZPB",
+   "size": "3.5 oz",
+   "listing": "Amazon.com: Dr. Scholl&#x27;s Dry, Cracked Foot Repair Ultra-Hydrating Foot Cream Moisturizer, 3.5 oz, Skin Care Foot Lo"
   },
   {
    "productId": "18cbd646-9cba-456f-9244-4b95c3caae29",
@@ -976,18 +951,6 @@
    "listing": "Collagen Bank Reviving Eye Cream - Neutrogena"
   },
   {
-   "productId": "914356d4-9faa-4194-9852-1d32225b5bf5",
-   "brand": "Bushbalm",
-   "product": "The Frankie Touch-Up Trimmer",
-   "retailer": "Ulta",
-   "was": 34.99,
-   "now": 26.24,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-78171297",
-   "size": null,
-   "listing": "The Frankie Touch-Up Trimmer - Bushbalm"
-  },
-  {
    "productId": "a5370a68-9206-42e6-be72-05d43c8f3d3b",
    "brand": "Byoma",
    "product": "Foaming Rice Deep Cleanser",
@@ -1024,18 +987,6 @@
    "listing": "I Love It Liquid Blush - ColourPop"
   },
   {
-   "productId": "7c2facc0-9b2e-46a3-9e1a-139aee4b5af2",
-   "brand": "essie",
-   "product": "Expressie Quick-Dry Nail Polish",
-   "retailer": "Ulta",
-   "was": 10,
-   "now": 7.5,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-78425026",
-   "size": null,
-   "listing": "Ooutside The Lines Expressie Quick-Dry Nail Polish - Essie"
-  },
-  {
    "productId": "cd8049e7-5578-4bf5-8bea-94d44e428c6a",
    "brand": "Essie",
    "product": "Nail Art Studio Jelly Gloss Nail Polish",
@@ -1058,30 +1009,6 @@
    "url": "https://go.shopmy.us/p-78456865",
    "size": null,
    "listing": "Makeup Removing Cleansing Balm Hyaluronic Acid - Garnier"
-  },
-  {
-   "productId": "55f915db-5920-4c70-a00a-154f60e123d7",
-   "brand": "KISS",
-   "product": "Falscara Studio Lash Extension Kit",
-   "retailer": "Ulta",
-   "was": 30.99,
-   "now": 23.24,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-78566291",
-   "size": null,
-   "listing": "Petite Dainty Falscara Studio Lash Extension Kit - Kiss"
-  },
-  {
-   "productId": "42bba962-f5c1-4fba-acde-1d6f41a08059",
-   "brand": "Mediheal",
-   "product": "Rose PDRN Essential Sheet Mask",
-   "retailer": "Ulta",
-   "was": 8.8,
-   "now": 6.6,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-79360285",
-   "size": null,
-   "listing": "Rose PDRN Essential Mask - MEDIHEAL"
   },
   {
    "productId": "9f26230d-d655-4d70-8265-bf8ffff573e9",
@@ -1156,6 +1083,66 @@
    "listing": "Big Sexy Hair Big Altitude Bodifying Blow Dry Mousse - Sexy Hair"
   },
   {
+   "productId": "914356d4-9faa-4194-9852-1d32225b5bf5",
+   "brand": "Bushbalm",
+   "product": "The Frankie Touch-Up Trimmer",
+   "retailer": "Ulta",
+   "was": 34.99,
+   "now": 26.24,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-78171297",
+   "size": null,
+   "listing": "The Frankie Touch-Up Trimmer - Bushbalm"
+  },
+  {
+   "productId": "42bba962-f5c1-4fba-acde-1d6f41a08059",
+   "brand": "Mediheal",
+   "product": "Rose PDRN Essential Sheet Mask",
+   "retailer": "Ulta",
+   "was": 8.8,
+   "now": 6.6,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-79360285",
+   "size": null,
+   "listing": "Rose PDRN Essential Mask - MEDIHEAL"
+  },
+  {
+   "productId": "7c2facc0-9b2e-46a3-9e1a-139aee4b5af2",
+   "brand": "essie",
+   "product": "Expressie Quick-Dry Nail Polish",
+   "retailer": "Ulta",
+   "was": 10,
+   "now": 7.5,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-78425026",
+   "size": null,
+   "listing": "Ooutside The Lines Expressie Quick-Dry Nail Polish - Essie"
+  },
+  {
+   "productId": "55f915db-5920-4c70-a00a-154f60e123d7",
+   "brand": "KISS",
+   "product": "Falscara Studio Lash Extension Kit",
+   "retailer": "Ulta",
+   "was": 30.99,
+   "now": 23.24,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-78566291",
+   "size": null,
+   "listing": "Petite Dainty Falscara Studio Lash Extension Kit - Kiss"
+  },
+  {
+   "productId": "16b0fc80-ea9d-4180-819a-a8c385dfe8dc",
+   "brand": "OLAY",
+   "product": "Super Cream with Broad Spectrum SPF 30",
+   "retailer": "amazon",
+   "was": 41.29,
+   "now": 31.49,
+   "percentOff": 24,
+   "url": "https://www.amazon.com/dp/B0DHWFWSVF",
+   "size": null,
+   "listing": "Amazon.com: Olay Super Cream with Sunscreen SPF 30, Lightweight Face Moisturizer with Sun Protection, 5-in-1 Skin Care B"
+  },
+  {
    "productId": "dd0c5848-e9c4-4664-85ca-4d8b7cbbc3c4",
    "brand": "Revlon",
    "product": "One-Step Volumizer Hot Air Brush",
@@ -1180,18 +1167,6 @@
    "listing": "Skin Barrier Protection Cream - NassifMD Skincare"
   },
   {
-   "productId": "88dc1101-dfd1-45e0-850b-688772a36eea",
-   "brand": "Nexxus",
-   "product": "Hy-Volume Weightless Lift Cloud Foam",
-   "retailer": "Ulta",
-   "was": 17.99,
-   "now": 13.99,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-79358429",
-   "size": null,
-   "listing": "HY-VOLUME Lift Cloud Foam - Nexxus"
-  },
-  {
    "productId": "cf8aa35a-decd-4ed5-9448-8458571d43aa",
    "brand": "Nexxus",
    "product": "Hy-Volume Protein Fusion Cloud Foam",
@@ -1204,16 +1179,16 @@
    "listing": "HY-VOLUME Lift Cloud Foam - Nexxus"
   },
   {
-   "productId": "b40f325c-c08d-4e0e-b000-6f17534c418c",
+   "productId": "88dc1101-dfd1-45e0-850b-688772a36eea",
    "brand": "Nexxus",
-   "product": "Nexxus Advanced Invisible Dry Shampoo",
+   "product": "Hy-Volume Weightless Lift Cloud Foam",
    "retailer": "Ulta",
-   "was": 18,
+   "was": 17.99,
    "now": 13.99,
    "percentOff": 22,
-   "url": "https://go.shopmy.us/p-81017708",
+   "url": "https://go.shopmy.us/p-79358429",
    "size": null,
-   "listing": "Advanced Invisible Clean Dry Shampoo - Nexxus"
+   "listing": "HY-VOLUME Lift Cloud Foam - Nexxus"
   },
   {
    "productId": "bb49ee04-9b3b-41f5-81b4-e66a2f15a28b",
@@ -1238,30 +1213,6 @@
    "url": "https://go.shopmy.us/p-80127080",
    "size": null,
    "listing": "Soft Black Natural Brow Duo 2-In-1 Eyebrow Pencil & Gel - Pixi"
-  },
-  {
-   "productId": "49f916f6-691d-4b83-8f97-53f8727cca19",
-   "brand": "Lumineux",
-   "product": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
-   "retailer": "amazon",
-   "was": 10,
-   "now": 7.98,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0DMGP43X5",
-   "size": "3.75 oz",
-   "listing": "Amazon.com: Lumineux 10% Nano Hydroxyapatite Whitening Toothpaste, 3.75 oz | Fluoride free gentle formula, clinically su"
-  },
-  {
-   "productId": "e6d2b477-518a-4cbb-a8bb-fb0bf4f98221",
-   "brand": "Moon Oral Beauty",
-   "product": "Stain Prevention Teeth Wipes",
-   "retailer": "amazon",
-   "was": 14,
-   "now": 11.24,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B093P4V4KF",
-   "size": null,
-   "listing": "Amazon.com: Moon Stain Prevention Teeth Wipes for Brighter Smile,10 Individual Packets | On-the-Go Cleansing Oral Care, "
   },
   {
    "productId": "9a4c78f8-c21b-4159-b47d-c6c1c494ea1e",
@@ -1312,6 +1263,42 @@
    "listing": "Pineapple Exfoliating Powder - Good Molecules"
   },
   {
+   "productId": "674e0416-deac-4d86-a518-6bd4b618b4c1",
+   "brand": "Hello",
+   "product": "Whipped Fluoride Toothpaste",
+   "retailer": "amazon",
+   "was": 11.91,
+   "now": 9.58,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0G7M6RX1M",
+   "size": null,
+   "listing": "Amazon.com : Hello Whipped Mellow Mint Dream and Peppermint Stick Toothpaste Pack, Minty Adult Foam Toothpaste with Fluo"
+  },
+  {
+   "productId": "e6d2b477-518a-4cbb-a8bb-fb0bf4f98221",
+   "brand": "Moon Oral Beauty",
+   "product": "Stain Prevention Teeth Wipes",
+   "retailer": "amazon",
+   "was": 14,
+   "now": 11.24,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B093P4V4KF",
+   "size": null,
+   "listing": "Amazon.com: Moon Stain Prevention Teeth Wipes for Brighter Smile,10 Individual Packets | On-the-Go Cleansing Oral Care, "
+  },
+  {
+   "productId": "d945e531-a6bb-4a5c-9502-927ce2a06d8c",
+   "brand": "goPure",
+   "product": "Tighten & Lift Neck Cream",
+   "retailer": "amazon",
+   "was": 40,
+   "now": 31.99,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0CGB215HR",
+   "size": null,
+   "listing": "Amazon.com: goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of"
+  },
+  {
    "productId": "178d48aa-435e-40cc-8ecd-ddd0a2f93a25",
    "brand": "Hot Tools",
    "product": "Pro Artist 24K Gold Extended Barrel Curling Iron",
@@ -1321,19 +1308,19 @@
    "percentOff": 20,
    "url": "https://go.shopmy.us/p-78477458",
    "size": null,
-   "listing": "-"
+   "listing": "24K Gold Extended Barrel Curling Iron - Hot Tools"
   },
   {
-   "productId": "16b0fc80-ea9d-4180-819a-a8c385dfe8dc",
-   "brand": "OLAY",
-   "product": "Super Cream with Broad Spectrum SPF 30",
+   "productId": "49f916f6-691d-4b83-8f97-53f8727cca19",
+   "brand": "Lumineux",
+   "product": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
    "retailer": "amazon",
-   "was": 41.29,
-   "now": 33.49,
-   "percentOff": 19,
-   "url": "https://www.amazon.com/dp/B0DHWFWSVF",
-   "size": null,
-   "listing": "Amazon.com: Olay Super Cream with Sunscreen SPF 30, Lightweight Face Moisturizer with Sun Protection, 5-in-1 Skin Care B"
+   "was": 10,
+   "now": 7.98,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0DMGP43X5",
+   "size": "3.75 oz",
+   "listing": "Amazon.com: Lumineux 10% Nano Hydroxyapatite Whitening Toothpaste, 3.75 oz | Fluoride free gentle formula, clinically su"
   },
   {
    "productId": "91c450bd-31aa-4c88-9093-e2ba77946b09",
@@ -1396,18 +1383,6 @@
    "listing": "Natural Lash Atelier Individual Lash Extension Kit - Kiss"
   },
   {
-   "productId": "5fa38b7b-9de9-435c-97e5-ecdefd4678de",
-   "brand": "No7",
-   "product": "HydraLuminous+ Day Gel",
-   "retailer": "amazon",
-   "was": 18,
-   "now": 15.02,
-   "percentOff": 17,
-   "url": "https://www.amazon.com/dp/B0D23WLCXG",
-   "size": "1.69 Fl Oz",
-   "listing": "Amazon.com: No7 HydraLuminous+ Hydrating Day Gel Moisturizer, 1.69 Fl Oz | Hyaluronic Acid & Vitamin B3 Niacinamide Face"
-  },
-  {
    "productId": "cbb02020-ee6a-47d3-b970-d97b8c8d8bde",
    "brand": "Olivia Garden",
    "product": "High Performance Professional Flat Iron",
@@ -1420,28 +1395,16 @@
    "listing": "Ceramic + Ion High Performance Professional 1\" Flat Iron - Olivia Garden"
   },
   {
-   "productId": "8077a1a0-5211-4a06-b422-cc3cd85e0e3d",
-   "brand": "Goodal",
-   "product": "Green Tangerine Niacinamide 10% Serum",
+   "productId": "5fa38b7b-9de9-435c-97e5-ecdefd4678de",
+   "brand": "No7",
+   "product": "HydraLuminous+ Day Gel",
    "retailer": "amazon",
-   "was": 32,
-   "now": 26.9,
-   "percentOff": 16,
-   "url": "https://www.amazon.com/dp/B0F3CF8FL5",
-   "size": null,
-   "listing": "Amazon.com: GOODAL Green Tangerine Vita C Niacinamide 10 Toning Ampoule - Facial Serum for Natural Glow, Daily Use, Pore"
-  },
-  {
-   "productId": "1bdb9d16-9e11-4ef7-8be2-6499f5df5898",
-   "brand": "Pantene",
-   "product": "Miracle Rescue Regenerative Hair Oil",
-   "retailer": "amazon",
-   "was": 15.39,
-   "now": 12.97,
-   "percentOff": 16,
-   "url": "https://www.amazon.com/dp/B0DJ3MF712",
-   "size": "2.0 FL Oz",
-   "listing": "Amazon.com: Pantene Miracle Rescue Regenerative Hair Oil - 2.0 FL Oz - Deep Repair Treatment for Dry & Damaged Hair : Be"
+   "was": 18,
+   "now": 15.02,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B0D23WLCXG",
+   "size": "1.69 Fl Oz",
+   "listing": "Amazon.com: No7 HydraLuminous+ Hydrating Day Gel Moisturizer, 1.69 Fl Oz | Hyaluronic Acid & Vitamin B3 Niacinamide Face"
   },
   {
    "productId": "9d48416f-9745-48a8-8374-40851798114c",
@@ -1468,16 +1431,40 @@
    "listing": "Pink Crush D38 Detangling and Styling Paddle - Denman"
   },
   {
-   "productId": "7d7d3c17-1047-4f16-87cb-738f14ce3aff",
-   "brand": "COSRX",
-   "product": "Advanced Snail 96 Mucin Power Essence",
-   "retailer": "Dermstore",
-   "was": 21,
-   "now": 17.76,
+   "productId": "8077a1a0-5211-4a06-b422-cc3cd85e0e3d",
+   "brand": "Goodal",
+   "product": "Green Tangerine Niacinamide 10% Serum",
+   "retailer": "amazon",
+   "was": 32,
+   "now": 26.9,
+   "percentOff": 16,
+   "url": "https://www.amazon.com/dp/B0F3CF8FL5",
+   "size": null,
+   "listing": "Amazon.com: GOODAL Green Tangerine Vita C Niacinamide 10 Toning Ampoule - Facial Serum for Natural Glow, Daily Use, Pore"
+  },
+  {
+   "productId": "1bdb9d16-9e11-4ef7-8be2-6499f5df5898",
+   "brand": "Pantene",
+   "product": "Miracle Rescue Regenerative Hair Oil",
+   "retailer": "amazon",
+   "was": 15.39,
+   "now": 12.97,
+   "percentOff": 16,
+   "url": "https://www.amazon.com/dp/B0DJ3MF712",
+   "size": "2.0 FL Oz",
+   "listing": "Amazon.com: Pantene Miracle Rescue Regenerative Hair Oil - 2.0 FL Oz - Deep Repair Treatment for Dry & Damaged Hair : Be"
+  },
+  {
+   "productId": "a39d1ce5-ea0d-4635-997d-a84a3a46862f",
+   "brand": "e.l.f. SKIN",
+   "product": "Bronzing Drops",
+   "retailer": "Ulta",
+   "was": 13,
+   "now": 11,
    "percentOff": 15,
-   "url": "https://go.shopmy.us/p-88563191",
-   "size": "3.38 fl. oz",
-   "listing": "COSRX Advanced Snail 96 Mucin Power Essence (3.38 fl. oz.)"
+   "url": "https://go.shopmy.us/p-89747271",
+   "size": null,
+   "listing": "Fair Gold Bronzing Drops - e.l.f. Cosmetics"
   },
   {
    "productId": "f4cabf22-ad63-4860-9a88-245be1305c48",
@@ -1492,16 +1479,16 @@
    "listing": "Obagi Medical Professional-C Serum 20% (1 oz.)"
   },
   {
-   "productId": "a39d1ce5-ea0d-4635-997d-a84a3a46862f",
-   "brand": "e.l.f. SKIN",
-   "product": "Bronzing Drops",
-   "retailer": "Ulta",
-   "was": 13,
-   "now": 11,
+   "productId": "7d7d3c17-1047-4f16-87cb-738f14ce3aff",
+   "brand": "COSRX",
+   "product": "Advanced Snail 96 Mucin Power Essence",
+   "retailer": "Dermstore",
+   "was": 21,
+   "now": 17.76,
    "percentOff": 15,
-   "url": "https://go.shopmy.us/p-89747271",
-   "size": null,
-   "listing": "Fair Gold Bronzing Drops - e.l.f. Cosmetics"
+   "url": "https://go.shopmy.us/p-88563191",
+   "size": "3.38 fl. oz",
+   "listing": "COSRX Advanced Snail 96 Mucin Power Essence (3.38 fl. oz.)"
   }
  ]
 }
