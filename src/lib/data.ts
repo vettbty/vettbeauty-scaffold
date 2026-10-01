@@ -1,5 +1,6 @@
 import productsJson from './products.json';
 import { subcategoryFor } from './taxonomy';
+import retailPricesJson from './retail-prices.json';
 
 export interface Product {
   id: string;
@@ -20,7 +21,12 @@ export interface Product {
   linkType: string;
   buyLink: string;
   awardsWon: string[];
+  // Current shop price where the publication printed none (retail-prices.json).
+  retail?: RetailPrice;
 }
+
+export interface RetailPrice { price: number; currency?: string; at: string | null; checked: string; url: string }
+const retailPrices = retailPricesJson as Record<string, RetailPrice>;
 
 export interface AwardProgram {
   id: string;
@@ -51,7 +57,36 @@ export interface PressArticle {
 export const products2026: Product[] = (productsJson as Product[]).map(p => ({
   ...p,
   subcategory: subcategoryFor(p.category, p.subcategory, p.name),
+  // Only while the card still points at the link the price was read from.
+  // Korean products show Olive Young US's USD price even where the publication
+  // printed one (Sascha, 2026-10-01); for everything else the publication's
+  // price wins.
+  retail: retailPrices[p.slug] && (!p.price || retailPrices[p.slug].at === 'Olive Young') ? retailPrices[p.slug] : undefined,
 }));
+
+// The price a shopper sees: what the publication printed, else the current
+// shop price. `price` itself stays the publication's — the sale page compares
+// against it.
+export function shownPrice(p: Product): number | null {
+  if (p.retail?.at === 'Olive Young') return p.retail.price;
+  return p.price ?? p.retail?.price ?? null;
+}
+
+const SYMBOL: Record<string, string> = { USD: '$', GBP: '£', EUR: '€' };
+
+export function formatPrice(n: number, currency = 'USD'): string {
+  return `${SYMBOL[currency] ?? `${currency} `}${Number.isInteger(n) ? n : n.toFixed(2)}`;
+}
+
+// Display string for a card: the publication's price, else the shop price in
+// the shop's own currency (a UK listing stays in pounds — converting would
+// show a price no shop charges).
+export function priceLabel(p: Product): string | null {
+  if (p.retail?.at === 'Olive Young') return formatPrice(p.retail.price, p.retail.currency);
+  if (p.price) return formatPrice(p.price);
+  if (p.retail) return formatPrice(p.retail.price, p.retail.currency);
+  return null;
+}
 
 // The grids feature only winners a reader can actually buy. A product with no
 // working buy link keeps its page (search, sitemap, direct links) but stays off

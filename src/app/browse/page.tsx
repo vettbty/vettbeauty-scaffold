@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useState, useMemo, useRef, useEffect } from 'react';
-import { products2026, shoppable, type Product } from '@/lib/data';
+import { products2026, shoppable, shownPrice, priceLabel, type Product } from '@/lib/data';
 import { CATEGORIES, OTHER, slugify, subcategoriesOf } from '@/lib/taxonomy';
 import { search, suggest, type Suggestion } from '@/lib/search';
 import SaveCount from '@/components/SaveCount';
@@ -172,8 +172,8 @@ export default function Home() {
     return [...filtered].sort((a, b) => {
       switch (effectiveSort) {
         case 'relevance': return (scores.get(b.id) ?? 0) - (scores.get(a.id) ?? 0) || b.awardCount - a.awardCount;
-        case 'price-asc': return (a.price ?? Infinity) - (b.price ?? Infinity);
-        case 'price-desc': return (b.price ?? -Infinity) - (a.price ?? -Infinity);
+        case 'price-asc': return (shownPrice(a) ?? Infinity) - (shownPrice(b) ?? Infinity);
+        case 'price-desc': return (shownPrice(b) ?? -Infinity) - (shownPrice(a) ?? -Infinity);
         case 'name': return a.name.localeCompare(b.name);
         case 'brand': return a.brand.localeCompare(b.brand);
         default: return b.awardCount - a.awardCount;
@@ -487,7 +487,7 @@ export default function Home() {
                 </div>
               </Link>
               <div className="px-3 pb-3 mt-auto flex items-center justify-between">
-                <span className="text-xs font-bold text-charcoal">{product.price ? `$${product.price}` : '—'}</span>
+                <span className="text-xs font-bold text-charcoal">{priceLabel(product) ?? '—'}</span>
                 {product.buyLink && (
                   <a
                     href={product.buyLink}

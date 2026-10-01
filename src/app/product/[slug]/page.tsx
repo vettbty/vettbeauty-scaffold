@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { products2026, shoppable } from '@/lib/data';
+import { products2026, shoppable, priceLabel } from '@/lib/data';
 import SaveButton from '@/components/SaveButton';
 import { CATEGORIES, OTHER, slugify } from '@/lib/taxonomy';
 import { descriptionFor } from '@/lib/descriptions';
@@ -65,6 +65,9 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
     notFound();
   }
   const about = descriptionFor(product.slug);
+  // The shop price is on show when there is no publication price, or always
+  // for Korean products priced from Olive Young US.
+  const showingRetail = !!product.retail && (!product.price || product.retail.at === 'Olive Young');
   const categoryKey = CATEGORIES.find(c => c.label === product.category)?.key ?? slugify(product.category);
 
   const parsedAwards = product.awardsWon.map(parseAward);
@@ -198,7 +201,12 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             {/* Price & CTA */}
             <div className="flex items-center gap-4 mb-8">
               <span className="text-2xl sm:text-3xl font-bold text-charcoal">
-                {product.price ? `$${product.price}` : 'Price unavailable'}
+                {priceLabel(product) ?? 'Price unavailable'}
+                {showingRetail && product.retail && (
+                  <span className="block text-[11px] font-normal text-charcoal-light mt-0.5">
+                    {product.retail.at ? `at ${product.retail.at} · ` : ''}checked {new Date(product.retail.checked + 'T12:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}
+                  </span>
+                )}
               </span>
               {product.buyLink && (
                 <a
@@ -287,7 +295,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
               <div>
                 <p className="font-semibold text-charcoal">{product.brand} {product.name}</p>
                 <p className="text-sm text-charcoal-light">
-                  {product.price ? `$${product.price}` : 'Price varies by retailer'}
+                  {priceLabel(product) ? `${priceLabel(product)}${showingRetail && product.retail?.at ? ` at ${product.retail.at}` : ''}` : 'Price varies by retailer'}
                 </p>
               </div>
               <a
