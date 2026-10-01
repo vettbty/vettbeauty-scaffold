@@ -77,6 +77,21 @@ for (const p of products) {
 if (!DRY) fs.writeFileSync(P, JSON.stringify(products, null, 2) + '\n');
 console.log(`keyed ${keyed} · lifted ${lifted} · source swapped ${swapped} · left as-is ${untouched}`);
 
-let missing = 0;
-for (const p of products) if (p.image && p.image.startsWith('/') && !fs.existsSync(`./public${p.image}`)) missing++;
-console.log(missing ? `WARNING: ${missing} products point at a missing file` : 'every local image resolves');
+/* A product can be left pointing at a file that is no longer there: its cutout
+   was dropped for being damaged, and the branch above could not fall back
+   because nothing remembered where the photo came from — p.imageOriginal is
+   deleted whenever a product is rendering a plain photo, which is exactly the
+   state those end up in. That shipped once: three products went live with a
+   404 for an image, because this was a WARNING in a wall of output and the
+   deploy went ahead. It is a failure now. convert-csv.js is the cure, since
+   the CSV and db-images still hold the original photo. */
+const missing = products.filter(p => p.image && p.image.startsWith('/') && !fs.existsSync(`./public${p.image}`));
+if (!missing.length) {
+  console.log('every local image resolves');
+} else {
+  console.error(`\n  ! ${missing.length} products point at a file that is not there:`);
+  for (const p of missing.slice(0, 10)) console.error(`      ${p.slug} -> ${p.image}`);
+  if (missing.length > 10) console.error(`      …and ${missing.length - 10} more`);
+  console.error('    Run `node scripts/convert-csv.js` to restore their source photos. Do not deploy first.');
+  process.exitCode = 1;
+}
