@@ -14356,7 +14356,7 @@
     "brand": "Lancôme",
     "name": "La Vie Est Belle Vanille Nude Eau de Parfum",
     "price": 168,
-    "image": "/cutouts/lanc-me-la-vie-est-belle-vanille-nude-eau-de-parfum.webp",
+    "image": "/levelled/lanc-me-la-vie-est-belle-vanille-nude-eau-de-parfum.webp",
     "topAward": "NewBeauty Annual Awards — Best Vanilla Fragrance (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -14370,7 +14370,7 @@
       "NewBeauty Annual Awards — Best Vanilla Fragrance (2026)"
     ],
     "imageOriginal": "https://n.nordstrommedia.com/it/cf74e0e0-89c8-4c08-a28f-6759ffa1db19.jpeg?w=780&h=1170&crop=pad",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-645",
@@ -26025,7 +26025,7 @@
     "brand": "Prada",
     "name": "Hand Cream",
     "price": 60,
-    "image": "/cutouts/prada-hand-cream.webp",
+    "image": "/levelled/prada-hand-cream.webp",
     "topAward": "Cosmopolitan Beauty Awards — Best Hand Cream (2026)",
     "awardCount": 2,
     "category": "Body",
@@ -26040,7 +26040,7 @@
       "Harper's Bazaar Skincare Awards — Best Face and Body Moisturizers (2026)"
     ],
     "imageOriginal": "https://n.nordstrommedia.com/it/7dbe4a6f-7367-4ca8-9a39-5eae1653e0bb.jpeg?w=780&h=1170&crop=pad",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-1170",
@@ -29214,7 +29214,7 @@
     "brand": "YSE Beauty",
     "name": "Your Favorite Ex Exfoliating Pads",
     "price": 75,
-    "image": "/cutouts/yse-beauty-your-favorite-ex-exfoliating-pads.webp",
+    "image": "/levelled/yse-beauty-your-favorite-ex-exfoliating-pads.webp",
     "topAward": "Allure Best of Beauty — Best Exfoliating Peel Pads (2025)",
     "awardCount": 3,
     "category": "Skincare",
@@ -29230,7 +29230,7 @@
       "Cosmopolitan Beauty Awards — Best Exfoliating Pads (2026)"
     ],
     "imageOriginal": "https://www.yisebeauty.com/cdn/shop/files/YSE-Beauty-shot09-Exfoliating-pads-primary_3.jpg?v=1757970345",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-1313",
@@ -60669,7 +60669,7 @@
     "brand": "Phlur",
     "name": "Father Figure",
     "price": 99,
-    "image": "/cutouts/phlur-father-figure.webp",
+    "image": "/levelled/phlur-father-figure.webp",
     "topAward": "InStyle Best Beauty Buys — Best Green Woody (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -60683,7 +60683,7 @@
       "InStyle Best Beauty Buys — Best Green Woody (2026)"
     ],
     "imageOriginal": "https://n.nordstrommedia.com/it/4e519fec-f3d3-464f-9b1c-d56b22c1b3e9.jpeg?w=780&h=1170&crop=pad",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-2731",
@@ -80594,7 +80594,7 @@
     "brand": "Costa Brazil",
     "name": "Kaya Anti-Aging Face Oil",
     "price": 125,
-    "image": "/cutouts/costa-brazil-kaya-anti-aging-face-oil.webp",
+    "image": "/levelled/costa-brazil-kaya-anti-aging-face-oil.webp",
     "topAward": "InStyle Best Beauty Buys — Best Face Oil (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -80608,7 +80608,7 @@
       "InStyle Best Beauty Buys — Best Face Oil (2026)"
     ],
     "imageOriginal": "https://is4.fwrdassets.com/images/p/fw/p/CZIF-UU1_V1.jpg",
-    "imageCutout": true
+    "imageLevelled": true
   },
   {
     "id": "prod-3633",
