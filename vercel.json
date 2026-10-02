@@ -721,6 +721,31 @@
    "permanent": true
   },
   {
+   "source": "/product/mediheal-hyper-collagen-gel-mask",
+   "destination": "/product/mediheal-hyper-collagen-mask",
+   "permanent": true
+  },
+  {
+   "source": "/product/heart-percent-dote-on-mood-lineproof-lip-pencil",
+   "destination": "/product/heart-percent-dote-on-mood-lip-pencil",
+   "permanent": true
+  },
+  {
+   "source": "/product/foodology-coleology-cutting-jelly",
+   "destination": "/product/foodology-coleology-cutting-stick-jelly",
+   "permanent": true
+  },
+  {
+   "source": "/product/nars-talc-free-powder-blush",
+   "destination": "/product/nars-powder-blush",
+   "permanent": true
+  },
+  {
+   "source": "/product/madison-reed-the-gray-escape-hair---brow-mascara",
+   "destination": "/product/madison-reed-the-gray-escape",
+   "permanent": true
+  },
+  {
    "source": "/p/:slug",
    "destination": "/product/:slug",
    "permanent": false
