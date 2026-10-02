@@ -1,4 +1,10 @@
 {
+ "19-99-liquid-pen-eyeliner": {
+  "text": "A long-wear felt-tip liquid liner with an ultra-fine tip for precise definition that doesn't smudge, feather or fade. The flexible formula applies easily even on delicate or textured lids and dries quickly. Allure's Best Clean Liquid Liner, 2026.",
+  "star": [],
+  "source": "https://1999beauty.com/products/liquid-pen-eyeliner",
+  "written": "2026-10-02"
+ },
  "aestura-atobarrier-365-lotion": {
   "text": "A lightweight ceramide lotion from a Korean dermatological brand. It hydrates dry skin and strengthens a damaged barrier without feeling heavy or oily, and it's gentle enough for sensitive skin and the whole family.",
   "star": [
@@ -51,6 +57,25 @@
   ],
   "source": "https://alastin.com/products/restorative-skin-complex-with-trihex-plus",
   "written": "2026-10-01"
+ },
+ "alumiermd-hydrarescue-biocellulose-mask": {
+  "text": "A biocellulose sheet mask clinically shown to improve hydration, reduce visible redness and restore comfort in 15 minutes, for skin that needs immediate care. Pack of four.",
+  "star": [
+   {
+    "name": "Sodium hyaluronate",
+    "does": "Replenishes moisture"
+   },
+   {
+    "name": "Fucoidan and poria cocos extracts",
+    "does": "Soothing plant and seaweed extracts"
+   },
+   {
+    "name": "Bisabolol",
+    "does": "Calms redness"
+   }
+  ],
+  "source": "https://us.alumiermd.com/products/hydrarescue-biocellulose-face-mask",
+  "written": "2026-10-02"
  },
  "anastasia-beverly-hills-brow-wiz": {
   "text": "A retractable brow pencil with an ultra-fine 1 mm tip for drawing individual hair-like strokes into sparse areas. The waxy formula holds colour well, and the spoolie on the other end softens everything into a natural finish. Comes in 11 shades.",
@@ -218,6 +243,25 @@
   "source": "https://biodance.com/products/rejuvenating-caviar-pdrn-real-deep-mask",
   "written": "2026-10-01"
  },
+ "bioelements-spot-defy": {
+  "text": "A fast-acting overnight spot treatment that clears blackheads and whiteheads without irritation, absorbs excess oil, and helps prevent repeat breakouts. Glamour's Best Acne Treatment, 2026.",
+  "star": [
+   {
+    "name": "Colloidal sulfur (5%)",
+    "does": "Treats breakouts and reduces acne bacteria"
+   },
+   {
+    "name": "Kaolin and bentonite clays",
+    "does": "Draw out clogging impurities"
+   },
+   {
+    "name": "Niacinamide",
+    "does": "Calms and supports the barrier"
+   }
+  ],
+  "source": "https://bioelements.com/products/spot-defy",
+  "written": "2026-10-02"
+ },
  "bloomeffects-royal-tulip-hydrating-bi-phase-tonic": {
   "text": "A two-phase milky tonic that plumps, hydrates and balances skin, leaving it bouncy and calm. 100 mL.",
   "star": [
@@ -260,6 +304,44 @@
   "text": "A one-step glass-skin serum that leaves skin bouncier, glowier and more elastic while strengthening the barrier. It's lightweight and non-sticky, doubles as a makeup primer, and is alcohol-free, fragrance-free and vegan.",
   "star": [],
   "source": "https://byoma.com/products/phyto-mucin-glow-serum",
+  "written": "2026-10-02"
+ },
+ "c-cred-detoxifying-shampoo": {
+  "text": "A strong but non-stripping clarifying shampoo that removes heavy oil, dirt and buildup in one wash. It's colour-safe, dermatologist-tested, and salon-tested on all hair types and textures.",
+  "star": [
+   {
+    "name": "Willow bark ferment",
+    "does": "Helps lift buildup from the scalp"
+   },
+   {
+    "name": "Honey",
+    "does": "Keeps hair from feeling stripped"
+   },
+   {
+    "name": "Rosemary oil and menthol",
+    "does": "Refresh the scalp"
+   }
+  ],
+  "source": "https://cecred.com/products/detoxifying-shampoo",
+  "written": "2026-10-02"
+ },
+ "c-cred-scalp-refreshing-spray": {
+  "text": "A no-rinse scalp spray with a targeted nozzle for days between washes. It breaks down buildup and dead skin and neutralises odour without disturbing extensions or protective styles.",
+  "star": [
+   {
+    "name": "Menthol and peppermint oil",
+    "does": "Give an instant cooling refresh"
+   },
+   {
+    "name": "Willow bark ferment",
+    "does": "Helps lift buildup"
+   },
+   {
+    "name": "Honey and ceramide NP",
+    "does": "Keep the scalp comfortable"
+   }
+  ],
+  "source": "https://cecred.com/products/scalp-refreshing-spray",
   "written": "2026-10-02"
  },
  "cell-fusion-c-post-alpha-first-cooling-mask--5-sheets-": {
@@ -484,6 +566,21 @@
   "source": "https://dieuxskin.com/products/ethereal-facial-cleansing-oil",
   "written": "2026-10-01"
  },
+ "dieux-skin-mercy-recovery-cream": {
+  "text": "An all-over recovery cream clinically shown to calm irritation, reduce redness and itching, and protect the skin.",
+  "star": [
+   {
+    "name": "Colloidal oatmeal (1%)",
+    "does": "Soothes itch and irritation"
+   },
+   {
+    "name": "Squalane",
+    "does": "Replenishes and softens"
+   }
+  ],
+  "source": "https://dieuxskin.com/products/skin-mercy-recovery-cream",
+  "written": "2026-10-02"
+ },
  "dolce-glow-lusso-self-tanning-mousse": {
   "text": "A skincare-infused self-tan mousse that gives a deep, streak-free, spray-tan-like bronze with an olive-brown undertone that won't turn orange, and leaves skin smooth and hydrated. Application mitt sold separately.",
   "star": [
@@ -612,6 +709,32 @@
   "source": "https://evolutionofsmooth.com/products/vanilla-cashmere-body-lotion",
   "written": "2026-10-01"
  },
+ "eos-vanilla-cashmere-body-mist": {
+  "text": "A body mist in eos's vanilla cashmere scent (whipped vanilla, cosy caramel and soft musk) that lingers on the skin.",
+  "star": [
+   {
+    "name": "Sodium hyaluronate and aloe",
+    "does": "A touch of hydration in the mist"
+   }
+  ],
+  "source": "https://evolutionofsmooth.com/products/vanilla-cashmere-body-mist",
+  "written": "2026-10-02"
+ },
+ "epicutis-lipid-shield-spf-30": {
+  "text": "A tinted, daily mineral sunscreen with non-nano zinc oxide that gives SPF 30 protection while supporting skin health. It helps reduce UV-triggered redness, protects against collagen breakdown, and softens the look of fine lines.",
+  "star": [
+   {
+    "name": "Non-nano zinc oxide",
+    "does": "Mineral broad-spectrum SPF 30"
+   },
+   {
+    "name": "TSC (IPC technology)",
+    "does": "Epicutis's Princeton-developed ingredient that reduces UV redness and protects collagen"
+   }
+  ],
+  "source": "https://epicutis.com/products/lipid-shield",
+  "written": "2026-10-02"
+ },
  "erno-laszlo-tightening-treatment-mask": {
   "text": "A two-step firming mask that visibly lifts, tightens and smooths after one use. It improves elasticity, reinforces the barrier and helps prevent visible signs of glycation. NewBeauty's 2026 Best Firming Mask.",
   "star": [
@@ -672,6 +795,21 @@
   "source": "https://fentybeauty.com/products/grip-trip-mattifying-blurring-primer",
   "written": "2026-10-01"
  },
+ "fenty-hair-the-controlling-type-edge-control-gel": {
+  "text": "An edge control gel that lays, smooths and holds edges without flaking, tames flyaways, and helps edges look thicker with less breakage.",
+  "star": [
+   {
+    "name": "Red clover and larch extracts",
+    "does": "Botanicals for thicker-looking edges"
+   },
+   {
+    "name": "Bamboo extract",
+    "does": "Helps strengthen hair"
+   }
+  ],
+  "source": "https://fentybeauty.com/products/the-controlling-type-hair-thickening-edge-control",
+  "written": "2026-10-02"
+ },
  "fenty-hair-the-homecurl-curl-defining-cream": {
   "text": "A curl cream that defines without the crunch. It hydrates, softens and conditions so curls keep their bounce and stay touchable all day.",
   "star": [
@@ -731,6 +869,18 @@
   ],
   "source": "https://furyou.com/products/flash-repair-jelly",
   "written": "2026-10-01"
+ },
+ "fur-trim-system": {
+  "text": "A 2-in-1 body trimmer and shaver with three adjustable trim lengths and a razor attachment for a close shave, designed for quick, smooth, irritation-free grooming anywhere on the body.",
+  "star": [],
+  "source": "https://furyou.com/products/fur-trim-system",
+  "written": "2026-10-02"
+ },
+ "g-m--collin-dark-spot-serum": {
+  "text": "A brightening serum that visibly corrects hyperpigmentation, fading stubborn age spots and post-breakout marks and helping prevent new ones without irritation, for a brighter, more even complexion.",
+  "star": [],
+  "source": "https://gmcollin.com/products/dark-spot-serum",
+  "written": "2026-10-02"
  },
  "gisou-honey-glaze-collagen-therapy-lip-mask": {
   "text": "A buttery lip mask with a honey-buttercream scent, clinically shown to give intense hydration, visibly repair dry lips and leave a glazed shine. 15 mL.",
@@ -895,6 +1045,12 @@
   "source": "https://henryrose.com/products/london-1983",
   "written": "2026-10-02"
  },
+ "henry-rose-ripe-eau-de-parfum": {
+  "text": "A fruity floral by perfumer Patricia Choux: juicy layers of lush fruit and soft florals that settle into a warm, skin-soft musk.",
+  "star": [],
+  "source": "https://henryrose.com/products/ripe",
+  "written": "2026-10-02"
+ },
  "heretic-black-salt": {
   "text": "A fragrance inspired by the beach at night: lime and black pepper over black water lily, jasmine and smoked sea salt, settling into seaweed, labdanum and petrichor.",
   "star": [],
@@ -906,6 +1062,25 @@
   "star": [],
   "source": "https://holikaholika.com/products/for-inventory-integration-with-tiktok-shop-my-fave-piece-eye-shadow-beam-glitz",
   "written": "2026-10-01"
+ },
+ "homecourt-cece-body-butter": {
+  "text": "A rich body butter in Homecourt's Cece scent that deeply nourishes, hydrates for up to 72 hours and leaves a lingering fragrance.",
+  "star": [
+   {
+    "name": "Shea butter",
+    "does": "Moisturises and conditions"
+   },
+   {
+    "name": "Rosella extract",
+    "does": "Long-lasting hydration"
+   },
+   {
+    "name": "Clay minerals",
+    "does": "Help skin feel supple and smooth"
+   }
+  ],
+  "source": "https://homecourt.co/products/body-butter",
+  "written": "2026-10-02"
  },
  "homecourt-cece-perfume-oil": {
   "text": "A concentrated, alcohol-free perfume oil in Homecourt's Cece scent, a warm, light and sophisticated blend in a base of botanical oils. 10 mL roller.",
@@ -1101,10 +1276,35 @@
   "source": "https://kjhbrand.com/products/soft-smudge-lip-cheek",
   "written": "2026-10-01"
  },
+ "korres-smart-yoghurt-probiotic-super-serum": {
+  "text": "A lightweight daily serum that hydrates, soothes and balances all skin types, including sensitive. It helps strengthen the barrier and reduce visible sensitivity.",
+  "star": [
+   {
+    "name": "Smart Yoghurt Technology",
+    "does": "Protein from real Greek yoghurt to strengthen the barrier"
+   },
+   {
+    "name": "Oat extracts",
+    "does": "Calm sensitive skin"
+   },
+   {
+    "name": "Bisabolol",
+    "does": "Soothes"
+   }
+  ],
+  "source": "https://korres.com/products/greek-yoghurt-probiotic-super-serum",
+  "written": "2026-10-02"
+ },
  "l-a--girl-pro-perfect-dewy-setting-spray": {
   "text": "A lightweight micro-mist that preps skin, sets makeup and leaves a fresh, dewy glow without feeling sticky or heavy. It hydrates and softly blurs pores. Glamour Beauty Award winner, 2026.",
   "star": [],
   "source": "https://lagirlusa.com/products/pro-perfect-dewy-setting-spray",
+  "written": "2026-10-02"
+ },
+ "laduora-lumeo-skinlift-4d-current-red-light-therapy-kit": {
+  "text": "An at-home device that combines red and infrared light, microcurrent, serum infusion and massage in a 3-minute daily routine to smooth fine lines, lift contours and energise tired skin.",
+  "star": [],
+  "source": "https://laduora.com/products/lumeo-skinlift-led-light-therapy-device-serum-ritual-kit",
   "written": "2026-10-02"
  },
  "laura-mercier-translucent-loose-setting-powder": {
@@ -1161,6 +1361,12 @@
   "star": [],
   "source": "https://lysbeauty.com/products/bright-start-creamy-buildable-airbrush-concealer",
   "written": "2026-10-01"
+ },
+ "lys-beauty-no-limits-cream-bronzer-stick": {
+  "text": "A creamy, highly pigmented bronzer stick that sculpts and defines features with a natural, skin-like finish.",
+  "star": [],
+  "source": "https://lysbeauty.com/products/no-limits-cream-bronzer-stick",
+  "written": "2026-10-02"
  },
  "ma-nyo-galac-niacin-3-0-essence": {
   "text": "An upgraded essence with three times the galactomyces concentration of the original, made to fade dark spots and give skin a visibly brighter, more even glow. It also helps refine texture and the look of pores.",
@@ -1352,6 +1558,17 @@
   ],
   "source": "https://manyo.us/products/panthetoin-cream",
   "written": "2026-10-01"
+ },
+ "marini-skinsolutions-neurosmooth": {
+  "text": "A neuropeptide serum for smoother, more even, glass-like skin. Targeted neuropeptides soften the look of pores, and other peptides help with recovery, tone and texture. Designed to pair with injectable treatments.",
+  "star": [
+   {
+    "name": "Neuropeptides",
+    "does": "Soften and smooth the look of pores"
+   }
+  ],
+  "source": "https://mariniskinsolutions.com/products/neurosmooth",
+  "written": "2026-10-02"
  },
  "mediheal-derma-modeling-pack-teatree-calming": {
   "text": "An at-home rubber modeling mask treatment that calms irritation, controls oil, refines pores and visibly cools redness, for sensitive or breakout-prone skin. Skin is left calm, balanced and hydrated.",
@@ -1592,6 +1809,21 @@
   "source": "https://nerra.com/products/dry-body-oil",
   "written": "2026-10-02"
  },
+ "nerra-the-body-wash-in-citrus-wave": {
+  "text": "A nourishing body wash that hydrates, plumps and purifies pores while supporting the barrier, keeping skin soft and radiant between exfoliation sessions. Citrus Wave scent.",
+  "star": [
+   {
+    "name": "Sodium hyaluronate and squalane",
+    "does": "Hydrate as you cleanse"
+   },
+   {
+    "name": "Kaolin and illite clays",
+    "does": "Purify pores"
+   }
+  ],
+  "source": "https://nerra.com/products/body-wash-citrus-wave",
+  "written": "2026-10-02"
+ },
  "noyz-rinse-cycle": {
   "text": "A clean, fresh, gender-neutral musk: guava and crisp pear up top, a creamy musk-flower heart, and warm sandalwood underneath.",
   "star": [],
@@ -1634,6 +1866,21 @@
   "text": "A mineral body sunscreen that hydrates like a body lotion and gives lightweight, broad-spectrum SPF 30 protection.",
   "star": [],
   "source": "https://oakessentials.com/products/daily-hydrating-mineral-body-sunscreen",
+  "written": "2026-10-02"
+ },
+ "oak-essentials-microbiome-balancing-deodorant": {
+  "text": "An aluminium-free deodorant that balances the underarm microbiome to neutralise odour at the source, soothes sensitive skin, and leaves a subtle, grounding scent.",
+  "star": [
+   {
+    "name": "Blue tansy",
+    "does": "Soothes sensitive underarm skin"
+   },
+   {
+    "name": "Magnesium hydroxide",
+    "does": "Helps neutralise odour"
+   }
+  ],
+  "source": "https://oakessentials.com/products/microbiome-balancing-deodorant",
   "written": "2026-10-02"
  },
  "oak-essentials-refining-mask": {
@@ -1684,6 +1931,25 @@
   ],
   "source": "https://odelebeauty.com/products/air-dry-styler",
   "written": "2026-10-01"
+ },
+ "odele-curl-defining-cream": {
+  "text": "A salon-grade curl cream that gives soft, frizz-free definition to curls and waves, protects against heat up to 450°F, and keeps frizz out all day.",
+  "star": [
+   {
+    "name": "Tomato ferment",
+    "does": "Helps define and hydrate"
+   },
+   {
+    "name": "Rice protein",
+    "does": "Strengthens and adds texture"
+   },
+   {
+    "name": "Shea butter",
+    "does": "Softens and smooths"
+   }
+  ],
+  "source": "https://odelebeauty.com/products/curl-defining-cream",
+  "written": "2026-10-02"
  },
  "olaplex-no--0-5-scalp-longevity-treatment": {
   "text": "A weightless scalp serum that hydrates and soothes straight away, strengthens the scalp's barrier and microbiome, and helps protect against the scalp ageing that affects hair health. Trichologist-approved, for all hair and scalp types.",
@@ -1736,6 +2002,25 @@
    }
   ],
   "source": "https://www.olay.com/products/regenerist-face-neck-lifting-treatment",
+  "written": "2026-10-02"
+ },
+ "olay-super-serum-body-wash-for-normal-skin": {
+  "text": "A serum body wash for normal skin that hydrates, firms, smooths, brightens and evens skin with daily use, and locks in moisture for 24 hours. It has a soft floral, herbal, vanilla and wood scent.",
+  "star": [
+   {
+    "name": "Niacinamide",
+    "does": "Evens tone"
+   },
+   {
+    "name": "BHA (salicylic acid)",
+    "does": "Smooths rough texture"
+   },
+   {
+    "name": "Collagen peptide and vitamin C",
+    "does": "Help skin look firmer and brighter"
+   }
+  ],
+  "source": "https://www.olay.com/products/olay-super-serum-body-wash-normal-skin",
   "written": "2026-10-02"
  },
  "olehenriksen-banana-bright-eye-cream": {
@@ -1899,6 +2184,25 @@
   "source": "https://patrickta.com/products/major-moisture-smoothing-lip-balm",
   "written": "2026-10-02"
  },
+ "peach-slices-snail-rescue-ultimate-eye-gel": {
+  "text": "A cooling daily eye gel with 70% snail mucin that visibly hydrates, brightens and smooths fine lines under the eyes. It's lightweight, absorbs quickly and isn't greasy.",
+  "star": [
+   {
+    "name": "Snail mucin (70%)",
+    "does": "Hydrates and smooths"
+   },
+   {
+    "name": "Niacinamide (2%)",
+    "does": "Targets dark circles and dullness"
+   },
+   {
+    "name": "Hyaluronic acid",
+    "does": "Plumps with moisture"
+   }
+  ],
+  "source": "https://peachslices.com/products/snail-rescue-ultimate-eye-gel",
+  "written": "2026-10-02"
+ },
  "personal-day-all-covered-brushed-blemish-patches": {
   "text": "Thin hydrocolloid blemish patches with salicylic acid brushed onto each one, so the active stays potent until it reaches your skin. The acid treats the breakout and the hydrocolloid draws out gunk and flattens the spot. They're thin enough to wear under makeup. 30 per box.",
   "star": [
@@ -1982,6 +2286,12 @@
    }
   ],
   "source": "https://proactiv.com/products/acne-clearing-body-spray",
+  "written": "2026-10-02"
+ },
+ "qure-shower-filter-showerhead": {
+  "text": "A triple-filter shower head that removes up to 99% of chlorine, heavy metals and other contaminants that can dry out and irritate skin and hair.",
+  "star": [],
+  "source": "https://qureskincare.com/products/shower-filter",
   "written": "2026-10-02"
  },
  "r-e-m--beauty-eclipse-glow-stick": {
@@ -2295,6 +2605,17 @@
   "source": "https://skintensive.com/products/bruise-cream",
   "written": "2026-10-02"
  },
+ "sky-organics-organic-marula-radiant-glow-oil": {
+  "text": "An organic marula oil blend rich in antioxidants that deeply hydrates and illuminates, leaving skin soft and supple.",
+  "star": [
+   {
+    "name": "Marula oil",
+    "does": "Light, antioxidant-rich hydration and glow"
+   }
+  ],
+  "source": "https://skyorganics.com/products/organic-marula-radiant-glow-oil",
+  "written": "2026-10-02"
+ },
  "soft-services-buffing-bar": {
   "text": "An exfoliating body bar that works like a magic eraser. Fine sanding crystals give a moderate to strong physical exfoliation for keratosis pilaris, ingrown hairs and rough patches.",
   "star": [
@@ -2498,6 +2819,12 @@
   "source": "https://www.tomfordbeauty.com/products/taormina-orange-eau-de-parfum",
   "written": "2026-10-02"
  },
+ "tom-ford-black-orchid-reserve-parfum": {
+  "text": "A deeper, darker take on Tom Ford's Black Orchid: more ylang-ylang with timut pepper, a roasted tonka note, black truffle, patchouli and amber.",
+  "star": [],
+  "source": "https://www.tomfordbeauty.com/products/black-orchid-reserve-parfum",
+  "written": "2026-10-02"
+ },
  "topical-skin-phyto-aox-facial-oil-n-10": {
   "text": "A lightweight oil-serum that gives skin a radiant glow while softening multiple signs of ageing. Broad-spectrum antioxidants and omega-rich oils reinforce the moisture barrier and help defend against everyday environmental stress.",
   "star": [
@@ -2675,6 +3002,17 @@
    }
   ],
   "source": "https://xomdskin.com/products/arouse",
+  "written": "2026-10-02"
+ },
+ "yon-ka-paris-serum-omega": {
+  "text": "An oil-in-serum that mimics the skin's own protective layer to restore comfort, nourish deeply and give a glassy glow. It absorbs quickly, locks in moisture and strengthens the barrier from the first use.",
+  "star": [
+   {
+    "name": "Lipo Restore Complex",
+    "does": "Botanical oils rich in omegas 3, 6 and 9"
+   }
+  ],
+  "source": "https://us.yonka.com/products/serum-omega",
   "written": "2026-10-02"
  }
 }

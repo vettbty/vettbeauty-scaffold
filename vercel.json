@@ -746,6 +746,11 @@
    "permanent": true
   },
   {
+   "source": "/product/dermaflash-dermaflash-cool",
+   "destination": "/product/dermaflash-cool-sonic-depuffing-tool",
+   "permanent": true
+  },
+  {
    "source": "/p/:slug",
    "destination": "/product/:slug",
    "permanent": false
