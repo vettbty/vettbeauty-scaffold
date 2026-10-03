@@ -77997,66 +77997,6 @@
   },
   {
     "id": "prod-3502",
-    "slug": "lanc-me-absolue-soft-body-balm",
-    "brand": "Lancôme",
-    "name": "Absolue Soft Body Balm",
-    "price": null,
-    "image": "",
-    "topAward": "ELLE International Beauty Awards — Best Body Firming (2026)",
-    "awardCount": 1,
-    "category": "Body",
-    "subcategory": "",
-    "year": 2026,
-    "region": "International",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://www.lancome-usa.com/skincare/by-category/body-care/absolue-soft-body-balm/00893-LAC.html",
-    "awardsWon": [
-      "ELLE International Beauty Awards — Best Body Firming (2026)"
-    ]
-  },
-  {
-    "id": "prod-3503",
-    "slug": "k-rastase-gloss-absolu-bain-hydra-glaze",
-    "brand": "Kérastase",
-    "name": "Gloss Absolu Bain Hydra-Glaze",
-    "price": null,
-    "image": "",
-    "topAward": "ELLE International Beauty Awards — Best Shampoo (2026)",
-    "awardCount": 1,
-    "category": "Hair",
-    "subcategory": "",
-    "year": 2026,
-    "region": "International",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://www.kerastase-usa.com/collections/gloss-absolu/bain-hydra-glaze-shampoo.html",
-    "awardsWon": [
-      "ELLE International Beauty Awards — Best Shampoo (2026)"
-    ]
-  },
-  {
-    "id": "prod-3504",
-    "slug": "dyson-airwrap-co-anda2x",
-    "brand": "Dyson",
-    "name": "Airwrap Co-anda2x",
-    "price": null,
-    "image": "",
-    "topAward": "ELLE International Beauty Awards — Best Hair Styling (2026)",
-    "awardCount": 1,
-    "category": "Tools & Devices",
-    "subcategory": "",
-    "year": 2026,
-    "region": "International",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://www.dyson.com/hair-care/hair-stylers/airwrap-co-anda2x",
-    "awardsWon": [
-      "ELLE International Beauty Awards — Best Hair Styling (2026)"
-    ]
-  },
-  {
-    "id": "prod-3505",
     "slug": "charlotte-tilbury-airbrush-flawless-finish-setting-spray",
     "brand": "Charlotte Tilbury",
     "name": "Airbrush Flawless Finish Setting Spray",
@@ -78078,7 +78018,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3506",
+    "id": "prod-3503",
     "slug": "sisley-sisle-a-l-int-gral-anti--ge-longevity-essential-serum",
     "brand": "Sisley",
     "name": "Sisleÿa L'Intégral Anti-Âge Longevity Essential Serum",
@@ -78100,7 +78040,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3507",
+    "id": "prod-3504",
     "slug": "aveda-miraculous-oil",
     "brand": "Aveda",
     "name": "Miraculous Oil",
@@ -78122,7 +78062,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3508",
+    "id": "prod-3505",
     "slug": "opi-nature-strong-vegan-nail-lacquer",
     "brand": "OPI",
     "name": "Nature Strong Vegan Nail Lacquer",
@@ -78142,7 +78082,7 @@
     ]
   },
   {
-    "id": "prod-3509",
+    "id": "prod-3506",
     "slug": "melvita-nectarcalm-soothing-moisturizing-fluid",
     "brand": "Melvita",
     "name": "NectarCalm Soothing Moisturizing Fluid",
@@ -78162,7 +78102,7 @@
     ]
   },
   {
-    "id": "prod-3510",
+    "id": "prod-3507",
     "slug": "rms-beauty-revitalize-hydra-concealer",
     "brand": "RMS Beauty",
     "name": "Revitalize Hydra Concealer",
@@ -78182,7 +78122,7 @@
     ]
   },
   {
-    "id": "prod-3511",
+    "id": "prod-3508",
     "slug": "rahua-scalp---skin-toner",
     "brand": "Rahua",
     "name": "Scalp & Skin Toner",
@@ -78204,7 +78144,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3512",
+    "id": "prod-3509",
     "slug": "bioderma-sensibio-h2o-2",
     "brand": "Bioderma",
     "name": "Sensibio H2O",
@@ -78224,7 +78164,7 @@
     ]
   },
   {
-    "id": "prod-3513",
+    "id": "prod-3510",
     "slug": "shiseido-expert-sun-protector-clear-stick-spf-50-",
     "brand": "Shiseido",
     "name": "Expert Sun Protector Clear Stick SPF 50+",
@@ -78244,6 +78184,70 @@
     ],
     "imageOriginal": "https://www.shiseido.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_shiseido/default/dwc9232ec0/images/2026/UltimateSun/0730852222991_1.jpg",
     "imageCutout": true
+  },
+  {
+    "id": "prod-3511",
+    "slug": "lanc-me-absolue-soft-body-balm",
+    "brand": "Lancôme",
+    "name": "Absolue Soft Body Balm",
+    "price": null,
+    "image": "/cutouts/lanc-me-absolue-soft-body-balm.webp",
+    "topAward": "ELLE International Beauty Awards — Best Body Firming (2026)",
+    "awardCount": 1,
+    "category": "Body",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://www.lancome-usa.com/skincare/by-category/body-care/absolue-soft-body-balm/00893-LAC.html",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Body Firming (2026)"
+    ],
+    "imageOriginal": "https://media.ulta.com/i/ulta/2621075?w=1200&h=1200&fmt=jpg&bg=rgb(255,255,255)",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-3512",
+    "slug": "k-rastase-gloss-absolu-bain-hydra-glaze",
+    "brand": "Kérastase",
+    "name": "Gloss Absolu Bain Hydra-Glaze",
+    "price": null,
+    "image": "/cutouts/k-rastase-gloss-absolu-bain-hydra-glaze.webp",
+    "topAward": "ELLE International Beauty Awards — Best Shampoo (2026)",
+    "awardCount": 1,
+    "category": "Hair",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://www.kerastase-usa.com/collections/gloss-absolu/bain-hydra-glaze-shampoo.html",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Shampoo (2026)"
+    ],
+    "imageOriginal": "https://m.media-amazon.com/images/I/716UypqmgVL._SL1500_.jpg",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-3513",
+    "slug": "dyson-airwrap-co-anda2x",
+    "brand": "Dyson",
+    "name": "Airwrap Co-anda2x",
+    "price": null,
+    "image": "https://vader-prod.s3.amazonaws.com/1757431014-s2892594-main-zoom.jpg",
+    "topAward": "ELLE International Beauty Awards — Best Hair Styling (2026)",
+    "awardCount": 1,
+    "category": "Tools & Devices",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://www.dyson.com/hair-care/hair-stylers/airwrap-co-anda2x",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Hair Styling (2026)"
+    ]
   },
   {
     "id": "prod-3514",
