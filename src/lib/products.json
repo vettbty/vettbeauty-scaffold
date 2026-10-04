@@ -48023,8 +48023,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "none",
-    "buyLink": "",
+    "linkType": "exact",
+    "buyLink": "https://www.dodoskin.com/products/lement-65-woodberry",
     "awardsWon": [
       "Glowpick Awards (2025)"
     ],
