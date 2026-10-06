@@ -5,6 +5,21 @@
   "source": "https://1999beauty.com/products/liquid-pen-eyeliner",
   "written": "2026-10-02"
  },
+ "about-face-supporting-act-serum-setting-spray": {
+  "text": "A two-phase serum spray that preps skin before makeup, hydrates during, and sets it after with a natural, dewy finish.",
+  "star": [
+   {
+    "name": "Niacinamide and chestnut seed extract",
+    "does": "Support radiance and help makeup last"
+   },
+   {
+    "name": "Sunflower, rosehip and sea buckthorn oils",
+    "does": "Give the dewy glow"
+   }
+  ],
+  "source": "https://aboutface.com/products/supporting-act-serum-setting-spray",
+  "written": "2026-10-06"
+ },
  "aestura-atobarrier-365-lotion": {
   "text": "A lightweight ceramide lotion from a Korean dermatological brand. It hydrates dry skin and strengthens a damaged barrier without feeling heavy or oily, and it's gentle enough for sensitive skin and the whole family.",
   "star": [
@@ -42,6 +57,21 @@
   ],
   "source": "https://int.aestura.com/products/atobarrier-365-hydro-cera-ha-serum",
   "written": "2026-10-01"
+ },
+ "alastin-regenerating-skin-nectar": {
+  "text": "A treatment designed to prepare skin before rejuvenating procedures and help it recover after, supporting the skin's own regeneration for better visible results.",
+  "star": [
+   {
+    "name": "TriHex+ technology",
+    "does": "Alastin's peptide complex for skin regeneration"
+   },
+   {
+    "name": "Arnica and olive leaf extracts",
+    "does": "Soothe and support recovery"
+   }
+  ],
+  "source": "https://alastin.com/products/regenerating-skin-nectar-with-trihex-plus",
+  "written": "2026-10-06"
  },
  "alastin-restorative-skin-complex-with-trihex-": {
   "text": "A serum for skin that has lost collagen and elastin. It works on the look of texture, tone, volume, hydration and elasticity using Alastin's TriHex+ peptide technology.",
@@ -101,6 +131,12 @@
   "source": "https://anastasiabeverlyhills.com/products/volumizing-tinted-brow-gel",
   "written": "2026-10-01"
  },
+ "aquatru-under-sink-water-purifier": {
+  "text": "An under-sink, four-stage reverse-osmosis purifier certified to remove 84 contaminants from tap water. It stores up to 1.7 gallons of purified water and has leak detection and a simple sanitising system.",
+  "star": [],
+  "source": "https://aquatru.com/products/under-sink-reverse-osmosis-water-purifier",
+  "written": "2026-10-06"
+ },
  "barefaced-clean-slate-spritz": {
   "text": "A mineral-infused hypochlorous mist for whenever skin feels dry, irritated, oily or just off. It calms visible redness, hydrates without residue and supports the barrier, and works well after workouts or makeup removal.",
   "star": [
@@ -150,11 +186,36 @@
   "source": "https://beautyofjoseon.com/products/revive-under-eye-patch",
   "written": "2026-10-01"
  },
+ "beauty-pie-flawless-eyeshadow-primer": {
+  "text": "A weightless, brightening eye primer that evens out redness, veins and discolouration on the lid and makes powder shadows look truer and last longer.",
+  "star": [],
+  "source": "https://beautypie.com/products/flawless-eyeshadow-primer",
+  "written": "2026-10-06"
+ },
  "beautyblender-original-makeup-sponge": {
   "text": "The original teardrop-shaped makeup sponge. The soft, latex-free foam blends foundation, concealer and cream products into a skin-like finish quickly, used damp for the sheerest result.",
   "star": [],
   "source": "https://beautyblender.com/products/beautyblender-original",
   "written": "2026-10-01"
+ },
+ "beautyofjoseon-ground-rice-and-honey-glow-mask": {
+  "text": "A wash-off mask made with Korean rice and honey that brightens, soothes, hydrates and gently exfoliates in one step.",
+  "star": [
+   {
+    "name": "Rice hull powder",
+    "does": "Gently exfoliates"
+   },
+   {
+    "name": "Honey",
+    "does": "Hydrates and soothes"
+   },
+   {
+    "name": "Kaolin",
+    "does": "Purifies"
+   }
+  ],
+  "source": "https://beautyofjoseon.com/products/ground-rice-and-honey-glow-mask",
+  "written": "2026-10-06"
  },
  "beautystat-c-lip-serum-spf-30": {
   "text": "A tinted lip serum with mineral SPF 30 that hydrates, plumps and brightens, in four universal shades and an orange-vanilla dreamsicle flavour.",
@@ -300,6 +361,12 @@
   "source": "https://braziledition.com/products/restorative-peptide-hair-mask",
   "written": "2026-10-01"
  },
+ "bushbalm-the-frankie-touch-up-trimmer": {
+  "text": "A discreet touch-up trimmer for peach fuzz, facial hair and missed spots. It's designed for fine hair and gives a smooth, bare finish ready for skincare or makeup.",
+  "star": [],
+  "source": "https://bushbalm.com/products/the-frankie-trimmer",
+  "written": "2026-10-06"
+ },
  "byoma-phyto-mucin-glow-serum": {
   "text": "A one-step glass-skin serum that leaves skin bouncier, glowier and more elastic while strengthening the barrier. It's lightweight and non-sticky, doubles as a makeup primer, and is alcohol-free, fragrance-free and vegan.",
   "star": [],
@@ -343,6 +410,21 @@
   ],
   "source": "https://cecred.com/products/scalp-refreshing-spray",
   "written": "2026-10-02"
+ },
+ "cecred-nourishing-hair-oil": {
+  "text": "A silicone-free blend of 13 oils and plant extracts that seals in moisture and adds soft, natural shine. It's colour-safe and salon-tested on all hair types and textures.",
+  "star": [
+   {
+    "name": "Moringa and baobab oils",
+    "does": "Nourish and add shine"
+   },
+   {
+    "name": "Coconut, castor and sweet almond oils",
+    "does": "Seal in moisture"
+   }
+  ],
+  "source": "https://cecred.com/products/nourishing-hair-oil",
+  "written": "2026-10-06"
  },
  "cell-fusion-c-post-alpha-first-cooling-mask--5-sheets-": {
   "text": "A hydrogel sheet mask that cools on contact, with the chill building over time, to lower skin temperature, soothe irritation and reduce redness. It's menthol-free, so it suits even very sensitive skin. Five sheets.",
@@ -414,6 +496,21 @@
   "source": "https://circadia.com/products/aquaporin-hydrating-cream-1-7-oz",
   "written": "2026-10-02"
  },
+ "clearstem-brightmeup-advanced-brightening-toner": {
+  "text": "A hydrating, barrier-friendly BHA toner gentle enough for daily use. Clinical testing showed brighter skin, more refined-looking pores and a softer, more even texture within seven days.",
+  "star": [
+   {
+    "name": "BHA",
+    "does": "Gently exfoliates and clears pores"
+   },
+   {
+    "name": "Bright Science technology",
+    "does": "Clearstem's brightening complex"
+   }
+  ],
+  "source": "https://clearstem.com/products/brightmeup",
+  "written": "2026-10-06"
+ },
  "color-wow-dream-coat-supernatural-spray": {
   "text": "A humidity-proofing spray you mist on before blow-drying. It leaves hair sleek, glossy and frizz-free even in very humid weather, feels weightless, and keeps working through three to four washes. It also protects against heat.",
   "star": [],
@@ -435,6 +532,27 @@
   "source": "https://colorwowhair.com/products/insta-wow-dry-shampoo",
   "written": "2026-10-01"
  },
+ "color-wow-root-cover-up": {
+  "text": "A pressed mineral powder that covers roots and greys instantly and precisely, lasting until you shampoo (it even survives swimming). It's never stiff or sticky, and contains no waxes or dyes. One compact lasts six months to a year.",
+  "star": [],
+  "source": "https://colorwowhair.com/products/root-cover-up",
+  "written": "2026-10-06"
+ },
+ "colorescience-total-protection-no-show-mineral-sunscreen-spf-50": {
+  "text": "A very sheer, all-mineral SPF 50 face sunscreen with a velvety finish and no white cast. It's ultra-lightweight, blends seamlessly and hydrates.",
+  "star": [
+   {
+    "name": "Non-nano zinc oxide",
+    "does": "Patented mineral broad-spectrum protection"
+   },
+   {
+    "name": "EnviroScreen Technology",
+    "does": "Colorescience's added defence against environmental stressors"
+   }
+  ],
+  "source": "https://colorescience.com/products/total-protection-no-show-mineral-sunscreen-spf-50",
+  "written": "2026-10-06"
+ },
  "cosrx-advanced-snail-96-mucin-power-essence": {
   "text": "COSRX's cult essence made with 96% snail mucin. It strengthens the skin barrier, hydrates deeply and improves texture without irritation for a glassy glow, and suits all skin types, especially sensitive and post-acne skin.",
   "star": [
@@ -453,6 +571,51 @@
   ],
   "source": "https://cosrx.com/products/advanced-snail-96-mucin-power-essence",
   "written": "2026-10-01"
+ },
+ "cosrx-low-ph-good-morning-gel-cleanser": {
+  "text": "A gentle, mildly acidic gel cleanser for the morning that cleans without stripping and helps refine texture. Suits all skin types.",
+  "star": [
+   {
+    "name": "Low pH formula",
+    "does": "Cleanses without disrupting the skin's natural acidity"
+   },
+   {
+    "name": "Tea tree and BHA (betaine salicylate)",
+    "does": "Keep pores clear"
+   }
+  ],
+  "source": "https://cosrx.com/products/low-ph-good-morning-gel-cleanser",
+  "written": "2026-10-06"
+ },
+ "cosrx-pdrn-exosome-skinplaning-glaze-mask": {
+  "text": "A cream-to-film peel-off mask that turns dull, uneven skin plump and glazed in one use. It boosts firmness and hydration and refines texture, and comes with a silicone brush for mess-free application. 50 mL.",
+  "star": [
+   {
+    "name": "PDRN and exosome",
+    "does": "Support firmness and a plump, glassy look"
+   },
+   {
+    "name": "Niacinamide",
+    "does": "Brightens and evens"
+   }
+  ],
+  "source": "https://cosrx.com/products/cosrx-pdrn-exosome-skinplaning-glaze-mask",
+  "written": "2026-10-06"
+ },
+ "cosrx-the-6-peptide-skin-booster-serum": {
+  "text": "A lightweight, toner-like serum with six peptides that targets fine lines, uneven texture and loss of firmness. It absorbs instantly, boosts elasticity, refines the look of pores, and suits all skin types.",
+  "star": [
+   {
+    "name": "Six-peptide complex",
+    "does": "Including copper tripeptide and acetyl hexapeptide-8, for firmness and smoother lines"
+   },
+   {
+    "name": "Niacinamide",
+    "does": "Refines pores and evens tone"
+   }
+  ],
+  "source": "https://cosrx.com/products/the-6-peptide-skin-booster-serum-bundle",
+  "written": "2026-10-06"
  },
  "crown-affair-the-hair-towel": {
   "text": "A microfibre waffle-knit hair towel that dries hair faster while being gentler on strands than a regular towel.",
@@ -494,6 +657,12 @@
   "source": "https://curlsmith.com/products/curl-souffle",
   "written": "2026-10-02"
  },
+ "currentbody-wellness-infrared-sauna-blanket": {
+  "text": "A portable infrared sauna blanket for relaxation and post-workout recovery at home, with adjustable time and temperature settings and a 100% cotton towel insert.",
+  "star": [],
+  "source": "https://currentbody.com/products/currentbody-skin-sauna-blanket",
+  "written": "2026-10-06"
+ },
  "cyklar-perfume-oil-in-vanilla-verve": {
   "text": "A perfume oil that takes vanilla in a spicier, creamier direction than usual. Applied to pulse points, it warms with your skin and stays close to the body. 15 mL roller.",
   "star": [
@@ -504,6 +673,17 @@
   ],
   "source": "https://cyklar.com/products/vanilla-verve-perfume-oil",
   "written": "2026-10-01"
+ },
+ "dae-cactus-fruit-3-in-1-styling-cream---taming-wand": {
+  "text": "Dae's bestselling 3-in-1 styling cream with a built-in wand for slicking back styles, taming flyaways, smoothing frizz and styling edges in one swipe. Pocket-sized for touch-ups, in Dae's signature citrus scent.",
+  "star": [
+   {
+    "name": "Cactus fruit",
+    "does": "Dae's hydrating signature ingredient"
+   }
+  ],
+  "source": "https://daehair.com/products/cactus-fruit-3-in-1-styling-cream-taming-wand",
+  "written": "2026-10-06"
  },
  "dae-sunsetter-hairspray": {
   "text": "A strong but flexible hairspray that keeps styles in place all day and night while staying brushable. It helps block humidity and frizz, adds natural-looking shine, and carries Dae's signature citrus scent.",
@@ -581,6 +761,21 @@
   "source": "https://dieuxskin.com/products/skin-mercy-recovery-cream",
   "written": "2026-10-02"
  },
+ "dolce-glow-2-hour-express-self-tanning-mousse-in-ultra-dark": {
+  "text": "A fast self-tanning mousse that develops a natural-looking tan in as little as two hours. It absorbs quickly, hydrates, and lasts longer. Shown here in Ultra Dark.",
+  "star": [
+   {
+    "name": "DHA",
+    "does": "Develops the tan"
+   },
+   {
+    "name": "Aloe and avocado oil",
+    "does": "Keep skin hydrated"
+   }
+  ],
+  "source": "https://dolceglow.com/products/express-self-tanning-mousse",
+  "written": "2026-10-06"
+ },
  "dolce-glow-lusso-self-tanning-mousse": {
   "text": "A skincare-infused self-tan mousse that gives a deep, streak-free, spray-tan-like bronze with an olive-brown undertone that won't turn orange, and leaves skin smooth and hydrated. Application mitt sold separately.",
   "star": [
@@ -622,6 +817,17 @@
   "source": "https://drdiamondsmetacine.com/products/hydro-bioactive-hydrolipid-barrier",
   "written": "2026-10-01"
  },
+ "dr--diamond-s-metacine-instafacial-infusion-biomimetic-collagen-serum": {
+  "text": "A lightweight, creamy gel collagen treatment that visibly firms, lifts, defines and hydrates skin.",
+  "star": [
+   {
+    "name": "Bioengineered microcollagen",
+    "does": "Three types of human-identical collagen for firmer-looking skin"
+   }
+  ],
+  "source": "https://drdiamondsmetacine.com/products/instafacial-infusion",
+  "written": "2026-10-06"
+ },
  "dr--idriss-left-un-red-reducer-serum": {
   "text": "A daily serum to reduce visible redness and help prevent future breakouts.",
   "star": [],
@@ -658,6 +864,25 @@
   "source": "https://driesvannoten.com/products/001-098730-8703",
   "written": "2026-10-02"
  },
+ "drmtlgy-needle-less-growth-factor-serum": {
+  "text": "An anti-ageing serum to smooth, firm and lift, backed by a 12-week double-blind clinical study.",
+  "star": [
+   {
+    "name": "Peptide complex",
+    "does": "Several peptides that support firmer, smoother-looking skin"
+   },
+   {
+    "name": "Ceramides",
+    "does": "Support the barrier"
+   },
+   {
+    "name": "Sodium hyaluronate",
+    "does": "Hydrates and plumps"
+   }
+  ],
+  "source": "https://drmtlgy.com/products/needle-less-growth-factor-serum",
+  "written": "2026-10-06"
+ },
  "ellis-brooklyn-blond-musk-rollerball-oil": {
   "text": "A clean, sensual white-musk fragrance oil in a 15 mL rollerball, meant as an everyday, take-anywhere scent.",
   "star": [],
@@ -682,6 +907,17 @@
   ],
   "source": "https://elmbiosciences.com/products/a3o-elemental-serum",
   "written": "2026-10-01"
+ },
+ "emi-jay-angelstick": {
+  "text": "A hair styling stick that glides over strands to smooth flyaways and give a sleek finish.",
+  "star": [
+   {
+    "name": "Castor seed oil",
+    "does": "Smooths and adds a little shine"
+   }
+  ],
+  "source": "https://emijay.com/products/angelstick-hair-styling-stick",
+  "written": "2026-10-06"
  },
  "eos-cashmere-shave-oil": {
   "text": "A rich shave oil in eos's vanilla cashmere scent (whipped vanilla, soft musk and caramel) for a smooth, comfortable shave that leaves skin soft.",
@@ -825,6 +1061,27 @@
   "source": "https://fentybeauty.com/products/the-homecurl-curl-defining-cream",
   "written": "2026-10-01"
  },
+ "fenty-skin-dew-n-plump-hydrating-nectar-face-mist": {
+  "text": "An ultra-fine face mist that wraps skin in a sheer veil of moisture for plumper, bouncier skin and strengthens the moisture barrier from the first use.",
+  "star": [],
+  "source": "https://fentybeauty.com/products/dew-n-plump-hydrating-face-mist",
+  "written": "2026-10-06"
+ },
+ "first-aid-beauty-hydrating-sunscreen-milk-broad-spectrum-spf-45": {
+  "text": "An ultra-light, non-comedogenic SPF 45 sunscreen milk that hydrates for 24 hours and leaves a dewy finish without feeling oily. Suitable for sensitive skin; nano-free, silicone-free and vegan.",
+  "star": [
+   {
+    "name": "Colloidal oatmeal",
+    "does": "Soothes and protects sensitive skin"
+   },
+   {
+    "name": "Glycerin",
+    "does": "Long-lasting hydration"
+   }
+  ],
+  "source": "https://firstaidbeauty.com/products/hydrating-sunscreen-milk-with-colloidal-oatmeal-broad-spectrum-spf-45",
+  "written": "2026-10-06"
+ },
  "flamingo-body-wax-kit": {
   "text": "At-home wax strips for legs, arms and underarms. The soft gel wax removes hair from the root for up to four weeks, and the kit includes 20 large and 8 medium strips plus 6 post-wax cloths to calm skin afterwards.",
   "star": [
@@ -859,6 +1116,27 @@
   "source": "https://flamingoestate.com/products/peppermint-exfoliating-soap-brick",
   "written": "2026-10-01"
  },
+ "flamingo-tweezers": {
+  "text": "Hand-finished, polished stainless-steel tweezers with a sharp slanted tip for grabbing fine hairs anywhere, from brows to toes. Made in Italy, with a lilac coating.",
+  "star": [],
+  "source": "https://www.shopflamingo.com/products/tweezers",
+  "written": "2026-10-06"
+ },
+ "fur-all-body-wash": {
+  "text": "A pH-balanced oil body wash that turns into a soft, milky lather. It's gentle enough for the pubic area and works head to toe, leaving skin hydrated and softer.",
+  "star": [
+   {
+    "name": "Sweet almond, castor and apricot kernel oils",
+    "does": "Cleanse while keeping skin soft"
+   },
+   {
+    "name": "Vitamin E",
+    "does": "Conditions skin"
+   }
+  ],
+  "source": "https://furyou.com/products/all-body-wash",
+  "written": "2026-10-06"
+ },
  "fur-flash-repair-jelly": {
   "text": "A soothing gel for after waxing, shaving or laser that quickly calms redness and irritation and helps prevent ingrown hairs and bumps. It has the National Eczema Association's seal of acceptance, so it suits very sensitive, reactive skin.",
   "star": [
@@ -881,6 +1159,17 @@
   "star": [],
   "source": "https://gmcollin.com/products/dark-spot-serum",
   "written": "2026-10-02"
+ },
+ "g-m-collin-peel-toner-exfoliant": {
+  "text": "A daily leave-on exfoliating toner that sweeps away dead skin, regulates excess oil and visibly tightens pores while hydrating, for brighter, smoother, more even skin.",
+  "star": [
+   {
+    "name": "AHA, BHA and PHA",
+    "does": "Three acids that exfoliate at different depths"
+   }
+  ],
+  "source": "https://gmcollin.com/products/peel-toner-exfoliant",
+  "written": "2026-10-06"
  },
  "gisou-honey-glaze-collagen-therapy-lip-mask": {
   "text": "A buttery lip mask with a honey-buttercream scent, clinically shown to give intense hydration, visibly repair dry lips and leave a glazed shine. 15 mL.",
@@ -994,6 +1283,25 @@
   "source": "https://glowrecipe.com/products/watermelon-glow-niacinamide-dewy-flush",
   "written": "2026-10-01"
  },
+ "glow-recipe-watermelon-glow-pink-dream-body-cream": {
+  "text": "A whipped body cream that smooths rough texture and hydrates in one step, bringing face-care actives to the body.",
+  "star": [
+   {
+    "name": "Watermelon seed butter",
+    "does": "Vitamin-rich moisture"
+   },
+   {
+    "name": "Hibiscus AHA",
+    "does": "Gently smooths texture"
+   },
+   {
+    "name": "Multi-weight hyaluronic acid",
+    "does": "Deep hydration"
+   }
+  ],
+  "source": "https://glowrecipe.com/products/watermelon-glow-pink-dream-body-cream",
+  "written": "2026-10-06"
+ },
  "grande-cosmetics-grandelash-sensitive": {
   "text": "A gentle lash serum made for sensitive eyes that supports visibly longer, thicker-looking lashes and less lash fall-out in six weeks.",
   "star": [
@@ -1093,6 +1401,18 @@
   "source": "https://homecourt.co/products/perfume-oil",
   "written": "2026-10-02"
  },
+ "hourglass-curator-eyeshadow-palette": {
+  "text": "Talc-free eyeshadow palettes with velvety, finely milled shadows in four finishes. They're buildable from subtle to high-pigment and blend easily for multi-dimensional looks.",
+  "star": [],
+  "source": "https://www.hourglasscosmetics.com/products/curator-eyeshadow-palette",
+  "written": "2026-10-06"
+ },
+ "hourglass-vanish-seamless-finish-concealer-brush": {
+  "text": "A half-moon-shaped concealer brush with dense bristles for precise application and seamless blending, especially under the eyes. Made for liquid and cream formulas, including Hourglass Vanish Airbrush Concealer.",
+  "star": [],
+  "source": "https://www.hourglasscosmetics.com/products/vanish-seamless-finish-concealer-brush",
+  "written": "2026-10-06"
+ },
  "hung-vanngo-beauty-longwear-eyeliner": {
   "text": "A waterproof gel eyeliner pencil that glides on without tugging, draws a sharp line and dries to a matte finish that won't run. It has a built-in sharpener and comes in 10 highly pigmented shades, including an intense black.",
   "star": [],
@@ -1136,6 +1456,28 @@
   ],
   "source": "https://iliabeauty.com/products/soft-focus-blurring-powder-blush",
   "written": "2026-10-02"
+ },
+ "ilia-limitless-lash-mascara": {
+  "text": "A clean mascara that lengthens, lifts and separates without clumping, then resists flaking and smudging for up to 12 hours. The dual-sided wand works as a brush and a lash comb. Now also in brown.",
+  "star": [
+   {
+    "name": "Beeswax and shea butter",
+    "does": "Condition and protect lashes"
+   }
+  ],
+  "source": "https://iliabeauty.com/products/limitless-lash-lengthening-mascara",
+  "written": "2026-10-06"
+ },
+ "ilia-multi-stick": {
+  "text": "A creamy twist-up stick for a buildable wash of colour on cheeks and lips. Swipe and blend with your fingers, or layer shades for a custom look. Twelve shades, in natural and luminous finishes.",
+  "star": [
+   {
+    "name": "Cocoa butter and castor oil",
+    "does": "Keep the formula creamy and the skin soft"
+   }
+  ],
+  "source": "https://iliabeauty.com/products/multi-stick-cream-blush-stick-lip-cheek-tint",
+  "written": "2026-10-06"
  },
  "ilia-super-serum-skin-tint-spf-40": {
   "text": "Skin tint, skincare and mineral SPF 40 in one step. It gives light-to-medium coverage with a dewy finish, hydrates, calms redness from dryness, and protects against UV, blue light and pollution. Fragrance-free, non-comedogenic and suitable for sensitive skin.",
@@ -1224,6 +1566,12 @@
   "source": "https://isclinical.com/products/cleansing-complex",
   "written": "2026-10-01"
  },
+ "jenny-patinkin-skin-smoothing-trio-dermaplaning-set": {
+  "text": "A set of three dermaplaning tools made from upcycled wheat straw with Japanese stainless-steel safety blades. They remove peach fuzz and dead skin for softer, smoother, more radiant skin that absorbs skincare better.",
+  "star": [],
+  "source": "https://jennypatinkin.com/products/skin-smoothing-trio-dermaplaning-set",
+  "written": "2026-10-06"
+ },
  "jlo-beauty-firming-neck-serum": {
   "text": "A lightweight neck serum that visibly firms, smooths, lifts and sculpts the delicate neck area while giving deep, lasting hydration.",
   "star": [],
@@ -1235,6 +1583,36 @@
   "star": [],
   "source": "https://joeyhealy.com/products/luxe-brow-powder",
   "written": "2026-10-01"
+ },
+ "jordan-samuel-skin-the-performance-cream": {
+  "text": "A light, peptide-rich moisturiser that keeps skin calm, hydrated and restored. It suits all skin types and is made to layer with Jordan Samuel's serums and oils.",
+  "star": [
+   {
+    "name": "Three peptides",
+    "does": "Support smoother, restored-looking skin"
+   },
+   {
+    "name": "Olive leaf and chamomile extracts",
+    "does": "Calm the skin"
+   },
+   {
+    "name": "Squalane",
+    "does": "Light hydration"
+   }
+  ],
+  "source": "https://jordansamuelskin.com/products/the-performance-cream",
+  "written": "2026-10-06"
+ },
+ "josie-maran-hydrating-argan-body-wash": {
+  "text": "A creamy body wash that cleanses and leaves skin softer, with clinically shown 24-hour hydration. It's scented with Josie Maran's Vanilla Vibezzz. Oprah Daily's Best Skin Softening Wash, 2026.",
+  "star": [
+   {
+    "name": "Argan oil",
+    "does": "Josie Maran's signature nourishing oil"
+   }
+  ],
+  "source": "https://josiemaran.com/products/hydrating-argan-body-wash-vanilla-vibezzz",
+  "written": "2026-10-06"
  },
  "kaine-kombu-balancing-ampoule-toner": {
   "text": "An ampoule-toner that hydrates at several depths, strengthens the skin barrier and suits the skin's natural pH, leaving a balanced, radiant complexion.",
@@ -1270,6 +1648,12 @@
   "source": "https://mykitsch.com/products/root-lifting-thickening-spray",
   "written": "2026-10-02"
  },
+ "kjh-brand-nano-set-brow-gel": {
+  "text": "A pro-level clear brow gel with a long nano-bristle brush for precise shaping. Its flexible all-day hold keeps hairs in place without stiffness or flaking, from soft and fluffy to sleek and laminated.",
+  "star": [],
+  "source": "https://kjhbrand.com/products/nano-set-brow-gel",
+  "written": "2026-10-06"
+ },
  "kjh-brand-soft-smudge-lip---cheek": {
   "text": "A multi-use cream-to-powder stick for lips and cheeks that gives a soft matte, sheer wash of colour. It builds easily, wears long, and isn't drying. On lips it feels like your natural lip texture.",
   "star": [],
@@ -1294,6 +1678,12 @@
   ],
   "source": "https://korres.com/products/greek-yoghurt-probiotic-super-serum",
   "written": "2026-10-02"
+ },
+ "kosas-revealer-concealer": {
+  "text": "A creamy, silicone-free concealer with medium, buildable coverage and a fresh, radiant finish, in a skincare-rich, eye-cream-like base. It softens the look of dark circles, hyperpigmentation, redness and blemishes but still looks like skin. Non-comedogenic and safe for sensitive skin.",
+  "star": [],
+  "source": "https://kosas.com/products/revealer-concealer",
+  "written": "2026-10-06"
  },
  "l-a--girl-pro-perfect-dewy-setting-spray": {
   "text": "A lightweight micro-mist that preps skin, sets makeup and leaves a fresh, dewy glow without feeling sticky or heavy. It hydrates and softly blurs pores. Glamour Beauty Award winner, 2026.",
@@ -1343,6 +1733,17 @@
   ],
   "source": "https://lolavie.com/products/glossing-detangler",
   "written": "2026-10-01"
+ },
+ "lolavie-peptide-plumping-volume-spray": {
+  "text": "A frothy volumising spray for thin or fine hair that gives lift from root to tip and keeps it all day. It leaves hair soft, not sticky, and protects against heat styling up to 450°F. 99% naturally derived and vegan.",
+  "star": [
+   {
+    "name": "Peptides with bond technology",
+    "does": "Clinically shown to support healthier-looking hair"
+   }
+  ],
+  "source": "https://lolavie.com/products/peptide-plumping-volume-spray",
+  "written": "2026-10-06"
  },
  "lolavie-powder-perfect-dry-shampoo": {
   "text": "A propellant-free powder dry shampoo for precise application with no overspray. It's talc-free and gentle on sensitive scalps, disappears into every hair colour, and leaves hair fresh and lifted. 99% naturally derived and vegan.",
@@ -1458,6 +1859,25 @@
   ],
   "source": "https://madeca21.com/products/madeca21-relief-spot-care-patch-68ea",
   "written": "2026-10-01"
+ },
+ "maelove-forever-firm-peptide-neck-treatment": {
+  "text": "A targeted neck treatment with peptides and plant actives that addresses the main signs of neck ageing: lines, sagging, crepey texture and discolouration.",
+  "star": [
+   {
+    "name": "Copper tripeptide",
+    "does": "Supports firmer-looking skin"
+   },
+   {
+    "name": "Shea and cupuaçu butters",
+    "does": "Nourish thin neck skin"
+   },
+   {
+    "name": "Squalane",
+    "does": "Softens and smooths"
+   }
+  ],
+  "source": "https://maelove.com/products/forever-firm-neck-treatment",
+  "written": "2026-10-06"
  },
  "make-beauty-skin-mimetic-concealer": {
   "text": "A buildable, medium-coverage concealer with a radiant finish. Its skin-mimicking pigments blend in seamlessly to conceal and correct while hydrating. Use it for spot coverage or over foundation, or as a highlighter or contour.",
@@ -1691,6 +2111,25 @@
   "source": "https://mediheal.com/products/pdrn-lifting-pad",
   "written": "2026-10-01"
  },
+ "mediheal-retinol-lifting-capsule-eye-patch": {
+  "text": "Concentrated hydrogel patches for the eye area, forehead, smile lines and neck that visibly firm, smooth and revitalise skin, improving the look of fine lines, lost elasticity and sagging.",
+  "star": [
+   {
+    "name": "Retinol capsules",
+    "does": "Target fine lines and firmness"
+   },
+   {
+    "name": "Low-molecular collagen (300 Da)",
+    "does": "Absorbs well for plumper-looking skin"
+   },
+   {
+    "name": "Niacinamide",
+    "does": "Brightens and evens"
+   }
+  ],
+  "source": "https://mediheal.com/products/mediheal-collagen-capsule-patch-retinol-wrinkle-lifting",
+  "written": "2026-10-06"
+ },
  "mediheal-rose-pdrn-essential-sheet-mask": {
   "text": "A sheet mask soaked in a rose PDRN essence that hydrates, smooths and leaves skin bright and dewy. The soft sheet hugs the face for even absorption and dries to a fresh, non-sticky finish.",
   "star": [
@@ -1749,6 +2188,21 @@
   ],
   "source": "https://natashadenona.com/products/hy-glam-foundation",
   "written": "2026-10-02"
+ },
+ "natasha-denona-hy-sculpt-liquid-bronzer": {
+  "text": "A serum-infused liquid bronzer that sculpts, defines and warms the face. It's self-setting, water-resistant, weightless and blends easily into a blurred, sun-kissed natural matte finish that lasts all day. 7 shades.",
+  "star": [
+   {
+    "name": "Grip-Tech pigments",
+    "does": "Self-setting colour that stays put"
+   },
+   {
+    "name": "Sodium hyaluronate",
+    "does": "Keeps skin hydrated under the bronzer"
+   }
+  ],
+  "source": "https://natashadenona.com/products/hy-sculpt-liquid-bronzer",
+  "written": "2026-10-06"
  },
  "nature-of-things-awakening-santal-body-wash": {
   "text": "A gentle sandalwood-scented body wash that supports the skin barrier, leaving skin clean, hydrated and refreshed. Over 95% natural-origin ingredients.",
@@ -1916,6 +2370,21 @@
   ],
   "source": "https://oakessentials.com/products/renew-face-polish",
   "written": "2026-10-01"
+ },
+ "obagi-nu-cil-eyebrow-boosting-serum": {
+  "text": "A brow serum for thin, patchy or over-plucked brows that improves the look of fuller, thicker, darker brows. In Obagi's study, every participant saw better-looking brow fill at eight weeks.",
+  "star": [
+   {
+    "name": "NouriPlex Technology",
+    "does": "Obagi's clinically tested blend for fuller-looking brows"
+   },
+   {
+    "name": "Biotin and panthenol",
+    "does": "Condition brow hairs"
+   }
+  ],
+  "source": "https://obagi.com/products/obagi-nu-cil-eyebrow-boosting-serum",
+  "written": "2026-10-06"
  },
  "odele-air-dry-styler": {
   "text": "A salon-grade styler for skipping the blow-dryer. It lightly conditions, smooths frizz and adds shine, and gives hair soft, rumpled separation for a good air-dry.",
@@ -2152,6 +2621,32 @@
   "source": "https://us.orveda.com/products/firm-brew-cream-50ml",
   "written": "2026-10-02"
  },
+ "ouai-anti-dandruff-shampoo": {
+  "text": "A gentle anti-dandruff shampoo that reduces flaking, itching and irritation and soothes a dry scalp, while leaving hair clean and soft.",
+  "star": [
+   {
+    "name": "Salicylic acid (2%)",
+    "does": "Lifts flakes and keeps dandruff in check"
+   }
+  ],
+  "source": "https://theouai.com/products/anti-dandruff-shampoo",
+  "written": "2026-10-06"
+ },
+ "ouai-curl-cr-me": {
+  "text": "A silicone-free curl cream for all curl types that defines, tames frizz, adds shine and protects against humidity while keeping your natural texture. OUAI developed it with 150 community members over a year of testing.",
+  "star": [
+   {
+    "name": "Linseed and chia seed",
+    "does": "Shape and define curls"
+   },
+   {
+    "name": "Coconut and babassu oils",
+    "does": "Soften curls and seal damaged cuticles"
+   }
+  ],
+  "source": "https://theouai.com/products/curl-creme",
+  "written": "2026-10-06"
+ },
  "patrick-ta-beauty-major-headlines-double-take-cr-me---powder-blush-duo": {
   "text": "A compact with a crème blush on one side for natural radiance and a powder on the other for a soft matte finish. Wear either one alone, or layer the crème under the powder for Patrick Ta's signature long-lasting glow. Shades run from barely-there to bold.",
   "star": [],
@@ -2293,6 +2788,17 @@
   "star": [],
   "source": "https://qureskincare.com/products/shower-filter",
   "written": "2026-10-02"
+ },
+ "r-co-sail-soft-wave-spray": {
+  "text": "A lightweight spray for natural, shiny, voluminous waves with tousled texture. It has style memory, so you can restyle through the day.",
+  "star": [
+   {
+    "name": "Magnesium sulfate",
+    "does": "Creates beachy texture and body"
+   }
+  ],
+  "source": "https://www.randco.com/products/sail-soft-wave-spray",
+  "written": "2026-10-06"
  },
  "r-e-m--beauty-eclipse-glow-stick": {
   "text": "A clear-based highlighter balm with a high-shine duochrome effect. The shade Fembot reflects differently on each wearer. It's moisturising and long-wearing, and comfortable on the skin.",
@@ -2445,6 +2951,17 @@
   "source": "https://roundlab.com/products/birch-moisturizing-sun-cushion",
   "written": "2026-10-01"
  },
+ "round-lab-birch-moisturizing-sun-stick-spf-50": {
+  "text": "A lightweight, unscented SPF 50 sun stick that glides on smoothly for daily broad-spectrum protection and comfort, and suits all skin types, including sensitive. 56 g.",
+  "star": [
+   {
+    "name": "Birch sap",
+    "does": "Adds hydration and comfort"
+   }
+  ],
+  "source": "https://roundlab.com/products/birch-moisturizing-sun-stick",
+  "written": "2026-10-06"
+ },
  "round-lab-birch-moisturizing-toner-pad": {
   "text": "Unscented, three-layer toner pads soaked in birch sap, made to calm and hydrate tired or irritated skin. Use them all over or as a quick spot treatment. 80 pads.",
   "star": [
@@ -2479,6 +2996,17 @@
   "source": "https://sacheu.com/products/eyeshadow-stay-n",
   "written": "2026-10-02"
  },
+ "sacheu-lip-liner-stay-n": {
+  "text": "A long-wear lip liner stain that keeps your lip line in place all day and night without reapplying.",
+  "star": [
+   {
+    "name": "Hyaluronic acid and vitamin E",
+    "does": "Keep lips hydrated"
+   }
+  ],
+  "source": "https://sacheu.com/products/lip-liner-stay-n-peel-off-lip-liner-tattoo",
+  "written": "2026-10-06"
+ },
  "saie-cityset-setting-spray": {
   "text": "A non-aerosol setting mist that holds makeup for up to 16 hours using plant-based polymers. The fine spray dries to a natural, slightly dewy finish that isn't sticky or shiny, and it's alcohol-free, fragrance-free and non-comedogenic.",
   "star": [],
@@ -2509,6 +3037,31 @@
   "star": [],
   "source": "https://saltyface.com/products/tanning-foam",
   "written": "2026-10-02"
+ },
+ "saltyface-tanning-water": {
+  "text": "A self-tan water for the face that gives a seamless, sun-kissed tan.",
+  "star": [],
+  "source": "https://saltyface.com/products/tanning-water",
+  "written": "2026-10-06"
+ },
+ "senself-calming-botanical-serum": {
+  "text": "A soothing serum for sensitive, redness-prone skin that comforts on contact, replenishes moisture, and visibly reduces redness within an hour.",
+  "star": [
+   {
+    "name": "Hyaluronic acid",
+    "does": "Replenishes moisture"
+   },
+   {
+    "name": "Panthenol and allantoin",
+    "does": "Calm and comfort"
+   },
+   {
+    "name": "Hemp seed oil",
+    "does": "Soothing, nourishing oil"
+   }
+  ],
+  "source": "https://senself.com/products/calming-photo-serum",
+  "written": "2026-10-06"
  },
  "skin1004-madagascar-centella-hyalu-cica-water-fit-sun-serum--spf50--pa-----": {
   "text": "A watery serum-texture sunscreen (SPF 50+, PA++++) that hydrates and soothes with no white cast, so it's easy to wear every day. The reformulated version adds panthenol and rice, oat and soybean extracts for comfort. Best for dry to normal skin.",
@@ -2745,6 +3298,17 @@
   "source": "https://supergoop.com/products/play-everyday-stick-spf-50",
   "written": "2026-10-01"
  },
+ "supergoop-play-mineral-lotion-spf-30": {
+  "text": "A lightweight, blendable mineral body sunscreen that's gentle on skin and stays water- and sweat-resistant for 80 minutes.",
+  "star": [
+   {
+    "name": "Bisabolol",
+    "does": "Soothes skin"
+   }
+  ],
+  "source": "https://supergoop.com/products/play-mineral-lotion-spf-30-with-green-algae",
+  "written": "2026-10-06"
+ },
  "supergoop-unseen-sunscreen-spf-50": {
   "text": "A clear, scent-free SPF 50 that leaves no white cast and feels weightless on the skin. It sits smoothly enough to double as a makeup primer, and the latest formula is clinically tested to improve skin clarity.",
   "star": [
@@ -2764,6 +3328,46 @@
   "source": "https://supergoop.com/products/unseen-sunscreen-spf-50",
   "written": "2026-10-01"
  },
+ "supersmile-zina45-deluxe-sonic-pulse-toothbrush": {
+  "text": "A sonic toothbrush with Supersmile's patented 45° brush head and an exclusive polishing head, plus four cleaning modes for above and below the gum line. Comes with a chrome travel case.",
+  "star": [],
+  "source": "https://supersmile.com/products/zina45-deluxe-sonic-pulse-toothbrush",
+  "written": "2026-10-06"
+ },
+ "sweed-beauty-miracle-powder": {
+  "text": "A Korean-made mineral powder foundation with a light, second-skin feel, a soft-focus blur and a natural glow. It covers all day while letting skin breathe, and it's free of talc and bismuth oxychloride, so it suits very sensitive skin.",
+  "star": [
+   {
+    "name": "Vitamin C",
+    "does": "Antioxidant care in the powder"
+   },
+   {
+    "name": "Hydrolyzed collagen",
+    "does": "Keeps the finish soft on skin"
+   }
+  ],
+  "source": "https://sweedbeauty.com/products/miracle-powder-foundation",
+  "written": "2026-10-06"
+ },
+ "sweet-chemistry-barrier-repairing-hydra-serum": {
+  "text": "A lightweight barrier-repair serum. Use it on its own for oily skin or hot, humid weather, or layer it under a cream for any skin type.",
+  "star": [
+   {
+    "name": "Niacinamide",
+    "does": "Strengthens the barrier"
+   },
+   {
+    "name": "Ceramide NP and cholesterol",
+    "does": "Barrier lipids that help repair"
+   },
+   {
+    "name": "Kelp glycans",
+    "does": "Hydrate"
+   }
+  ],
+  "source": "https://sweetchemistry.com/products/barrier-repairing-hydra-serum",
+  "written": "2026-10-06"
+ },
  "tangle-teezer-the-ultimate-detangler-extra-gentle": {
   "text": "A detangling brush built for fragile hair or hair that sheds easily. The teeth are spaced wider than usual, with fewer at the edges to reduce tension, so knots come out with less pulling and breakage. Keep it away from heat.",
   "star": [],
@@ -2776,6 +3380,12 @@
   "source": "https://tataharperskincare.com/products/creme-supreme",
   "written": "2026-10-02"
  },
+ "the-doux-one-love-co-wash-16-oz-": {
+  "text": "A co-wash that cleanses and conditions in one step, keeping hair fresh between wash days without waxy buildup. 16 oz.",
+  "star": [],
+  "source": "https://thedoux.com/products/one-love-co-wash",
+  "written": "2026-10-06"
+ },
  "thera-breath-fresh-breath-oral-rinse---mild-mint": {
   "text": "An alcohol-free, dentist-formulated mouthwash that fights bad breath for 24 hours when used every 12 hours after brushing. Mild mint flavour.",
   "star": [
@@ -2786,6 +3396,12 @@
   ],
   "source": "https://therabreath.com/products/fresh-breath-oral-rinse-mild-mint",
   "written": "2026-10-01"
+ },
+ "therabody-sleepmask": {
+  "text": "A 100% blackout eye mask with three quiet, soothing vibration patterns designed to help you fall asleep faster and sleep more deeply, with fewer wake-ups.",
+  "star": [],
+  "source": "https://therabody.com/products/sleep-mask",
+  "written": "2026-10-06"
  },
  "therabreath-whitening-fresh-breath-oral-rinse": {
   "text": "An alcohol-free, peroxide-free whitening mouthwash that helps lift and prevent stains while freshening breath. It's dentist-formulated and uses naturally sourced stain-fighting enzymes.",
@@ -2899,11 +3515,32 @@
   "source": "https://ultraviolettespf.com/products/preen-screen",
   "written": "2026-10-02"
  },
+ "uni-golden-microalgae-body-oil": {
+  "text": "A lightweight, non-greasy body oil that deeply nourishes and helps skin look firmer, more contoured, smoother and more radiant.",
+  "star": [
+   {
+    "name": "Golden microalgae",
+    "does": "Helps skin look firmer and more elastic"
+   },
+   {
+    "name": "Kalahari melon, Kakadu plum and passionfruit oils",
+    "does": "Nourish and add glow"
+   }
+  ],
+  "source": "https://weareuni.com/products/golden-microalgae-body-oil",
+  "written": "2026-10-06"
+ },
  "unite-hair-7seconds-anti-frizz-thermo-mist": {
   "text": "A lightweight, heat-activated leave-in mist that shields each strand, locks in moisture and blocks humidity for smooth, shiny, frizz-free hair that lasts up to 72 hours. Works on all hair types, including curly and frizz-prone.",
   "star": [],
   "source": "https://unitehair.com/products/7seconds-anti-frizz-6fl-oz-177ml",
   "written": "2026-10-02"
+ },
+ "velour-lashes-effortless-self-adhesive-2-pack": {
+  "text": "Pre-glued, pre-trimmed false lashes that go on in one step: no measuring, trimming or glue. They're light, comfortable and natural-looking for everyday wear, and reusable five or more times with care. Two pairs.",
+  "star": [],
+  "source": "https://velourbeauty.com/products/effortless-self-adhesive-2-pack",
+  "written": "2026-10-06"
  },
  "victoria-beckham-beauty-colour-wash": {
   "text": "A sheer, watercolour-style liquid tint that soaks into the skin for a flush that looks like it comes from within. It sets slowly, so there's time to blend with fingers or a brush, then lasts all day.",
@@ -2964,11 +3601,28 @@
   "source": "https://vyrao.com/products/witchy-woo-cream-scent",
   "written": "2026-10-02"
  },
+ "wavytalk-blowout-boost-ionic-thermal-brush": {
+  "text": "A heated round brush and curler in one that cuts blowout time in half. Dual heating spreads the heat evenly, negative ions boost shine and fight frizz, and snag-free bristles glide smoothly. It does bouncy blowouts and loose waves.",
+  "star": [],
+  "source": "https://wavytalk.com/products/thermal-brush",
+  "written": "2026-10-06"
+ },
  "wavytalk-multi-curl": {
   "text": "A 5-in-1 curling set with clip-in ceramic barrels: a 0.5\" micro wand, a tapered 0.5–1\" barrel, a 1\" bubble barrel, a 1.25\" wand and a 1.5\" thermal brush, covering everything from tight spirals to loose waves. It heats up in 30 seconds and has two temperature settings.",
   "star": [],
   "source": "https://wavytalk.com/products/5-in-1-curling-wand-set",
   "written": "2026-10-01"
+ },
+ "westman-atelier-vital-skin-foundation-stick": {
+  "text": "A clean cream foundation stick with a melting texture that blends into a radiant, natural finish. Use it all over or just where you want more coverage. It calms redness and evens out the complexion.",
+  "star": [
+   {
+    "name": "Antioxidants and calming actives",
+    "does": "Soothe redness and boost moisture"
+   }
+  ],
+  "source": "https://westman-atelier.com/products/vital-skin-foundation-stick-atelier-n",
+  "written": "2026-10-06"
  },
  "westmore-beauty-lasting-effects-soft-glide-eyeliner": {
   "text": "A highly pigmented gel eyeliner that glides on without tugging or skipping for smooth, precise lines or a smoky blended look. Once set it's waterproof and smudge-proof.",
