@@ -771,6 +771,106 @@
    "permanent": true
   },
   {
+   "source": "/product/bluepetal-collagen-vol-patch",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/sofy-cooling-fresh",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/treeannsea-desert-salt-pack-cleanser",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/physiogel-daily-moisture-therapy-facial-lotion",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/huxley-biosis-360-ampoule",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/cure-code-neuromide-ampoule",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/vadiva-stick-on-makeup-sponge",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/cure-code-double-barrier-cream",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/natural-derma-project-cica-x-artemisia-hydro-deep-calming-mask",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/ega-advanced-regenerator--spf20-pa---",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/cozy-white-royal-jelly-foot-cream",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/unix-ceramic-hair-flat-iron-uci-2932a",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/deig-hyaluronic-toner-pad",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/kkotppang-melting-ice-balm",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/huemi-multi-use-glow-on-palette",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/bunio-calming-cool-toneup-sun-cushion--spf50--pa-----",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/body-fantasies-signature-wedding-day-fragrance-body-spray",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/toun28-haenam-404-peptacica-cream",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/bonamedusa-yellow-skin-tone-delete",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/tag-dual-multi-shading--01-soft-warm-",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
    "source": "/p/:slug",
    "destination": "/product/:slug",
    "permanent": false
