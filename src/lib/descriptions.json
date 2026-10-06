@@ -517,6 +517,21 @@
   "source": "https://cecred.com/products/scalp-refreshing-spray",
   "written": "2026-10-02"
  },
+ "c-cred-thermal-shield-mist": {
+  "text": "A lightweight heat-protection mist that shields hair from heat up to 450°F, humidity and pollution, and keeps it smooth, shiny and frizz-controlled for 24 hours.",
+  "star": [
+   {
+    "name": "Olive leaf extract",
+    "does": "Antioxidant protection"
+   },
+   {
+    "name": "Watermelon seed, manketti and ximenia oils",
+    "does": "Smooth and add shine"
+   }
+  ],
+  "source": "https://cecred.com/products/thermal-shield-mist",
+  "written": "2026-10-06"
+ },
  "cecred-nourishing-hair-oil": {
   "text": "A silicone-free blend of 13 oils and plant extracts that seals in moisture and adds soft, natural shine. It's colour-safe and salon-tested on all hair types and textures.",
   "star": [
@@ -1100,6 +1115,12 @@
    }
   ],
   "source": "https://drmtlgy.com/products/needle-less-growth-factor-serum",
+  "written": "2026-10-06"
+ },
+ "ds---durga-i-don-t-know-what": {
+  "text": "A transparent, radiant 'fragrance enhancer' meant to be worn alone or layered to lift other scents: bergamot, then Iso E Super and vetiver over a soft musky, ambery base.",
+  "star": [],
+  "source": "https://dsanddurga.com/products/i-dont-know-what",
   "written": "2026-10-06"
  },
  "ellis-brooklyn-blond-musk-rollerball-oil": {
@@ -1831,6 +1852,12 @@
   "source": "https://isamaya.com/products/microbial-gel-primer-ko",
   "written": "2026-10-06"
  },
+ "isima-all-in": {
+  "text": "A restorative leave-in conditioner that works on both the inner cortex and the cuticle, strengthening hair from within and smoothing the surface for softer, shinier, less frizzy hair.",
+  "star": [],
+  "source": "https://isima.com/products/all-in-restorative-leave-in-conditioner",
+  "written": "2026-10-06"
+ },
  "jenny-patinkin-skin-smoothing-trio-dermaplaning-set": {
   "text": "A set of three dermaplaning tools made from upcycled wheat straw with Japanese stainless-steel safety blades. They remove peach fuzz and dead skin for softer, smoother, more radiant skin that absorbs skincare better.",
   "star": [],
@@ -1969,6 +1996,12 @@
   "text": "A creamy, silicone-free concealer with medium, buildable coverage and a fresh, radiant finish, in a skincare-rich, eye-cream-like base. It softens the look of dark circles, hyperpigmentation, redness and blemishes but still looks like skin. Non-comedogenic and safe for sensitive skin.",
   "star": [],
   "source": "https://kosas.com/products/revealer-concealer",
+  "written": "2026-10-06"
+ },
+ "krigler-velvet-night-76": {
+  "text": "An amber floral first imagined in 1976 and inspired by late Paris nights: bergamot and orange blossom, tuberose and jasmine, over vanilla, cedarwood and musk.",
+  "star": [],
+  "source": "https://krigler.com/products/velvet-night-76-perfume-1",
   "written": "2026-10-06"
  },
  "l-a--girl-pro-perfect-dewy-setting-spray": {
@@ -2637,6 +2670,21 @@
   "source": "https://michaeltoddbeauty.com/products/soniclear",
   "written": "2026-10-06"
  },
+ "milk-makeup-hydro-grip-hydrating-gel-skin-tint": {
+  "text": "A clean, non-comedogenic gel skin tint with buildable light coverage and a natural dewy finish, clinically shown to last 12 hours without fading, caking or settling into lines.",
+  "star": [
+   {
+    "name": "Triple hyaluronic acid",
+    "does": "Hydrates throughout wear"
+   },
+   {
+    "name": "Niacinamide",
+    "does": "Helps even and smooth"
+   }
+  ],
+  "source": "https://milkmakeup.com/products/hydro-grip-gel-tint-hydrating-skin-tint",
+  "written": "2026-10-06"
+ },
  "morphe-cheek-thrills-multi-finish-face-trio": {
   "text": "A face trio with three textures in one tone: a satin cream, a luminous balm and a velvet powder. Mix and layer them for custom colour and finish; shades run from cool mauve and warm mocha to tangerine and nude rose.",
   "star": [],
@@ -2773,6 +2821,12 @@
   ],
   "source": "https://nerra.com/products/body-wash-citrus-wave",
   "written": "2026-10-02"
+ },
+ "noyz-only-human": {
+  "text": "A skin-hugging gourmand of warm vanilla bean, creamy ambroxan and spiced cedarwood, cosy but sensual, that wears differently on everyone.",
+  "star": [],
+  "source": "https://noyz.com/products/only-human-gourmand-perfume-fragrance",
+  "written": "2026-10-06"
  },
  "noyz-rinse-cycle": {
   "text": "A clean, fresh, gender-neutral musk: guava and crisp pear up top, a creamy musk-flower heart, and warm sandalwood underneath.",
@@ -3068,6 +3122,21 @@
   "source": "https://omorovicza.com/products/thermal-cleansing-balm",
   "written": "2026-10-02"
  },
+ "one-size-beauty-powder-melt-glass-setting-spray": {
+  "text": "A hydrating setting spray that melts powder into a smooth, glass-like finish and locks makeup in for up to 12 hours, while boosting radiance and moisture.",
+  "star": [
+   {
+    "name": "Ceramide AP",
+    "does": "Supports skin's moisture"
+   },
+   {
+    "name": "Finger lime extract",
+    "does": "Adds radiance"
+   }
+  ],
+  "source": "https://onesizebeauty.com/products/powder-melt-glass-setting-spray",
+  "written": "2026-10-06"
+ },
  "one-size-boucl--silk-airbrushed-finishing-powder": {
   "text": "A baked, talc-free finishing powder that gives an airbrushed, silky finish with sheer coverage. It blurs pores, evens tone, adds a little luminosity and sets makeup for up to 12 hours.",
   "star": [],
@@ -3294,6 +3363,12 @@
   "source": "https://philipb.com/products/weightless-miracle-serum",
   "written": "2026-10-02"
  },
+ "philosophy-fresh-cream-silk-cloud": {
+  "text": "A soft amber-gourmand eau de parfum: fluffy chantilly cream, jasmine and smooth, intimate vanilla, airy and comforting.",
+  "star": [],
+  "source": "https://philosophy.com/products/fresh-cream-silk-cloud-eau-de-parfum",
+  "written": "2026-10-06"
+ },
  "pixi-beauty-2-in-1-natural-brow-duo": {
   "text": "A waterproof two-ended brow tool with an angled precision pencil to shape and fill, and a tinted soft-hold gel to set every hair. It gives anything from natural to bold definition and lasts all day.",
   "star": [],
@@ -3486,6 +3561,25 @@
   ],
   "source": "https://www.rhodeskin.com/products/glazing-mist",
   "written": "2026-10-01"
+ },
+ "rizos-curls-defining-mousse": {
+  "text": "A lightweight curl mousse that enhances definition and hydrates without weighing hair down, controls frizz and boosts shine. 96% naturally derived.",
+  "star": [
+   {
+    "name": "Coconut water",
+    "does": "Hydrates curls"
+   },
+   {
+    "name": "Red algae and cactus flower",
+    "does": "Help define and hold"
+   },
+   {
+    "name": "Maracujá seed oil",
+    "does": "Adds shine"
+   }
+  ],
+  "source": "https://rizoscurls.com/products/mousse",
+  "written": "2026-10-06"
  },
  "round-lab-1025-dokdo-lotion": {
   "text": "A lightweight, unscented moisturising lotion made with mineral-rich Ulleungdo deep-sea water. It builds lasting moisture without a shiny finish and suits every skin type, including sensitive and acne-prone. 200 mL.",
@@ -3811,6 +3905,40 @@
   "source": "https://skyorganics.com/products/organic-marula-radiant-glow-oil",
   "written": "2026-10-02"
  },
+ "sofie-pavitt-face-mandelic-clearing-serum": {
+  "text": "A gentle daily exfoliating serum with 8% mandelic acid that clears congestion, smooths texture, refines pores and brightens without irritation. Suitable for sensitive skin.",
+  "star": [
+   {
+    "name": "Mandelic acid (8%)",
+    "does": "A gentle, large-molecule AHA for clearer, smoother skin"
+   },
+   {
+    "name": "Panthenol and hyaluronic acid",
+    "does": "Keep skin comfortable"
+   }
+  ],
+  "source": "https://sofiepavittface.com/products/mandelic-clearing-serum",
+  "written": "2026-10-06"
+ },
+ "sofie-pavitt-face-skin-jelly-oil-free-gel-moisturizer": {
+  "text": "A lightweight, oil-free gel moisturiser for acne-prone skin that helps skin look and feel less oily and visibly reduces redness.",
+  "star": [
+   {
+    "name": "Sodium, zinc and copper PCA",
+    "does": "Help control oiliness"
+   },
+   {
+    "name": "Beta-glucan and allantoin",
+    "does": "Reduce visible redness"
+   },
+   {
+    "name": "Zinc",
+    "does": "Calms blemish-prone skin"
+   }
+  ],
+  "source": "https://sofiepavittface.com/products/skin-jelly-oil-free-gel-moisturizer",
+  "written": "2026-10-06"
+ },
  "soft-services-buffing-bar": {
   "text": "An exfoliating body bar that works like a magic eraser. Fine sanding crystals give a moderate to strong physical exfoliation for keratosis pilaris, ingrown hairs and rough patches.",
   "star": [
@@ -4044,6 +4172,21 @@
   "text": "A rich, fragrance-free cream for sensitive skin that calms redness, strengthens the barrier and restores lasting hydration; 87% said skin looked calmer after one use. 100% natural origin, hypoallergenic, and accepted by the National Eczema Association.",
   "star": [],
   "source": "https://tataharperskincare.com/products/calming-creme",
+  "written": "2026-10-06"
+ },
+ "tenoverten-the-rose-oil": {
+  "text": "A 100% natural cuticle oil that hydrates without feeling greasy, made for damaged cuticles and healthier nail beds. 8 mL.",
+  "star": [
+   {
+    "name": "Jojoba and sweet almond oils",
+    "does": "Nourish dry cuticles"
+   },
+   {
+    "name": "Passion fruit, argan and pomegranate seed oils",
+    "does": "Help repair and soften"
+   }
+  ],
+  "source": "https://tenoverten.com/products/the-rose-oil-2",
   "written": "2026-10-06"
  },
  "the-7-virtues-strawberry-jam-eau-de-parfum": {
@@ -4298,6 +4441,25 @@
   "source": "https://victoriabeckhambeauty.com/products/satin-kajal-liner",
   "written": "2026-10-01"
  },
+ "vita-liberata-the-glaze-peptide-tanning-serum": {
+  "text": "A peptide-powered gradual self-tan body serum that builds believable colour while hydrating skin, for a natural-looking finish.",
+  "star": [
+   {
+    "name": "DHA",
+    "does": "Builds a gradual tan"
+   },
+   {
+    "name": "Niacinamide",
+    "does": "Supports even-looking skin"
+   },
+   {
+    "name": "Shea butter and aloe",
+    "does": "Hydrate"
+   }
+  ],
+  "source": "https://vitaliberata.com/products/glaze",
+  "written": "2026-10-06"
+ },
  "voesh-gua-sha-massage-body-cleansing-bar": {
   "text": "A body cleansing bar shaped like a gua sha tool, so washing doubles as a lymphatic-style massage that helps reduce puffiness, sculpt and support circulation. It fits comfortably in the palm and leaves skin fresh and balanced.",
   "star": [],
@@ -4309,6 +4471,12 @@
   "star": [],
   "source": "https://voesh.com/products/hand-balm",
   "written": "2026-10-02"
+ },
+ "vyrao-ludatrix": {
+  "text": "A spiced floral by Vyrao built around mood-boosting ingredients: a lipstick accord with Sichuan pepper and ambrette, then latex, rose, orris and frankincense over amber.",
+  "star": [],
+  "source": "https://vyrao.com/products/ludatrix",
+  "written": "2026-10-06"
  },
  "vyrao-witchy-woo-cream-scent": {
   "text": "A solid-style cream perfume of Vyrao's Witchy Woo, massaged into the hands or neck. The scent runs from ambrette and pink pepper through orris and rose to patchouli, labdanum and white musk.",
