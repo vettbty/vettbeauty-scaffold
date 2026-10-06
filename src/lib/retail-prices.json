@@ -1081,6 +1081,14 @@
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89319487"
  },
+ "bbia-glow-tint": {
+  "price": 9,
+  "currency": "USD",
+  "at": "StyleKorean",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA12984593",
+  "via": "kbeauty-fallback"
+ },
  "bbia-last-auto-gel-eyeliner": {
   "price": 10.32,
   "currency": "USD",
@@ -1290,6 +1298,14 @@
   "url": "https://go.shopmy.us/p-89386679",
   "via": "olive-young-search",
   "oy": "https://us.oliveyoung.com/products/UA42437133"
+ },
+ "beplain-mung-bean-pore-clearing-filter-pad": {
+  "price": 21.6,
+  "currency": "USD",
+  "at": "YesStyle",
+  "checked": "2026-10-06",
+  "url": "https://www.sephora.com/product/mung-bean-pore-clearing-filter-pad-P526863",
+  "via": "kbeauty-fallback"
  },
  "beplain-mung-bean-pore-clearing-lha-toner": {
   "price": 21.6,
@@ -2300,6 +2316,14 @@
   "at": "YesStyle",
   "checked": "2026-09-26",
   "url": "https://www.yesstyle.com/en/cnp-laboratory-propolis-ampule-in-cushion-set-2-colors-2023-version/info.html/pid.1068325101"
+ },
+ "cnp-laboratory-propolis-energy-ampule-mist": {
+  "price": 16.15,
+  "currency": "USD",
+  "at": "YesStyle",
+  "checked": "2026-10-06",
+  "url": "https://www.target.com/p/cnp-laboratory-propolis-energy-ampule-mist-3-38-oz-mist-on-a-layer-of-liquid-gold-for-a-clinical-grade-glow-that-lasts-all-day/-/A-1010651937",
+  "via": "kbeauty-fallback"
  },
  "cnp-laboratory-propolis-treatment-ampule-essence": {
   "price": 24.9,
@@ -4089,6 +4113,14 @@
   "via": "olive-young-search",
   "oy": "https://us.oliveyoung.com/products/UA56576027"
  },
+ "fwee-pocket-cheek-palette": {
+  "price": 21,
+  "currency": "USD",
+  "at": "StyleKorean",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89541780",
+  "via": "kbeauty-fallback"
+ },
  "genabelle-pdrn-rejuvenating-mask-sheet": {
   "price": 18,
   "currency": "USD",
@@ -5102,6 +5134,14 @@
   "at": "iHerb",
   "checked": "2026-09-30",
   "url": "https://go.shopmy.us/p-90523782"
+ },
+ "isntree-hyaluronic-acid-fresh-sun-serum--spf50--pa-----": {
+  "price": 13,
+  "currency": "USD",
+  "at": "StyleKorean",
+  "checked": "2026-10-06",
+  "url": "https://www.target.com/p/isntree-hyaluronic-acid-fresh-sun-serum-spf50-1-69-oz-your-daily-dose-of-sun-soaked-hydrating-glow/-/A-1006585051",
+  "via": "kbeauty-fallback"
  },
  "isntree-onion-newpair-clear-pad": {
   "price": 24.5,
@@ -7932,6 +7972,14 @@
   "checked": "2026-10-01",
   "url": "https://www.spacenk.com/uk/skincare/treatment/serums/redness-reform-soothing-serum-MUK200065346.html"
  },
+ "primera-mild-and-perfect-facial-peeling": {
+  "price": 23.46,
+  "currency": "USD",
+  "at": "YesStyle",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89383968",
+  "via": "kbeauty-fallback"
+ },
  "primera-pdrn-niacinamide-10-serum-mega-shot-gel-mask": {
   "price": 19.99,
   "currency": "USD",
@@ -8566,6 +8614,14 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B09NQR3NH2?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "scinic-the-simple-daily-lotion": {
+  "price": 8.4,
+  "currency": "USD",
+  "at": "StyleKorean",
+  "checked": "2026-10-06",
+  "url": "https://beautyboxkorea.com/product/scinic-the-simple-daily-lotion-145ml/21082/",
+  "via": "kbeauty-fallback"
  },
  "scinic-uv-expert-repair-sun-essence--spf50--pa-----": {
   "price": 14.39,
@@ -9737,6 +9793,14 @@
   "checked": "2026-09-26",
   "url": "https://www.stylekorean.com/shop/toolif-glow-booster-cushion-puff-5ea/1769594363/"
  },
+ "toolif-silky-natural-bristle-hair-brush": {
+  "price": 14.3,
+  "currency": "USD",
+  "at": "StyleKorean",
+  "checked": "2026-10-06",
+  "url": "https://global.hemeko.com/us/store/products/814",
+  "via": "kbeauty-fallback"
+ },
  "tooq-transparent-color-correcting-base--spf28-pa---": {
   "price": 32.76,
   "at": "DODOSKIN",
@@ -10265,6 +10329,14 @@
   "at": "iHerb",
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89359089"
+ },
+ "vt-cosmetics-reedle-shot-100-2-step-sheet-mask": {
+  "price": 2.5,
+  "currency": "USD",
+  "at": "StyleKorean",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89608832",
+  "via": "kbeauty-fallback"
  },
  "vt-cosmetics-reedle-shot-300": {
   "price": 30,
