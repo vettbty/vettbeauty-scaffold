@@ -137,6 +137,15 @@
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/aalok-ultra-olla-rf-radio-frequency-beauty-device"
  },
+ "abib-collagen-eye-patch-jericho-rose-jelly": {
+  "price": 23,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA26073208",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA26073208"
+ },
  "abib-gummy-sheet-mask-heartleaf-sticker": {
   "price": 4,
   "currency": "USD",
@@ -162,10 +171,13 @@
   "via": "browser"
  },
  "abib-sedum-hyaluron-pad-hydrating-touch": {
-  "price": 21.95,
-  "at": "DODOSKIN",
-  "checked": "2026-10-03",
-  "url": "https://dodoskin.com/products/abib-sedum-hyaluron-pad-hydrating-touch-165ml-75-pads"
+  "price": 24,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://dodoskin.com/products/abib-sedum-hyaluron-pad-hydrating-touch-165ml-75-pads",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA34494566"
  },
  "about-face-holostick": {
   "price": 20,
@@ -278,16 +290,50 @@
   "url": "https://go.shopmy.us/p-88345273"
  },
  "aestura-a-cica-365-soothing-relief-serum-ph4-5": {
-  "price": 38,
-  "at": "Sephora",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83352782"
+  "price": 33.49,
+  "list": 38,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83352782",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA54410119"
+ },
+ "aestura-atobarrier-365-cream-mist": {
+  "price": 21.49,
+  "list": 24,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://www.amazon.com/dp/B09BHSJQHB?tag=vettbeauty-20",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA98397543"
  },
  "aestura-atobarrier-365-lotion": {
   "price": 32,
   "at": "Sephora",
   "checked": "2026-09-01",
   "url": "https://go.shopmy.us/p-83150281"
+ },
+ "aestura-atobarrier-body-lotion": {
+  "price": 33.99,
+  "list": 38,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://www.sephora.co.uk/p/aestura-atobarrier365-body-lotion-hydrating-body-lotion",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA83349489"
+ },
+ "aestura-atobarrier365-body-lotion": {
+  "price": 33.99,
+  "list": 38,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA83349489",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA83349489"
  },
  "aestura-atobarrier365-cream": {
   "price": 32,
@@ -304,10 +350,14 @@
   "url": "https://go.shopmy.us/p-91287411"
  },
  "aestura-atobarrier365-hydro-cera-ha-serum": {
-  "price": 34,
-  "at": "Sephora",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83354645"
+  "price": 29.99,
+  "list": 34,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83354645",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA33126675"
  },
  "aestura-atobarrier365-hydro-essence": {
   "price": 33,
@@ -477,11 +527,24 @@
   "checked": "2026-09-27",
   "url": "https://go.shopmy.us/p-89743971"
  },
+ "anua-glow-pad-pdrn---hyaluron": {
+  "price": 23,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-78142085",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA84400327"
+ },
  "anua-heartleaf-70-daily-lotion": {
   "price": 25,
-  "at": "Ulta",
-  "checked": "2026-09-03",
-  "url": "https://go.shopmy.us/p-83756819"
+  "list": 26,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83756819",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA55625886"
  },
  "anua-heartleaf-77-clear-pad": {
   "price": 24,
@@ -493,9 +556,13 @@
  },
  "anua-heartleaf-77-soothing-toner": {
   "price": 21,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83423433"
+  "list": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83423433",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA53025014"
  },
  "anua-heartleaf-low-ph-deep-cleansing-water": {
   "price": 20,
@@ -510,40 +577,60 @@
   "url": "https://go.shopmy.us/p-82389295"
  },
  "anua-pdrn-hyaluronic-acid-100-moisturizing-cream": {
-  "price": 24,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83425660"
+  "price": 25,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83425660",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA21182672"
  },
  "anua-pdrn-hyaluronic-acid-capsule-100-serum": {
-  "price": 28,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83426532"
+  "price": 29,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83426532",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA69419689"
  },
  "anua-pdrn-hyaluronic-acid-capsule-100-serum-mask": {
-  "price": 24,
-  "at": "Ulta",
-  "checked": "2026-09-03",
-  "url": "https://go.shopmy.us/p-83756659"
+  "price": 21.99,
+  "list": 25,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83756659",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA84178713"
  },
  "anua-pdrn-hyaluronic-acid-hydrating-capsule-mist": {
-  "price": 14.5,
-  "at": "Sephora (UK)",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89357571"
+  "price": 26,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89357571",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA49855308"
  },
  "anua-pdrn-hyaluronic-acid-moisturizing-cleansing-foam": {
-  "price": 15,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83426492"
+  "price": 16,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83426492",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA17826953"
  },
  "anua-rice-70-glow-milky-toner": {
   "price": 21,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83425620"
+  "list": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83425620",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA66829295"
  },
  "aperire-spa-relief-be-frozen-pore-mask": {
   "price": 21,
@@ -554,12 +641,10 @@
   "via": "browser"
  },
  "apieu-juicy-pang-water-blush": {
-  "price": 12,
-  "currency": "USD",
-  "at": "Amazon",
-  "checked": "2026-10-01",
-  "url": "https://www.amazon.com/dp/B07D4714T5?tag=vettbeauty-20",
-  "via": "browser"
+  "price": 14,
+  "at": "Ulta",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-92040736"
  },
  "apieu-mint-scalp-hair-vinegar": {
   "price": 14.5,
@@ -605,15 +690,21 @@
  },
  "arencia-fresh-green-rice-mochi-cleanser": {
   "price": 19,
-  "at": "Sephora",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89542112"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89542112",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA60772547"
  },
  "arencia-fresh-rosehip-rice-mochi-cleanser": {
   "price": 19,
-  "at": "Sephora",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89384196"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89384196",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA14711663"
  },
  "arencia-green-artisan-s-cleanser": {
   "price": 55.9,
@@ -712,10 +803,14 @@
   "url": "https://shoppalacebeauty.com/products/aromatica-pure-and-soft-feminine-foaming-wash-170ml-5-7fl-oz"
  },
  "aromatica-rosemary-root-enhancer": {
-  "price": 14.95,
-  "at": "MissA",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-83935556"
+  "price": 14.49,
+  "list": 19.26,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83935556",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA10722122"
  },
  "aromatica-serene-body-oil-lavender---marjoram": {
   "price": 51,
@@ -740,10 +835,13 @@
   "url": "https://dodoskin.com/products/atelier-faye-perfume-30ml-day-off"
  },
  "atopalm-mle-cream": {
-  "price": 28.24,
-  "at": "iHerb",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89613555"
+  "price": 48,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89613555",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA92096136"
  },
  "atopalm-mle-lotion": {
   "price": 24.64,
@@ -786,6 +884,15 @@
   "checked": "2026-10-01",
   "url": "https://www.stylevana.com/en_US/avajar-perfect-neck-age-wrinkle-control-mask-1pc15665.html",
   "via": "meta"
+ },
+ "avajar-vita-collagen-modeling-pack": {
+  "price": 4,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA83645229",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA83645229"
  },
  "aveda-wooden-paddle-brush": {
   "price": 34,
@@ -866,22 +973,31 @@
   "url": "https://bandinails.com/products/bandi-nailcure-pink-diaa-1ea"
  },
  "banila-co-clean-it-zero-original-cleansing-balm": {
-  "price": 8.99,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83357343"
+  "price": 21,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83357343",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA12010736"
  },
  "banila-co-clean-it-zero-pore-clarifying-cleansing-balm": {
   "price": 22,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386920"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386920",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA40616482"
  },
  "banila-co-clean-it-zero-soothing-lip-eye-makeup-remover": {
-  "price": 9.61,
-  "at": "Beauty Box Korea",
-  "checked": "2026-09-30",
-  "url": "https://beautyboxkorea.com/product/banila-co-clean-it-zero-soothing-lip-eye-makeup-remover-99ml/48052/"
+  "price": 7.5,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://beautyboxkorea.com/product/banila-co-clean-it-zero-soothing-lip-eye-makeup-remover-99ml/48052/",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA92314953"
  },
  "banila-co-prime-primer-classic": {
   "price": 17,
@@ -906,6 +1022,16 @@
   "checked": "2026-10-01",
   "url": "https://us.oliveyoung.com/products/UA75176709",
   "via": "browser"
+ },
+ "banila-co-prime-primer-setting-fixer": {
+  "price": 14.4,
+  "list": 18,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA67089938",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA67089938"
  },
  "banobagi-vita-genic-jelly-mask--hydrating-": {
   "price": 17.95,
@@ -992,10 +1118,13 @@
   "via": "browser"
  },
  "be-plain-mung-bean-cleansing-oil": {
-  "price": 16.8,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84132303"
+  "price": 23.1,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84132303",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA71186442"
  },
  "be-plain-mung-bean-cooling-moisture-sunscreen--spf50--pa-----": {
   "price": 15.95,
@@ -1010,10 +1139,14 @@
   "url": "https://go.shopmy.us/p-89358334"
  },
  "be-plain-mung-bean-ph-balanced-cleansing-foam": {
-  "price": 15.2,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84132351"
+  "price": 17.1,
+  "list": 20.9,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84132351",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA34557979"
  },
  "beau-domaine-hand---nail-cream": {
   "price": 19,
@@ -1065,11 +1198,23 @@
   "url": "https://beekman1802.com/products/pure-lotion?srsltid=AfmBOopTUY447krTaXz0I_6JwV9obq8mlbWtk6UqebckJtPpoxalLOIY",
   "via": "meta"
  },
+ "belif-aqua-bomb-eye-gel": {
+  "price": 32,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-77316127",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA70134990"
+ },
  "belif-aqua-bomb-frozen-cream": {
   "price": 26,
-  "at": "Ulta",
-  "checked": "2026-09-30",
-  "url": "https://go.shopmy.us/p-90522953"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-90522953",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA48709900"
  },
  "belif-super-knights-multi-vitamin-mask": {
   "price": 38,
@@ -1100,10 +1245,14 @@
   "url": "https://go.shopmy.us/p-89629620"
  },
  "benton-guava-70-skin-toner-face-mask-pad": {
-  "price": 30,
-  "at": "Soko Glam",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386798"
+  "price": 19.13,
+  "list": 22.5,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386798",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA79611134"
  },
  "beplain-cicaterol-blemish-pad": {
   "price": 20.95,
@@ -1124,10 +1273,14 @@
   "url": "https://dodoskin.com/products/beplain-mung-bean-cleansing-water-400ml"
  },
  "beplain-mung-bean-milk-peeling-gel": {
-  "price": 21,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386679"
+  "price": 18,
+  "list": 21,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386679",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA42437133"
  },
  "beplain-mung-bean-pore-clearing-lha-toner": {
   "price": 21.6,
@@ -1181,6 +1334,15 @@
   "url": "https://us.oliveyoung.com/products/UA22731950",
   "via": "browser"
  },
+ "biodance-caviar-pdrn-eye-patches": {
+  "price": 23,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-78152047",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA98957798"
+ },
  "biodance-pore-perfecting-collagen-peptide-serum": {
   "price": 21.9,
   "currency": "USD",
@@ -1190,10 +1352,22 @@
   "via": "browser"
  },
  "biodance-refreshing-sea-kelp-real-deep-mask": {
+  "price": 5,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-90767193",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA92582074"
+ },
+ "biodance-rejuvenating-caviar-pdrn-real-deep-mask": {
   "price": 19,
-  "at": "Soko Glam",
-  "checked": "2026-10-01",
-  "url": "https://go.shopmy.us/p-90767193"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-77806840",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA89221713"
  },
  "bioderma-atoderm-2-in-1-oil": {
   "price": 24,
@@ -1202,10 +1376,13 @@
   "url": "https://go.shopmy.us/p-89742715"
  },
  "bioderma-atoderm-lip-stick": {
-  "price": 5,
-  "at": "Look Fantastic",
-  "checked": "2026-10-02",
-  "url": "https://go.shopmy.us/p-91096639"
+  "price": 10.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-91096639",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA11507933"
  },
  "bioderma-atoderm-ultra-cream": {
   "price": 20.99,
@@ -1266,10 +1443,13 @@
   "via": "browser"
  },
  "bioheal-boh-probioderm-3d-lifting-cream": {
-  "price": 36.95,
-  "at": "MissA",
-  "checked": "2026-10-02",
-  "url": "https://go.shopmy.us/p-91097036"
+  "price": 34,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-91097036",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA35435218"
  },
  "biolage-professional-hair-spa-color-last-conditioner": {
   "price": 45,
@@ -1750,10 +1930,24 @@
   "url": "https://holiholic.com/products/cenovis-skin-moisturizing-hyaluronic-acid-10-vials"
  },
  "centellian24-madeca-cream-time-reverse": {
-  "price": 32,
-  "at": "iHerb",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89614087"
+  "price": 30.99,
+  "list": 32,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89614087",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA14476715"
+ },
+ "centellian24-madeca-prime-ritual-white-pearl": {
+  "price": 249.99,
+  "list": 349,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA26501853",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA26501853"
  },
  "cereria-moll--1899-bulgarian-rose---oud": {
   "price": 50,
@@ -1928,16 +2122,22 @@
   "via": "browser"
  },
  "ckd-retino-collagen-small-molecule-300-guasha-neck-cream": {
-  "price": 45,
-  "at": "Soko Glam",
-  "checked": "2026-10-01",
-  "url": "https://go.shopmy.us/p-90767554"
+  "price": 29.95,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-90767554",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA43084888"
  },
  "ckd-retino-collagen-small-molecule-300-pore---elasticity-mask": {
-  "price": 5,
-  "at": "Soko Glam",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89390035"
+  "price": 23,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89390035",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA40457725"
  },
  "ckd-vita-c-teca-blemish-shot-mask": {
   "price": 23,
@@ -1986,10 +2186,14 @@
   "via": "browser"
  },
  "clio-kill-cover-founwear-cushion": {
-  "price": 16.06,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84129314"
+  "price": 23.2,
+  "list": 29,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84129314",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA37857802"
  },
  "clio-kill-lash-mascara-remover": {
   "price": 12,
@@ -2000,16 +2204,22 @@
   "via": "browser"
  },
  "clio-kill-lash-superproof-mascara--long-curling-": {
-  "price": 15.17,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83357229"
+  "price": 18,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83357229",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA49871600"
  },
  "clio-kill-lash-superproof-mascara--volume-curling-": {
-  "price": 15.17,
-  "at": "iHerb",
-  "checked": "2026-09-03",
-  "url": "https://go.shopmy.us/p-83757112"
+  "price": 18,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83757112",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA49871600"
  },
  "clio-prism-highlighter": {
   "price": 26,
@@ -2020,10 +2230,13 @@
   "via": "browser"
  },
  "clio-pro-eye-palette-air": {
-  "price": 24.76,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84129387"
+  "price": 34,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84129387",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA52271115"
  },
  "clio-pro-eye-palette-air--02-rose-connect": {
   "price": 30.95,
@@ -2032,10 +2245,13 @@
   "url": "https://go.shopmy.us/p-89629156"
  },
  "clio-sharp-so-simple-waterproof-pencil-liner": {
-  "price": 10.01,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83150485"
+  "price": 11,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83150485",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA72370831"
  },
  "clio-velvet-lip-pencil": {
   "price": 9.36,
@@ -2114,10 +2330,14 @@
   "url": "https://www.cultbeauty.co.uk/p/color-wow-get-in-shape-2-in-1-working-hair-spray-150ml/11310098/"
  },
  "colorgram-all-in-one-aegyo-sal-maker": {
-  "price": 9.95,
-  "at": "MissA",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89390087"
+  "price": 10.99,
+  "list": 13.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89390087",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA56860122"
  },
  "colorgram-all-in-one-over-lip-maker": {
   "price": 13.99,
@@ -2128,10 +2348,13 @@
   "via": "browser"
  },
  "colorgram-fruity-glass-tint": {
-  "price": 10.95,
-  "at": "MissA",
-  "checked": "2026-08-29",
-  "url": "https://go.shopmy.us/p-82587017"
+  "price": 12.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-82587017",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA95294120"
  },
  "colorgram-fruity-glass-tint-milk": {
   "price": 9.09,
@@ -2210,10 +2433,13 @@
   "url": "https://go.shopmy.us/p-89385417"
  },
  "cosnori-eyelash-tinting-serum": {
-  "price": 22,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89385386"
+  "price": 22.43,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89385386",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA82886692"
  },
  "cosnori-fluffy-fit-cushion--spf50--pa----": {
   "price": 23,
@@ -2222,10 +2448,13 @@
   "url": "https://www.yesstyle.com/en/cosnori-fluffy-fit-cushion-4-colors-00-fair-light/info.html/pid.1134880973"
  },
  "cosnori-long-active-eyelash-serum": {
-  "price": 22,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83351661"
+  "price": 22.43,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83351661",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA23576757"
  },
  "cosnori-long-active-mascara-remover": {
   "price": 12,
@@ -2255,6 +2484,15 @@
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89385362"
  },
+ "cosrx-advanced-snail-96-mucin-power-essence": {
+  "price": 20.9,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-88563191",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA68908382"
+ },
  "cosrx-aha-bha-clarifying-treatment-toner": {
   "price": 20,
   "at": "Ulta",
@@ -2262,16 +2500,32 @@
   "url": "https://go.shopmy.us/p-90522898"
  },
  "cosrx-low-ph-good-morning-gel-cleanser": {
-  "price": 14,
-  "at": "Ulta",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89357306"
+  "price": 13.3,
+  "list": 14,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89357306",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA10823673"
  },
  "cosrx-low-ph-niacinamide-micellar-cleansing-water": {
   "price": 15,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83423393"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83423393",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA74776969"
+ },
+ "cosrx-pdrn-exosome-skinplaning-glaze-mask": {
+  "price": 17,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA84194140",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA84194140"
  },
  "cosrx-the-6-peptide-skin-booster-serum": {
   "price": 21,
@@ -2281,11 +2535,23 @@
   "url": "https://us.oliveyoung.com/products/UA96254658",
   "via": "browser"
  },
+ "cosrx-the-ceramide-skin-barrier-moisturizer": {
+  "price": 23,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-91576964",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA95951258"
+ },
  "cosrx-the-peptide-collagen-hydrogel-eye-patch": {
   "price": 23,
-  "at": "Ulta",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89317002"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89317002",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA44165816"
  },
  "coterie-bun-balm": {
   "price": 40,
@@ -2414,10 +2680,13 @@
   "url": "https://go.shopmy.us/p-84130311"
  },
  "d-alba-white-truffle-first-spray-serum": {
-  "price": 29,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83355615"
+  "price": 26,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83355615",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA60547637"
  },
  "d-alba-white-truffle-nourishing-hand-serum-in-cream": {
   "price": 22.95,
@@ -2426,10 +2695,14 @@
   "url": "https://dodoskin.com/products/dalba-white-truffle-nourishing-hand-serum-in-cream-30ml"
  },
  "d-alba-white-truffle-vital-spray-serum": {
-  "price": 26.25,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84130384"
+  "price": 22.5,
+  "list": 26,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84130384",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA90126594"
  },
  "d-alba-white-truffle-waterfull-tone-up-sunscreen--spf50--pa-----": {
   "price": 28,
@@ -2522,10 +2795,14 @@
   "url": "https://beautyboxkorea.com/product/dashing-diva-signature-hand-nail-cream-50ml/71561/"
  },
  "dasique-blending-mood-cheek": {
-  "price": 14.39,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84131778"
+  "price": 19.8,
+  "list": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84131778",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA94121150"
  },
  "dasique-blending-mood-cheek-15-rose-milk-tea": {
   "price": 15.95,
@@ -2548,22 +2825,32 @@
   "via": "browser"
  },
  "dasique-juicy-dewy-tint": {
-  "price": 12.95,
-  "at": "MissA",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84131896"
+  "price": 14.5,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84131896",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA40198992"
  },
  "dasique-pure-water-lip-gloss": {
-  "price": 7.25,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84131678"
+  "price": 12.24,
+  "list": 15.3,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84131678",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA83663296"
  },
  "dasique-souffle-color-pot": {
-  "price": 11.14,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84131715"
+  "price": 17,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84131715",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA13997864"
  },
  "dasique-v-cut-blending-shading": {
   "price": 17.77,
@@ -2604,10 +2891,11 @@
  "dear-dahlia-lip-paradise-sensual-lip-glow": {
   "price": 32,
   "currency": "USD",
-  "at": "Amazon",
-  "checked": "2026-10-02",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
   "url": "https://www.amazon.com/dp/B0CW5V7QNQ?tag=vettbeauty-20",
-  "via": "browser"
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA28558503"
  },
  "dear-skin-lacto-feminine-wash": {
   "price": 14.95,
@@ -2652,6 +2940,15 @@
   "checked": "2026-10-01",
   "url": "https://us.oliveyoung.com/products/UA27792852",
   "via": "browser"
+ },
+ "denps-denmark-probiotics-story": {
+  "price": 29.81,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA71253888",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA71253888"
  },
  "dentiste-plus-white-toothpaste": {
   "price": 17.95,
@@ -2720,6 +3017,15 @@
   "at": "iHerb",
   "checked": "2026-09-26",
   "url": "https://go.shopmy.us/p-89630155"
+ },
+ "dewytree-hi-amino-all-cleansing-milk": {
+  "price": 18.3,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA20946252",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA20946252"
  },
  "dewytree-urban-shade-cover-and-fit-sun--spf50--pa-----": {
   "price": 27.18,
@@ -2885,6 +3191,51 @@
   "checked": "2026-09-24",
   "url": "https://go.shopmy.us/p-88827471"
  },
+ "dr--althea-345-relief-cream": {
+  "price": 27,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA73639757",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA73639757"
+ },
+ "dr--althea-345-relief-cream-mist": {
+  "price": 19.9,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-88566372",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA40171383"
+ },
+ "dr--althea-aqua-marine-deep-serum": {
+  "price": 18.6,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA83428413",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA83428413"
+ },
+ "dr--althea-pore-refresh-grinding-cleansing-balm": {
+  "price": 22.9,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA47170289",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA47170289"
+ },
+ "dr--althea-pure-grinding-cleansing-balm": {
+  "price": 22.9,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-88565009",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA15326717"
+ },
  "dr--dennis-gross-alpha-beta-extra-strength-daily-peels": {
   "price": 94,
   "at": "newbeauty-readers-choice-2026",
@@ -2910,6 +3261,15 @@
   "checked": "2026-10-02",
   "url": "https://www.amazon.com/dp/B0FY722KL2?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "dr--jart--cryo-rubber-moisturizing-face-mask": {
+  "price": 16.5,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-78299795",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA13597101"
  },
  "dr--tung-s-smart-floss": {
   "price": 6.5,
@@ -2952,16 +3312,23 @@
   "via": "browser"
  },
  "dr-different-vitalift-a-forte": {
-  "price": 52,
-  "at": "Soko Glam",
-  "checked": "2026-09-30",
-  "url": "https://go.shopmy.us/p-90524625"
+  "price": 24,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-90524625",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA27426752"
  },
  "dr-g-brightening-peeling-gel": {
-  "price": 23.58,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386849"
+  "price": 17.28,
+  "list": 18,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386849",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA21232133"
  },
  "dr-g-r-e-d-blemish-clear-soothing-cream": {
   "price": 29.71,
@@ -3139,9 +3506,12 @@
  },
  "erborian-cc-red-correct--spf25-": {
   "price": 46,
-  "at": "Dermstore",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89609260"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89609260",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA41628302"
  },
  "erly-daily-splash-hydrating-serum": {
   "price": 38,
@@ -3166,10 +3536,13 @@
   "via": "browser"
  },
  "espoir-couture-lip-tint-glaze": {
-  "price": 10.67,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83352849"
+  "price": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83352849",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA20210772"
  },
  "espoir-derma-cover-blemish-balm--spf50--pa-------10-ash-ivory-": {
   "price": 29.75,
@@ -3236,6 +3609,15 @@
   "checked": "2026-10-01",
   "url": "https://us.oliveyoung.com/products/UA74696806",
   "via": "browser"
+ },
+ "espoir-tone-pairing-contour-palette": {
+  "price": 25,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA45297685",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA45297685"
  },
  "espoir-water-splash-sun-cream-tone-up-lasting--spf50--pa-----": {
   "price": 19.27,
@@ -3306,16 +3688,23 @@
   "via": "browser"
  },
  "etude-curl-fix-mascara": {
-  "price": 12.95,
-  "at": "MissA",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83149912"
+  "price": 15.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83149912",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA18598428"
  },
  "etude-dr--mascara-fixer": {
-  "price": 5.16,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83358052"
+  "price": 8.99,
+  "list": 9.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83358052",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA57364407"
  },
  "etude-dr-mascara-fixer-for-perfect-lash": {
   "price": 4.54,
@@ -3332,10 +3721,13 @@
   "via": "browser"
  },
  "etude-ginger-sugar-overnight-lip-mask": {
-  "price": 11.1,
-  "at": "Soko Glam",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84130149"
+  "price": 9.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84130149",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA70295671"
  },
  "etude-idol-real-lash-fixer": {
   "price": 8.84,
@@ -3351,9 +3743,12 @@
  },
  "etude-nymph-aura-volumer": {
   "price": 19.99,
-  "at": "Ulta",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-83934918"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83934918",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA65548807"
  },
  "etude-pang-pang-hair-shadow": {
   "price": 14.99,
@@ -3527,11 +3922,24 @@
   "url": "https://us.oliveyoung.com/products/UA16707835",
   "via": "browser"
  },
+ "fillimilli-dual-concealer-brush-810": {
+  "price": 5.99,
+  "list": 6.9,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA76161002",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA76161002"
+ },
  "fillimilli-face---body-massager": {
-  "price": 11.95,
-  "at": "DODOSKIN",
-  "checked": "2026-10-03",
-  "url": "https://dodoskin.com/products/fillimilli-face-body-massager"
+  "price": 13.9,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://dodoskin.com/products/fillimilli-face-body-massager",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA76602490"
  },
  "fillimilli-point-eyeshadow-brush-defining-511": {
   "price": 4.9,
@@ -3636,16 +4044,34 @@
   "url": "https://go.shopmy.us/p-88320005"
  },
  "fwee-3d-voluming-gloss": {
-  "price": 17,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83422684"
+  "price": 13.6,
+  "list": 17,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83422684",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA64020889"
  },
  "fwee-blurry-pudding-pot": {
-  "price": 20,
-  "at": "Ulta",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89388156"
+  "price": 16,
+  "list": 20,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89388156",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA88174791"
+ },
+ "fwee-lip---cheek-glowy-jelly-pot": {
+  "price": 14.4,
+  "list": 18,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-78491063",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA56576027"
  },
  "genabelle-pdrn-rejuvenating-mask-sheet": {
   "price": 18,
@@ -3771,6 +4197,15 @@
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/goodal-heartleaf-calming-tone-up-sun-cream-spf50-pa-50ml"
  },
+ "goodal-heartleaf-soothing-zinc-100-mineral-sunscreen--spf50--pa-----": {
+  "price": 24,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA13329720",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA13329720"
+ },
  "goongbe-baby-moisture-lotion": {
   "price": 32.95,
   "at": "DODOSKIN",
@@ -3835,9 +4270,12 @@
  },
  "hanyul-artemisia-soothing-2-in-1-mask-to-foam-cleanser": {
   "price": 22,
-  "at": "Sephora",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89384403"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89384403",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA99237305"
  },
  "hanyul-pure-artemisia-hydrating-calming-fluid": {
   "price": 31.77,
@@ -3859,9 +4297,12 @@
  },
  "hanyul-yuja-brightening-2-in-1-mask-to-foam-cleanser": {
   "price": 22,
-  "at": "Sephora",
-  "checked": "2026-09-30",
-  "url": "https://go.shopmy.us/p-90568727"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-90568727",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA10129515"
  },
  "hanyul-yuja-vitamin-c-brightening-sleeping-mask": {
   "price": 30,
@@ -4148,10 +4589,13 @@
   "via": "browser"
  },
  "hince-raw-glow-gel-tint": {
-  "price": 12.61,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84132211"
+  "price": 17,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84132211",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA53934730"
  },
  "hince-second-skin-mesh-matte-cushion--spf40-pa---": {
   "price": 21.05,
@@ -4168,10 +4612,13 @@
   "via": "browser"
  },
  "hince-true-dimension-radiance-balm": {
-  "price": 25.91,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83422971"
+  "price": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83422971",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA51793220"
  },
  "hoka-clifton-10-running-shoes": {
   "price": 155,
@@ -4370,16 +4817,33 @@
   "url": "https://beautyboxkorea.com/product/illiyoon-ac-cica-clear-face-body-mist-200ml/80414/"
  },
  "illiyoon-ceramide-ato-6-0-top-to-toe-wash": {
-  "price": 14.99,
-  "at": "Boots (UK)",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-83935500"
+  "price": 19.99,
+  "list": 24.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83935500",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA18172537"
+ },
+ "illiyoon-ceramide-ato-concentrate-cream": {
+  "price": 10.62,
+  "list": 12.49,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83353158",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA41616850"
  },
  "illiyoon-ceramide-ato-lotion": {
-  "price": 19.99,
-  "at": "Boots (UK)",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83150207"
+  "price": 24.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83150207",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA70100299"
  },
  "illiyoon-fresh-moisture-lip-and-eye-makeup-remover": {
   "price": 25.99,
@@ -4418,10 +4882,14 @@
   "via": "browser"
  },
  "ilso-super-melting-sebum-softener": {
-  "price": 27.54,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83350967"
+  "price": 23.55,
+  "list": 24.79,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83350967",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA18541700"
  },
  "inbutim-24h-lash-perfect-tonic---serum": {
   "price": 57.95,
@@ -4467,17 +4935,32 @@
   "checked": "2026-09-21",
   "url": "https://go.shopmy.us/p-83756338"
  },
+ "innisfree-green-tea-ceramide-milk": {
+  "price": 24,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89620014",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA23605642"
+ },
  "innisfree-green-tea-enzyme-vitamin-c-brightening-cream": {
   "price": 32,
-  "at": "Sephora",
-  "checked": "2026-09-03",
-  "url": "https://go.shopmy.us/p-83756430"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83756430",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA79410613"
  },
  "innisfree-green-tea-enzyme-vitamin-c-brightening-serum": {
   "price": 32,
-  "at": "Sephora",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83355223"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83355223",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA26728016"
  },
  "innisfree-no-sebum-mineral-pact": {
   "price": 17,
@@ -4487,9 +4970,12 @@
  },
  "innisfree-no-sebum-mineral-powder": {
   "price": 14,
-  "at": "Sephora",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83355982"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83355982",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA13181090"
  },
  "innisfree-retinol-cica-repair-ampoule": {
   "price": 30.02,
@@ -4537,9 +5023,12 @@
  },
  "iope-pdrn-caffeine-shot": {
   "price": 43,
-  "at": "Sephora",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89613234"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89613234",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA76554226"
  },
  "iope-retinol-serum-gel-mask": {
   "price": 30,
@@ -4596,10 +5085,13 @@
   "url": "https://holiholic.com/products/isntree-onion-newpair-clear-pad-60-pads"
  },
  "isntree-yam-root-vegan-milk-cleanser": {
-  "price": 24.08,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386584"
+  "price": 27.8,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386584",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA57687415"
  },
  "isntree-yam-root-vegan-ph-balancing-cleanser": {
   "price": 24,
@@ -4608,10 +5100,14 @@
   "url": "https://holiholic.com/products/isntree-yam-root-vegan-ph-balancing-cleanser-120ml"
  },
  "isoi-blemish-care-eye---wrinkle-patch": {
-  "price": 21,
-  "at": "Ulta",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89614712"
+  "price": 13.99,
+  "list": 24.5,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89614712",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA57884839"
  },
  "isoi-blemish-care-up-cream": {
   "price": 40.5,
@@ -5057,6 +5553,16 @@
   "url": "https://www.amazon.com/dp/B0FG2TJHT7?tag=vettbeauty-20",
   "via": "browser"
  },
+ "koy-flow-lifting-wrapping-cream": {
+  "price": 38.99,
+  "list": 45.6,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA70071422",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA70071422"
+ },
  "kristin-ess-hair-signature-gloss": {
   "price": 15,
   "at": "Ulta",
@@ -5218,12 +5724,14 @@
   "url": "https://global.amoremall.com/products/labo-h-scalp-strengthening-clinic-shampoo-hair-loss-care-400ml"
  },
  "labo-h-scalp-strengthening-shampoo": {
-  "price": 27,
+  "price": 25.65,
+  "list": 27,
   "currency": "USD",
-  "at": "Amazon",
-  "checked": "2026-10-01",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
   "url": "https://www.amazon.com/dp/B0DFGYP6TP?tag=vettbeauty-20",
-  "via": "browser"
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA47370528"
  },
  "lacto-fit-probiotics-gold": {
   "price": 18.5,
@@ -5238,10 +5746,13 @@
   "url": "https://www.stylekorean.com/shop/lagom-airy-velvet-sun-stick-spf50-pa-18g/1717469267/"
  },
  "lagom-cellup-gel-to-water-cleanser": {
-  "price": 14.08,
-  "at": "iHerb",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89609350"
+  "price": 15,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89609350",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA39408932"
  },
  "lagom-cellup-micro-foam-cleanser": {
   "price": 12.6,
@@ -5311,6 +5822,15 @@
   "url": "https://us.oliveyoung.com/products/UA10586600",
   "via": "browser"
  },
+ "laneige-lip-sleeping-mask": {
+  "price": 24,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89616436",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA37129317"
+ },
  "laneige-neo-essential-blurring-finish-powder": {
   "price": 25,
   "at": "Sephora",
@@ -5325,9 +5845,12 @@
  },
  "laneige-water-sleeping-mask": {
   "price": 33,
-  "at": "Sephora",
-  "checked": "2026-09-22",
-  "url": "https://go.shopmy.us/p-88348906"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-88348906",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA24561786"
  },
  "lanvin--clat-d-arp-ge-eau-de-parfum": {
   "price": 44.09,
@@ -5399,6 +5922,12 @@
   "checked": "2026-08-25",
   "url": "https://lelubepleasures.com/products/ultra-glide-water-based-lubricant"
  },
+ "lement-color-nail": {
+  "price": 16.57,
+  "at": "DODOSKIN",
+  "checked": "2026-10-06",
+  "url": "https://www.dodoskin.com/products/lement-65-woodberry"
+ },
  "lenssis-marina---chocolate--": {
   "price": 29.9,
   "at": "Brand site",
@@ -5410,6 +5939,16 @@
   "at": "lilacst.com",
   "checked": "2026-09-21",
   "url": "https://lilacst.com/products/nanosoft-aura"
+ },
+ "lily-eve-growturn-exosome-brush-ampoule": {
+  "price": 23.76,
+  "list": 29.7,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA98417491",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA98417491"
  },
  "lilybyred-luv-beam-cheek-balm": {
   "price": 12.59,
@@ -5571,6 +6110,16 @@
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89221914"
  },
+ "ma-nyo-galac-niacin-3-0-essence": {
+  "price": 20.4,
+  "list": 24,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA54408021",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA54408021"
+ },
  "mac-cosmetics-m-a-cximal-silky-matte-lipstick": {
   "price": 25,
   "at": "Nordstrom Rack",
@@ -5707,6 +6256,16 @@
   "checked": "2026-09-26",
   "url": "https://www.yesstyle.com/en/mamonde-amazing-deep-mint-cleansing-balm-90ml/info.html/pid.1126699022"
  },
+ "mamonde-flora-glow-rose-liquid-mask": {
+  "price": 18.7,
+  "list": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89388066",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA61782101"
+ },
  "mane-fresh-fluff-dry-shampoo-foam": {
   "price": 26,
   "at": "elle-intl+hbuk-hair-2026 brand-site",
@@ -5767,9 +6326,12 @@
  },
  "manyo-galactomy-enzyme-peeling-gel": {
   "price": 14,
-  "at": "Ulta",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-83935203"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83935203",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA16789771"
  },
  "manyo-hyaluron-hydrating-sunscreen--spf50--pa-----": {
   "price": 16.95,
@@ -5809,9 +6371,12 @@
  },
  "manyo-pure-soybean-cleansing-milk-6-76-fl--oz--200ml-": {
   "price": 21,
-  "at": "Ulta",
-  "checked": "2026-09-27",
-  "url": "https://go.shopmy.us/p-89744806"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89744806",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA67051749"
  },
  "maquillage-edge-free-eyelash-curler": {
   "price": 15,
@@ -5889,11 +6454,32 @@
   "checked": "2026-09-26",
   "url": "https://beautyboxkorea.com/product/medianswer-vita-collagen-mask-37g5ea-swf-rihey-pick/51691/"
  },
+ "medicube-age-r-booster-pro": {
+  "price": 221,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-79606751",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA81995088"
+ },
+ "medicube-age-r-booster-pro-2": {
+  "price": 221,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-91829587",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA81995088"
+ },
  "medicube-age-r-mini-booster-pro": {
-  "price": 93,
-  "at": "Ulta",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386419"
+  "price": 110,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386419",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA37299398"
  },
  "medicube-collagen-night-wrapping-mask": {
   "price": 21.9,
@@ -5915,23 +6501,50 @@
   "checked": "2026-10-01",
   "url": "https://go.shopmy.us/p-90771013"
  },
+ "medicube-kojic-acid-turmeric-night-wrapping-mask": {
+  "price": 21.9,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA43512219",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA43512219"
+ },
  "medicube-mini-booster-pro-plus": {
-  "price": 162.99,
-  "at": "Sephora (UK)",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386455"
+  "price": 110,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386455",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA37299398"
+ },
+ "medicube-pdrn-pink-collagen-gel-mask": {
+  "price": 20.9,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89625291",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA21883532"
  },
  "medicube-pdrn-pink-collagen-gel-toner-pad": {
-  "price": 24,
-  "at": "Ulta",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89541411"
+  "price": 25,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89541411",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA61382046"
  },
  "medicube-pdrn-pink-peptide-serum": {
-  "price": 21,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83354564"
+  "price": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83354564",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA10476976"
  },
  "mediforcell-firming-honey-collagen-wrapping-mask": {
   "price": 32.37,
@@ -5946,10 +6559,14 @@
   "url": "https://skin-seoul.com/product/ultra-hyaluronic-acid-cream/"
  },
  "mediheal-blackhead-melting-clear-nose-patch": {
-  "price": 15,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83424886"
+  "price": 17.99,
+  "list": 19,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83424886",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA42874918"
  },
  "mediheal-ceramide-essential-mask-moisture-barrier": {
   "price": 22,
@@ -6015,11 +6632,24 @@
   "checked": "2026-09-01",
   "url": "https://go.shopmy.us/p-83149995"
  },
+ "mediheal-madecassoside-moisture-sun-serum--spf50--pa-----": {
+  "price": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83353203",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA99160456"
+ },
  "mediheal-pdrn-lifting-serum": {
-  "price": 17,
-  "at": "Ulta",
-  "checked": "2026-09-03",
-  "url": "https://go.shopmy.us/p-83755669"
+  "price": 17.7,
+  "list": 18.7,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83755669",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA92324746"
  },
  "mediheal-phyto-enzyme-peeling-pad": {
   "price": 24,
@@ -6198,10 +6828,13 @@
   "via": "browser"
  },
  "missha-glow-skin-balm": {
-  "price": 16.7,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386249"
+  "price": 20,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386249",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA43963989"
  },
  "missha-m-choboyang-bb-cream--spf30-pa---": {
   "price": 20.95,
@@ -6216,10 +6849,14 @@
   "url": "https://go.shopmy.us/p-89223394"
  },
  "mixsoon-bean-essence": {
-  "price": 19.79,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386153"
+  "price": 24,
+  "list": 26.5,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386153",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA13317098"
  },
  "mixsoon-hyalraebae-pore-bubble-serum": {
   "price": 9.95,
@@ -6542,10 +7179,14 @@
   "url": "https://go.shopmy.us/p-88344855"
  },
  "numbuzin-no-1-pantothenic-b5-active-soothing-serum": {
-  "price": 24.72,
-  "at": "iHerb",
-  "checked": "2026-09-30",
-  "url": "https://go.shopmy.us/p-90524473"
+  "price": 20,
+  "list": 25,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-90524473",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA29966591"
  },
  "numbuzin-no-1-pantothenic-skincare-100-powder": {
   "price": 15.7,
@@ -6556,10 +7197,14 @@
   "via": "browser"
  },
  "numbuzin-no-3-tingle-pore-softening-sheet-mask": {
-  "price": 12,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83358199"
+  "price": 2.4,
+  "list": 3,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83358199",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA64481857"
  },
  "numbuzin-no-5--glutathione-vitamin-concentrated-sheet-mask": {
   "price": 4,
@@ -6755,6 +7400,15 @@
   "checked": "2026-10-01",
   "url": "https://www.spacenk.com/uk/skincare/treatment/peels/acid-milk-UK200064023.html"
  },
+ "one-thing-houttuynia-cordata-modeling-pack": {
+  "price": 21,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA49819610",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA49819610"
+ },
  "one-thing-jojoba-golden-organic-oil": {
   "price": 14.99,
   "currency": "USD",
@@ -6764,10 +7418,14 @@
   "via": "browser"
  },
  "one-thing-niacinamide-glutathione-serum": {
-  "price": 23.74,
-  "at": "iHerb",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89614825"
+  "price": 20.79,
+  "list": 25.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89614825",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA95095817"
  },
  "ongredients-centella-asiatica-skin-barrier-calming-lotion": {
   "price": 21.24,
@@ -6782,6 +7440,16 @@
   "at": "DODOSKIN",
   "checked": "2026-09-28",
   "url": "https://www.dodoskin.com/products/ongredients-skin-barrier-calming-lip-essence-6g"
+ },
+ "ongredients-skin-barrier-calming-lotion-ex": {
+  "price": 19.8,
+  "list": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://us.oliveyoung.com/products/UA16861107",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA16861107"
  },
  "ongredients-skin-barrier-glow-mist": {
   "price": 17.99,
@@ -7061,6 +7729,15 @@
   "checked": "2026-09-26",
   "url": "https://www.yesstyle.com/en/peripera-v-shading-3-types-03-grayish-cool/info.html/pid.1121949607"
  },
+ "peripera-mood-glowy-tint": {
+  "price": 13,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83934555",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA15554105"
+ },
  "peripera-pure-blushed-sunshine-cheek": {
   "price": 5,
   "at": "YesStyle",
@@ -7077,9 +7754,12 @@
  },
  "peripera-speedy-skinny-brow-mascara": {
   "price": 8,
-  "at": "ohlolly.com",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-83934462"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83934462",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA38760348"
  },
  "peripera-syrupy-tok-cheek": {
   "price": 14,
@@ -7376,10 +8056,22 @@
   "url": "https://go.shopmy.us/p-88322622"
  },
  "rejuran-skin-protection-mask": {
-  "price": 18,
-  "at": "Sephora",
-  "checked": "2026-10-03",
-  "url": "https://go.shopmy.us/p-91285420"
+  "price": 17,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-91285420",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA74760513"
+ },
+ "rejuran-turnover-ampoule": {
+  "price": 52,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-77358549",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA67698081"
  },
  "revlon-one-step-multi-styler": {
   "price": 74.95,
@@ -7453,9 +8145,12 @@
  },
  "rom-nd-glasting-color-gloss": {
   "price": 14,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83425971"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83425971",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA78112942"
  },
  "rom-nd-han-all-fix-mascara": {
   "price": 12,
@@ -7491,9 +8186,12 @@
  },
  "rom-nd-the-juicy-lasting-tint--03-bare-grape-": {
   "price": 15,
-  "at": "Ulta",
-  "checked": "2026-10-03",
-  "url": "https://go.shopmy.us/p-91285271"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-91285271",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA66355696"
  },
  "rom-nd-zero-matte-lipstick": {
   "price": 14.95,
@@ -7523,33 +8221,49 @@
  },
  "round-lab-1025-dokdo-lotion": {
   "price": 22,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83354708"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83354708",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA63441692"
  },
  "round-lab-1025-dokdo-toner": {
-  "price": 16.99,
-  "at": "Ulta",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89385579"
+  "price": 17,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89385579",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA46196074"
  },
  "round-lab-1025-dokdo-water-gel-mask-sheet": {
-  "price": 22.5,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89358233"
+  "price": 35,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89358233",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA83455758"
  },
  "round-lab-birch-juice-moisturizing-sunscreen": {
-  "price": 28,
-  "at": "iHerb",
-  "checked": "2026-08-29",
-  "url": "https://go.shopmy.us/p-82586689"
+  "price": 22.49,
+  "list": 24.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-82586689",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA36175558"
  },
  "round-lab-birch-moisturizing-sun-cushion--spf50--pa-----": {
-  "price": 26.99,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83424431"
+  "price": 27,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83424431",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA87927457"
  },
  "round-lab-birch-moisturizing-toner-pad": {
   "price": 28,
@@ -7584,10 +8298,14 @@
   "via": "browser"
  },
  "rovectin-vita-dark-spot-serum": {
-  "price": 29.95,
-  "at": "Ulta",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89386322"
+  "price": 16,
+  "list": 20,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89386322",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA57855866"
  },
  "rye-beauty-tinted-brow-milk": {
   "price": 32,
@@ -7616,10 +8334,14 @@
   "url": "https://dodoskin.com/products/s-nature-aqua-cica-booster-body-lotion-300ml"
  },
  "s-nature-aqua-oasis-toner": {
-  "price": 22.16,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89384725"
+  "price": 17.99,
+  "list": 25,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89384725",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA50497490"
  },
  "s-nature-aqua-rice-cleansing-balm": {
   "price": 20.3,
@@ -7644,10 +8366,14 @@
   "via": "browser"
  },
  "s-nature-aqua-squalane-moisturizing-cream": {
-  "price": 24.08,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89384661"
+  "price": 17.99,
+  "list": 28,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89384661",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA16733220"
  },
  "s-nature-aqua-squalane-moisturizing-cream-wrapping-mask": {
   "price": 24.95,
@@ -7656,10 +8382,14 @@
   "url": "https://dodoskin.com/products/s-nature-aqua-squalane-moisturizing-cream-wrapping-mask-4-sheets"
  },
  "s-nature-aqua-squalane-serum": {
-  "price": 18.96,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89384698"
+  "price": 13.99,
+  "list": 21,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89384698",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA38698068"
  },
  "s-nature-jojoba-oil": {
   "price": 13.3,
@@ -8056,22 +8786,34 @@
   "via": "browser"
  },
  "skin1004-madagascar-centella-hyalu-cica-water-fit-sun-serum--spf50--pa-----": {
-  "price": 26,
-  "at": "Ulta",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83424399"
+  "price": 15.49,
+  "list": 26,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83424399",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA36240979"
  },
  "skin1004-madagascar-centella-light-cleansing-oil": {
-  "price": 17.55,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83425571"
+  "price": 21.25,
+  "list": 25,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83425571",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA14871783"
  },
  "skin1004-madagascar-centella-probio-cica-intensive-ampoule": {
-  "price": 34,
-  "at": "Ulta",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89358124"
+  "price": 18.7,
+  "list": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89358124",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA77119710"
  },
  "skin1004-madagascar-centella-quick-calming-pad": {
   "price": 25,
@@ -8092,10 +8834,13 @@
   "url": "https://www.lookfantastic.com/p/skinceuticals-p-tiox-anti-wrinkle-cream-48ml/17886921/"
  },
  "skinfood-black-sugar-perfect-essential-scrub-2x": {
-  "price": 12.73,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84131304"
+  "price": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84131304",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA97227561"
  },
  "skinfood-blue-chamomile-hyaluronic-ampoule": {
   "price": 17.5,
@@ -8122,10 +8867,13 @@
   "via": "browser"
  },
  "skinfood-carrot-carotene-daily-mask": {
-  "price": 22.95,
-  "at": "MissA",
-  "checked": "2026-10-01",
-  "url": "https://go.shopmy.us/p-90767408"
+  "price": 27,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-90767408",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA24356409"
  },
  "skinfood-lemongrass-niacinamide-5-pad": {
   "price": 18.3,
@@ -8516,12 +9264,13 @@
   "url": "https://go.shopmy.us/p-90854465"
  },
  "teazen-kombucha-lemon": {
-  "price": 12.49,
+  "price": 9.3,
   "currency": "USD",
-  "at": "Amazon",
-  "checked": "2026-10-02",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
   "url": "https://www.amazon.com/dp/B08V1FB9BH?tag=vettbeauty-20",
-  "via": "browser"
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA36836449"
  },
  "teazen-kombucha-pineapple": {
   "price": 9.3,
@@ -8574,10 +9323,13 @@
   "url": "https://go.shopmy.us/p-84131156"
  },
  "the-face-shop-rice-water-bright-foaming-cleanser": {
-  "price": 13,
-  "at": "Ulta",
-  "checked": "2026-09-21",
-  "url": "https://go.shopmy.us/p-88311368"
+  "price": 17,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-88311368",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA26504103"
  },
  "the-face-shop-smooth-skin-body-peel-spray": {
   "price": 12,
@@ -8600,10 +9352,13 @@
   "url": "https://go.shopmy.us/p-88311286"
  },
  "the-lab-by-blanc-doux-oligo-hyaluronic-acid-deep-toner": {
-  "price": 22,
-  "at": "Soko Glam",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89613436"
+  "price": 36,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89613436",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA14508917"
  },
  "the-ordinary-glycolic-acid-7--exfoliating-toner": {
   "price": 8.7,
@@ -8646,16 +9401,24 @@
   "via": "browser"
  },
  "the-saem-cover-perfection-tip-concealer--spf28-pa---": {
-  "price": 6.99,
-  "at": "iHerb",
-  "checked": "2026-09-04",
-  "url": "https://go.shopmy.us/p-84133135"
+  "price": 5.85,
+  "list": 6.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84133135",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA80873006"
  },
  "the-saem-cover-perfection-triple-pot-concealer": {
-  "price": 12.9,
-  "at": "iHerb",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89359329"
+  "price": 11.49,
+  "list": 12.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89359329",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA81811820"
  },
  "the-saem-cover-perfection-triple-pot-concealer-glow": {
   "price": 9.23,
@@ -8707,15 +9470,39 @@
  },
  "tirtir-mask-fit-ai-filter-cushion--spf30-pa---": {
   "price": 25,
-  "at": "Ulta",
-  "checked": "2026-09-25",
-  "url": "https://go.shopmy.us/p-89387848"
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89387848",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA52938847"
+ },
+ "tirtir-mask-fit-makeup-fixer": {
+  "price": 15,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-79293026",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA47558915"
  },
  "tirtir-mask-fit-red-cushion--spf40-pa---": {
   "price": 25,
-  "at": "Ulta",
+  "currency": "USD",
+  "at": "Olive Young",
   "checked": "2026-10-06",
-  "url": "https://go.shopmy.us/p-92036874"
+  "url": "https://go.shopmy.us/p-92036874",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA40448254"
+ },
+ "tirtir-mask-fit-red-cushion-foundation": {
+  "price": 25,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-89616236",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA40448254"
  },
  "tirtir-mini-waterism-glow-tint": {
   "price": 8,
@@ -8754,10 +9541,13 @@
   "url": "https://go.shopmy.us/p-83423520"
  },
  "tocobo-juicy-berry-plumping-lip-oil": {
-  "price": 9.8,
-  "at": "iHerb",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83426011"
+  "price": 14,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83426011",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA98995682"
  },
  "tocobo-vita-glazed-lip-mask": {
   "price": 20,
@@ -8836,10 +9626,14 @@
   "url": "https://beautyboxkorea.com/product/too-cool-for-school-artclass-byrodin-hair-shading-95g/49905/"
  },
  "too-cool-for-school-artclass-by-rodin-shading": {
-  "price": 16.95,
-  "at": "DODOSKIN",
-  "checked": "2026-10-03",
-  "url": "https://dodoskin.com/products/too-cool-for-school-artclass-by-rodin-shading-4-colors"
+  "price": 10.9,
+  "list": 13.71,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://dodoskin.com/products/too-cool-for-school-artclass-by-rodin-shading-4-colors",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA76366793"
  },
  "too-cool-for-school-artclass-frottage-pencil": {
   "price": 9.95,
@@ -8888,10 +9682,13 @@
   "via": "browser"
  },
  "torhop-saunan-heating-salt-mask": {
-  "price": 46.95,
-  "at": "DODOSKIN",
-  "checked": "2026-10-03",
-  "url": "https://dodoskin.com/products/torhop-saunan-heating-salt-mask-150g"
+  "price": 39.5,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://dodoskin.com/products/torhop-saunan-heating-salt-mask-150g",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA16964119"
  },
  "torriden-balanceful-cleansing-foam": {
   "price": 17,
@@ -8913,6 +9710,16 @@
   "checked": "2026-09-01",
   "url": "https://go.shopmy.us/p-83426458"
  },
+ "torriden-balanceful-toner-pad": {
+  "price": 22.99,
+  "list": 26,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83424657",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA33345481"
+ },
  "torriden-dive-in-cleansing-foam": {
   "price": 17,
   "at": "Sephora",
@@ -8927,23 +9734,54 @@
   "url": "https://www.amazon.com/dp/B0F2HG766P?tag=vettbeauty-20",
   "via": "browser"
  },
+ "torriden-dive-in-low-molecular-hyaluronic-acid-mask": {
+  "price": 28.49,
+  "list": 33,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83424943",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA45058326"
+ },
  "torriden-dive-in-mask": {
-  "price": 17.95,
-  "at": "DODOSKIN",
-  "checked": "2026-10-03",
-  "url": "https://dodoskin.com/products/torriden-dive-in-low-molecule-hyaluronic-acid-mask-sheet-10ea"
+  "price": 3.75,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://dodoskin.com/products/torriden-dive-in-low-molecule-hyaluronic-acid-mask-sheet-10ea",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA72661814"
  },
  "torriden-dive-in-serum": {
-  "price": 24,
-  "at": "Sephora",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83423471"
+  "price": 20.49,
+  "list": 24,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83423471",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA56625219"
  },
  "torriden-dive-in-soothing-cream": {
-  "price": 27,
-  "at": "Sephora",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83426565"
+  "price": 22.99,
+  "list": 27,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83426565",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA88631233"
+ },
+ "torriden-dive-in-toner": {
+  "price": 16.99,
+  "list": 23,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-84128314",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA56790305"
  },
  "torriden-solid-in-lip-essence": {
   "price": 8,
@@ -9066,10 +9904,14 @@
   "via": "browser"
  },
  "two-slash-four-sculpt-lip-shaper": {
-  "price": 25.95,
-  "at": "DODOSKIN",
-  "checked": "2026-10-03",
-  "url": "https://dodoskin.com/products/two-slash-four-sculpt-lip-shaper-0-36g-2-colors"
+  "price": 23.4,
+  "list": 26,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://dodoskin.com/products/two-slash-four-sculpt-lip-shaper-0-36g-2-colors",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA60874004"
  },
  "uiq-biome-barrier-cream-mist": {
   "price": 23,
@@ -9086,16 +9928,23 @@
   "url": "https://go.shopmy.us/p-90523954"
  },
  "unove-deep-damage-repair-hair-mask--tender-bloom-": {
-  "price": 22.95,
-  "at": "missa",
-  "checked": "2026-08-09",
-  "url": "https://go.shopmy.us/p-77625072"
+  "price": 36,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-77625072",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA29720880"
  },
  "unove-deep-damage-repair-shampoo-sweet-breeze": {
-  "price": 28,
-  "at": "Sephora",
-  "checked": "2026-09-01",
-  "url": "https://go.shopmy.us/p-83352078"
+  "price": 20.9,
+  "list": 22,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-83352078",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA16804678"
  },
  "unove-deep-damage-treatment-ex": {
   "price": 36,
@@ -9374,10 +10223,13 @@
   "url": "https://beautyboxkorea.com/product/wakemake-glow-contouring-highlighter-palette-78g/65343/"
  },
  "wakemake-healthy-glow-balm-stick": {
-  "price": 13.29,
-  "at": "YesStyle",
-  "checked": "2026-09-28",
-  "url": "https://www.yesstyle.com/en/wakemake-healthy-glow-balm-stick-15-colors-01-peach-shower/info.html/pid.1137322917"
+  "price": 19.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://www.yesstyle.com/en/wakemake-healthy-glow-balm-stick-15-colors-01-peach-shower/info.html/pid.1137322917",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA35904947"
  },
  "wakemake-real-ash-brush-eyeliner": {
   "price": 36,
@@ -9634,15 +10486,22 @@
   "url": "https://go.shopmy.us/p-90766690"
  },
  "zeroid-intensive-cream": {
-  "price": 26.88,
-  "at": "iHerb",
-  "checked": "2026-10-02",
-  "url": "https://go.shopmy.us/p-91096856"
+  "price": 28.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-91096856",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA57182821"
  },
  "zeroid-soothing-lotion": {
-  "price": 28.22,
-  "at": "iHerb",
-  "checked": "2026-09-30",
-  "url": "https://go.shopmy.us/p-90524713"
+  "price": 22.99,
+  "list": 28.99,
+  "currency": "USD",
+  "at": "Olive Young",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-90524713",
+  "via": "olive-young-search",
+  "oy": "https://us.oliveyoung.com/products/UA56433035"
  }
 }
