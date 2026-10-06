@@ -60318,7 +60318,7 @@
     "brand": "TIRTIR",
     "name": "Mask Fit Red Cushion [SPF40/PA++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/tirtir-mask-fit-red-cushion--spf40-pa---.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -60330,7 +60330,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://use-image.oliveyoung.com/images/prd/8809928134840/thumbnail/97c05cc4-4807-4aee-b454-9296ca4f14b0.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2704",
@@ -60380,7 +60382,7 @@
     "brand": "ETUDE",
     "name": "All Day Glass Fit BB Cream [SPF36/PA+++]",
     "price": null,
-    "image": "",
+    "image": "/cutouts/etude-all-day-glass-fit-bb-cream--spf36-pa----.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -60392,7 +60394,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://images-kr.amoremall.com/products/110090000540/110090000540_03.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2707",
@@ -60635,7 +60639,7 @@
     "brand": "Torhop",
     "name": "Kaamos Black Salt Foaming Cleanser",
     "price": null,
-    "image": "",
+    "image": "/cutouts/torhop-kaamos-black-salt-foaming-cleanser.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -60647,7 +60651,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://torhop.com/web/product/big/202606/3876906f4abda1a49d976756e869959f.png",
+    "imageCutout": true
   },
   {
     "id": "prod-2719",
@@ -60655,7 +60661,7 @@
     "brand": "BBIA",
     "name": "EAU Powder Pact",
     "price": null,
-    "image": "",
+    "image": "/cutouts/bbia-eau-powder-pact.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -60667,7 +60673,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://cdn-pro-web-250-115.cdn-nhncommerce.com/sky007com_godomall_com/data/goods/25/05/21/1000000184/1000000184_main_052.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2720",
@@ -60927,7 +60935,7 @@
     "brand": "AMUSE",
     "name": "Care & Tint Balm Keyring",
     "price": null,
-    "image": "",
+    "image": "/cutouts/amuse-care---tint-balm-keyring.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Makeup",
@@ -60939,7 +60947,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://use-image.oliveyoung.com/images/prd/GA241227518/thumbnail/0fc1cb94-0cd9-495c-b09a-f2704e37fc64.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2732",
@@ -61245,7 +61255,7 @@
     "brand": "MEDIHEAL",
     "name": "Rose PDRN Essential Mask Healthy Glow",
     "price": null,
-    "image": "",
+    "image": "/cutouts/mediheal-rose-pdrn-essential-mask-healthy-glow.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Skincare",
@@ -61257,7 +61267,9 @@
     "buyLink": "",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://medihealshop.com/web/product/big/202509/3b9ff3b87cd1ad3c6b81a365272e380c.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2747",
@@ -61413,7 +61425,7 @@
     "brand": "medicube",
     "name": "AGE-R Booster Pro",
     "price": null,
-    "image": "",
+    "image": "/cutouts/medicube-age-r-booster-pro-2.webp",
     "topAward": "Glowpick Awards (2025)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -61421,11 +61433,13 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "none",
-    "buyLink": "",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-91829587",
     "awardsWon": [
       "Glowpick Awards (2025)"
-    ]
+    ],
+    "imageOriginal": "https://use-image.oliveyoung.com/images/prd/temp-107c0714-4dcb-46d2-bd18-e30b6fd05549/thumbnail/80ac96ee-6771-4e2b-9138-893b62b41b8a.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-2755",
@@ -78118,46 +78132,6 @@
   },
   {
     "id": "prod-3508",
-    "slug": "aesop-lucent-facial-refiner",
-    "brand": "Aesop",
-    "name": "Lucent Facial Refiner",
-    "price": null,
-    "image": "",
-    "topAward": "ELLE International Beauty Awards — Best Exfoliator & Mask (2026)",
-    "awardCount": 1,
-    "category": "Skincare",
-    "subcategory": "",
-    "year": 2026,
-    "region": "International",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://www.aesop.com/skin-care/exfoliants-masks/lucent-facial-refiner/SK75.html",
-    "awardsWon": [
-      "ELLE International Beauty Awards — Best Exfoliator & Mask (2026)"
-    ]
-  },
-  {
-    "id": "prod-3509",
-    "slug": "biotherm-collagen-fit-intensive-hydra-body-cream",
-    "brand": "Biotherm",
-    "name": "Collagen Fit Intensive Hydra Body Cream",
-    "price": null,
-    "image": "",
-    "topAward": "ELLE International Beauty Awards — Best Body Moisturiser (2026)",
-    "awardCount": 1,
-    "category": "Body",
-    "subcategory": "",
-    "year": 2026,
-    "region": "International",
-    "hasPhoto": false,
-    "linkType": "exact",
-    "buyLink": "https://int.biotherm.com/en_GB/body-sun/by-body-care-concern/firmness/collagen-fit-intensive-hydra-body-cream/BIO02908.html",
-    "awardsWon": [
-      "ELLE International Beauty Awards — Best Body Moisturiser (2026)"
-    ]
-  },
-  {
-    "id": "prod-3510",
     "slug": "charlotte-tilbury-airbrush-flawless-finish-setting-spray",
     "brand": "Charlotte Tilbury",
     "name": "Airbrush Flawless Finish Setting Spray",
@@ -78179,7 +78153,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3511",
+    "id": "prod-3509",
     "slug": "sisley-sisle-a-l-int-gral-anti--ge-longevity-essential-serum",
     "brand": "Sisley",
     "name": "Sisleÿa L'Intégral Anti-Âge Longevity Essential Serum",
@@ -78201,7 +78175,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3512",
+    "id": "prod-3510",
     "slug": "aveda-miraculous-oil",
     "brand": "Aveda",
     "name": "Miraculous Oil",
@@ -78223,7 +78197,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3513",
+    "id": "prod-3511",
     "slug": "opi-nature-strong-vegan-nail-lacquer",
     "brand": "OPI",
     "name": "Nature Strong Vegan Nail Lacquer",
@@ -78243,7 +78217,7 @@
     ]
   },
   {
-    "id": "prod-3514",
+    "id": "prod-3512",
     "slug": "melvita-nectarcalm-soothing-moisturizing-fluid",
     "brand": "Melvita",
     "name": "NectarCalm Soothing Moisturizing Fluid",
@@ -78263,7 +78237,7 @@
     ]
   },
   {
-    "id": "prod-3515",
+    "id": "prod-3513",
     "slug": "rms-beauty-revitalize-hydra-concealer",
     "brand": "RMS Beauty",
     "name": "Revitalize Hydra Concealer",
@@ -78283,7 +78257,7 @@
     ]
   },
   {
-    "id": "prod-3516",
+    "id": "prod-3514",
     "slug": "rahua-scalp---skin-toner",
     "brand": "Rahua",
     "name": "Scalp & Skin Toner",
@@ -78305,7 +78279,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3517",
+    "id": "prod-3515",
     "slug": "bioderma-sensibio-h2o-2",
     "brand": "Bioderma",
     "name": "Sensibio H2O",
@@ -78325,7 +78299,7 @@
     ]
   },
   {
-    "id": "prod-3518",
+    "id": "prod-3516",
     "slug": "shiseido-expert-sun-protector-clear-stick-spf-50-",
     "brand": "Shiseido",
     "name": "Expert Sun Protector Clear Stick SPF 50+",
@@ -78347,7 +78321,7 @@
     "imageCutout": true
   },
   {
-    "id": "prod-3519",
+    "id": "prod-3517",
     "slug": "lanc-me-absolue-soft-body-balm",
     "brand": "Lancôme",
     "name": "Absolue Soft Body Balm",
@@ -78366,6 +78340,50 @@
       "ELLE International Beauty Awards — Best Body Firming (2026)"
     ],
     "imageOriginal": "https://media.ulta.com/i/ulta/2621075?w=1200&h=1200&fmt=jpg&bg=rgb(255,255,255)",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-3518",
+    "slug": "biotherm-collagen-fit-intensive-hydra-body-cream",
+    "brand": "Biotherm",
+    "name": "Collagen Fit Intensive Hydra Body Cream",
+    "price": null,
+    "image": "/cutouts/biotherm-collagen-fit-intensive-hydra-body-cream.webp",
+    "topAward": "ELLE International Beauty Awards — Best Body Moisturiser (2026)",
+    "awardCount": 1,
+    "category": "Body",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://int.biotherm.com/en_GB/body-sun/by-body-care-concern/firmness/collagen-fit-intensive-hydra-body-cream/BIO02908.html",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Body Moisturiser (2026)"
+    ],
+    "imageOriginal": "https://int.biotherm.com/dw/image/v2/BDCR_PRD/on/demandware.static/-/Sites-biotherm-master-flaghsip-catalog/default/dwb0750afe/images/body-care/collagen-fit/BIO02908/bio_skbc_collagen_fit_body_cream_200ml_25_3614274472592_packshot.jpg",
+    "imageCutout": true
+  },
+  {
+    "id": "prod-3519",
+    "slug": "aesop-lucent-facial-refiner",
+    "brand": "Aesop",
+    "name": "Lucent Facial Refiner",
+    "price": null,
+    "image": "/cutouts/aesop-lucent-facial-refiner.webp",
+    "topAward": "ELLE International Beauty Awards — Best Exfoliator & Mask (2026)",
+    "awardCount": 1,
+    "category": "Skincare",
+    "subcategory": "",
+    "year": 2026,
+    "region": "International",
+    "hasPhoto": true,
+    "linkType": "exact",
+    "buyLink": "https://www.aesop.com/skin-care/exfoliants-masks/lucent-facial-refiner/SK75.html",
+    "awardsWon": [
+      "ELLE International Beauty Awards — Best Exfoliator & Mask (2026)"
+    ],
+    "imageOriginal": "https://n.nordstrommedia.com/it/3b73166d-a450-4dfc-a6a1-d16c1be38a19.jpeg",
     "imageCutout": true
   },
   {
