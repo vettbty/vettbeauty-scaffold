@@ -80700,27 +80700,5 @@
     ],
     "imageOriginal": "https://cdn.sanity.io/images/0vv8moc6/newbeauty/a50730ed08776ff52f80c7a0d2aa721416ccd3af-952x1100.jpg?w=900&fit=max&auto=format",
     "imageCutout": true
-  },
-  {
-    "id": "prod-3628",
-    "slug": "the-outset-lip-oasis-glossy-treatment",
-    "brand": "The Outset",
-    "name": "Lip Oasis Glossy Treatment",
-    "price": 28,
-    "image": "/levelled/the-outset-lip-oasis-glossy-treatment.webp",
-    "topAward": "InStyle Best Beauty Buys — Best Lip Gloss (2025)",
-    "awardCount": 1,
-    "category": "Makeup",
-    "subcategory": "Lip Gloss",
-    "year": 2026,
-    "region": "US",
-    "hasPhoto": true,
-    "linkType": "exact",
-    "buyLink": "https://go.shopmy.us/p-81017322",
-    "awardsWon": [
-      "InStyle Best Beauty Buys — Best Lip Gloss (2025)"
-    ],
-    "imageOriginal": "https://theoutset.com/cdn/shop/files/LipOasis_PDP_v31.jpg?v=1735920639",
-    "imageLevelled": true
   }
 ]
