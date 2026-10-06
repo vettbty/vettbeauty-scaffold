@@ -751,6 +751,21 @@
    "permanent": true
   },
   {
+   "source": "/product/fenty-hair-the-controlling-type-hair-thickening-edge-control",
+   "destination": "/product/fenty-hair-the-controlling-type-edge-control-gel",
+   "permanent": true
+  },
+  {
+   "source": "/product/dr--diamond-s-metacine-instafacial-infusion-biomimetic-microcollagen-matrix",
+   "destination": "/product/dr--diamond-s-metacine-instafacial-infusion-biomimetic-collagen-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/beauty-of-joseon-revive-under-eye-patch--ginseng---retinal",
+   "destination": "/product/beauty-of-joseon-revive-under-eye-patch",
+   "permanent": true
+  },
+  {
    "source": "/p/:slug",
    "destination": "/product/:slug",
    "permanent": false
