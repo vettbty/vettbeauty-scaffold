@@ -281,6 +281,25 @@
   "source": "https://beautyofjoseon.com/products/ginseng-cleansing-oil",
   "written": "2026-10-02"
  },
+ "beauty-of-joseon-glow-replenishing-rice-milk": {
+  "text": "A two-layer toner that moisturises intensely while balancing oil, so skin looks glowy rather than greasy.",
+  "star": [
+   {
+    "name": "Rice extract",
+    "does": "Brightens and softens"
+   },
+   {
+    "name": "Kaolin",
+    "does": "Balances sebum"
+   },
+   {
+    "name": "Panthenol",
+    "does": "Hydrates"
+   }
+  ],
+  "source": "https://beautyofjoseon.com/products/glow-replenishing-rice-milk",
+  "written": "2026-10-06"
+ },
  "beauty-of-joseon-revive-under-eye-patch": {
   "text": "Wing-shaped hydrogel patches based on the brand's best-selling Revive Eye Serum. They hug the under-eye area to refresh it and improve the look of wrinkles, puffiness and dark circles.",
   "star": [
@@ -304,6 +323,21 @@
   "text": "A weightless, brightening eye primer that evens out redness, veins and discolouration on the lid and makes powder shadows look truer and last longer.",
   "star": [],
   "source": "https://beautypie.com/products/flawless-eyeshadow-primer",
+  "written": "2026-10-06"
+ },
+ "beauty-pie-super-healthy-skin--deluxe-body-moisture-cr-me": {
+  "text": "A deluxe body moisturiser made in France that suspends micro-droplets of oil in water for superlight but intense nourishment, scented with orange and tangerine essential oils.",
+  "star": [
+   {
+    "name": "Hibiscus flower and meadowfoam oils",
+    "does": "Nourish skin"
+   },
+   {
+    "name": "Liquid shea butter",
+    "does": "Lightweight moisture"
+   }
+  ],
+  "source": "https://beautypie.com/products/super-healthy-skin-deluxe-body-creme",
   "written": "2026-10-06"
  },
  "beautyblender-original-makeup-sponge": {
@@ -884,6 +918,12 @@
   "source": "https://chantecaille.com/products/blanc-peony-overnight-mask-dark-spot-corrector",
   "written": "2026-10-06"
  },
+ "chantecaille-luminescent-eye-shade": {
+  "text": "A pearlescent, light-catching eyeshadow that washes the lid in multi-dimensional shimmer. This collection supports Lion Guardians' work protecting lions in Kenya.",
+  "star": [],
+  "source": "https://chantecaille.com/products/luminescent-eye-shade-lion-collection",
+  "written": "2026-10-06"
+ },
  "chris-mcmillan-the-dry-texture-and-volume-spray": {
   "text": "A dry texture spray that adds buildable volume and texture after a blowout and absorbs oil to refresh styles on second and third days.",
   "star": [
@@ -893,6 +933,21 @@
    }
   ],
   "source": "https://chrismcmillan.com/products/the-dry-texture-spray",
+  "written": "2026-10-06"
+ },
+ "chris-mcmillan-the-glassy-smooth-blowdry-spray": {
+  "text": "A heat-protecting prep spray that cuts drying time, blocks humidity and makes blowouts last.",
+  "star": [
+   {
+    "name": "Polysilicone-29",
+    "does": "Seals against humidity"
+   },
+   {
+    "name": "Sodium hyaluronate",
+    "does": "Adds moisture"
+   }
+  ],
+  "source": "https://chrismcmillan.com/products/the-glass-smooth-blowdry-spray",
   "written": "2026-10-06"
  },
  "chris-mcmillan-the-mousse": {
@@ -1824,6 +1879,17 @@
   "source": "https://eltamd.com/products/eltamd-uv-clear-blemish-prone-oil-balancing-spf-50",
   "written": "2026-10-06"
  },
+ "emi-jay-angel-hold-hair-styling-cream": {
+  "text": "A velvety styling cream that smooths frizz and holds any style with a flexible, touchable hold, keeping hair sleek and soft all day.",
+  "star": [
+   {
+    "name": "Panthenol",
+    "does": "Conditions"
+   }
+  ],
+  "source": "https://emijay.com/products/angel-hold-styling-cream",
+  "written": "2026-10-06"
+ },
  "emi-jay-angelstick": {
   "text": "A hair styling stick that glides over strands to smooth flyaways and give a sleek finish.",
   "star": [
@@ -2244,6 +2310,25 @@
   "source": "https://gisou.com/products/honey-glaze-collagen-therapy-lip-mask",
   "written": "2026-10-01"
  },
+ "gisou-honey-gloss-ceramide-therapy-hydrating-hair-mask": {
+  "text": "A rich but lightweight hair mask, scientifically proven to restore healthier-looking hair. It smooths, softens, boosts shine and locks in moisture.",
+  "star": [
+   {
+    "name": "Mirsalehi honey",
+    "does": "Gisou's signature hydrating honey"
+   },
+   {
+    "name": "Ceramides",
+    "does": "Strengthen strands"
+   },
+   {
+    "name": "Hyaluronic acid",
+    "does": "Hydrates"
+   }
+  ],
+  "source": "https://gisou.com/products/honey-gloss-ceramide-therapy-hair-mask",
+  "written": "2026-10-06"
+ },
  "gisou-honey-infused-hair-oil": {
   "text": "Gisou's best-known product: a hair oil clinically proven to give intense hydration, instant shine, heat protection and lasting frizz control.",
   "star": [
@@ -2625,6 +2710,25 @@
   "source": "https://hereticparfum.com/products/black-salt",
   "written": "2026-10-02"
  },
+ "highbrow-hippie-instant-silk-vitality-mask": {
+  "text": "A lightweight hair mask that restores strength, softness and shine in one use.",
+  "star": [
+   {
+    "name": "Rice bran and camellia oils",
+    "does": "Soften and add shine"
+   },
+   {
+    "name": "Hydrolyzed wheat protein",
+    "does": "Strengthens"
+   },
+   {
+    "name": "Bamboo leaf ferment",
+    "does": "Revitalises"
+   }
+  ],
+  "source": "https://highbrowhippie.com/products/instant-silk-vitality-mask",
+  "written": "2026-10-06"
+ },
  "highbrow-hippie-root-replenish-active-growth-serum": {
   "text": "A lightweight, oil-free leave-in scalp serum with clinically validated actives for thicker, fuller-looking hair in as little as 90 days. Oprah Daily's Best Growth Serum.",
   "star": [
@@ -2707,6 +2811,12 @@
   "source": "https://www.hourglasscosmetics.com/products/curator-eyeshadow-palette",
   "written": "2026-10-06"
  },
+ "hourglass-phantom-blur-balm": {
+  "text": "A silky, gel-based lip balm with featherlight, blurred colour that smooths lines and keeps lips soft and nourished for up to 12 hours.",
+  "star": [],
+  "source": "https://www.hourglasscosmetics.com/products/phantom-blur-balm",
+  "written": "2026-10-06"
+ },
  "hourglass-vanish-seamless-finish-concealer-brush": {
   "text": "A half-moon-shaped concealer brush with dense bristles for precise application and seamless blending, especially under the eyes. Made for liquid and cream formulas, including Hourglass Vanish Airbrush Concealer.",
   "star": [],
@@ -2754,6 +2864,12 @@
   ],
   "source": "https://hydrinity.com/products/retaxome-daily-retinal-hydrator",
   "written": "2026-10-02"
+ },
+ "ilia-beauty-blending-brush": {
+  "text": "A versatile tapered brush with silky, cruelty-free bristles for blending eyeshadow, highlighting cheekbones and cupid's bow, or placing concealer in hard-to-reach areas.",
+  "star": [],
+  "source": "https://iliabeauty.com/products/blending-brush",
+  "written": "2026-10-06"
  },
  "ilia-beauty-skin-rewind-complexion-stick": {
   "text": "A weightless complexion stick with buildable medium coverage that blurs pores, redness and texture with a natural matte finish for up to 12 hours. Over time its skincare ingredients help firm and smooth the look of lines.",
@@ -3083,6 +3199,25 @@
   "source": "https://juviasplace.com/products/i-am-magic-loose-setting-powder-copy",
   "written": "2026-10-06"
  },
+ "k18-hair-futureiq-biomimetic-hair-longevity-serum": {
+  "text": "A lightweight scalp serum that targets premature hair ageing; K18 reports less shedding, fewer greys and a stronger scalp barrier in clinical testing.",
+  "star": [
+   {
+    "name": "MultiVital technology",
+    "does": "K18's patent-pending multi-pathway complex for hair longevity"
+   },
+   {
+    "name": "Niacinamide",
+    "does": "Supports the scalp barrier"
+   },
+   {
+    "name": "Zinc and peptides",
+    "does": "Support healthier-looking growth"
+   }
+  ],
+  "source": "https://www.k18hair.com/products/futureiq-biomimetic-hair-longevity-serum-3oz",
+  "written": "2026-10-06"
+ },
  "kaine-kombu-balancing-ampoule-toner": {
   "text": "An ampoule-toner that hydrates at several depths, strengthens the skin barrier and suits the skin's natural pH, leaving a balanced, radiant complexion.",
   "star": [
@@ -3257,6 +3392,12 @@
   "source": "https://lauramercier.com/products/translucent-loose-setting-powder",
   "written": "2026-10-01"
  },
+ "laura-mercier-translucent-loose-talc-free-setting-powder-ultra-blur": {
+  "text": "The cult Translucent Loose Setting Powder in a talc-free, ultra-blurring version that instantly softens the look of pores, fine lines and imperfections and extends makeup wear to 16 hours.",
+  "star": [],
+  "source": "https://lauramercier.com/products/translucent-loose-setting-powder-ultra-blur",
+  "written": "2026-10-06"
+ },
  "le-prunier-plum-beauty-oil": {
   "text": "A multi-use oil for face, hands, hair and body, made from sustainably sourced plum varietals, that brightens, balances and restores skin while locking in moisture for a soft glow.",
   "star": [
@@ -3289,6 +3430,17 @@
   "source": "https://lisaeldridge.com/products/kitten-flick-liquid-eyeliner",
   "written": "2026-10-02"
  },
+ "lisa-eldridge-seamless-skin-enhancing-tint": {
+  "text": "A silky, lightweight skin tint with soft-focus pigments that even tone, lift shadows, reduce redness and boost luminosity. It's crease-proof, blends easily, and soothes and hydrates.",
+  "star": [
+   {
+    "name": "Prickly pear seed oil",
+    "does": "Nourishes"
+   }
+  ],
+  "source": "https://lisaeldridge.com/products/seamless-skin-enhancing-tint-t1-5",
+  "written": "2026-10-06"
+ },
  "living-proof-full-dry-volume---texture-spray": {
   "text": "A finishing spray that gives instant, long-lasting volume, texture and soft hold for a lived-in look.",
   "star": [],
@@ -3304,6 +3456,17 @@
    }
   ],
   "source": "https://www.livingproof.com/products/full-wash-duo",
+  "written": "2026-10-06"
+ },
+ "living-proof-living-proof-moisture-rescue-hair-barrier-mask": {
+  "text": "A nourishing in-shower mask that replenishes the hair's moisture barrier for silky, smooth, resilient hair that lasts through several washes.",
+  "star": [
+   {
+    "name": "Shea butter and jojoba esters",
+    "does": "Replenish moisture"
+   }
+  ],
+  "source": "https://www.livingproof.com/products/moisture-rescue-mask",
   "written": "2026-10-06"
  },
  "living-proof-perfect-day-heat-styling-spray": {
@@ -3521,6 +3684,12 @@
   "text": "A 24-hour liquid contour for eyes and face, with buildable, blendable colour and a natural cloud-matte finish in a comfortable, lightweight formula.",
   "star": [],
   "source": "https://www.maccosmetics.com/products/multisculpt-matte-liquid-colour",
+  "written": "2026-10-06"
+ },
+ "mac-skinfinish-sunstruck-bronzer": {
+  "text": "A buildable bronzing powder in 15 shades and two finishes: a dimensional radiant finish for warmth and glow, and a soft-matte one for warmth and depth.",
+  "star": [],
+  "source": "https://www.maccosmetics.com/products/skinfinish-sunstruck-bronzer",
   "written": "2026-10-06"
  },
  "made-by-mitchell-curve-case-cream-makeup-palette": {
@@ -4055,6 +4224,17 @@
   "source": "https://us.medik8.com/products/crystal-retinal-ceramide-eye",
   "written": "2026-10-06"
  },
+ "medik8-exo-pdrn-prismatic-": {
+  "text": "A serum inspired by polynucleotide treatments that supports the skin's own rejuvenation for visibly healthier skin.",
+  "star": [
+   {
+    "name": "PDRN and exosome technology",
+    "does": "Supports skin renewal"
+   }
+  ],
+  "source": "https://us.medik8.com/products/exo-pdrn-serum",
+  "written": "2026-10-06"
+ },
  "michael-todd-beauty-soniclear": {
   "text": "A patented sonic cleansing brush for all skin types and tones that gently lifts away pore-clogging impurities and dead skin, leaving skin cleaner, softer and smoother.",
   "star": [],
@@ -4503,6 +4683,12 @@
   "source": "https://odelebeauty.com/products/moisture-mask",
   "written": "2026-10-06"
  },
+ "olaplex--7-shine-serum-oil-mist": {
+  "text": "A two-in-one oil and serum mist that replenishes hair with weightless oils and hydration for instant shine and less dryness at the ends.",
+  "star": [],
+  "source": "https://olaplex.com/products/olaplex-7-shine-serum-oil-mist-80ml",
+  "written": "2026-10-06"
+ },
  "olaplex-browbond-building-serum": {
   "text": "A brow serum that makes brows look fuller, denser and more defined in as little as four weeks, with a soft, all-day hold that shapes as it treats.",
   "star": [
@@ -4668,6 +4854,25 @@
   "text": "An at-home builder gel system for strong, longer nails without salon appointments or damage, at about $2 a manicure. LED lamp not included.",
   "star": [],
   "source": "https://oliveandjune.com/products/gel-builder-kit",
+  "written": "2026-10-06"
+ },
+ "omorovicza-acid-milk": {
+  "text": "A milky leave-on toner with four exfoliating acids that resurfaces, brightens and refines; it's clinically shown to boost radiance by 71% after one use, balanced with soothing ceramides.",
+  "star": [
+   {
+    "name": "Four-acid blend (glycolic, lactic, azelaic and more)",
+    "does": "Gently resurfaces"
+   },
+   {
+    "name": "Healing Concentrate",
+    "does": "Omorovicza's patented mineral complex from Hungarian thermal water"
+   },
+   {
+    "name": "Ceramides",
+    "does": "Keep skin calm"
+   }
+  ],
+  "source": "https://omorovicza.com/products/acid-milk",
   "written": "2026-10-06"
  },
  "omorovicza-thermal-cleansing-balm": {
@@ -4928,6 +5133,12 @@
   "source": "https://patternbeauty.com/products/heavy-conditioner",
   "written": "2026-10-06"
  },
+ "paul-mitchell-texture-3-in-1-interchangeable-curling-iron---hot-comb": {
+  "text": "One base with three interchangeable attachments for textured hair: a hot comb that quickly smooths and tames flyaways, and two curling barrels for tight spirals or classic curls.",
+  "star": [],
+  "source": "https://paulmitchell.com/products/texture-3-in-1-interchangeable-curling-iron-and-hot-comb",
+  "written": "2026-10-06"
+ },
  "pca-skin-mgf-age-renewal-cream": {
   "text": "An anti-ageing cream that uses PCA Skin's micro growth factor technology to support collagen and elastin and restore the skin's natural ability to stay hydrated.",
   "star": [
@@ -5056,6 +5267,25 @@
   "source": "https://platedskinscience.com/products/eye-serum",
   "written": "2026-10-01"
  },
+ "prequel-redness-reform-soothing-serum": {
+  "text": "A soothing serum that visibly reduces redness and calms and comforts skin; 97% of testers said their skin felt soothed after one use.",
+  "star": [
+   {
+    "name": "Oat extract and beta-glucan",
+    "does": "Calm and comfort"
+   },
+   {
+    "name": "Vitamin F (linoleic acid)",
+    "does": "Supports the barrier"
+   },
+   {
+    "name": "Arnica",
+    "does": "Soothes"
+   }
+  ],
+  "source": "https://prequelskin.com/products/redness-reform-soothing-serum",
+  "written": "2026-10-06"
+ },
  "prequel-redness-reform-sulfur-cleanser": {
   "text": "A plush foaming cleanser that visibly reduces redness and soothes sensitive, reactive skin while keeping the barrier healthy, for a calmer, clearer, more even complexion. It can also be left on briefly as a flash mask.",
   "star": [
@@ -5133,6 +5363,25 @@
   "star": [],
   "source": "https://rembeauty.com/products/sweet-dreams-eyeshadow-quad",
   "written": "2026-10-02"
+ },
+ "rahua-scalp---skin-toner": {
+  "text": "A refreshing mist for scalp and skin that restores balance and hydrates, calms irritation and reduces excess oil.",
+  "star": [
+   {
+    "name": "Aloe vera",
+    "does": "Deeply hydrates"
+   },
+   {
+    "name": "Witch hazel",
+    "does": "Calms and reduces oil"
+   },
+   {
+    "name": "Guayusa",
+    "does": "Antioxidant protection"
+   }
+  ],
+  "source": "https://rahua.com/products/scalp-skin-toner",
+  "written": "2026-10-06"
  },
  "ranavat-brightening-mineral-face-sunscreen": {
   "text": "A daily mineral SPF 50+ that wears like skincare and sits like a primer, with a luminous finish and no white cast. It's clinically tested to help reduce dark spots and fine lines, and also protects against blue light. Fragrance-free and safe in pregnancy.",
@@ -5401,6 +5650,25 @@
   "source": "https://rizoscurls.com/products/heat-protection-multivitamin-leave-in",
   "written": "2026-10-06"
  },
+ "rms-beauty-revitalize-hydra-concealer": {
+  "text": "A clean liquid concealer with medium coverage and a satin, skin-like finish that won't crease. It cares for the eye area like an eye cream, leaving it brighter and smoother.",
+  "star": [
+   {
+    "name": "Tightenyl",
+    "does": "A gentle retinol alternative that firms"
+   },
+   {
+    "name": "Eyebright and Revital-Eyes complex",
+    "does": "Revitalise the eye area"
+   },
+   {
+    "name": "Vegetable squalene",
+    "does": "Moisturises"
+   }
+  ],
+  "source": "https://rmsbeauty.com/products/revitalize-hydra-concealer",
+  "written": "2026-10-06"
+ },
  "rose-and-ben-beauty-c41-blush-brush": {
   "text": "An asymmetrical, angled cheek brush that follows the face's natural contours for easy blush, bronzer or highlighter. It works with pressed, loose, mineral and cream formulas and diffuses colour evenly.",
   "star": [],
@@ -5537,6 +5805,12 @@
    }
   ],
   "source": "https://sachajuan.com/products/clarifying-scalp-scrub-220ml",
+  "written": "2026-10-06"
+ },
+ "sacheu-doubledown-lip-definer": {
+  "text": "A 2-in-1 lip liner and balm that lines and fills in one swipe for a polished, fuller-looking lip, worn alone or under a lip stain.",
+  "star": [],
+  "source": "https://sacheu.com/products/doubledown",
   "written": "2026-10-06"
  },
  "sacheu-eyeshadow-stay-n": {
@@ -6394,6 +6668,12 @@
   "source": "https://www.tomfordbeauty.com/products/figue-erotique-eau-de-parfum",
   "written": "2026-10-06"
  },
+ "tom-ford-soleil-tinted-lip-glow": {
+  "text": "A gloss-meets-stain inspired by golden hour. It cushions lips with instant moisture and shine, then the gloss softens to leave a kiss of tint.",
+  "star": [],
+  "source": "https://www.tomfordbeauty.com/products/soleil-tinted-lip-glow",
+  "written": "2026-10-06"
+ },
  "topical-skin-phyto-aox-facial-oil-n-10": {
   "text": "A lightweight oil-serum that gives skin a radiant glow while softening multiple signs of ageing. Broad-spectrum antioxidants and omega-rich oils reinforce the moisture barrier and help defend against everyday environmental stress.",
   "star": [
@@ -6408,6 +6688,17 @@
   ],
   "source": "https://topicalskin.com/products/phytoaoxfacialoilno10",
   "written": "2026-10-02"
+ },
+ "tower-28-beauty-sos-rescue-spray": {
+  "text": "A dermatologist-approved hypochlorous acid face spray that calms visible irritation, reduces redness and helps keep flare-ups in check, one spritz at a time.",
+  "star": [
+   {
+    "name": "Hypochlorous acid",
+    "does": "Calms irritation and redness"
+   }
+  ],
+  "source": "https://tower28beauty.com/products/sos-daily-facial-rescue-spray",
+  "written": "2026-10-06"
  },
  "tph-by-taraji-never-salty": {
   "text": "A sugar scalp scrub that unclogs and cleanses for a fresh, clean-feeling scalp. It turns into a balm as you massage it in, rinses out easily, and comes in a low-mess tube.",

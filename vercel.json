@@ -766,6 +766,11 @@
    "permanent": true
   },
   {
+   "source": "/product/haus-labs-by-lady-gaga-triclone-skin-tech-medium-coverage-foundation",
+   "destination": "/product/haus-labs-triclone-skin-tech-foundation",
+   "permanent": true
+  },
+  {
    "source": "/p/:slug",
    "destination": "/product/:slug",
    "permanent": false
