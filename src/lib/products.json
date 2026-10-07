@@ -40404,8 +40404,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "none",
-    "buyLink": "",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-92273286",
     "awardsWon": [
       "Glowpick Awards (2025)",
       "Glowpick Awards (2026)"
@@ -47823,8 +47823,8 @@
     "year": 2026,
     "region": "US",
     "hasPhoto": true,
-    "linkType": "none",
-    "buyLink": "",
+    "linkType": "exact",
+    "buyLink": "https://go.shopmy.us/p-92273375",
     "awardsWon": [
       "Glowpick Awards (2025)"
     ],
