@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07",
+ "generated": "2026-10-09",
  "items": [
   {
    "brand": "BeautyStat",
@@ -63,6 +63,28 @@
    ]
   },
   {
+   "brand": "Shiseido",
+   "product": "Ultimune Power Infusing Serum",
+   "retailer": "Amazon",
+   "was": 210,
+   "now": 80,
+   "percentOff": 62,
+   "url": "https://go.shopmy.us/p-76855040",
+   "size": "1 oz",
+   "slug": "shiseido-ultimune-power-infusing-serum",
+   "image": "/cutouts/shiseido-ultimune-power-infusing-serum.webp",
+   "imageCutout": true,
+   "topAward": "Harper's Bazaar Skincare Awards — Best Masks and Treatments (2026)",
+   "category": "Skincare",
+   "subcategory": "Serum",
+   "awardCount": 3,
+   "awardsWon": [
+    "Harper's Bazaar Skincare Awards — Best Masks and Treatments (2026)",
+    "Vogue UK Beauty Awards — Vogue's Future Of Beauty Innovator: Skincare — Winner (2025)",
+    "Elle Future of Beauty Awards — 2025 Future of Beauty Award — Skin (2025)"
+   ]
+  },
+  {
    "brand": "It's A 10 Haircare",
    "product": "Clear Miracle Leave-In",
    "retailer": "Ulta",
@@ -104,43 +126,23 @@
    ]
   },
   {
-   "brand": "Goodal",
-   "product": "Green Tangerine Niacinamide 10% Serum",
+   "brand": "Silver Mirror",
+   "product": "Signature Facial Mask",
    "retailer": "Amazon",
-   "was": 32,
-   "now": 13.9,
+   "was": 69,
+   "now": 29.67,
    "percentOff": 57,
-   "url": "https://www.amazon.com/dp/B0F3CF8FL5",
-   "size": null,
-   "slug": "goodal-green-tangerine-niacinamide-10--serum",
-   "image": "/cutouts/goodal-green-tangerine-niacinamide-10--serum.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Niacinamide Serum (2026)",
+   "url": "https://www.amazon.com/dp/B0DT9Z7CGT",
+   "size": "1.7 fl oz",
+   "slug": "silver-mirror-signature-facial-mask",
+   "image": "/levelled/silver-mirror-signature-facial-mask.webp",
+   "imageCutout": false,
+   "topAward": "InStyle Best Beauty Buys — Best Exfoliating Mask (2025)",
    "category": "Skincare",
-   "subcategory": "Serum",
+   "subcategory": "Mask",
    "awardCount": 1,
    "awardsWon": [
-    "NewBeauty Annual Awards — Best Niacinamide Serum (2026)"
-   ]
-  },
-  {
-   "brand": "BOLDIFY",
-   "product": "Hairline Powder",
-   "retailer": "Amazon",
-   "was": 30,
-   "now": 12.75,
-   "percentOff": 57,
-   "url": "https://www.amazon.com/dp/B08N1CWL7S",
-   "size": "4g",
-   "slug": "boldify-hairline-powder",
-   "image": "/cutouts/boldify-hairline-powder.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Root Touch-Up (2026)",
-   "category": "Hair",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Root Touch-Up (2026)"
+    "InStyle Best Beauty Buys — Best Exfoliating Mask (2025)"
    ]
   },
   {
@@ -212,7 +214,7 @@
    "now": 7.99,
    "percentOff": 50,
    "url": "https://go.shopmy.us/p-77815706",
-   "size": null,
+   "size": "2.1 oz",
    "slug": "l-or-al-paris-elnett-hairspray",
    "image": "/cutouts/l-or-al-paris-elnett-hairspray.webp",
    "imageCutout": true,
@@ -223,26 +225,6 @@
    "awardsWon": [
     "Vogue UK Beauty Awards — Vogue's Greatest Product Of All Time: Hair — Winner (2025)",
     "Allure Best of Beauty — Best Hairspray (2025)"
-   ]
-  },
-  {
-   "brand": "Hot Tools",
-   "product": "Pro Artist Digital Curling Iron",
-   "retailer": "Amazon",
-   "was": 100,
-   "now": 52.27,
-   "percentOff": 48,
-   "url": "https://www.amazon.com/dp/B09P22MMF8",
-   "size": null,
-   "slug": "hot-tools-pro-artist-digital-curling-iron",
-   "image": "/cutouts/hot-tools-pro-artist-digital-curling-iron.webp",
-   "imageCutout": true,
-   "topAward": "Marie Claire Reader's Choice — Curling Iron (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Hair Tool",
-   "awardCount": 1,
-   "awardsWon": [
-    "Marie Claire Reader's Choice — Curling Iron (2026)"
    ]
   },
   {
@@ -266,54 +248,12 @@
    ]
   },
   {
-   "brand": "Shiseido",
-   "product": "Ultimune Power Infusing Serum",
-   "retailer": "Amazon",
-   "was": 210,
-   "now": 115.5,
-   "percentOff": 45,
-   "url": "https://go.shopmy.us/p-76855040",
-   "size": "2.5 oz",
-   "slug": "shiseido-ultimune-power-infusing-serum",
-   "image": "/cutouts/shiseido-ultimune-power-infusing-serum.webp",
-   "imageCutout": true,
-   "topAward": "Harper's Bazaar Skincare Awards — Best Masks and Treatments (2026)",
-   "category": "Skincare",
-   "subcategory": "Serum",
-   "awardCount": 3,
-   "awardsWon": [
-    "Harper's Bazaar Skincare Awards — Best Masks and Treatments (2026)",
-    "Vogue UK Beauty Awards — Vogue's Future Of Beauty Innovator: Skincare — Winner (2025)",
-    "Elle Future of Beauty Awards — 2025 Future of Beauty Award — Skin (2025)"
-   ]
-  },
-  {
-   "brand": "Dove",
-   "product": "Alcohol-Free Whole Body Deodorant",
-   "retailer": "Amazon",
-   "was": 12.97,
-   "now": 7.1,
-   "percentOff": 45,
-   "url": "https://www.amazon.com/dp/B0FWMXN7LY",
-   "size": "2.4 oz",
-   "slug": "dove-alcohol-free-whole-body-deodorant",
-   "image": "/cutouts/dove-alcohol-free-whole-body-deodorant.webp",
-   "imageCutout": true,
-   "topAward": "Cosmopolitan Beauty Awards — Best Whole-Body Deodorant (2026)",
-   "category": "Body",
-   "subcategory": "Deodorant",
-   "awardCount": 1,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Whole-Body Deodorant (2026)"
-   ]
-  },
-  {
    "brand": "Tide",
    "product": "Free & Gentle Liquid Laundry Detergent",
    "retailer": "Amazon",
    "was": 23,
-   "now": 12.75,
-   "percentOff": 45,
+   "now": 12.34,
+   "percentOff": 46,
    "url": "https://www.amazon.com/dp/B0CQ3D4H1Y",
    "size": "105 fl oz",
    "slug": "tide-free---gentle-liquid-laundry-detergent",
@@ -348,26 +288,6 @@
    ]
   },
   {
-   "brand": "Aprilskin",
-   "product": "Carrotene IPMP Clearing Solution",
-   "retailer": "Amazon",
-   "was": 15,
-   "now": 8.5,
-   "percentOff": 43,
-   "url": "https://www.amazon.com/dp/B0B565BHXK",
-   "size": null,
-   "slug": "aprilskin-carrotene-ipmp-clearing-solution",
-   "image": "/cutouts/aprilskin-carrotene-ipmp-clearing-solution.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Acne Spot Treatment Gel (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Acne Spot Treatment Gel (2025)"
-   ]
-  },
-  {
    "brand": "InfinitiPRO by Conair",
    "product": "Hair Steamer Styler",
    "retailer": "Ulta",
@@ -385,26 +305,6 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Hair Steamer (2026)"
-   ]
-  },
-  {
-   "brand": "Seen",
-   "product": "Body Wash, Fragrance Free",
-   "retailer": "Dermstore",
-   "was": 24,
-   "now": 13.99,
-   "percentOff": 42,
-   "url": "https://go.shopmy.us/p-79609452",
-   "size": "10 fl. oz",
-   "slug": "seen-body-wash--fragrance-free",
-   "image": "/cutouts/seen-body-wash--fragrance-free.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Body Wash for Sensitive Skin (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Body Wash for Sensitive Skin (2025)"
    ]
   },
   {
@@ -429,27 +329,6 @@
    ]
   },
   {
-   "brand": "quip",
-   "product": "Sonic Toothbrush",
-   "retailer": "Amazon",
-   "was": 40,
-   "now": 23.79,
-   "percentOff": 41,
-   "url": "https://www.amazon.com/dp/B0DW5Z1S47",
-   "size": null,
-   "slug": "quip-sonic-toothbrush",
-   "image": "/levelled/quip-sonic-toothbrush.webp",
-   "imageCutout": false,
-   "topAward": "NewBeauty Readers Choice — Favorite Toothbrush (2025)",
-   "category": "Wellness",
-   "subcategory": "",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Toothbrush (2025)",
-    "Glamour Beauty Awards — Beauty Innovators — Best Electric Toothbrush (2026)"
-   ]
-  },
-  {
    "brand": "Gillette Venus",
    "product": "Pubic Hair and Skin Daily Ingrown Serum",
    "retailer": "Amazon",
@@ -470,23 +349,43 @@
    ]
   },
   {
-   "brand": "Nakery Beauty",
-   "product": "SkinInfusion Power Blend Elixir Serum",
+   "brand": "BOLDIFY",
+   "product": "Hairline Powder",
    "retailer": "Amazon",
-   "was": 42,
-   "now": 25.45,
-   "percentOff": 39,
-   "url": "https://www.amazon.com/dp/B0CH42LZL8",
-   "size": "5.07 Fl Oz",
-   "slug": "nakery-beauty-skininfusion-power-blend-elixir-serum",
-   "image": "/cutouts/nakery-beauty-skininfusion-power-blend-elixir-serum.webp",
+   "was": 30,
+   "now": 17.95,
+   "percentOff": 40,
+   "url": "https://www.amazon.com/dp/B08N1CWL7S",
+   "size": "4g",
+   "slug": "boldify-hairline-powder",
+   "image": "/cutouts/boldify-hairline-powder.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Face Oil (2025)",
-   "category": "Skincare",
-   "subcategory": "Oil",
+   "topAward": "NewBeauty Annual Awards — Best Root Touch-Up (2026)",
+   "category": "Hair",
+   "subcategory": "",
    "awardCount": 1,
    "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Face Oil (2025)"
+    "NewBeauty Annual Awards — Best Root Touch-Up (2026)"
+   ]
+  },
+  {
+   "brand": "Garnier Fructis",
+   "product": "Curl Knot Melter",
+   "retailer": "Amazon",
+   "was": 9.99,
+   "now": 6.34,
+   "percentOff": 37,
+   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
+   "size": null,
+   "slug": "garnier-fructis-curl-knot-melter",
+   "image": "/cutouts/garnier-fructis-curl-knot-melter.webp",
+   "imageCutout": true,
+   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)",
+   "category": "Hair",
+   "subcategory": "Leave-In",
+   "awardCount": 1,
+   "awardsWon": [
+    "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)"
    ]
   },
   {
@@ -510,64 +409,23 @@
    ]
   },
   {
-   "brand": "Perlier",
-   "product": "Shea Butter + Sweet Almond Body Balm",
+   "brand": "Hot Tools",
+   "product": "Pro Artist Digital Curling Iron",
    "retailer": "Amazon",
-   "was": 31,
-   "now": 20.14,
-   "percentOff": 35,
-   "url": "https://www.amazon.com/dp/B0D96QL7FW",
-   "size": "6.7 fl oz",
-   "slug": "perlier-shea-butter---sweet-almond-body-balm",
-   "image": "/levelled/perlier-shea-butter---sweet-almond-body-balm.webp",
-   "imageCutout": false,
-   "topAward": "NewBeauty Readers Choice — Favorite Body Butter (2025)",
-   "category": "Body",
-   "subcategory": "Body Lotion",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Body Butter (2025)"
-   ]
-  },
-  {
-   "brand": "WavyTalk",
-   "product": "Blowout Boost Grande",
-   "retailer": "Amazon",
-   "was": 69,
-   "now": 45.56,
-   "percentOff": 34,
-   "url": "https://www.amazon.com/dp/B0F4KCTX6J",
+   "was": 100,
+   "now": 63.27,
+   "percentOff": 37,
+   "url": "https://www.amazon.com/dp/B09P22MMF8",
    "size": null,
-   "slug": "wavytalk-blowout-boost-grande",
-   "image": "/cutouts/wavytalk-blowout-boost-grande.webp",
+   "slug": "hot-tools-pro-artist-digital-curling-iron",
+   "image": "/cutouts/hot-tools-pro-artist-digital-curling-iron.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Hot Round Brush (2026)",
+   "topAward": "Marie Claire Reader's Choice — Curling Iron (2026)",
    "category": "Tools & Devices",
    "subcategory": "Hair Tool",
    "awardCount": 1,
    "awardsWon": [
-    "NewBeauty Annual Awards — Best Hot Round Brush (2026)"
-   ]
-  },
-  {
-   "brand": "Olaplex",
-   "product": "Weightless Nourishing Mask",
-   "retailer": "Amazon",
-   "was": 44,
-   "now": 29.45,
-   "percentOff": 33,
-   "url": "https://go.shopmy.us/p-76852773",
-   "size": "200 mL",
-   "slug": "olaplex-weightless-nourishing-mask",
-   "image": "/cutouts/olaplex-weightless-nourishing-mask.webp",
-   "imageCutout": true,
-   "topAward": "Glamour Beauty Awards — Straight & Wavy Hair — Best Luxury Hair Mask (2026)",
-   "category": "Hair",
-   "subcategory": "Hair Mask",
-   "awardCount": 2,
-   "awardsWon": [
-    "Glamour Beauty Awards — Straight & Wavy Hair — Best Luxury Hair Mask (2026)",
-    "Cosmopolitan Beauty Awards — Best Deep Conditioner (2026)"
+    "Marie Claire Reader's Choice — Curling Iron (2026)"
    ]
   },
   {
@@ -588,6 +446,26 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Healing Ointment (2026)"
+   ]
+  },
+  {
+   "brand": "Dove",
+   "product": "Aluminum Free Deodorant Spray",
+   "retailer": "Amazon",
+   "was": 27,
+   "now": 17.99,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
+   "size": "4 oz",
+   "slug": "dove-aluminum-free-deodorant-spray",
+   "image": "/cutouts/dove-aluminum-free-deodorant-spray.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Clean Winner (2026)",
+   "category": "Body",
+   "subcategory": "Deodorant",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Readers Choice — Clean Winner (2026)"
    ]
   },
   {
@@ -631,43 +509,23 @@
    ]
   },
   {
-   "brand": "Matrix",
-   "product": "Food For Soft Multi-Use Hair Oil Serum",
-   "retailer": "Ulta",
-   "was": 34,
-   "now": 23,
-   "percentOff": 32,
-   "url": "https://go.shopmy.us/p-89624230",
-   "size": "1.0 oz",
-   "slug": "matrix-food-for-soft-multi-use-hair-oil-serum",
-   "image": "/cutouts/matrix-food-for-soft-multi-use-hair-oil-serum.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Leave-In Oil (2026)",
-   "category": "Hair",
-   "subcategory": "Leave-In Oil",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Leave-In Oil (2026)"
-   ]
-  },
-  {
-   "brand": "JLo Beauty",
-   "product": "Firming Neck Serum",
+   "brand": "Aprilskin",
+   "product": "Carrotene IPMP Clearing Solution",
    "retailer": "Amazon",
-   "was": 69,
-   "now": 46.92,
-   "percentOff": 32,
-   "url": "https://www.amazon.com/dp/B0GJ192QLW",
-   "size": "1.7 Oz",
-   "slug": "jlo-beauty-firming-neck-serum",
-   "image": "/cutouts/jlo-beauty-firming-neck-serum.webp",
+   "was": 15,
+   "now": 10,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B0B565BHXK",
+   "size": null,
+   "slug": "aprilskin-carrotene-ipmp-clearing-solution",
+   "image": "/cutouts/aprilskin-carrotene-ipmp-clearing-solution.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Neck Serum (2026)",
+   "topAward": "Allure Best of Beauty — Best Acne Spot Treatment Gel (2025)",
    "category": "Skincare",
-   "subcategory": "Serum",
+   "subcategory": "",
    "awardCount": 1,
    "awardsWon": [
-    "NewBeauty Annual Awards — Best Neck Serum (2026)"
+    "Allure Best of Beauty — Best Acne Spot Treatment Gel (2025)"
    ]
   },
   {
@@ -733,84 +591,44 @@
    ]
   },
   {
-   "brand": "Dove",
-   "product": "Aluminum Free Deodorant Spray",
+   "brand": "Crest",
+   "product": "3DWhite Deep Stain Remover Toothpaste",
    "retailer": "Amazon",
-   "was": 27,
-   "now": 18.7,
+   "was": 13,
+   "now": 8.99,
    "percentOff": 31,
-   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
-   "size": "4 oz",
-   "slug": "dove-aluminum-free-deodorant-spray",
-   "image": "/cutouts/dove-aluminum-free-deodorant-spray.webp",
+   "url": "https://www.amazon.com/dp/B0DPNH9Q9W",
+   "size": "2.1 oz",
+   "slug": "crest-3dwhite-deep-stain-remover-toothpaste",
+   "image": "/cutouts/crest-3dwhite-deep-stain-remover-toothpaste.webp",
    "imageCutout": true,
-   "topAward": "Allure Readers Choice — Clean Winner (2026)",
-   "category": "Body",
-   "subcategory": "Deodorant",
+   "topAward": "NewBeauty Annual Awards — Best Whitening Toothpaste (2026)",
+   "category": "Wellness",
+   "subcategory": "Oral Care",
    "awardCount": 1,
    "awardsWon": [
-    "Allure Readers Choice — Clean Winner (2026)"
+    "NewBeauty Annual Awards — Best Whitening Toothpaste (2026)"
    ]
   },
   {
-   "brand": "OWAY",
-   "product": "Curly Hair Co-Wash",
+   "brand": "quip",
+   "product": "Sonic Toothbrush",
    "retailer": "Amazon",
-   "was": 60,
-   "now": 41.14,
-   "percentOff": 31,
-   "url": "https://www.amazon.com/dp/B0B19BRTGN",
-   "size": "240ml",
-   "slug": "oway-curly-hair-co-wash",
-   "image": "/cutouts/oway-curly-hair-co-wash.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)",
-   "category": "Hair",
-   "subcategory": "Shampoo",
+   "was": 40,
+   "now": 27.99,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0DW5Z1S47",
+   "size": null,
+   "slug": "quip-sonic-toothbrush",
+   "image": "/levelled/quip-sonic-toothbrush.webp",
+   "imageCutout": false,
+   "topAward": "NewBeauty Readers Choice — Favorite Toothbrush (2025)",
+   "category": "Wellness",
+   "subcategory": "",
    "awardCount": 2,
    "awardsWon": [
-    "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)",
-    "Glamour Beauty Awards — Curly & Coily Hair — Best Co-Wash (2026)"
-   ]
-  },
-  {
-   "brand": "CND",
-   "product": "Vinylux Long Wear Shine Top Coat",
-   "retailer": "Amazon",
-   "was": 11.9,
-   "now": 8.33,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B00CNE2GOO",
-   "size": "0.5 fl oz",
-   "slug": "cnd-vinylux-long-wear-shine-top-coat",
-   "image": "/cutouts/cnd-vinylux-long-wear-shine-top-coat.webp",
-   "imageCutout": true,
-   "topAward": "Cosmopolitan Beauty Awards — Best Top Coat (2026)",
-   "category": "Nails",
-   "subcategory": "Nail Polish",
-   "awardCount": 1,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Top Coat (2026)"
-   ]
-  },
-  {
-   "brand": "Garnier Fructis",
-   "product": "Curl Knot Melter",
-   "retailer": "Amazon",
-   "was": 9.99,
-   "now": 6.97,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
-   "size": null,
-   "slug": "garnier-fructis-curl-knot-melter",
-   "image": "/cutouts/garnier-fructis-curl-knot-melter.webp",
-   "imageCutout": true,
-   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)",
-   "category": "Hair",
-   "subcategory": "Leave-In",
-   "awardCount": 1,
-   "awardsWon": [
-    "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)"
+    "NewBeauty Readers Choice — Favorite Toothbrush (2025)",
+    "Glamour Beauty Awards — Beauty Innovators — Best Electric Toothbrush (2026)"
    ]
   },
   {
@@ -831,47 +649,6 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Lip Scrub (2026)"
-   ]
-  },
-  {
-   "brand": "Nexxus",
-   "product": "Keraphix Liquid Crystallizer Treatment",
-   "retailer": "Ulta",
-   "was": 30,
-   "now": 20.99,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-80279176",
-   "size": null,
-   "slug": "nexxus-keraphix-liquid-crystallizer-treatment",
-   "image": "/cutouts/nexxus-keraphix-liquid-crystallizer-treatment.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Bond Repair Treatment (2026)",
-   "category": "Hair",
-   "subcategory": "",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Bond Repair Treatment (2026)",
-    "Harper's Bazaar Hair Awards — Super Stylers and Serums (2026)"
-   ]
-  },
-  {
-   "brand": "No7",
-   "product": "HydraLuminous+ Day Gel",
-   "retailer": "Amazon",
-   "was": 18,
-   "now": 12.59,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0D23WLCXG",
-   "size": "1.69 Fl Oz",
-   "slug": "no7-hydraluminous--day-gel",
-   "image": "/levelled/no7-hydraluminous--day-gel.webp",
-   "imageCutout": false,
-   "topAward": "NewBeauty Readers Choice — Favorite Gel Moisturizer (2025)",
-   "category": "Skincare",
-   "subcategory": "Moisturizer",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Gel Moisturizer (2025)"
    ]
   },
   {
@@ -936,6 +713,88 @@
    ]
   },
   {
+   "brand": "OWAY",
+   "product": "Curly Hair Co-Wash",
+   "retailer": "Amazon",
+   "was": 60,
+   "now": 42,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0B19BRTGN",
+   "size": "240ml",
+   "slug": "oway-curly-hair-co-wash",
+   "image": "/cutouts/oway-curly-hair-co-wash.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)",
+   "category": "Hair",
+   "subcategory": "Shampoo",
+   "awardCount": 2,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)",
+    "Glamour Beauty Awards — Curly & Coily Hair — Best Co-Wash (2026)"
+   ]
+  },
+  {
+   "brand": "Nexxus",
+   "product": "Keraphix Liquid Crystallizer Treatment",
+   "retailer": "Ulta",
+   "was": 30,
+   "now": 20.99,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-80279176",
+   "size": null,
+   "slug": "nexxus-keraphix-liquid-crystallizer-treatment",
+   "image": "/cutouts/nexxus-keraphix-liquid-crystallizer-treatment.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Bond Repair Treatment (2026)",
+   "category": "Hair",
+   "subcategory": "",
+   "awardCount": 2,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Bond Repair Treatment (2026)",
+    "Harper's Bazaar Hair Awards — Super Stylers and Serums (2026)"
+   ]
+  },
+  {
+   "brand": "Proactiv",
+   "product": "Acne Clearing Body Spray",
+   "retailer": "Amazon",
+   "was": 25,
+   "now": 17.81,
+   "percentOff": 29,
+   "url": "https://www.amazon.com/dp/B0G54DCG16",
+   "size": "3.4 Fl Oz",
+   "slug": "proactiv-acne-clearing-body-spray",
+   "image": "/levelled/proactiv-acne-clearing-body-spray.webp",
+   "imageCutout": false,
+   "topAward": "NewBeauty Annual Awards — Best Body Acne Spray (2026)",
+   "category": "Body",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Body Acne Spray (2026)"
+   ]
+  },
+  {
+   "brand": "WavyTalk",
+   "product": "Blowout Boost Grande",
+   "retailer": "Amazon",
+   "was": 69,
+   "now": 49.99,
+   "percentOff": 28,
+   "url": "https://www.amazon.com/dp/B0F4KCTX6J",
+   "size": null,
+   "slug": "wavytalk-blowout-boost-grande",
+   "image": "/cutouts/wavytalk-blowout-boost-grande.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Hot Round Brush (2026)",
+   "category": "Tools & Devices",
+   "subcategory": "Hair Tool",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Hot Round Brush (2026)"
+   ]
+  },
+  {
    "brand": "Briogeo",
    "product": "Farewell Frizz Blow Dry Perfection & Heat Protectant Crème",
    "retailer": "Dermstore",
@@ -997,127 +856,23 @@
    ]
   },
   {
-   "brand": "K18",
-   "product": "AstroLift Reparative Volume Spray",
+   "brand": "Nakery Beauty",
+   "product": "SkinInfusion Power Blend Elixir Serum",
    "retailer": "Amazon",
-   "was": 46,
-   "now": 34.5,
+   "was": 42,
+   "now": 31.62,
    "percentOff": 25,
-   "url": "https://go.shopmy.us/p-76852622",
-   "size": "4 Fl Oz",
-   "slug": "k18-astrolift-reparative-volume-spray",
-   "image": "/cutouts/k18-astrolift-reparative-volume-spray.webp",
+   "url": "https://www.amazon.com/dp/B0CH42LZL8",
+   "size": "5.07 Fl Oz",
+   "slug": "nakery-beauty-skininfusion-power-blend-elixir-serum",
+   "image": "/cutouts/nakery-beauty-skininfusion-power-blend-elixir-serum.webp",
    "imageCutout": true,
-   "topAward": "Glamour Beauty Awards — Straight & Wavy Hair — Best Luxury Texturizer (2026)",
-   "category": "Hair",
-   "subcategory": "Styling",
-   "awardCount": 4,
-   "awardsWon": [
-    "Glamour Beauty Awards — Straight & Wavy Hair — Best Luxury Texturizer (2026)",
-    "Allure Best of Beauty — Best Hair Volumizer (2025)",
-    "Cosmopolitan Beauty Awards — Best Root Lifter (2026)",
-    "Cosmopolitan Readers Choice — Best Volumizer (2026)"
-   ]
-  },
-  {
-   "brand": "Degree",
-   "product": "Clinical 5X Ultra Dry Spray",
-   "retailer": "Amazon",
-   "was": 10,
-   "now": 7.49,
-   "percentOff": 25,
-   "url": "https://www.amazon.com/dp/B0G1Z9PJNY",
-   "size": "3.8 oz",
-   "slug": "degree-clinical-5x-ultra-dry-spray",
-   "image": "/levelled/degree-clinical-5x-ultra-dry-spray.webp",
-   "imageCutout": false,
-   "topAward": "NewBeauty Annual Awards — Best Antiperspirant (2026)",
-   "category": "Body",
-   "subcategory": "Deodorant",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Antiperspirant (2026)",
-    "InStyle Best Beauty Buys — Best Deodorant Spray (2026)"
-   ]
-  },
-  {
-   "brand": "TRESemmé",
-   "product": "Bouncy Curls Multi-Tasking Hair Mask",
-   "retailer": "Amazon",
-   "was": 7.5,
-   "now": 5.59,
-   "percentOff": 25,
-   "url": "https://www.amazon.com/dp/B0FL86DBV6",
-   "size": "8 fl oz",
-   "slug": "tresemm--bouncy-curls-multi-tasking-hair-mask",
-   "image": "/cutouts/tresemm--bouncy-curls-multi-tasking-hair-mask.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Mask for Curly Hair (2026)",
-   "category": "Hair",
-   "subcategory": "Hair Mask",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Mask for Curly Hair (2026)"
-   ]
-  },
-  {
-   "brand": "Moon Oral Beauty",
-   "product": "Stain Prevention Teeth Wipes",
-   "retailer": "Amazon",
-   "was": 14,
-   "now": 10.49,
-   "percentOff": 25,
-   "url": "https://www.amazon.com/dp/B093P4V4KF",
-   "size": null,
-   "slug": "moon-oral-beauty-stain-prevention-teeth-wipes",
-   "image": "/levelled/moon-oral-beauty-stain-prevention-teeth-wipes.webp",
-   "imageCutout": false,
-   "topAward": "Glamour Beauty Awards — Wellness — Best Teeth Whitener (2026)",
-   "category": "Wellness",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Glamour Beauty Awards — Wellness — Best Teeth Whitener (2026)"
-   ]
-  },
-  {
-   "brand": "Panasonic",
-   "product": "Portable Cordless Water Flosser",
-   "retailer": "Amazon",
-   "was": 50,
-   "now": 37.99,
-   "percentOff": 24,
-   "url": "https://www.amazon.com/dp/B0CXTL45Q3",
-   "size": null,
-   "slug": "panasonic-portable-cordless-water-flosser",
-   "image": "/levelled/panasonic-portable-cordless-water-flosser.webp",
-   "imageCutout": false,
-   "topAward": "Allure Best of Beauty — Best Water Flosser (2025)",
-   "category": "Body",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Water Flosser (2025)"
-   ]
-  },
-  {
-   "brand": "Weleda",
-   "product": "Skin Food Brightening Serum Stick",
-   "retailer": "Amazon",
-   "was": 20,
-   "now": 15.2,
-   "percentOff": 24,
-   "url": "https://www.amazon.com/dp/B0DPLKWCX2",
-   "size": null,
-   "slug": "weleda-skin-food-brightening-serum-stick",
-   "image": "/cutouts/weleda-skin-food-brightening-serum-stick.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Serum Stick (2026)",
+   "topAward": "NewBeauty Readers Choice — Favorite Face Oil (2025)",
    "category": "Skincare",
-   "subcategory": "Serum",
+   "subcategory": "Oil",
    "awardCount": 1,
    "awardsWon": [
-    "NewBeauty Annual Awards — Best Serum Stick (2026)"
+    "NewBeauty Readers Choice — Favorite Face Oil (2025)"
    ]
   },
   {
@@ -1202,72 +957,6 @@
    ]
   },
   {
-   "brand": "Nexxus",
-   "product": "Hy-Volume Lifting Cloud Foam",
-   "retailer": "Amazon",
-   "was": 16,
-   "now": 12.59,
-   "percentOff": 21,
-   "url": "https://www.amazon.com/dp/B0DK5VM9W2",
-   "size": "5.5 fl oz",
-   "slug": "nexxus-hy-volume-lifting-cloud-foam",
-   "image": "/cutouts/nexxus-hy-volume-lifting-cloud-foam.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Hair-Care Steals (2025)",
-   "category": "Hair",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Hair-Care Steals (2025)"
-   ]
-  },
-  {
-   "brand": "Supergoop",
-   "product": "Unseen Sunscreen SPF 50",
-   "retailer": "Amazon",
-   "was": 38,
-   "now": 30.39,
-   "percentOff": 20,
-   "url": "https://go.shopmy.us/p-76854799",
-   "size": "1.7oz",
-   "slug": "supergoop-unseen-sunscreen-spf-50",
-   "image": "/cutouts/supergoop-unseen-sunscreen-spf-50.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Chemical Gel Sunscreen (2025)",
-   "category": "Skincare",
-   "subcategory": "SPF",
-   "awardCount": 5,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Chemical Gel Sunscreen (2025)",
-    "NewBeauty Annual Awards — Best Clear Sunscreen Gel (2026)",
-    "Glamour Beauty Awards — Readers' Choice — Best Face Sunscreen (2026)",
-    "Allure Readers Choice — Skin Winner (2026)",
-    "Cosmopolitan Readers Choice — Best Face Sunscreen (2026)"
-   ]
-  },
-  {
-   "brand": "U Beauty",
-   "product": "Resurfacing Flash Peel",
-   "retailer": "Amazon",
-   "was": 188,
-   "now": 150.4,
-   "percentOff": 20,
-   "url": "https://go.shopmy.us/p-76855291",
-   "size": "1 fl oz",
-   "slug": "u-beauty-resurfacing-flash-peel",
-   "image": "/cutouts/u-beauty-resurfacing-flash-peel.webp",
-   "imageCutout": true,
-   "topAward": "Marie Claire Skin & Hair Awards — Best Peel Treatment (2025)",
-   "category": "Skincare",
-   "subcategory": "Treatment",
-   "awardCount": 3,
-   "awardsWon": [
-    "Marie Claire Skin & Hair Awards — Best Peel Treatment (2025)",
-    "Glamour Beauty Awards — Luxury Skin Care — Best Face Exfoliator (2026)",
-    "InStyle Best Beauty Buys — Best At-Home Peel (2025)"
-   ]
-  },
-  {
    "brand": "Apothekary",
    "product": "Take the Edge Off Tincture",
    "retailer": "Ulta",
@@ -1288,104 +977,23 @@
    ]
   },
   {
-   "brand": "Danger Jones",
-   "product": "Killer Blonde Purple Shampoo",
+   "brand": "Gold Bond",
+   "product": "Healing Sensitive Daily Body & Face Lotion",
    "retailer": "Amazon",
-   "was": 29,
-   "now": 23.2,
+   "was": 10,
+   "now": 8.02,
    "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0G75H7J3D",
-   "size": null,
-   "slug": "danger-jones-killer-blonde-purple-shampoo",
-   "image": "/cutouts/danger-jones-killer-blonde-purple-shampoo.webp",
+   "url": "https://www.amazon.com/dp/B0C5GQ1N3T",
+   "size": "13 oz",
+   "slug": "gold-bond-healing-sensitive-daily-body---face-lotion",
+   "image": "/cutouts/gold-bond-healing-sensitive-daily-body---face-lotion.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Purple Shampoo (2026)",
-   "category": "Hair",
-   "subcategory": "Shampoo",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Purple Shampoo (2026)"
-   ]
-  },
-  {
-   "brand": "goPure",
-   "product": "Tighten & Lift Neck Cream",
-   "retailer": "Amazon",
-   "was": 40,
-   "now": 31.99,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0CGB215HR",
-   "size": null,
-   "slug": "gopure-tighten---lift-neck-cream",
-   "image": "/cutouts/gopure-tighten---lift-neck-cream.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Neck Cream (2025)",
+   "topAward": "Allure Best of Beauty — Best Face and Body Lotion for Sensitive Skin (2025)",
    "category": "Skincare",
-   "subcategory": "Treatment",
+   "subcategory": "",
    "awardCount": 1,
    "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Neck Cream (2025)"
-   ]
-  },
-  {
-   "brand": "ELASTEN",
-   "product": "ELASTEN",
-   "retailer": "Amazon",
-   "was": 100,
-   "now": 79.99,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B00FGIL23K",
-   "size": null,
-   "slug": "elasten-elasten",
-   "image": "/cutouts/elasten-elasten.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Collagen Supplement (2026)",
-   "category": "Wellness",
-   "subcategory": "Supplement",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Collagen Supplement (2026)"
-   ]
-  },
-  {
-   "brand": "bio-therapeutic",
-   "product": "bt-sculpt GEN2",
-   "retailer": "Amazon",
-   "was": 345,
-   "now": 274.4,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0FT5XFKL4",
-   "size": null,
-   "slug": "bio-therapeutic-bt-sculpt-gen2",
-   "image": "/cutouts/bio-therapeutic-bt-sculpt-gen2.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Microcurrent Device (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Microcurrent",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Microcurrent Device (2026)",
-    "Cosmopolitan Beauty Awards — Best Microcurrent Device (2026)"
-   ]
-  },
-  {
-   "brand": "AAVRANI",
-   "product": "Scalp Detox Jelly Cleanser",
-   "retailer": "Amazon",
-   "was": 34,
-   "now": 27.2,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0DKG97HV7",
-   "size": null,
-   "slug": "aavrani-scalp-detox-jelly-cleanser",
-   "image": "/cutouts/aavrani-scalp-detox-jelly-cleanser.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Scalp Scrub (2025)",
-   "category": "Hair",
-   "subcategory": "Scalp Treatment",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Scalp Scrub (2025)"
+    "Allure Best of Beauty — Best Face and Body Lotion for Sensitive Skin (2025)"
    ]
   },
   {
@@ -1409,6 +1017,26 @@
    ]
   },
   {
+   "brand": "Panasonic",
+   "product": "Portable Cordless Water Flosser",
+   "retailer": "Amazon",
+   "was": 50,
+   "now": 39.99,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0CXTL45Q3",
+   "size": null,
+   "slug": "panasonic-portable-cordless-water-flosser",
+   "image": "/levelled/panasonic-portable-cordless-water-flosser.webp",
+   "imageCutout": false,
+   "topAward": "Allure Best of Beauty — Best Water Flosser (2025)",
+   "category": "Body",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Water Flosser (2025)"
+   ]
+  },
+  {
    "brand": "Lumineux",
    "product": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
    "retailer": "Amazon",
@@ -1429,124 +1057,23 @@
    ]
   },
   {
-   "brand": "Body Firm",
-   "product": "Neck Repair Treatment",
+   "brand": "Secret",
+   "product": "Whole Body Dry Feel Deodorant",
    "retailer": "Amazon",
-   "was": 79,
-   "now": 63.2,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0BHL8Z7NN",
-   "size": "1.7 FL Oz",
-   "slug": "body-firm-neck-repair-treatment",
-   "image": "/cutouts/body-firm-neck-repair-treatment.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Neck Cream with Retinol (2025)",
-   "category": "Skincare",
-   "subcategory": "Treatment",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Neck Cream with Retinol (2025)"
-   ]
-  },
-  {
-   "brand": "Hello",
-   "product": "Whipped Fluoride Toothpaste",
-   "retailer": "Amazon",
-   "was": 11.91,
-   "now": 9.58,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0G7M6RX1M",
-   "size": null,
-   "slug": "hello-whipped-fluoride-toothpaste",
-   "image": "/cutouts/hello-whipped-fluoride-toothpaste.webp",
-   "imageCutout": true,
-   "topAward": "Glamour Beauty Awards — Beauty Innovators — Best Toothpaste (2026)",
-   "category": "Wellness",
-   "subcategory": "",
-   "awardCount": 2,
-   "awardsWon": [
-    "Glamour Beauty Awards — Beauty Innovators — Best Toothpaste (2026)",
-    "Cosmopolitan Beauty Awards — Best Toothpaste (2026)"
-   ]
-  },
-  {
-   "brand": "Tymo",
-   "product": "Rovy Wave Maker",
-   "retailer": "Amazon",
-   "was": 49,
-   "now": 39.87,
+   "was": 13.99,
+   "now": 11.29,
    "percentOff": 19,
-   "url": "https://www.amazon.com/Crimper-Curling-TYMO-Tourmaline-Anti-Scald/dp/B0C2ZGQ15W",
+   "url": "https://www.amazon.com/dp/B0CHN19PJX",
    "size": null,
-   "slug": "tymo-rovy-wave-maker",
-   "image": "/cutouts/tymo-rovy-wave-maker.webp",
+   "slug": "secret-whole-body-dry-feel-deodorant",
+   "image": "/cutouts/secret-whole-body-dry-feel-deodorant.webp",
    "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Waving Iron (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Hair Tool",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Waving Iron (2026)"
-   ]
-  },
-  {
-   "brand": "OLAY",
-   "product": "Super Cream with Broad Spectrum SPF 30",
-   "retailer": "Amazon",
-   "was": 41.29,
-   "now": 33.49,
-   "percentOff": 19,
-   "url": "https://www.amazon.com/dp/B0DHWFWSVF",
-   "size": null,
-   "slug": "olay-super-cream-with-broad-spectrum-spf-30",
-   "image": "/levelled/olay-super-cream-with-broad-spectrum-spf-30.webp",
-   "imageCutout": false,
-   "topAward": "Marie Claire Skin & Hair Awards — Best Drugstore Moisturizer (2025)",
-   "category": "Skincare",
-   "subcategory": "Moisturizer",
-   "awardCount": 1,
-   "awardsWon": [
-    "Marie Claire Skin & Hair Awards — Best Drugstore Moisturizer (2025)"
-   ]
-  },
-  {
-   "brand": "Skintensive",
-   "product": "Bruise Cream",
-   "retailer": "Amazon",
-   "was": 30,
-   "now": 24.75,
-   "percentOff": 18,
-   "url": "https://www.amazon.com/dp/B07D7NVWN7",
-   "size": null,
-   "slug": "skintensive-bruise-cream",
-   "image": "/cutouts/skintensive-bruise-cream.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Post-Procedure Bruise Cream (2026)",
-   "category": "Skincare",
-   "subcategory": "Treatment",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Post-Procedure Bruise Cream (2026)"
-   ]
-  },
-  {
-   "brand": "Dove",
-   "product": "Almond Oil & Sandal Wood Oil Body Wash Serum + Soothing",
-   "retailer": "Amazon",
-   "was": 12,
-   "now": 9.99,
-   "percentOff": 17,
-   "url": "https://www.amazon.com/dp/B0G4SSVR4W",
-   "size": "15.3 fl oz",
-   "slug": "dove-almond-oil---sandal-wood-oil-body-wash-serum---soothing",
-   "image": "/cutouts/dove-almond-oil---sandal-wood-oil-body-wash-serum---soothing.webp",
-   "imageCutout": true,
-   "topAward": "Harper's Bazaar Skincare Awards — Best Face and Body Cleansers (2026)",
+   "topAward": "Marie Claire Skin & Hair Awards — Best Body Deodorant (2025)",
    "category": "Body",
-   "subcategory": "Body Wash",
+   "subcategory": "Deodorant",
    "awardCount": 1,
    "awardsWon": [
-    "Harper's Bazaar Skincare Awards — Best Face and Body Cleansers (2026)"
+    "Marie Claire Skin & Hair Awards — Best Body Deodorant (2025)"
    ]
   },
   {
@@ -1571,23 +1098,43 @@
    ]
   },
   {
-   "brand": "Gold Bond",
-   "product": "Healing Sensitive Daily Body & Face Lotion",
+   "brand": "No7",
+   "product": "HydraLuminous+ Day Gel",
    "retailer": "Amazon",
-   "was": 10,
-   "now": 8.45,
-   "percentOff": 16,
-   "url": "https://www.amazon.com/dp/B0C5GQ1N3T",
-   "size": "13 oz",
-   "slug": "gold-bond-healing-sensitive-daily-body---face-lotion",
-   "image": "/cutouts/gold-bond-healing-sensitive-daily-body---face-lotion.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Face and Body Lotion for Sensitive Skin (2025)",
+   "was": 18,
+   "now": 15.01,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B0D23WLCXG",
+   "size": "1.69 Fl Oz",
+   "slug": "no7-hydraluminous--day-gel",
+   "image": "/levelled/no7-hydraluminous--day-gel.webp",
+   "imageCutout": false,
+   "topAward": "NewBeauty Readers Choice — Favorite Gel Moisturizer (2025)",
    "category": "Skincare",
-   "subcategory": "",
+   "subcategory": "Moisturizer",
    "awardCount": 1,
    "awardsWon": [
-    "Allure Best of Beauty — Best Face and Body Lotion for Sensitive Skin (2025)"
+    "NewBeauty Readers Choice — Favorite Gel Moisturizer (2025)"
+   ]
+  },
+  {
+   "brand": "Goodal",
+   "product": "Green Tangerine Niacinamide 10% Serum",
+   "retailer": "Amazon",
+   "was": 32,
+   "now": 26.9,
+   "percentOff": 16,
+   "url": "https://www.amazon.com/dp/B0F3CF8FL5",
+   "size": null,
+   "slug": "goodal-green-tangerine-niacinamide-10--serum",
+   "image": "/cutouts/goodal-green-tangerine-niacinamide-10--serum.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Niacinamide Serum (2026)",
+   "category": "Skincare",
+   "subcategory": "Serum",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Niacinamide Serum (2026)"
    ]
   },
   {
@@ -1595,7 +1142,7 @@
    "product": "Miracle Rescue Regenerative Hair Oil",
    "retailer": "Amazon",
    "was": 15.39,
-   "now": 12.99,
+   "now": 12.97,
    "percentOff": 16,
    "url": "https://www.amazon.com/dp/B0DJ3MF712",
    "size": "2.0 FL Oz",
@@ -1611,25 +1158,25 @@
    ]
   },
   {
-   "brand": "Dae",
-   "product": "Sunsetter Hairspray",
+   "brand": "ISDIN",
+   "product": "Fusion Water MAGIC",
    "retailer": "Amazon",
-   "was": 30,
-   "now": 25.5,
+   "was": 38,
+   "now": 32.3,
    "percentOff": 15,
-   "url": "https://go.shopmy.us/p-76852374",
-   "size": null,
-   "slug": "dae-sunsetter-hairspray",
-   "image": "/cutouts/dae-sunsetter-hairspray.webp",
+   "url": "https://go.shopmy.us/p-76852028",
+   "size": "1.7 fl oz",
+   "slug": "isdin-fusion-water-magic",
+   "image": "/cutouts/isdin-fusion-water-magic.webp",
    "imageCutout": true,
-   "topAward": "Marie Claire Skin & Hair Awards — Best Hairspray (2025)",
-   "category": "Hair",
-   "subcategory": "Styling",
+   "topAward": "InStyle Best Beauty Buys — Best Sunscreen (2025)",
+   "category": "Skincare",
+   "subcategory": "SPF",
    "awardCount": 3,
    "awardsWon": [
-    "Marie Claire Skin & Hair Awards — Best Hairspray (2025)",
-    "NewBeauty Annual Awards — Best Hairspray (2026)",
-    "Elle Future of Beauty Awards — 2025 Future of Beauty Award — Hair (2025)"
+    "InStyle Best Beauty Buys — Best Sunscreen (2025)",
+    "Allure Best of Beauty — Best Chemical Lotion Sunscreen (2025)",
+    "NewBeauty Annual Awards — Best Oil-Free Sunscreen (2026)"
    ]
   },
   {
@@ -1673,43 +1220,23 @@
    ]
   },
   {
-   "brand": "Weleda",
-   "product": "Skin Food Hydrating Face Mist",
+   "brand": "OLAY",
+   "product": "Super Cream with Broad Spectrum SPF 30",
    "retailer": "Amazon",
-   "was": 21,
-   "now": 17.84,
+   "was": 41.29,
+   "now": 34.94,
    "percentOff": 15,
-   "url": "https://www.amazon.com/dp/B0F758S5Q7",
+   "url": "https://www.amazon.com/dp/B0DHWFWSVF",
    "size": null,
-   "slug": "weleda-skin-food-hydrating-face-mist",
-   "image": "/cutouts/weleda-skin-food-hydrating-face-mist.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Facial Mist (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Facial Mist (2025)"
-   ]
-  },
-  {
-   "brand": "LUX Unfiltered",
-   "product": "High Gloss SPF 30 Oil",
-   "retailer": "Amazon",
-   "was": 44,
-   "now": 37.4,
-   "percentOff": 15,
-   "url": "https://www.amazon.com/dp/B0FBHSJ6RG",
-   "size": "150 ml",
-   "slug": "lux-unfiltered-high-gloss-spf-30-oil",
-   "image": "/levelled/lux-unfiltered-high-gloss-spf-30-oil.webp",
+   "slug": "olay-super-cream-with-broad-spectrum-spf-30",
+   "image": "/levelled/olay-super-cream-with-broad-spectrum-spf-30.webp",
    "imageCutout": false,
-   "topAward": "NewBeauty Annual Awards — Best Body Oil Sunscreen (2026)",
-   "category": "Body",
-   "subcategory": "Body Oil",
+   "topAward": "Marie Claire Skin & Hair Awards — Best Drugstore Moisturizer (2025)",
+   "category": "Skincare",
+   "subcategory": "Moisturizer",
    "awardCount": 1,
    "awardsWon": [
-    "NewBeauty Annual Awards — Best Body Oil Sunscreen (2026)"
+    "Marie Claire Skin & Hair Awards — Best Drugstore Moisturizer (2025)"
    ]
   },
   {
