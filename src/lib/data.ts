@@ -101,6 +101,10 @@ export const awardPrograms: AwardProgram[] = [
   // programmes were live on product pages but invisible here. Counts below are
   // the award rows actually in the database, not a publication's headline claim
   // — see the Allure 319-vs-307 and Cosmo 151-vs-134 notes in data/awards.
+  // Marie Claire merged its Skin & Hair and Makeup awards for 2026 and added
+  // Nails, Body Care and Drugstore. 213 winners, and unusually the publication
+  // prints a retailer URL for every one, so 211 of 213 arrived buyable.
+  { id: '17', name: 'Marie Claire Beauty Awards', edition: '2026', winnerCount: 213, announcedDate: 'Oct 2026', region: 'US', recordName: 'Marie Claire Beauty Awards', justAdded: true },
   { id: '9', name: 'Harper\'s Bazaar UK Best of the Best', edition: '2026', winnerCount: 93, announcedDate: 'Sep 2026', region: 'UK', recordName: "Harper's Bazaar UK Best of the Best", justAdded: true },
   { id: '8', name: 'NewBeauty Readers\' Choice', edition: '2026', winnerCount: 104, announcedDate: '29 Sep 2026', region: 'US', recordName: 'NewBeauty Readers Choice', justAdded: true },
   { id: '6', name: 'Allure Best of Beauty', edition: '2026', winnerCount: 307, announcedDate: '15 Sep 2026', region: 'US', justAdded: true },
@@ -115,10 +119,6 @@ export const awardPrograms: AwardProgram[] = [
   // France, not US — the Prix d'Excellence is Marie Claire France's programme,
   // and the publications table has always said so.
   { id: '3', name: 'Marie Claire Prix d\'Excellence', edition: '2026', winnerCount: 19, announcedDate: 'May 2026', region: 'France' },
-  // Marie Claire merged its Skin & Hair and Makeup awards for 2026 and added
-  // Nails, Body Care and Drugstore. 213 winners, and unusually the publication
-  // prints a retailer URL for every one, so 211 of 213 arrived buyable.
-  { id: '17', name: 'Marie Claire Beauty Awards', edition: '2026', winnerCount: 213, announcedDate: 'Oct 2026', region: 'US', recordName: 'Marie Claire Beauty Awards', justAdded: true },
   { id: '5', name: 'Marie Claire Reader\'s Choice', edition: '2026', winnerCount: 57, announcedDate: '15 Apr 2026', region: 'US', justAdded: true },
   { id: '4', name: 'NewBeauty Annual Awards', edition: '2026', winnerCount: 357, announcedDate: '31 Mar 2026', region: 'US' },
   { id: '12', name: 'Glamour Beauty Awards', edition: '2026', winnerCount: 248, announcedDate: '18 Mar 2026', region: 'US' },
