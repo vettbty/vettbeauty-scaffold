@@ -1231,6 +1231,14 @@
   "url": "https://www.amazon.com/dp/B0DR7Z94H7?tag=vettbeauty-20",
   "via": "browser-read"
  },
+ "beautyblender-original-pink-makeup-sponge": {
+  "price": 20,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/Beautyblender%C2%AE-Original-Super-Soft-Foundations-Application/dp/B07VBNQ367?tag=vettbeauty-20",
+  "via": "sephora-api"
+ },
  "beekman-1802-pure-fragrance-free-goat-milk-soap": {
   "price": 16,
   "at": "Exclusive Beauty Club",
@@ -1428,7 +1436,7 @@
   "price": 21.6,
   "at": "YesStyle",
   "checked": "2026-09-26",
-  "url": "https://www.yesstyle.com/en/beplain-mung-bean-pore-clearing-lha-toner-265ml/info.html/pid.1136584246"
+  "url": "https://go.shopmy.us/p-93192875"
  },
  "beyond-bodytamin-niacinamide-b3-5--brightening-body-lotion": {
   "price": 24.99,
@@ -1712,6 +1720,14 @@
   "at": "Ulta",
   "checked": "2026-09-30",
   "url": "https://go.shopmy.us/p-90523463"
+ },
+ "bobbi-brown-long-wear-waterproof-cream-eyeshadow-stick": {
+  "price": 34,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.nordstrom.com/s/long-wear-waterproof-cream-eyeshadow-stick/3442219",
+  "via": "sephora-api"
  },
  "bodyography-lipstick-palette": {
   "price": 28,
@@ -2169,6 +2185,14 @@
   "url": "https://www.ulta.com/p/goddess-strength-7-oil-blend-hair-scalp-oil-pimprod2019968?sku=2572927",
   "via": "json-ld"
  },
+ "carolina-herrera-good-girl-eau-de-parfum": {
+  "price": 137,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/good-girl-P420533",
+  "via": "sephora-api"
+ },
  "catrice-cosmetics-hd-liquid-coverage-foundation": {
   "price": 10,
   "currency": "USD",
@@ -2363,6 +2387,22 @@
   "url": "https://www.stylekorean.com/product/charde-eye-bag-lift-1100-shot-reedle-patch-4ea/1779153433",
   "via": "json-ld"
  },
+ "charlotte-tilbury-airbrush-flawless-blush-blur": {
+  "price": 43,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/airbrush-flawless-blush-blur-P527083",
+  "via": "sephora-api"
+ },
+ "charlotte-tilbury-airbrush-flawless-finish-setting-spray": {
+  "price": 39,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray",
+  "via": "sephora-api"
+ },
  "charlotte-tilbury-airbrush-flawless-foundation": {
   "price": 52,
   "at": "Bluemercury",
@@ -2504,6 +2544,14 @@
   "checked": "2026-10-10",
   "url": "https://www.yesstyle.com/en/ckd-guaranteed-vita-c-teca-dark-spot-cream-pack-set-2-pcs/info.html/pid.1135046960",
   "via": "json-ld"
+ },
+ "clarins-double-serum-eye": {
+  "price": 86,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/double-serum-eye-P525758",
+  "via": "sephora-api"
  },
  "clarins-lip-comfort-oil": {
   "price": 32,
@@ -3958,6 +4006,22 @@
   "at": "Dyson",
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89356172"
+ },
+ "dyson-airwrap-co-anda2x-multi-styler-and-dryer-straight-wavy": {
+  "price": 749,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.dyson.com/hair-care/hair-stylers/airwrap-co-anda2x",
+  "via": "sephora-api"
+ },
+ "dyson-airwrap-i-d--multistyler-and-dryer": {
+  "price": 649,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/airwrap-id-multi-styler-dryer-for-straight-to-wavy-hair-P515347",
+  "via": "sephora-api"
  },
  "dyson-supersonic-nural-hair-dryer": {
   "price": 449.99,
@@ -5527,6 +5591,14 @@
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89226168"
  },
+ "hourglass-phantom-blur-balm": {
+  "price": 38,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/phantom-smoothing-blur-lip-balm-P524770",
+  "via": "sephora-api"
+ },
  "house-of-dohwa-rice-makgeolli-toner": {
   "price": 32,
   "currency": "USD",
@@ -6259,6 +6331,14 @@
   "checked": "2026-08-12",
   "url": "https://go.shopmy.us/p-78654588"
  },
+ "k-rastase-gloss-absolu-frizz-glaze": {
+  "price": 52,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/gloss-absolu-high-shine-anti-frizz-glaze-styling-cream-for-medium-to-thick-hair-P522033",
+  "via": "sephora-api"
+ },
  "k-rastase-gloss-absolu-glaze-drops-anti-frizz-hair-oil": {
   "price": 42,
   "currency": "USD",
@@ -6268,6 +6348,14 @@
   "via": "sephora-api"
  },
  "k18-biomimetic-hairscience-futureiq-trade--hair-longevity-serum-for-graying--thi": {
+  "price": 120,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/futureiq-hair-longevity-serum-for-graying-thinning-scalp-aging-P525639",
+  "via": "sephora-api"
+ },
+ "k18-hair-futureiq-biomimetic-hair-longevity-serum": {
   "price": 120,
   "currency": "USD",
   "at": "Sephora",
@@ -6603,6 +6691,14 @@
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89395545"
  },
+ "l-occitane-almond-supple-skin-oil": {
+  "price": 55,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/soothing-and-firming-almond-supple-skin-oil-P162554",
+  "via": "sephora-api"
+ },
  "l-occitane-pure-shea-butter": {
   "price": 45,
   "currency": "USD",
@@ -6796,6 +6892,14 @@
   "checked": "2026-10-01",
   "url": "https://www.lalicious.com/products/birthday-cake-lip-butter"
  },
+ "lanc-me-absolue-longevity-md-reset-the-serum": {
+  "price": 175,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/la-abs-long-reset-serum-P522437",
+  "via": "sephora-api"
+ },
  "lanc-me-la-vie-est-belle-eau-de-parfum": {
   "price": 85,
   "at": "Neiman Marcus",
@@ -6813,6 +6917,14 @@
   "at": "Sephora",
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89385816"
+ },
+ "laneige-cream-skin-cerapeptide--refiner": {
+  "price": 36,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/cream-skin-refillable-toner-moisturizer-with-ceramides-peptides-P505897",
+  "via": "sephora-api"
  },
  "laneige-glaze-craze-tinted-lip-serum": {
   "price": 22,
@@ -7027,6 +7139,14 @@
   "at": "Bloomingdale's",
   "checked": "2026-09-24",
   "url": "https://go.shopmy.us/p-88966819"
+ },
+ "living-proof-perfect-hair-day-style-refresh-hair-mist": {
+  "price": 32,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/perfect-hair-day-phd-style-refresh-hair-mist-P520512",
+  "via": "sephora-api"
  },
  "loftie-smart-alarm-clock": {
   "price": 169.99,
@@ -7254,6 +7374,14 @@
   "checked": "2026-08-25",
   "url": "https://go.shopmy.us/p-81539971"
  },
+ "maison-margiela-blaze-of-stillness-eau-de-parfum": {
+  "price": 190,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/scentsorium-blaze-stillness-P526968",
+  "via": "sephora-api"
+ },
  "maison-margiela-replica-lazy-sunday-morning-eau-de-toilette": {
   "price": 165,
   "at": "Macy's",
@@ -7371,6 +7499,14 @@
   "at": "Sephora",
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89395432"
+ },
+ "manucurist-active-glow": {
+  "price": 19,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/active-glow-raspberry-nourishing-treatment-nail-polish-P519644",
+  "via": "sephora-api"
  },
  "manucurist-xtrem-flash-long-lasting-gel-nail-polish-top-coat": {
   "price": 25,
@@ -8647,6 +8783,14 @@
   "checked": "2026-10-10",
   "url": "https://www.amazon.com/dp/B0DRJZXFGS?ref=clp_hp_h_pc&tag=vettbeauty-20",
   "via": "browser-read"
+ },
+ "olaplex--7-shine-serum-oil-mist": {
+  "price": 38,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/no-7-shine-serum-2-in-1-hair-oil-mist-P525086",
+  "via": "sephora-api"
  },
  "olaplex-browbond-building-serum": {
   "price": 68,
@@ -10193,6 +10337,14 @@
   "checked": "2026-09-22",
   "url": "https://go.shopmy.us/p-88345039"
  },
+ "shark-silkipro-straight-hair-straightener": {
+  "price": 249,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/shark-silki-ceramic-styler-air-straightener-P521130",
+  "via": "sephora-api"
+ },
  "sheamoisture-coconut---hibiscus-curl---shine-shampoo": {
   "price": 12.49,
   "at": "Ulta",
@@ -10656,6 +10808,14 @@
   "url": "https://www.sephora.com/product/soft-services-buffing-bar-green-banana-P520701",
   "via": "sephora-api"
  },
+ "soft-services-speed-soak-skin-rehydrating-gel": {
+  "price": 28,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://softservices.com/products/speed-soak?srsltid=AfmBOorPCXu7_FOxY9eZjmdNrzAnJyBFglDsQDr2MkE4mRI7kutumiUi",
+  "via": "sephora-api"
+ },
  "sol-de-janeiro-cheirosa-71-body-cream": {
   "price": 48,
   "at": "Dermstore",
@@ -11086,6 +11246,14 @@
   "checked": "2026-09-25",
   "url": "https://thehairedit.com/products/gilded-ellipse-flat-lay-claw-clip"
  },
+ "the-inkey-list-oat-balm-cleanser": {
+  "price": 17,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/oat-cleansing-balm-P525108",
+  "via": "sephora-api"
+ },
  "the-lab-by-blanc-doux-oligo-hyaluronic-acid-deep-toner": {
   "price": 36,
   "currency": "USD",
@@ -11307,6 +11475,14 @@
   "at": "Bluemercury",
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89223237"
+ },
+ "tom-ford-soleil-tinted-lip-glow": {
+  "price": 40,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/soleil-high-shine-tinted-glow-plumping-lip-gloss-P522126",
+  "via": "sephora-api"
  },
  "tonymoly-get-it-tint-waterful-butter": {
   "price": 20.8,
@@ -11979,6 +12155,14 @@
   "url": "https://www.violettefr.com/products/balm-amour",
   "via": "json-ld"
  },
+ "violette_fr-plume-blush": {
+  "price": 34,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/plume-blush-feather-matte-cream-to-powder-cheek-melt-P522555",
+  "via": "sephora-api"
+ },
  "violette_fr-plume-lip-moisturizing-feather-matte-lip-whip": {
   "price": 31,
   "at": "Sephora",
@@ -12208,6 +12392,14 @@
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/wellage-real-hyaluronic-tone-up-sun-cream-50ml-spf50-pa"
  },
+ "westman-atelier-sun-tone-bronzing-cr-me": {
+  "price": 75,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/sun-tone-bronzing-creme-P522161",
+  "via": "sephora-api"
+ },
  "westman-atelier-supr-me-bio-complex-liquid-foundation-with-exosomes---peptides": {
   "price": 69,
   "currency": "USD",
@@ -12376,6 +12568,14 @@
   "at": "Neiman Marcus",
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89356636"
+ },
+ "ysl-couture-mini-clutch-mini-eyeshadow-palette": {
+  "price": 69,
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/clutch-eye-shadow-palette-P507353",
+  "via": "sephora-api"
  },
  "yunjac-skin-perfecting-protective-base-prep": {
   "price": 28.8,
