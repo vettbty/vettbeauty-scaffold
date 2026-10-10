@@ -4139,7 +4139,7 @@
   "price": 46,
   "at": "Sephora",
   "checked": "2026-10-10",
-  "url": "https://go.shopmy.us/p-93186625"
+  "url": "https://www.sephora.com/product/cc-cream-color-corrector-for-natural-luminous-finish-P526128"
  },
  "erborian-cc-red-correct--spf25-": {
   "price": 46,
@@ -4310,9 +4310,11 @@
  },
  "est-e-lauder-double-wear-stay-in-place-makeup--spf10-pa---": {
   "price": 52,
-  "at": "Macy's",
-  "checked": "2026-09-26",
-  "url": "https://go.shopmy.us/p-89630348"
+  "currency": "USD",
+  "at": "Sephora",
+  "checked": "2026-10-10",
+  "url": "https://www.sephora.com/product/double-wear-stay-in-place-lightweight-matte-foundation-with-36-hour-wear-P520286",
+  "via": "browser-read"
  },
  "est-e-lauder-revitalizing-supreme--night-power-bounce-cream-moisturizer": {
   "price": 115,
@@ -4653,6 +4655,14 @@
   "checked": "2026-10-10",
   "url": "https://www.shopflamingo.com/products/ingrown-spot-treatment",
   "via": "json-ld"
+ },
+ "flamingo-original-razor": {
+  "price": 8,
+  "currency": "USD",
+  "at": "Flamingo",
+  "checked": "2026-10-10",
+  "url": "https://www.shopflamingo.com/products/razor",
+  "via": "browser-read"
  },
  "flimeal-protein-shake--chocolate-": {
   "price": 39.5,
@@ -6634,6 +6644,14 @@
   "checked": "2026-10-02",
   "url": "https://www.amazon.com/dp/B0FTHPR1HY?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "l-or-al-professional-airlight-pro": {
+  "price": 475,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0DKQ94BFQ?tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "la-dens-better-tongue-cleaner": {
   "price": 9.99,
