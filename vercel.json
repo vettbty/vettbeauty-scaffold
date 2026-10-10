@@ -1722,7 +1722,7 @@
   },
   {
    "source": "/product/estee-lauder-futurist-aqua-brilliance-foundation--spf20-pa----",
-   "destination": "/product/est-e-lauder-futurist-aqua-brilliance-foundation--spf20-pa----",
+   "destination": "/browse",
    "permanent": true
   },
   {
@@ -1957,6 +1957,16 @@
   },
   {
    "source": "/product/juvederm-hydrafacial",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/est-e-lauder-futurist-aqua-brilliance-foundation--spf20-pa----",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/zoryve-cream",
    "destination": "/browse",
    "permanent": true
   },
