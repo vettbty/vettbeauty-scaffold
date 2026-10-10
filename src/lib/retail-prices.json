@@ -507,6 +507,14 @@
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89318986"
  },
+ "amlactin-daily-nourish-body-lotion": {
+  "price": 11.99,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B07BRQC5XZ?th=1&tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "amlactin-kp-bumps-be-gone-cream": {
   "price": 19.99,
   "currency": "USD",
@@ -1008,6 +1016,14 @@
   "url": "https://us.oliveyoung.com/products/UA86803238",
   "via": "browser"
  },
+ "b-box-insulated-flip-top-water-bottle-34-oz-": {
+  "price": 34.95,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0CV77SSFS?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "b-by-banila-cover-lip-base": {
   "price": 18,
   "currency": "USD",
@@ -1290,6 +1306,14 @@
   "checked": "2026-10-01",
   "url": "https://www.beautypie.com/products/super-healthy-skin-deluxe-body-creme"
  },
+ "beauty-power-eyebrow-razor": {
+  "price": 9.99,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0DR7Z94H7?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "beautyofjoseon-ground-rice-and-honey-glow-mask": {
   "price": 16.79,
   "at": "FragranceNet",
@@ -1360,6 +1384,14 @@
   "checked": "2026-10-10",
   "url": "https://www.bellamihair.com/products/halo-pro-hair-extensions-kit-chocolate-brown",
   "via": "json-ld"
+ },
+ "bellissima-italia-diffon-supreme-diffuser-and-curly-hair-dryer": {
+  "price": 169,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0BQ1Y7YP4?tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "bellissima-italia-diffon-supreme-ionic-xl-curly-hair-dryer": {
   "price": 169,
@@ -1691,6 +1723,14 @@
   "checked": "2026-09-24",
   "url": "https://go.shopmy.us/p-88970855"
  },
+ "biore-paint---peel-liquid-pimple-patch": {
+  "price": 14.8,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0FJYLLJYC?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "biore-uv-aqua-rich-watery-essence--spf50--pa-----": {
   "price": 19.99,
   "at": "Ulta",
@@ -1768,6 +1808,13 @@
   "at": "HOLIHOLIC",
   "checked": "2026-10-03",
   "url": "https://holiholic.com/products/bom-light-on-in-shower-body-tone-up-290ml"
+ },
+ "bom-lip-flash-tint": {
+  "price": 20,
+  "currency": "USD",
+  "at": "YesStyle",
+  "checked": "2026-10-10",
+  "url": "https://www.yesstyle.com/en/bom-lip-flash-tint-5-colors-01-fig-blink/info.html/pid.1137993536"
  },
  "bom-peony-garden-perfume-body-mist": {
   "price": 32,
@@ -2200,6 +2247,14 @@
   "at": "harpers-bazaar-uk-best-of-the-best-2026 (browser-verified)",
   "checked": "2026-10-01",
   "url": "https://www.harrods.com/en-gb/p/carolina-herrera-good-girl-eau-de-parfum-80ml-000000000005956717"
+ },
+ "catrice-cosmetics-hd-liquid-coverage-foundation": {
+  "price": 10,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B01M1E53HL?ref=clp_hp_h_pc&tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "caudalie-resveratrol-lift-instant-firming-serum": {
   "price": 84,
@@ -3361,11 +3416,34 @@
   "checked": "2026-09-21",
   "url": "https://go.shopmy.us/p-88322707"
  },
+ "davines-love-smoothing-lightweight-milk-for-frizzy-hair": {
+  "price": 33,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0GRSK271B?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
+ "dazzle-dry-mini-kit-prima-ballerina-4-step-system": {
+  "price": 39,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0962K73ZW?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "dear--klairs-illuminating-supple-blemish-cream--spf40-pa---": {
   "price": 17.5,
   "at": "Stylevana",
   "checked": "2026-09-30",
   "url": "https://www.stylevana.com/en_US/dear-klairs-illuminating-supple-blemish-cream-spf40-pa-40ml61407.html"
+ },
+ "dear-a-cool-fit-primer": {
+  "price": 16.07,
+  "currency": "USD",
+  "at": "YesStyle",
+  "checked": "2026-10-10",
+  "url": "https://www.yesstyle.com/en/dear-a-cool-fit-primer-30ml/info.html/pid.1137203031"
  },
  "dear-a-perfect-cover-concealer-palette": {
   "price": 17.55,
@@ -3374,6 +3452,13 @@
   "checked": "2026-10-10",
   "url": "https://www.yesstyle.com/en/dear-a-perfect-cover-concealer-palette-4-colors-c03/info.html/pid.1128734725",
   "via": "json-ld"
+ },
+ "dear-a-perfect-match-eyeshadow-palette": {
+  "price": 16.92,
+  "currency": "USD",
+  "at": "YesStyle",
+  "checked": "2026-10-10",
+  "url": "https://www.yesstyle.com/en/dear-a-perfect-match-eyeshadow-palette-3-types-01-mauve/info.html/pid.1137203033"
  },
  "dear-a-personal-single-concealer": {
   "price": 7.65,
@@ -4071,6 +4156,14 @@
   "checked": "2026-09-27",
   "url": "https://go.shopmy.us/p-89743286"
  },
+ "ella-bella-ultimate-waver-curling-iron--crimper-hair-tool": {
+  "price": 39,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0DM9Q5PDM?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "elm-biosciences-a3o-elemental-night-cream": {
   "price": 165,
   "currency": "USD",
@@ -4090,6 +4183,14 @@
   "at": "Dermstore",
   "checked": "2026-09-24",
   "url": "https://go.shopmy.us/p-88968004"
+ },
+ "embryolisse-sos-redness-relief-face-cream": {
+  "price": 31.5,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0DVCHVB5Y?lv=shuf&channelId=500&tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "emi-jay-angel-hold-hair-styling-cream": {
   "price": 34,
@@ -4449,6 +4550,14 @@
   "url": "https://www.amazon.com/dp/B0DJTXV6XQ?tag=vettbeauty-20",
   "via": "browser"
  },
+ "eucerin-advanced-repair-lotion": {
+  "price": 12.79,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B003BMJGKE?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "eucerin-even-radiance-brightening-booster-serum": {
   "price": 49.95,
   "at": "DODOSKIN",
@@ -4802,11 +4911,26 @@
   "url": "https://go.shopmy.us/p-89541780",
   "via": "kbeauty-fallback"
  },
+ "fwee-spa-glowing-uv-tone-up-prep--spf50--pa-----": {
+  "price": 16.15,
+  "currency": "USD",
+  "at": "YesStyle",
+  "checked": "2026-10-10",
+  "url": "https://www.yesstyle.com/en/fwee-post-spa-glowing-spf-tone-up-prep-2-types-01-semi-dewy/info.html/pid.1136684837"
+ },
  "g-m--collin-dark-spot-serum": {
   "price": 104,
   "at": "relink after the Amazon ASIN 404d",
   "checked": "2026-10-08",
   "url": "https://www.gmcollin.com/products/dark-spot-serum"
+ },
+ "gemi-hand-sanitizer---serum--mdash--elysium": {
+  "price": 12.99,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0FXS52TGF?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1&tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "genabelle-pdrn-rejuvenating-mask-sheet": {
   "price": 18,
@@ -6279,6 +6403,14 @@
   "url": "https://www.amazon.com/dp/B09RFG7KDJ?tag=vettbeauty-20",
   "via": "browser"
  },
+ "kamill-hand-cream-classic": {
+  "price": 6.99,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B01BRJ8TF0?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "kamill-hand-cream-protect": {
   "price": 7.99,
   "at": "Smallflower",
@@ -6323,6 +6455,14 @@
   "at": "iHerb",
   "checked": "2026-10-10",
   "url": "https://www.iherb.com/pr/kent-ultra-soft-toothbrush-compact-6-toothbrushes/135054",
+  "via": "browser-read"
+ },
+ "kerasal-intensive-foot-repair-ointment": {
+  "price": 8.84,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B000GCNC2U?ref=clp_hp_h_pc&tag=vettbeauty-20",
   "via": "browser-read"
  },
  "kevyn-aucoin-beauty-unforgettable-lip-definer": {
@@ -7080,6 +7220,14 @@
   "url": "https://www.amazon.com/dp/B0000SW8BG?tag=vettbeauty-20",
   "via": "browser"
  },
+ "lumify-redness-relief-eye-drops": {
+  "price": 18.99,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B07BVYZL88?ref=clp_hp_h_pc&th=1&tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "lummir-light-on-eyes-shadow-palette": {
   "price": 44.89,
   "at": "DodoSkin",
@@ -7529,6 +7677,14 @@
   "at": "Sephora",
   "checked": "2026-10-02",
   "url": "https://go.shopmy.us/p-91096740"
+ },
+ "maria-nila-gloss-coat-leave-in-anti-frizz-treatment": {
+  "price": 29,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0FQJSJ9TZ?tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "maria-nila-head---hair-heal-soothing-shampoo-and-conditioner": {
   "price": 37,
@@ -8353,6 +8509,22 @@
   "checked": "2026-09-30",
   "url": "https://coscorea.com/products/neutrogena-intense-repair-foot-cream-56g-foot-care-56g"
  },
+ "neutrogena-ultra-sheer-dry-touch-spf-70": {
+  "price": 9.88,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B005IHT94S?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
+ "nexxus-air-shape-workable-hold-texture-spray": {
+  "price": 15.97,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0FWMJL473?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "nioxin-age-defense-shampoo": {
   "price": 47,
   "currency": "USD",
@@ -8422,6 +8594,14 @@
   "at": "DODOSKIN",
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/nooff-gellyco-therapy-color-shampoo-500ml"
+ },
+ "nooni-lip-oil": {
+  "price": 15,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B07CG7JCT8?tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "not-your-mother-s-curl-talk-lasting-definition-flash-freeze-gel": {
   "price": 10.99,
@@ -8494,6 +8674,13 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B0F64LGYPK?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "numbuzin-no-3-bifida-bakuchiol-zero-pore-serum": {
+  "price": 16.8,
+  "currency": "USD",
+  "at": "YesStyle",
+  "checked": "2026-10-10",
+  "url": "https://www.yesstyle.com/en/numbuzin-no-3-bifida-bakuchiol-zero-pore-serum-30ml/info.html/pid.1137505220"
  },
  "numbuzin-no-3-tingle-pore-softening-sheet-mask": {
   "price": 2.4,
@@ -8571,6 +8758,14 @@
   "at": "DODOSKIN",
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/ohui-day-shield-anti-aging-dark-spot-collagen-tone-up-sunscreen-spf50-pa-50ml"
+ },
+ "o-keeffe-s-healthy-feet-foot-cream": {
+  "price": 9.04,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0002QB9NE?ref=clp_hp_h_pc&th=1&tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "oak-essentials-microbiome-balancing-deodorant": {
   "price": 26,
@@ -8669,6 +8864,14 @@
   "at": "Beauty Bay",
   "checked": "2026-09-26",
   "url": "https://go.shopmy.us/p-89631545"
+ },
+ "ohmia-red-bean-korean-body-lotion": {
+  "price": 34,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0DRJZXFGS?ref=clp_hp_h_pc&tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "olaplex--7-shine-serum-oil-mist": {
   "price": 36,
@@ -11040,6 +11243,14 @@
   "checked": "2026-09-26",
   "url": "https://go.shopmy.us/p-89607544"
  },
+ "surface-curls-shampoo": {
+  "price": 43.25,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B00IYWKF0G?tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "t-else-white-tea-tree-ac-plus-pack-cleanser": {
   "price": 17.55,
   "at": "YesStyle",
@@ -11780,6 +11991,14 @@
   "url": "https://www.amazon.com/dp/B0FL88JWJG?tag=vettbeauty-20",
   "via": "browser"
  },
+ "tresemm--bouncy-curls-cream-jelly": {
+  "price": 7.47,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0FL82T46N?ref=clp_hp_h_pc&tag=vettbeauty-20",
+  "via": "browser-read"
+ },
  "trinny-london-take-back-time-skin-vitality-elixir": {
   "price": 89,
   "at": "Trinny London (brand site)",
@@ -12310,6 +12529,14 @@
   "checked": "2026-10-10",
   "url": "https://wavytalk.com/products/jet-brush-dual-voltage-hot-air-brush",
   "via": "json-ld"
+ },
+ "wella-professionals-ultimate-color-intense-miracle-leave-in-hair-mask": {
+  "price": 25,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B0GM33TVMC?lv=shuf&channelId=500&plpRedirect=mhFallback&tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "wella-professionals-ultimate-repair-5-in-1-protective-leave-in": {
   "price": 30,

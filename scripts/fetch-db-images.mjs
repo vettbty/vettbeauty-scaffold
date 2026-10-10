@@ -13,7 +13,19 @@ for (const l of envFile.split('\n')) {
 const BASE = env.NEXT_PUBLIC_SUPABASE_URL;
 const KEY = env.SUPABASE_SERVICE_ROLE_KEY || env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
-const englishNames = JSON.parse(fs.readFileSync('../src/lib/english-names.json', 'utf-8')).names || {};
+const _overlay = JSON.parse(fs.readFileSync('../src/lib/english-names.json', 'utf-8'));
+const englishNames = _overlay.names || {};
+/**
+ * Brands must be keyed the way the SITE spells them, not the way the database
+ * does. convert-csv.js looks these up as `${product.brand}||${product.name}`
+ * where product.brand has already been through displayBrand() in the export —
+ * so keying the raw database brand here silently loses every product whose
+ * brand the overlay rewrites. Consolidating 185 brand forks on 2026-10-10 took
+ * that from 80 products to ~290, which showed up as 118 products with a
+ * recorded image_url rendering no image at all.
+ */
+const brandOverlay = _overlay.brands || {};
+const displayBrand = b => brandOverlay[String(b).trim()] || b;
 
 async function page(table, select) {
   let all = [], from = 0;
@@ -37,7 +49,7 @@ for (const p of prods) {
   withImage++;
   const en = englishNames[p.id]?.english;
   const name = en || p.product_name;
-  map[`${p.brand}||${name}`] = p.image_url;
+  map[`${displayBrand(p.brand)}||${name}`] = p.image_url;
 }
 fs.writeFileSync('./src/lib/db-images.json', JSON.stringify(map, null, 1));
 console.log(`db products: ${prods.length}, with image: ${withImage}, keys written: ${Object.keys(map).length}`);
