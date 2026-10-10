@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-09",
+ "generated": "2026-10-10",
  "items": [
   {
    "productId": "6c29a9eb-186f-4044-b622-2faa658567f7",
@@ -75,18 +75,6 @@
    "listing": "2.0 oz Air Dry Styler for Light Moisture, Definition + Shine - Odele"
   },
   {
-   "productId": "24a3c832-97ba-4b58-93fb-00bb87003ac3",
-   "brand": "Silver Mirror",
-   "product": "Signature Facial Mask",
-   "retailer": "amazon",
-   "was": 69,
-   "now": 29.67,
-   "percentOff": 57,
-   "url": "https://www.amazon.com/dp/B0DT9Z7CGT",
-   "size": "1.7 fl oz",
-   "listing": "Amazon.com : Silver Mirror Signature Facial Mask, Face Mask 1.7 fl oz & Serum 0.33 fl oz | Skincare Set: Firming Facial "
-  },
-  {
    "productId": "e3ca146c-1f60-421f-8cf6-0ca6614edfcf",
    "brand": "Curlsmith",
    "product": "Curl Defining Styling Soufflé",
@@ -135,6 +123,18 @@
    "listing": "2.1 oz Elnett Satin Extra Strong Hold Hair Spray - L&#x27;Oréal Paris"
   },
   {
+   "productId": "7dad7018-5c04-4c0a-8888-c4689368e7d7",
+   "brand": "BOLDIFY",
+   "product": "Hairline Powder",
+   "retailer": "amazon",
+   "was": 30,
+   "now": 14.99,
+   "percentOff": 50,
+   "url": "https://www.amazon.com/dp/B08N1CWL7S",
+   "size": "4g",
+   "listing": "Amazon.com: Boldify Hairline Powder, Root Touch Up Hair Color Dark Brown 4g | Instantly Fills Thinning Hair & Sparse Hai"
+  },
+  {
    "productId": "0aee5d4f-fcdf-4fcd-92a3-f2511dd8a710",
    "brand": "Burst Oral Care",
    "product": "Precision Whitening Pen",
@@ -145,18 +145,6 @@
    "url": "https://www.amazon.com/dp/B0F4Y5Q7XB",
    "size": "1 Count",
    "listing": "Amazon.com: Burst Precision Whitening Pen | 9% HP (1 Count/45 Whitening Treatments) | Enamel Safe | Vegan | Paraben Free"
-  },
-  {
-   "productId": "1c232e87-1eb4-4b2e-a724-c000673b579c",
-   "brand": "Tide",
-   "product": "Free & Gentle Liquid Laundry Detergent",
-   "retailer": "amazon",
-   "was": 23,
-   "now": 12.34,
-   "percentOff": 46,
-   "url": "https://www.amazon.com/dp/B0CQ3D4H1Y",
-   "size": "105 fl oz",
-   "listing": "Amazon.com: Tide Free & Gentle Liquid Laundry Detergent, 80 Loads, 105 fl oz, Tide Laundry Detergent, Clean Laundry Dete"
   },
   {
    "productId": "4d6160e8-56e4-4398-be86-941ff1b52e5a",
@@ -183,6 +171,18 @@
    "listing": "Hair Steamer for Curly Hair with Diffuser Attachment - Conair"
   },
   {
+   "productId": "3127b806-a206-4f2e-9a7d-7722c923c51f",
+   "brand": "Seen",
+   "product": "Body Wash, Fragrance Free",
+   "retailer": "Dermstore",
+   "was": 24,
+   "now": 13.99,
+   "percentOff": 42,
+   "url": "https://go.shopmy.us/p-79609452",
+   "size": "10oz",
+   "listing": "SEEN Body Wash Fragrance Free 10oz"
+  },
+  {
    "productId": "8bcb6361-4e3b-4897-af09-aea0fdc459a6",
    "brand": "Creme of Nature",
    "product": "Argan Oil from Morocco Moisture & Shine Shampoo",
@@ -207,28 +207,16 @@
    "listing": "Amazon.com: Gillette Venus Intimate Grooming Daily Soothing Serum Reduce Ingrown Hair for Pubic Hair and Skin, Bikini Po"
   },
   {
-   "productId": "7dad7018-5c04-4c0a-8888-c4689368e7d7",
-   "brand": "BOLDIFY",
-   "product": "Hairline Powder",
+   "productId": "42509f64-1b75-4023-9422-99076bee2814",
+   "brand": "Dove",
+   "product": "Aluminum Free Deodorant Spray",
    "retailer": "amazon",
-   "was": 30,
-   "now": 17.95,
-   "percentOff": 40,
-   "url": "https://www.amazon.com/dp/B08N1CWL7S",
-   "size": "4g",
-   "listing": "Amazon.com: Boldify Hairline Powder, Root Touch Up Hair Color Dark Brown 4g | Instantly Fills Thinning Hair & Sparse Hai"
-  },
-  {
-   "productId": "0d0f9e91-0ca8-49ae-ac2f-fa09d15c34d5",
-   "brand": "Garnier Fructis",
-   "product": "Curl Knot Melter",
-   "retailer": "amazon",
-   "was": 9.99,
-   "now": 6.34,
+   "was": 27,
+   "now": 17.06,
    "percentOff": 37,
-   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
-   "size": null,
-   "listing": "Amazon.com : Garnier Fructis Curl Knot Melter Multi-Use Anti-Breakage Detangling Milk, Moisturizing Detangler Spray and "
+   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
+   "size": "4 oz",
+   "listing": "Amazon.com : Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz : B"
   },
   {
    "productId": "093248db-d221-47de-bbeb-1f5e983fcf8b",
@@ -267,18 +255,6 @@
    "listing": "Skin Relief Healing Ointment - Aveeno"
   },
   {
-   "productId": "42509f64-1b75-4023-9422-99076bee2814",
-   "brand": "Dove",
-   "product": "Aluminum Free Deodorant Spray",
-   "retailer": "amazon",
-   "was": 27,
-   "now": 17.99,
-   "percentOff": 33,
-   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
-   "size": "4 oz",
-   "listing": "Amazon.com : Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz : B"
-  },
-  {
    "productId": "9cf45f37-9aaf-4acf-a564-e39b306907e3",
    "brand": "Gillette",
    "product": "Venus Original Razor",
@@ -291,18 +267,6 @@
    "listing": "Amazon.com: Gillette Venus Smooth Razor for Women, Includes 1 Reusable Razor Handle + 2 Count 3-Bladed Refills, Ergonomi"
   },
   {
-   "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
-   "brand": "VOESH",
-   "product": "Hand Balm",
-   "retailer": "Ulta",
-   "was": 18,
-   "now": 12,
-   "percentOff": 33,
-   "url": "https://go.shopmy.us/p-80388348",
-   "size": null,
-   "listing": "Nourishing Hand Balm for Hydrated Hands & Cuticles - VOESH"
-  },
-  {
    "productId": "9cb09fbd-627e-4499-ba57-dc0b3659c2f9",
    "brand": "Aprilskin",
    "product": "Carrotene IPMP Clearing Solution",
@@ -313,6 +277,18 @@
    "url": "https://www.amazon.com/dp/B0B565BHXK",
    "size": null,
    "listing": "Amazon.com: APRILSKIN Carrotene IPMP Clearing Solution | Spot Treatment for Blemishes - BHA, AHA, Niacinamide & Zinc Oxi"
+  },
+  {
+   "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
+   "brand": "VOESH",
+   "product": "Hand Balm",
+   "retailer": "Ulta",
+   "was": 18,
+   "now": 12,
+   "percentOff": 33,
+   "url": "https://go.shopmy.us/p-80388348",
+   "size": null,
+   "listing": "Nourishing Hand Balm for Hydrated Hands & Cuticles - VOESH"
   },
   {
    "productId": "f7ba5492-bb87-4823-a5f5-55a8ab54f220",
@@ -351,16 +327,16 @@
    "listing": "Amazon.com : Creme of Nature Argan Oil From Morocco Creamy Hydration Co-Wash Conditioner | Cleansing co-wash conditioner"
   },
   {
-   "productId": "64380e7b-2682-44ce-a419-8a9840430aab",
-   "brand": "Crest",
-   "product": "3DWhite Deep Stain Remover Toothpaste",
+   "productId": "0d0f9e91-0ca8-49ae-ac2f-fa09d15c34d5",
+   "brand": "Garnier Fructis",
+   "product": "Curl Knot Melter",
    "retailer": "amazon",
-   "was": 13,
-   "now": 8.99,
-   "percentOff": 31,
-   "url": "https://www.amazon.com/dp/B0DPNH9Q9W",
-   "size": "2.1 oz",
-   "listing": "Amazon.com: Crest 3DWhite Deep Stain Remover Ultra White Toothpaste, 2.1 oz (Pack of 1), Whiter Teeth in 1 Day, Enamel S"
+   "was": 9.99,
+   "now": 6.97,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0G1NKWTS2",
+   "size": null,
+   "listing": "Amazon.com : Garnier Fructis Curl Knot Melter Multi-Use Anti-Breakage Detangling Milk, Moisturizing Detangler Spray and "
   },
   {
    "productId": "a5c855a6-fdb2-4b51-a321-86c08accf860",
@@ -375,6 +351,18 @@
    "listing": "Amazon.com: Quip Sonic Electric Toothbrush for Adults, Extra Brush Head, Marine Blue | Includes 2 Brush Heads and Travel"
   },
   {
+   "productId": "1c232e87-1eb4-4b2e-a724-c000673b579c",
+   "brand": "Tide",
+   "product": "Free & Gentle Liquid Laundry Detergent",
+   "retailer": "amazon",
+   "was": 23,
+   "now": 15.99,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0CQ3D4H1Y",
+   "size": "105 fl oz",
+   "listing": "Amazon.com: Tide Free & Gentle Liquid Laundry Detergent, 80 Loads, 105 fl oz, Tide Laundry Detergent, Clean Laundry Dete"
+  },
+  {
    "productId": "b34b3458-bf66-425e-9012-13442a7ac77d",
    "brand": "OLEHENRIKSEN",
    "product": "Sugar Melt Lip Scrub",
@@ -387,16 +375,16 @@
    "listing": "Strawberry Sorbet Pout Preserve Sugar Melt Lip Scrub - OLEHENRIKSEN"
   },
   {
-   "productId": "c4726d38-7c93-4340-bfb6-aac4949035a1",
-   "brand": "Silk'n",
-   "product": "Hair Removal Device",
-   "retailer": "amazon",
-   "was": 599,
-   "now": 419,
+   "productId": "d5f051c7-36a9-4c4e-8a47-812b58d532ba",
+   "brand": "Nexxus",
+   "product": "Keraphix Liquid Crystallizer Treatment",
+   "retailer": "ulta",
+   "was": 30,
+   "now": 20.99,
    "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0D819HDRL",
+   "url": "https://go.shopmy.us/p-80279176",
    "size": null,
-   "listing": "Amazon.com: Silk&#x27;n Infinity Fast Compact IPL Laser Hair Removal Device for Women and Men, Painless Permanent Hair R"
+   "listing": "KERAPHIX Liquid Crystallizer Reconstructive Leave-In Treatment Serum - Nexxus"
   },
   {
    "productId": "dca97e25-a640-4721-abda-235b6fb5e318",
@@ -423,28 +411,28 @@
    "listing": "Advanced Invisible Clean Dry Shampoo - Nexxus"
   },
   {
-   "productId": "087977dc-e91b-4a43-8317-171c35ba9130",
-   "brand": "OWAY",
-   "product": "Curly Hair Co-Wash",
+   "productId": "c4726d38-7c93-4340-bfb6-aac4949035a1",
+   "brand": "Silk'n",
+   "product": "Hair Removal Device",
    "retailer": "amazon",
-   "was": 60,
-   "now": 42,
+   "was": 599,
+   "now": 419,
    "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0B19BRTGN",
-   "size": "240ml",
-   "listing": "Amazon.com : Oway: Curly Hair Bath [240ml] : Beauty & Personal Care"
+   "url": "https://www.amazon.com/dp/B0D819HDRL",
+   "size": null,
+   "listing": "Amazon.com: Silk&#x27;n Infinity Fast Compact IPL Laser Hair Removal Device for Women and Men, Painless Permanent Hair R"
   },
   {
-   "productId": "d5f051c7-36a9-4c4e-8a47-812b58d532ba",
-   "brand": "Nexxus",
-   "product": "Keraphix Liquid Crystallizer Treatment",
-   "retailer": "ulta",
-   "was": 30,
-   "now": 20.99,
+   "productId": "99f4439b-1f39-486e-9669-51b9e169b439",
+   "brand": "Nakery Beauty",
+   "product": "SkinInfusion Power Blend Elixir Serum",
+   "retailer": "amazon",
+   "was": 42,
+   "now": 29.49,
    "percentOff": 30,
-   "url": "https://go.shopmy.us/p-80279176",
-   "size": null,
-   "listing": "KERAPHIX Liquid Crystallizer Reconstructive Leave-In Treatment Serum - Nexxus"
+   "url": "https://www.amazon.com/dp/B0CH42LZL8",
+   "size": "5.07 Fl Oz",
+   "listing": "Amazon.com: Nakery SkinInfusion Facial Oil Serum (5.07 Fl Oz), Anti Aging Collagen Serum with Hyaluronic Acid, Matrixyl "
   },
   {
    "productId": "b0aeb350-cf26-4814-8db4-9fdc08eb5f3f",
@@ -507,18 +495,6 @@
    "listing": "Amazon.com: Dr. Scholl&#x27;s Dry, Cracked Foot Repair Ultra-Hydrating Foot Cream Moisturizer, 3.5 oz, Skin Care Foot Lo"
   },
   {
-   "productId": "99f4439b-1f39-486e-9669-51b9e169b439",
-   "brand": "Nakery Beauty",
-   "product": "SkinInfusion Power Blend Elixir Serum",
-   "retailer": "amazon",
-   "was": 42,
-   "now": 31.62,
-   "percentOff": 25,
-   "url": "https://www.amazon.com/dp/B0CH42LZL8",
-   "size": "5.07 Fl Oz",
-   "listing": "Amazon.com: Nakery SkinInfusion Facial Oil Serum (5.07 Fl Oz), Anti Aging Collagen Serum with Hyaluronic Acid, Matrixyl "
-  },
-  {
    "productId": "dd0c5848-e9c4-4664-85ca-4d8b7cbbc3c4",
    "brand": "Revlon",
    "product": "One-Step Volumizer Hot Air Brush",
@@ -529,6 +505,18 @@
    "url": "https://go.shopmy.us/p-80381072",
    "size": null,
    "listing": "One-Step Volumizer 1.0 Blow-Dryer Brush - Revlon"
+  },
+  {
+   "productId": "087977dc-e91b-4a43-8317-171c35ba9130",
+   "brand": "OWAY",
+   "product": "Curly Hair Co-Wash",
+   "retailer": "amazon",
+   "was": 60,
+   "now": 45.99,
+   "percentOff": 23,
+   "url": "https://www.amazon.com/dp/B0B19BRTGN",
+   "size": "240ml",
+   "listing": "Amazon.com : Oway: Curly Hair Bath [240ml] : Beauty & Personal Care"
   },
   {
    "productId": "dcf0c31b-2a30-4639-b653-dfbd871e06a5",
@@ -579,6 +567,18 @@
    "listing": "1.0 oz Take the Edge Off Stress Relief Tincture - Apothékary"
   },
   {
+   "productId": "d945e531-a6bb-4a5c-9502-927ce2a06d8c",
+   "brand": "goPure",
+   "product": "Tighten & Lift Neck Cream",
+   "retailer": "amazon",
+   "was": 40,
+   "now": 31.99,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0CGB215HR",
+   "size": null,
+   "listing": "Amazon.com: goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of"
+  },
+  {
    "productId": "14ea2ed6-806a-403f-a5da-0ce284b8bed9",
    "brand": "Gold Bond",
    "product": "Healing Sensitive Daily Body & Face Lotion",
@@ -603,18 +603,6 @@
    "listing": "Refining Face Mask with Blue Tansy - Oak Essentials"
   },
   {
-   "productId": "b4fe0b7c-8940-4252-8225-1b9b7243a4c5",
-   "brand": "Panasonic",
-   "product": "Portable Cordless Water Flosser",
-   "retailer": "amazon",
-   "was": 50,
-   "now": 39.99,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0CXTL45Q3",
-   "size": null,
-   "listing": "Amazon.com: Panasonic Water Flosser for Travel, Cordless Portable Oral Irrigator with Two Water Pressure Settings, Colla"
-  },
-  {
    "productId": "49f916f6-691d-4b83-8f97-53f8727cca19",
    "brand": "Lumineux",
    "product": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
@@ -625,18 +613,6 @@
    "url": "https://www.amazon.com/dp/B0DMGP43X5",
    "size": "3.75 oz",
    "listing": "Amazon.com: Lumineux 10% Nano Hydroxyapatite Whitening Toothpaste, 3.75 oz | Fluoride free gentle formula, clinically su"
-  },
-  {
-   "productId": "c7703c1d-217a-4b19-a5f3-a686f8e9188e",
-   "brand": "Secret",
-   "product": "Whole Body Dry Feel Deodorant",
-   "retailer": "amazon",
-   "was": 13.99,
-   "now": 11.29,
-   "percentOff": 19,
-   "url": "https://www.amazon.com/dp/B0CHN19PJX",
-   "size": null,
-   "listing": "Amazon.com : Secret Whole Body Deodorant Stick for Women, Naturally Derived Ingredients, Unscented, Aluminum Free Deoder"
   },
   {
    "productId": "0cfc57b8-2611-443c-8ba6-4744f0f50c87",
@@ -651,12 +627,24 @@
    "listing": "0.5 oz Adapalene 0.1% Acne Treatment Gel - Differin"
   },
   {
+   "productId": "8ca3a47e-4125-472e-b613-7a18af77589a",
+   "brand": "JLo Beauty",
+   "product": "Firming Neck Serum",
+   "retailer": "amazon",
+   "was": 69,
+   "now": 57.3,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B0GJ192QLW",
+   "size": "1.7 Oz",
+   "listing": "Amazon.com: JLO BEAUTY That Spotlight Silhouette Firming Neck & Jawline Serum, 1.7 Oz | Peptides, Red Algae & Growth Fac"
+  },
+  {
    "productId": "5fa38b7b-9de9-435c-97e5-ecdefd4678de",
    "brand": "No7",
    "product": "HydraLuminous+ Day Gel",
    "retailer": "amazon",
    "was": 18,
-   "now": 15.01,
+   "now": 15.02,
    "percentOff": 17,
    "url": "https://www.amazon.com/dp/B0D23WLCXG",
    "size": "1.69 Fl Oz",
@@ -723,18 +711,6 @@
    "listing": "Obagi Medical Professional-C Serum 20% (1 oz.)"
   },
   {
-   "productId": "16b0fc80-ea9d-4180-819a-a8c385dfe8dc",
-   "brand": "OLAY",
-   "product": "Super Cream with Broad Spectrum SPF 30",
-   "retailer": "amazon",
-   "was": 41.29,
-   "now": 34.94,
-   "percentOff": 15,
-   "url": "https://www.amazon.com/dp/B0DHWFWSVF",
-   "size": null,
-   "listing": "Amazon.com: Olay Super Cream with Sunscreen SPF 30, Lightweight Face Moisturizer with Sun Protection, 5-in-1 Skin Care B"
-  },
-  {
    "productId": "7d7d3c17-1047-4f16-87cb-738f14ce3aff",
    "brand": "COSRX",
    "product": "Advanced Snail 96 Mucin Power Essence",
@@ -745,6 +721,18 @@
    "url": "https://go.shopmy.us/p-88563191",
    "size": "3.38 fl. oz",
    "listing": "COSRX Advanced Snail 96 Mucin Power Essence (3.38 fl. oz.)"
+  },
+  {
+   "productId": "16b0fc80-ea9d-4180-819a-a8c385dfe8dc",
+   "brand": "OLAY",
+   "product": "Super Cream with Broad Spectrum SPF 30",
+   "retailer": "amazon",
+   "was": 41.29,
+   "now": 34.94,
+   "percentOff": 15,
+   "url": "https://www.amazon.com/dp/B0DHWFWSVF",
+   "size": null,
+   "listing": "Amazon.com: Olay Super Cream with Sunscreen SPF 30, Lightweight Face Moisturizer with Sun Protection, 5-in-1 Skin Care B"
   }
  ]
 }
