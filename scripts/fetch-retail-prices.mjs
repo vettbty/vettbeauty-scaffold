@@ -24,7 +24,7 @@ const arg = (k) => { const i = process.argv.indexOf(k); return i === -1 ? null :
 const products = JSON.parse(fs.readFileSync('./src/lib/products.json', 'utf8'));
 const store = JSON.parse(fs.readFileSync(OUT, 'utf8'));
 const today = new Date().toISOString().slice(0, 10);
-const KEEP = new Set(['USD', 'GBP', 'EUR']);
+const KEEP = new Set(['USD']); // US dollars only — Sascha, 2026-10-10
 
 const SHOP = {
   'us.oliveyoung.com': 'Olive Young', 'www.spacenk.com': 'Space NK', 'www.harrods.com': 'Harrods',

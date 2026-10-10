@@ -33,6 +33,7 @@ for (const [id, l] of Object.entries(links)) if (l.url) idByUrl.set(l.url, id);
 
 const out = {};
 let fromRetail = 0, fromCard = 0, kept = 0;
+let nonUsd = 0;
 for (const p of products) {
   if (!p.buyLink) continue;
   // Olive Young US prices stand even over a publication price — Korean
@@ -54,7 +55,16 @@ for (const p of products) {
   const { src, ...entry } = best;
   // A verified-link or card price carries no currency; a shop tagged "(UK)"
   // charges pounds, and without this the site printed £9.99 as $9.99.
-  const currency = entry.currency ?? (/\(UK\)/.test(best.at ?? '') ? 'GBP' : undefined);
+  // ...and so does a UK storefront reached directly (Harrods en-gb, Space NK
+  // /uk, Cult Beauty, Lookfantastic, any .co.uk), whose prices the Harper's
+  // Bazaar UK import recorded as bare numbers.
+  const ukSource = /\(UK\)|-uk-|lookfantastic/i.test(best.at ?? '') ||
+    /\.co\.uk\/|\/en-gb\/|spacenk\.com\/uk\/|lookfantastic\.com\/|sephora\.co\.uk|boots\.com\//i.test(p.buyLink);
+  const currency = entry.currency ?? (ukSource ? 'GBP' : undefined);
+  // US dollars only (Sascha, 2026-10-10: "i dont want to quote other
+  // currencies"). A product whose only price is in pounds or euros shows none
+  // until a dollar price is found.
+  if (currency && currency !== 'USD') { nonUsd++; continue; }
   out[p.slug] = { ...entry, ...(currency ? { currency } : {}), at: best.at ?? null, url: p.buyLink };
   if (best.src === 'retail') fromRetail++; else if (best.src === 'card') fromCard++; else kept++;
 }
