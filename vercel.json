@@ -242,7 +242,7 @@
   },
   {
    "source": "/product/est-e-lauder-double-wear-stay-in-place-makeup",
-   "destination": "/product/estee-lauder-double-wear-stay-in-place-makeup--spf10-pa---",
+   "destination": "/product/est-e-lauder-double-wear-stay-in-place-makeup--spf10-pa---",
    "permanent": true
   },
   {
@@ -397,7 +397,7 @@
   },
   {
    "source": "/product/ma-nyo-pure-cleansing-facial-oil",
-   "destination": "/product/ma-nyo-pure-cleansing-oil",
+   "destination": "/product/manyo-pure-cleansing-oil",
    "permanent": true
   },
   {
@@ -411,13 +411,8 @@
    "permanent": true
   },
   {
-   "source": "/product/manyo-pure-cleansing-oil",
-   "destination": "/product/ma-nyo-pure-cleansing-oil",
-   "permanent": true
-  },
-  {
    "source": "/product/manyo-pure-soybean-cleansing-oil",
-   "destination": "/product/ma-nyo-pure-cleansing-oil",
+   "destination": "/product/manyo-pure-cleansing-oil",
    "permanent": true
   },
   {
@@ -1462,6 +1457,506 @@
   },
   {
    "source": "/product/etude-all-day-glass-fit-bb-cream--spf36-pa----",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/fillimilli-point-piece-eyelash--02-clear-daily-",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/pure-cotton-zero-overnight-panties",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/luna-hyper-cover-tip-concealer",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/megrhythm-gentle-steam-eye-mask--lavender-",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/vdl-cheekstain-blusher",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/sengdo-tongue-cleaner",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/etude-curl-fix-skinny-mascara",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/madeca21-teca-solution-soothing-mist-toner",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/arocell-super-collagen-bubble-serum-mask",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/leivy-body-wash--goat-milk-",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/aperire-be-frozen-pore-mask-to-foam-cleanser",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/icd-radiansome-100-microfluidizer-cream",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/tidy-lab-purple-tone-up-sun-cream--spf50--pa-----",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/mongdies-sun-cream--spf50--pa-----",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/cerolabs-deep-pore-cleansing-oil",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/liaisondeloren-pore-cleanser",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/fillimilli-heating-eyelash-curler--rechargeable-",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/ideal-for-men-perfect-all-in-one",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/euthymol-original-toothbrush--regular-",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/vivelab-rosemary---multi-peptide-hair-growth-serum",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/cosnori-easy-eyelash-lift-kit",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/ega-essential-regenerator",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/jung-kwan-jang-everytime-flavor",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/the-tool-lab-happyrim-aqua-puff",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/ul-os-skin-wash",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/for-beaut-texture-shake-spray",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/dear-skin-air-cooling-sanitary-pads",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/yakson-house-golki-lifting-band",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/ofra-cosmetics-mini-highlighter--glazed-donut-",
+   "destination": "/product/ofra-mini-highlighter",
+   "permanent": true
+  },
+  {
+   "source": "/product/ma-nyo-pure-cleansing-oil",
+   "destination": "/product/manyo-pure-cleansing-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/ecotools-better-brush-volumizing-round-brush",
+   "destination": "/product/eco-tools-better-brush-volumizing-round-brush",
+   "permanent": true
+  },
+  {
+   "source": "/product/shea-moisture-coconut-and-hibiscus-define---shine-edge-gel",
+   "destination": "/product/sheamoisture-coconut-and-hibiscus-define---shine-edge-gel",
+   "permanent": true
+  },
+  {
+   "source": "/product/nerr--exfoliating-body-glove-set",
+   "destination": "/product/nerra-exfoliating-body-glove-set",
+   "permanent": true
+  },
+  {
+   "source": "/product/plated-skinscience-eye-serum",
+   "destination": "/product/--plated----skin-science-eye-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/ma-nyo-galac-niacin-3-0-essence",
+   "destination": "/product/manyo-galac-niacin-3-0-essence",
+   "permanent": true
+  },
+  {
+   "source": "/product/mise-en-scene-salon-10-protein-shampoo",
+   "destination": "/product/miseenscene-salon-10-protein-shampoo",
+   "permanent": true
+  },
+  {
+   "source": "/product/philip-b--weightless-miracle-serum",
+   "destination": "/product/philip-b-weightless-miracle-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/tower28-sos-rescue---relief-body-wash",
+   "destination": "/product/tower-28-sos-rescue---relief-body-wash",
+   "permanent": true
+  },
+  {
+   "source": "/product/nerr--the-dry-body-oil",
+   "destination": "/product/nerra-the-dry-body-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/zo-skin-health-soothing-hydro-mist",
+   "destination": "/product/zo--skin-health-soothing-hydro-mist",
+   "permanent": true
+  },
+  {
+   "source": "/product/neurae-harmonie-the-sleeping-mask",
+   "destination": "/product/neura--harmonie-the-sleeping-mask",
+   "permanent": true
+  },
+  {
+   "source": "/product/bior--paint---peel-liquid-pimple-patch",
+   "destination": "/product/biore-paint---peel-liquid-pimple-patch",
+   "permanent": true
+  },
+  {
+   "source": "/product/st-tropez-self-tan-express-bronzing-mousse",
+   "destination": "/product/st--tropez-self-tan-express-bronzing-mousse",
+   "permanent": true
+  },
+  {
+   "source": "/product/g-m-collin-peel-toner-exfoliant",
+   "destination": "/product/g-m--collin-peel-toner-exfoliant",
+   "permanent": true
+  },
+  {
+   "source": "/product/cecred-nourishing-hair-oil",
+   "destination": "/product/c-cred-nourishing-hair-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/i-mfrom-fig-enzyme-powder-cleanser",
+   "destination": "/product/i-m-from-fig-enzyme-powder-cleanser",
+   "permanent": true
+  },
+  {
+   "source": "/product/beautyofjoseon-ground-rice-and-honey-glow-mask",
+   "destination": "/product/beauty-of-joseon-ground-rice-and-honey-glow-mask",
+   "permanent": true
+  },
+  {
+   "source": "/product/roundlab-birch-juice-moisturizing-sun-stick--spf50--pa-----",
+   "destination": "/product/round-lab-birch-juice-moisturizing-sun-stick--spf50--pa-----",
+   "permanent": true
+  },
+  {
+   "source": "/product/makep-rem-uv-defense-me-no-sebum-sun-cream--spf50--pa-----",
+   "destination": "/product/makeprem-uv-defense-me-no-sebum-sun-cream--spf50--pa-----",
+   "permanent": true
+  },
+  {
+   "source": "/product/snature-aqua-rice-mildly-acidic-cleansing-foam",
+   "destination": "/product/s-nature-aqua-rice-mildly-acidic-cleansing-foam",
+   "permanent": true
+  },
+  {
+   "source": "/product/avene-trixera-nutrition-nutri-fluid-lotion",
+   "destination": "/product/av-ne-trixera-nutrition-nutri-fluid-lotion",
+   "permanent": true
+  },
+  {
+   "source": "/product/be-plain-mung-bean-peptide-soothing-cream",
+   "destination": "/product/beplain-mung-bean-peptide-soothing-cream",
+   "permanent": true
+  },
+  {
+   "source": "/product/estee-lauder-futurist-aqua-brilliance-foundation--spf20-pa----",
+   "destination": "/product/est-e-lauder-futurist-aqua-brilliance-foundation--spf20-pa----",
+   "permanent": true
+  },
+  {
+   "source": "/product/elf-cosmetics-smudge-brush",
+   "destination": "/product/e-l-f--cosmetics-smudge-brush",
+   "permanent": true
+  },
+  {
+   "source": "/product/deardahlia-petal-drop-liquid-blush",
+   "destination": "/product/dear-dahlia-petal-drop-liquid-blush",
+   "permanent": true
+  },
+  {
+   "source": "/product/burts-bees-res-q-ointment",
+   "destination": "/product/burt-s-bees-res-q-ointment",
+   "permanent": true
+  },
+  {
+   "source": "/product/loccitane-pure-shea-butter",
+   "destination": "/product/l-occitane-pure-shea-butter",
+   "permanent": true
+  },
+  {
+   "source": "/product/loreal-paris-dream-lengths-restoring-shampoo",
+   "destination": "/product/l-or-al-paris-dream-lengths-restoring-shampoo",
+   "permanent": true
+  },
+  {
+   "source": "/product/head-shoulders-itchy-scalp-care-anti-dandruff-shampoo",
+   "destination": "/product/head---shoulders-itchy-scalp-care-anti-dandruff-shampoo",
+   "permanent": true
+  },
+  {
+   "source": "/product/estee-lauder-double-wear-stay-in-place-makeup--spf10-pa---",
+   "destination": "/product/est-e-lauder-double-wear-stay-in-place-makeup--spf10-pa---",
+   "permanent": true
+  },
+  {
+   "source": "/product/snature-aqua-rice-cleansing-milk",
+   "destination": "/product/s-nature-aqua-rice-cleansing-milk",
+   "permanent": true
+  },
+  {
+   "source": "/product/be-plain-mung-bean-ph-balanced-cleansing-foam",
+   "destination": "/product/beplain-mung-bean-ph-balanced-cleansing-foam",
+   "permanent": true
+  },
+  {
+   "source": "/product/dr-althea-abc-glow-whipped-serum",
+   "destination": "/product/dr--althea-abc-glow-whipped-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/snature-aqua-oasis-moisturizing-gel-cream",
+   "destination": "/product/s-nature-aqua-oasis-moisturizing-gel-cream",
+   "permanent": true
+  },
+  {
+   "source": "/product/be-plain-mung-bean-cleansing-oil",
+   "destination": "/product/beplain-mung-bean-cleansing-oil",
+   "permanent": true
+  },
+  {
+   "source": "/product/be-plain-mung-bean-cooling-moisture-sunscreen--spf50--pa-----",
+   "destination": "/product/beplain-mung-bean-cooling-moisture-sunscreen--spf50--pa-----",
+   "permanent": true
+  },
+  {
+   "source": "/product/holikaholika-my-fave-mood-eye-palette--11-letter-from-spring-",
+   "destination": "/product/holika-holika-my-fave-mood-eye-palette--11-letter-from-spring-",
+   "permanent": true
+  },
+  {
+   "source": "/product/roundlab-pine-calming-cica-lotion",
+   "destination": "/product/round-lab-pine-calming-cica-lotion",
+   "permanent": true
+  },
+  {
+   "source": "/product/makep-rem-pdrn-pore-clay-cleansing-milk",
+   "destination": "/product/makeprem-pdrn-pore-clay-cleansing-milk",
+   "permanent": true
+  },
+  {
+   "source": "/product/roundlab-camellia-deep-collagen-jelly-mask-cleanser",
+   "destination": "/product/round-lab-camellia-deep-collagen-jelly-mask-cleanser",
+   "permanent": true
+  },
+  {
+   "source": "/product/supergoop--scented-play-antioxidant-body-mist-spf-50",
+   "destination": "/product/supergoop-scented-play-antioxidant-body-mist-spf-50",
+   "permanent": true
+  },
+  {
+   "source": "/product/ds---durga-i-don-t-know-what",
+   "destination": "/product/d-s----durga-i-don-t-know-what",
+   "permanent": true
+  },
+  {
+   "source": "/product/dearskin-air-cooling-sanitary-pads",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/medik-8-c-tetra-advanced",
+   "destination": "/product/medik8-c-tetra-advanced",
+   "permanent": true
+  },
+  {
+   "source": "/product/bior--uv-aqua-rich-spf-50",
+   "destination": "/product/biore-uv-aqua-rich-spf-50",
+   "permanent": true
+  },
+  {
+   "source": "/product/l-oreal-paris-everpure-iron-sleek-smoothing-shampoo---conditioner",
+   "destination": "/product/l-or-al-paris-everpure-iron-sleek-smoothing-shampoo---conditioner",
+   "permanent": true
+  },
+  {
+   "source": "/product/ole-henriksen-vanilla-bonbon-pout-preserve-peptide-lip-treatment",
+   "destination": "/product/olehenriksen-vanilla-bonbon-pout-preserve-peptide-lip-treatment",
+   "permanent": true
+  },
+  {
+   "source": "/product/therabreath-whitening-fresh-breath-oral-rinse",
+   "destination": "/product/thera-breath-whitening-fresh-breath-oral-rinse",
+   "permanent": true
+  },
+  {
+   "source": "/product/dr-diamond-s-metacine-liplift",
+   "destination": "/product/dr--diamond-s-metacine-liplift",
+   "permanent": true
+  },
+  {
+   "source": "/product/bumble-and-bumble--thickening-high-drama-styling-foam",
+   "destination": "/product/bumble-and-bumble-thickening-high-drama-styling-foam",
+   "permanent": true
+  },
+  {
+   "source": "/product/l-oreal-paris-revitalift-triple-power-face-serum",
+   "destination": "/product/l-or-al-paris-revitalift-triple-power-face-serum",
+   "permanent": true
+  },
+  {
+   "source": "/product/tweezerman-rockhard-nail-clippers",
+   "destination": "/product/tweezerman-rockhard-cuticle-nipper-2",
+   "permanent": true
+  },
+  {
+   "source": "/product/tweezerman-cuticle-nipper",
+   "destination": "/product/tweezerman-rockhard-cuticle-nipper-2",
+   "permanent": true
+  },
+  {
+   "source": "/product/earlyance-watercolor-lip-tattoo--03-blush-red-",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/the-outset-lip-oasis-glossy-treatment",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/k-rastase-gloss-absolu-bain-hydra-glaze",
+   "destination": "/product/k-rastase-gloss-absolu-bain-hydra-glaze-shampoo",
+   "permanent": true
+  },
+  {
+   "source": "/product/dyson-airwrap-co-anda2x",
+   "destination": "/product/dyson-airwrap-coanda-2x",
+   "permanent": true
+  },
+  {
+   "source": "/product/vivelab-revive-therapy-hair-scalp---brow-ampoule",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/mac-cosmetics-viva-glam",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/skinspirit-clear---even-serum",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/innersense-organic-beauty-color-purity",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/malibu-c-eco-blue-packaging",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/sciton-halo-laser",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/the-tox-lymphatic-drainage-massage",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/kiss-press-on-nails",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/tree-hut-jelly-bear-shea-sugar-scrub",
+   "destination": "/product/tree-hut-shea-sugar-scrub--jelly-bear-",
+   "permanent": true
+  },
+  {
+   "source": "/product/vadiva-stickon-makeup-sponge",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/juvederm-juv-derm",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/juvederm-morpheus8",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/juvederm-hydrafacial",
    "destination": "/browse",
    "permanent": true
   },
