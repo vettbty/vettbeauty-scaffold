@@ -871,6 +871,46 @@
    "permanent": true
   },
   {
+   "source": "/product/resuyeon-intensive-ii-pack",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/themedidr--day-blue-uv-sun-mist--spf50--pa-----",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/kikibloom-bakuchiol-fit-up-cream",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/holika-holika-lash-correcting-care-black-serum",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/lion-ai--kekute-foaming-hand-soap--pure-",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/dr-labnosh-triple-glu",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/holika-holika-luminous-milk-beam-pot",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/torriden-dive-in-cleansing-milk",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
    "source": "/p/:slug",
    "destination": "/product/:slug",
    "permanent": false

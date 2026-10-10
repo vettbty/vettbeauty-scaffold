@@ -52,7 +52,10 @@ for (const p of products) {
   if (!cands.length) continue;
   const best = cands.sort((a, b) => String(b.checked).localeCompare(String(a.checked)))[0];
   const { src, ...entry } = best;
-  out[p.slug] = { ...entry, at: best.at ?? null, url: p.buyLink };
+  // A verified-link or card price carries no currency; a shop tagged "(UK)"
+  // charges pounds, and without this the site printed £9.99 as $9.99.
+  const currency = entry.currency ?? (/\(UK\)/.test(best.at ?? '') ? 'GBP' : undefined);
+  out[p.slug] = { ...entry, ...(currency ? { currency } : {}), at: best.at ?? null, url: p.buyLink };
   if (best.src === 'retail') fromRetail++; else if (best.src === 'card') fromCard++; else kept++;
 }
 fs.writeFileSync(OUT, JSON.stringify(Object.fromEntries(Object.entries(out).sort()), null, 1) + '\n');

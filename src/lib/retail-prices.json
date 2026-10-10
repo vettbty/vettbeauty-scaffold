@@ -61,6 +61,12 @@
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89226297"
  },
+ "2an-better-me-eye-palette": {
+  "price": 27,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://holiholic.com/products/2an-better-me-eye-palette"
+ },
  "2an-dual-cheek": {
   "price": 15.3,
   "currency": "USD",
@@ -298,6 +304,12 @@
   "url": "https://go.shopmy.us/p-83352782",
   "via": "olive-young-search",
   "oy": "https://us.oliveyoung.com/products/UA54410119"
+ },
+ "aestura-atobarrier-365-body-cream": {
+  "price": 33.66,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/aestura-atobarrier-365-body-cream-250ml"
  },
  "aestura-atobarrier-365-cream-mist": {
   "price": 21.49,
@@ -1045,6 +1057,12 @@
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/banobagi-vita-genic-jelly-mask-cica-30g-10ea"
  },
+ "baren-apple-cider-vinegar-foot-shampoo": {
+  "price": 14,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/baren-apple-cider-vinegar-foot-shampoo-400ml"
+ },
  "baren-foot-exfoliant-softener": {
   "price": 8,
   "at": "YesStyle",
@@ -1080,6 +1098,12 @@
   "at": "Walmart",
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89319487"
+ },
+ "bbia-eau-powder-pact": {
+  "price": 12.48,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://dodoskin.com/products/bbia-eau-powder-pact-9g-4-colors"
  },
  "bbia-glow-tint": {
   "price": 9,
@@ -1271,6 +1295,12 @@
   "via": "olive-young-search",
   "oy": "https://us.oliveyoung.com/products/UA79611134"
  },
+ "bepanthol-derma-replenishing-daily-moisture-face-cream": {
+  "price": 29.12,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/bepanthol-derma-replenishing-daily-moisture-face-cream-50ml"
+ },
  "beplain-cicaterol-blemish-pad": {
   "price": 20.95,
   "at": "DODOSKIN",
@@ -1326,6 +1356,12 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B0FR7T7WK2?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "bifium-for-blood-sugar---diet--coffee-flavor-": {
+  "price": 49.4,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/bifium-for-blood-sugar-diet-coffee-flavor-28-sticks-2-week-supply"
  },
  "bifium-retinol-collagen": {
   "price": 32.95,
@@ -1415,6 +1451,14 @@
   "checked": "2026-09-01",
   "url": "https://go.shopmy.us/p-83352132"
  },
+ "bioderma-cicabio-creme-": {
+  "price": 12.25,
+  "currency": "USD",
+  "at": "Beauty Bay",
+  "checked": "2026-10-10",
+  "url": "https://go.shopmy.us/p-89541834",
+  "via": "browser-read"
+ },
  "bioderma-hydrabio-essence-lotion": {
   "price": 22.99,
   "at": "Dermstore",
@@ -1431,6 +1475,7 @@
   "price": 19,
   "at": "Boots (UK)",
   "checked": "2026-10-01",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-90767241"
  },
  "bioderma-sensibio-h2o": {
@@ -1561,6 +1606,15 @@
   "at": "HOLIHOLIC",
   "checked": "2026-10-03",
   "url": "https://holiholic.com/products/bom-light-on-in-shower-body-tone-up-290ml"
+ },
+ "bom-peony-garden-perfume-body-mist": {
+  "price": 32,
+  "list": 33,
+  "currency": "USD",
+  "at": "W Concept",
+  "checked": "2026-10-10",
+  "url": "https://www.wconcept.com/product/bom-perfume-body-mist-110ml/721043377.html",
+  "via": "browser-read"
  },
  "bombas-all-sport-ankle-socks": {
   "price": 55,
@@ -1776,6 +1830,7 @@
   "price": 9.99,
   "at": "Boots.com (UK)",
   "checked": "2026-09-22",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-88344268"
  },
  "byoma-hydrating-milky-toner": {
@@ -1899,6 +1954,12 @@
   "at": "Ulta",
   "checked": "2026-09-01",
   "url": "https://go.shopmy.us/p-83351880"
+ },
+ "cell-fusion-c-advanced-clear-sunscreen-100--spf50--pa-----": {
+  "price": 22.1,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/cell-fusion-c-advanced-clear-sunscreen-100-spf-50-pa-50ml"
  },
  "cell-fusion-c-post---cooling-skin-booster-serum": {
   "price": 20,
@@ -2210,6 +2271,12 @@
   "url": "https://www.amazon.com/dp/B0798HYDYQ?tag=vettbeauty-20",
   "via": "browser"
  },
+ "clio-kill-brow-shaping-powder-brow": {
+  "price": 17.55,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://holiholic.com/products/clio-kill-brow-shaping-powder-brow"
+ },
  "clio-kill-cover-founwear-cushion": {
   "price": 23.2,
   "list": 29,
@@ -2416,6 +2483,12 @@
   "url": "https://us.oliveyoung.com/products/UA21502281",
   "via": "browser"
  },
+ "colorgram-nude-blur-tint-07-geek-rose": {
+  "price": 7.92,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/colorgram-nude-blur-tint-5g-8-colors-to-choose?variant=44529839964316"
+ },
  "colorgram-re-forming-contour-stick": {
   "price": 10.49,
   "at": "YesStyle",
@@ -2513,6 +2586,12 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B0CVS12QYV?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "cosnori-silkrepair-nail-cream": {
+  "price": 11.19,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/cosnori-silk-repair-nail-cream-15ml"
  },
  "cosnori-whitening-dress-whitening-tone-up-cream": {
   "price": 22.7,
@@ -2850,6 +2929,12 @@
   "checked": "2026-09-04",
   "url": "https://go.shopmy.us/p-84131860"
  },
+ "dasique-blooming-single-shadow": {
+  "price": 13.78,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/dasique-blooming-single-shadow"
+ },
  "dasique-chewing-glow-pot": {
   "price": 18,
   "at": "Urban Outfitters",
@@ -2882,6 +2967,12 @@
   "url": "https://go.shopmy.us/p-84131678",
   "via": "olive-young-search",
   "oy": "https://us.oliveyoung.com/products/UA83663296"
+ },
+ "dasique-shadow-palette--07-milk-latte-": {
+  "price": 35.36,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/dasique-shadow-palette-8g?variant=44702489575580"
  },
  "dasique-souffle-color-pot": {
   "price": 17,
@@ -2998,6 +3089,12 @@
   "url": "https://www.amazon.com/dp/B00M48YOEE?tag=vettbeauty-20",
   "via": "browser"
  },
+ "derma-factory-tranexamic-acid-6--cream": {
+  "price": 9.4,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/derma-factory-tranexamic-acid-6-cream-30ml"
+ },
  "dermab-daily-moisture-body-oil-fresh-peach": {
   "price": 17.99,
   "currency": "USD",
@@ -3052,6 +3149,12 @@
   "checked": "2026-10-01",
   "url": "https://www.currentbody.com/products/dermalux-flex-md"
  },
+ "dermatory-pro-vita-a-retinal-under-eye-patch": {
+  "price": 21.82,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://dodoskin.com/products/dermatory-pro-vita-a-retinal-eye-patch-60ea"
+ },
  "desert-essence-100--pure-jojoba-oil": {
   "price": 14.93,
   "at": "iHerb",
@@ -3066,6 +3169,12 @@
   "url": "https://us.oliveyoung.com/products/UA20946252",
   "via": "olive-young-search",
   "oy": "https://us.oliveyoung.com/products/UA20946252"
+ },
+ "dewytree-urban-shade-cool-calming-sun-stick--spf50--pa-----": {
+  "price": 12.09,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/matthew-dewytree-urban-shade-cool-calming-sun-stick-spf-50-pa-20g"
  },
  "dewytree-urban-shade-cover-and-fit-sun--spf50--pa-----": {
   "price": 27.18,
@@ -3200,6 +3309,12 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B0F2GMLQ8P?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "dove-beauty-cream-bar": {
+  "price": 11.94,
+  "at": "iHerb",
+  "checked": "2026-10-06",
+  "url": "https://go.shopmy.us/p-92273375"
  },
  "dove-damage-therapy-defense-bi-phase-serum---oil": {
   "price": 19.97,
@@ -3840,6 +3955,22 @@
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/eucerin-even-radiance-illuminating-serum-30ml"
  },
+ "eucerin-hyaluron-filler---3x-effect-eye-care--spf15-": {
+  "price": 29,
+  "currency": "GBP",
+  "at": "Boots (UK)",
+  "checked": "2026-10-10",
+  "url": "https://go.shopmy.us/p-89744401",
+  "via": "browser-read"
+ },
+ "eucerin-hyaluron-filler--3x-effect-firming-night-care": {
+  "price": 35,
+  "currency": "GBP",
+  "at": "Boots (UK)",
+  "checked": "2026-10-10",
+  "url": "https://go.shopmy.us/p-90523688",
+  "via": "browser-read"
+ },
  "euthymol-whitening-purple-corrector-toothpaste": {
   "price": 15,
   "currency": "USD",
@@ -4005,6 +4136,12 @@
   "url": "https://www.amazon.com/dp/B0D1JGRMVB?tag=vettbeauty-20",
   "via": "browser"
  },
+ "finv-crystal-glow-cushion--spf50--pa-------no--21-light-beige-": {
+  "price": 54.6,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/finv-crystal-glow-cushion-2-colors?variant=45256661074076"
+ },
  "flimeal-protein-shake--chocolate-": {
   "price": 39.5,
   "currency": "USD",
@@ -4038,6 +4175,12 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B0H32VWTL4?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "freshian-egg-like-cream-blush": {
+  "price": 26,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://dodoskin.com/products/freshian-egg-like-cream-blush-6-5g"
  },
  "fromlabs-hair-repair-mask": {
   "price": 25,
@@ -4120,6 +4263,12 @@
   "checked": "2026-10-06",
   "url": "https://go.shopmy.us/p-89541780",
   "via": "kbeauty-fallback"
+ },
+ "g-m--collin-dark-spot-serum": {
+  "price": 104,
+  "at": "relink after the Amazon ASIN 404d",
+  "checked": "2026-10-08",
+  "url": "https://www.gmcollin.com/products/dark-spot-serum"
  },
  "genabelle-pdrn-rejuvenating-mask-sheet": {
   "price": 18,
@@ -4244,6 +4393,12 @@
   "at": "DODOSKIN",
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/goodal-heartleaf-calming-tone-up-sun-cream-spf50-pa-50ml"
+ },
+ "goodal-heartleaf-soothing-blemish-cover-sun-bb--spf50--pa-----": {
+  "price": 22.88,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/goodal-heartleaf-soothing-blemish-cover-sun-bb-spf50-pa-50ml"
  },
  "goodal-heartleaf-soothing-zinc-100-mineral-sunscreen--spf50--pa-----": {
   "price": 24,
@@ -4489,6 +4644,12 @@
   "at": "YesStyle",
   "checked": "2026-09-30",
   "url": "https://www.yesstyle.com/en/hera-sensual-powder-matte-lipstick-9-colors-115-no-problem/info.html/pid.1117612699"
+ },
+ "hera-sensual-powder-matte-liquid": {
+  "price": 40.5,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://dodoskin.com/products/hera-sensual-powder-matte-liquid-5g"
  },
  "hera-silky-stay-24h-longwear-foundation--spf20-pa---": {
   "price": 84.61,
@@ -4814,6 +4975,14 @@
   "url": "https://www.amazon.com/dp/B0858ZPXZ9?tag=vettbeauty-20",
   "via": "browser"
  },
+ "hwahong-m-258-concealer-brush": {
+  "price": 28,
+  "currency": "USD",
+  "at": "W Concept",
+  "checked": "2026-10-10",
+  "url": "https://www.wconcept.com/product/hwahongm-258-wide-concealer-brush/720993026.html",
+  "via": "browser-read"
+ },
  "hydrinity-hyacyn-active": {
   "price": 60,
   "at": "newbeauty-readers-choice-2026",
@@ -4935,6 +5104,12 @@
   "url": "https://us.oliveyoung.com/products/UA62444645",
   "via": "browser"
  },
+ "ilso-pore-cleansing-master": {
+  "price": 15.47,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/ilso-cleansing-brush-pore-cleansing-master-1ea"
+ },
  "ilso-super-melting-sebum-softener": {
   "price": 23.55,
   "list": 24.79,
@@ -4997,6 +5172,12 @@
   "url": "https://go.shopmy.us/p-89617199",
   "via": "olive-young-search",
   "oy": "https://us.oliveyoung.com/products/UA58006170"
+ },
+ "innisfree-daily-uv-no-sebum-sun-powder--spf30-pa---": {
+  "price": 14.56,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/innisfree-daily-uv-no-sebum-sun-powder-4g"
  },
  "innisfree-green-tea-ceramide-milk": {
   "price": 24,
@@ -5246,6 +5427,12 @@
   "url": "https://www.amazon.com/dp/B0CWYZJ832?tag=vettbeauty-20",
   "via": "browser"
  },
+ "javin-de-seoul-wink-foundation-pact--spf50--pa----": {
+  "price": 22.01,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/javin-de-seoul-wink-foundation-pact-spf-50-pa-15g"
+ },
  "javin-de-seoul-wink-lip-shade-primer": {
   "price": 13.6,
   "currency": "USD",
@@ -5447,6 +5634,14 @@
   "at": "Kayali",
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89321172"
+ },
+ "kent-compact-small-head-extra-soft-toothbrush": {
+  "price": 19.95,
+  "currency": "USD",
+  "at": "iHerb",
+  "checked": "2026-10-10",
+  "url": "https://www.iherb.com/pr/kent-ultra-soft-toothbrush-compact-6-toothbrushes/135054",
+  "via": "browser-read"
  },
  "kevyn-aucoin-beauty-unforgettable-lip-definer": {
   "price": 25,
@@ -5680,6 +5875,7 @@
   "price": 6.49,
   "at": "Boots (UK)",
   "checked": "2026-08-23",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-81249746"
  },
  "l-or-al-paris-infallible-blur-fection-longwear-loose-setting-powder": {
@@ -5752,6 +5948,7 @@
   "price": 43.19,
   "at": "Face the Future (UK)",
   "checked": "2026-09-21",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-88312183"
  },
  "la-roche-posay-toleriane-double-repair-face-moisturizer-uv-spf-30": {
@@ -5849,6 +6046,14 @@
   "url": "https://www.amazon.com/dp/B0FFLTKL31?tag=vettbeauty-20",
   "via": "browser"
  },
+ "lalachuu-hair-cushion": {
+  "price": 39.06,
+  "currency": "USD",
+  "at": "LaLaChuu",
+  "checked": "2026-10-10",
+  "url": "https://en.lalachuu.com/product/detail.html?product_no=33",
+  "via": "browser-read"
+ },
  "lalicious-lip-butter-gloss-with-spf-30": {
   "price": 24,
   "at": "newbeauty-readers-choice-2026",
@@ -5883,6 +6088,7 @@
   "price": 29.5,
   "at": "Space NK (UK)",
   "checked": "2026-09-01",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-83354023"
  },
  "laneige-glaze-craze-tinted-lip-serum": {
@@ -5912,6 +6118,7 @@
   "price": 25,
   "at": "Space NK (UK)",
   "checked": "2026-09-01",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-83424466"
  },
  "laneige-water-sleeping-mask": {
@@ -6137,6 +6344,18 @@
   "url": "https://us.oliveyoung.com/products/UA32656103",
   "via": "browser"
  },
+ "luna-grinding-conceal-butter": {
+  "price": 17.95,
+  "at": "Holiholic",
+  "checked": "2026-10-09",
+  "url": "https://holiholic.com/products/luna-grinding-conceal-butter-10g"
+ },
+ "luna-hyper-fluid-foundation--spf30-pa---": {
+  "price": 21.45,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/luna-hyper-fluid-foundation-4-colors"
+ },
  "luna-long-lasting-corrector": {
   "price": 14.95,
   "at": "MissA",
@@ -6157,6 +6376,14 @@
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89359714"
  },
+ "lush-intergalactic-bath-bomb": {
+  "price": 9,
+  "currency": "USD",
+  "at": "Lush",
+  "checked": "2026-10-10",
+  "url": "https://www.lush.com/us/en_us/p/intergalactic-bath-bomb",
+  "via": "browser-read"
+ },
  "lush-ro-s-argan-body-conditioner": {
   "price": 40,
   "at": "Ulta",
@@ -6168,6 +6395,22 @@
   "at": "Brand site",
   "checked": "2026-09-26",
   "url": "https://lush.com.ph/products/sex-bomb-bath-bomb"
+ },
+ "lush-the-comforter-bubble-bar": {
+  "price": 13,
+  "currency": "USD",
+  "at": "Lush",
+  "checked": "2026-10-10",
+  "url": "https://www.lush.com/uk/en/p/the-comforter-bubble-bar",
+  "via": "browser-read"
+ },
+ "lush-violet-cream-conditioner": {
+  "price": 16,
+  "currency": "USD",
+  "at": "Lush",
+  "checked": "2026-10-10",
+  "url": "https://www.lush.com/ca/en_ca/p/violet-cream-conditioner",
+  "via": "browser-read"
  },
  "lys-beauty-no-limits-cream-bronzer-stick": {
   "price": 24,
@@ -6320,6 +6563,14 @@
   "at": "Sephora",
   "checked": "2026-09-21",
   "url": "https://go.shopmy.us/p-88310160"
+ },
+ "maldda-collagen-anti-sebum-p-hydrogel-overnight-mask---booster-shot": {
+  "price": 33,
+  "currency": "USD",
+  "at": "W Concept",
+  "checked": "2026-10-10",
+  "url": "https://www.wconcept.com/product/1step-malta-collagen-anti-sebum-p-hydrogel-overnight-mask-booster-shot-set/720687286.html",
+  "via": "browser-read"
  },
  "mamonde-amazing-deep-mint-cleansing-balm": {
   "price": 22,
@@ -6656,6 +6907,14 @@
   "url": "https://www.amazon.com/dp/B0DY17SGN7?tag=vettbeauty-20",
   "via": "browser"
  },
+ "mediheal-derma-cream-madecassoside-blemish-repair": {
+  "price": 20,
+  "currency": "GBP",
+  "at": "Boots (UK)",
+  "checked": "2026-10-10",
+  "url": "https://go.shopmy.us/p-83755737",
+  "via": "browser-read"
+ },
  "mediheal-derma-cream-pdrn-lifting": {
   "price": 17.25,
   "currency": "USD",
@@ -6663,6 +6922,14 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B0G46P2FCR?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "mediheal-derma-creampack-cleanser-madecassoside-calming-barrier": {
+  "price": 18.5,
+  "currency": "GBP",
+  "at": "Boots (UK)",
+  "checked": "2026-10-10",
+  "url": "https://go.shopmy.us/p-83755759",
+  "via": "browser-read"
  },
  "mediheal-derma-modeling-pack-teatree-calming": {
   "price": 5.95,
@@ -6987,6 +7254,14 @@
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89318932"
  },
+ "monorik-mono-sheer-lip-palette": {
+  "price": 30,
+  "currency": "USD",
+  "at": "W Concept",
+  "checked": "2026-10-10",
+  "url": "https://www.wconcept.com/product/mono-sheer-lip-palette-5-4g/720962635.html",
+  "via": "browser-read"
+ },
  "mooncat-pearl-clutcher": {
   "price": 17,
   "at": "Mooncat",
@@ -7011,6 +7286,7 @@
   "price": 16,
   "at": "Sephora (UK)",
   "checked": "2026-09-24",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-88971376"
  },
  "morphe-lifeproof-continuous-setting-mist": {
@@ -7025,11 +7301,23 @@
   "checked": "2026-09-26",
   "url": "https://go.shopmy.us/p-89631505"
  },
+ "ms44-super-cooling-powder-sheet--clean-soap-": {
+  "price": 5.94,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/ms44-super-cooling-powder-sheet-15-sheets-choose-1-out-of-3-options?variant=44227487531164"
+ },
  "mude-eyelash-serum-shot": {
   "price": 15.95,
   "at": "DODOSKIN",
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/mude-eyelash-serum-shot-6-5g"
+ },
+ "mude-inspire-skinny-brow-cara": {
+  "price": 18.95,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://holiholic.com/products/mude-inspire-skinny-brow-cara"
  },
  "mude-multi-fixer-mascara": {
   "price": 11.2,
@@ -7205,6 +7493,14 @@
   "checked": "2026-09-24",
   "url": "https://go.shopmy.us/p-88970988"
  },
+ "nivea-pearl---beauty-anti-perspirant-deodorant-spray": {
+  "price": 2.75,
+  "currency": "GBP",
+  "at": "Boots (UK)",
+  "checked": "2026-10-10",
+  "url": "https://go.shopmy.us/p-89742898",
+  "via": "browser-read"
+ },
  "nivea-sos-repair---care-body-lotion": {
   "price": 45.8,
   "at": "Ballagrio",
@@ -7248,6 +7544,14 @@
   "at": "DODOSKIN",
   "checked": "2026-10-03",
   "url": "https://dodoskin.com/products/not4u-fresh-on-scalp-mist-80ml"
+ },
+ "notseeback-nsbk-pink-aloe-soothing-gel": {
+  "price": 2.5,
+  "currency": "USD",
+  "at": "Five Below",
+  "checked": "2026-10-10",
+  "url": "https://www.fivebelow.com/products/nsbk-pink-aloe-soothing-gel-101oz-9236293",
+  "via": "browser-read"
  },
  "now---than-essential-hair-oil": {
   "price": 22.3,
@@ -7323,6 +7627,12 @@
   "url": "https://www.amazon.com/dp/B0CVN8CMJD?tag=vettbeauty-20",
   "via": "browser"
  },
+ "nuse-reju-toning-sun-cushion--spf50--pa-----": {
+  "price": 28,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/nuse-reju-toning-sun-cushion-14g-5-shades"
+ },
  "nutexture-bouncy-lip-treatment": {
   "price": 23.99,
   "at": "Beauty Box Korea",
@@ -7339,6 +7649,7 @@
   "price": 27,
   "at": "Look Fantastic (UK)",
   "checked": "2026-09-01",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-83355552"
  },
  "o-hui-day-shield-dark-spot-collagen-tone-up-sun--spf50--pa-----": {
@@ -7396,6 +7707,12 @@
   "at": "Octavia Morgan",
   "checked": "2026-09-25",
   "url": "https://octaviamorgan.com/products/vanillin-supreme-edp"
+ },
+ "oddtype-so-touchable-water-blush": {
+  "price": 29,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://holiholic.com/products/oddtype-so-touchable-water-blush"
  },
  "oderoi-black-cherry-pore-tightening-cream-luftig": {
   "price": 19.99,
@@ -7468,6 +7785,78 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B0G4B5HLVQ?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "olens-glowy-ash-gray": {
+  "price": 31,
+  "currency": "USD",
+  "at": "OLENS",
+  "checked": "2026-10-10",
+  "url": "https://www.olensglobal.com/product/933",
+  "via": "browser-read"
+ },
+ "olens-glowy-black": {
+  "price": 31,
+  "currency": "USD",
+  "at": "OLENS",
+  "checked": "2026-10-10",
+  "url": "https://www.olensglobal.com/product/935",
+  "via": "browser-read"
+ },
+ "olens-glowy-natural-mocha-brown": {
+  "price": 31,
+  "currency": "USD",
+  "at": "OLENS",
+  "checked": "2026-10-10",
+  "url": "https://www.olensglobal.com/product/1380",
+  "via": "browser-read"
+ },
+ "olens-mood-night-mood-brown": {
+  "price": 31,
+  "currency": "USD",
+  "at": "OLENS",
+  "checked": "2026-10-10",
+  "url": "https://www.olensglobal.com/product/1045",
+  "via": "browser-read"
+ },
+ "olens-mood-night-mood-gray": {
+  "price": 31,
+  "currency": "USD",
+  "at": "OLENS",
+  "checked": "2026-10-10",
+  "url": "https://www.olensglobal.com/product/1044",
+  "via": "browser-read"
+ },
+ "olens-real-ring-brown": {
+  "price": 31,
+  "currency": "USD",
+  "at": "OLENS",
+  "checked": "2026-10-10",
+  "url": "https://www.olensglobal.com/product/1139",
+  "via": "browser-read"
+ },
+ "olens-real-ring-gray": {
+  "price": 31,
+  "currency": "USD",
+  "at": "OLENS",
+  "checked": "2026-10-10",
+  "url": "https://www.olensglobal.com/product/1140",
+  "via": "browser-read"
+ },
+ "olens-vivi-ring-1day-brown": {
+  "price": 23,
+  "currency": "USD",
+  "at": "OLENS",
+  "checked": "2026-10-10",
+  "url": "https://www.olensglobal.com/product/536",
+  "via": "browser-read"
+ },
+ "olens-vivi-ring-choco": {
+  "price": 31,
+  "currency": "USD",
+  "at": "OLENS",
+  "checked": "2026-10-10",
+  "url": "https://www.olensglobal.com/product/461",
+  "via": "browser-read"
  },
  "olive---june-instant-mani-press-ons": {
   "price": 110,
@@ -7788,6 +8177,12 @@
   "checked": "2026-09-26",
   "url": "https://www.yesstyle.com/en/peripera-all-take-mood-like-palette-peritage-collection-2-types-02/info.html/pid.1122182638"
  },
+ "peripera-all-take-mood-palette": {
+  "price": 23.27,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://dodoskin.com/products/us-exclusive-peripera-all-take-mood-palette-6-8g"
+ },
  "peripera-blurry-tok-cheek": {
   "price": 13.99,
   "currency": "USD",
@@ -7978,6 +8373,14 @@
   "checked": "2026-10-01",
   "url": "https://www.spacenk.com/uk/skincare/treatment/serums/redness-reform-soothing-serum-MUK200065346.html"
  },
+ "primera-mild---perfect-cleansing-oil-to-foam": {
+  "price": 19,
+  "currency": "GBP",
+  "at": "Boots (UK)",
+  "checked": "2026-10-10",
+  "url": "https://go.shopmy.us/p-89383940",
+  "via": "browser-read"
+ },
  "primera-mild-and-perfect-facial-peeling": {
   "price": 23.46,
   "currency": "USD",
@@ -8006,6 +8409,7 @@
   "price": 13.99,
   "at": "Boots (UK)",
   "checked": "2026-09-27",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-89383999"
  },
  "primera-vitatinol-intense-bouncy-lift-mask-cream": {
@@ -8013,6 +8417,14 @@
   "at": "YesStyle",
   "checked": "2026-09-26",
   "url": "https://www.yesstyle.com/en/primera-vitatinol-intense-bouncy-lift-mask-cream-30ml/info.html/pid.1138028513"
+ },
+ "primera-vitatinol-serum-mega-shot-gel-mask": {
+  "price": 25,
+  "currency": "GBP",
+  "at": "Boots (UK)",
+  "checked": "2026-10-10",
+  "url": "https://go.shopmy.us/p-89383914",
+  "via": "browser-read"
  },
  "primera-youth-radiance-vitatinol-serum": {
   "price": 37.95,
@@ -8174,6 +8586,7 @@
   "price": 74.95,
   "at": "Beauty Bay (UK)",
   "checked": "2026-09-25",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-89222578"
  },
  "revlon-salon-one-step-hair-dryer-and-volumizer": {
@@ -8232,6 +8645,12 @@
   "url": "https://www.rodanandfields.com/en-us/shop/r-f-lash-boost/p/ENHLSH01",
   "via": "json-ld"
  },
+ "rom-nd-better-than-contour": {
+  "price": 21.29,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://dodoskin.com/products/rom-nd-better-than-contour-20-5g"
+ },
  "rom-nd-dewy-ful-water-tint": {
   "price": 14,
   "currency": "USD",
@@ -8248,6 +8667,12 @@
   "url": "https://go.shopmy.us/p-83425971",
   "via": "olive-young-search",
   "oy": "https://us.oliveyoung.com/products/UA78112942"
+ },
+ "rom-nd-han-all-brow-cara": {
+  "price": 17.5,
+  "at": "Holiholic",
+  "checked": "2026-10-09",
+  "url": "https://holiholic.com/products/romand-han-all-brow-cara"
  },
  "rom-nd-han-all-fix-mascara": {
   "price": 12,
@@ -8573,12 +8998,14 @@
   "price": 23,
   "at": "Space NK (UK)",
   "checked": "2026-09-21",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-88318935"
  },
  "saltair-salt-water-vanilla-multi-lipid-body-butter": {
   "price": 18.4,
   "at": "Space NK (UK)",
   "checked": "2026-09-25",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-89317438"
  },
  "salvatore-ferragamo-incanto-charms-eau-de-toilette": {
@@ -8947,6 +9374,12 @@
   "checked": "2026-10-01",
   "url": "https://www.lookfantastic.com/p/skinceuticals-p-tiox-anti-wrinkle-cream-48ml/17886921/"
  },
+ "skinfood-berry-moisturizing-sun-cream--spf50--pa-----": {
+  "price": 22,
+  "at": "Holiholic",
+  "checked": "2026-10-09",
+  "url": "https://holiholic.com/products/skinfood-berry-moisturizing-sun-cream-spf-50-pa-50ml"
+ },
  "skinfood-black-sugar-perfect-essential-scrub-2x": {
   "price": 22,
   "currency": "USD",
@@ -8988,6 +9421,14 @@
   "url": "https://go.shopmy.us/p-90767408",
   "via": "olive-young-search",
   "oy": "https://us.oliveyoung.com/products/UA24356409"
+ },
+ "skinfood-choco-eyebrow-powder-cake": {
+  "price": 11,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-10",
+  "url": "https://www.amazon.com/dp/B00EBZDW50?tag=vettbeauty-20",
+  "via": "browser-read"
  },
  "skinfood-lemongrass-niacinamide-5-pad": {
   "price": 18.3,
@@ -9059,6 +9500,15 @@
   "checked": "2026-09-26",
   "url": "https://www.dodoskin.com/products/slowment-flooding-first-essence-210ml"
  },
+ "slowment-lifting-tension-cream-coating-mask": {
+  "price": 50,
+  "list": 54,
+  "currency": "USD",
+  "at": "W Concept",
+  "checked": "2026-10-10",
+  "url": "https://www.wconcept.com/product/lifting-tension-cream-coating-mask-5-sheets-/720600559.html",
+  "via": "browser-read"
+ },
  "smashbox-photo-finish-pore-vanishing-primer": {
   "price": 35,
   "at": "Smashbox",
@@ -9090,6 +9540,12 @@
   "at": "MissA",
   "checked": "2026-09-25",
   "url": "https://go.shopmy.us/p-89389904"
+ },
+ "so-natural-all-day-lip-prep-fixx": {
+  "price": 17.5,
+  "at": "Holiholic",
+  "checked": "2026-10-09",
+  "url": "https://holiholic.com/products/so-natural-powder4room-all-day-lip-prep-fixx-10ml"
  },
  "so-natural-all-day-tight-make-up-setting-fixer": {
   "price": 18.89,
@@ -9398,6 +9854,12 @@
   "url": "https://us.oliveyoung.com/products/UA21280670",
   "via": "browser"
  },
+ "teo-and-the-ceramic-hangang-sunset-blush": {
+  "price": 15.34,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://dodoskin.com/products/teo-and-the-ceramic-hangang-sunset-blush-4-colors"
+ },
  "tgin--thank-god-it-s-natural--scalp-clarifying-shampoo": {
   "price": 16.99,
   "at": "Ulta",
@@ -9479,6 +9941,7 @@
   "price": 9.55,
   "at": "LOOKFANTASTIC (UK)",
   "checked": "2026-09-21",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-88311286"
  },
  "the-lab-by-blanc-doux-oligo-hyaluronic-acid-deep-toner": {
@@ -9672,6 +10135,7 @@
   "price": 15,
   "at": "Face the Future (UK)",
   "checked": "2026-09-01",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-83423520"
  },
  "tocobo-juicy-berry-plumping-lip-oil": {
@@ -9787,6 +10251,12 @@
   "url": "https://us.oliveyoung.com/products/UA48843505",
   "via": "browser"
  },
+ "too-cool-for-school-veiled-contour": {
+  "price": 19.37,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/too-cool-for-school-veiled-contour-blending-puff-4-colors"
+ },
  "too-faced-born-this-way-super-glow-complexion-enhancer": {
   "price": 39,
   "at": "Sephora",
@@ -9826,6 +10296,12 @@
   "checked": "2026-10-01",
   "url": "https://us.oliveyoung.com/products/UA74548371",
   "via": "browser"
+ },
+ "torhop-kaamos-black-salt-foaming-cleanser": {
+  "price": 21.5,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/torhop-kaamos-black-salt-foaming-cleanser-130g"
  },
  "torhop-saunan-heating-salt-mask": {
   "price": 39.5,
@@ -10116,6 +10592,18 @@
   "checked": "2026-09-01",
   "url": "https://go.shopmy.us/p-83352439"
  },
+ "unove-volume-up-curling-essence": {
+  "price": 24.26,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/unove-volume-up-curling-essence-147ml"
+ },
+ "unove-water-essence-mist": {
+  "price": 18.89,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/unove-water-essence-mist-200ml"
+ },
  "urban-decay-all-nighter-waterproof-makeup-setting-spray": {
   "price": 34,
   "at": "Sephora",
@@ -10166,6 +10654,12 @@
   "checked": "2026-09-21",
   "url": "https://go.shopmy.us/p-88318752"
  },
+ "vdl-cover-stain-high-cover-cushion": {
+  "price": 42.12,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/vdl-cover-stain-high-cover-cushion-spf35-pa-13g-6-colors"
+ },
  "vdl-cover-stain-perfecting-cushion--spf35-pa---": {
   "price": 33.66,
   "at": "DODOSKIN",
@@ -10185,6 +10679,18 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B07CXMJN8B?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "vdl-tone-stain-color-correcting-cushion--spf50--pa----": {
+  "price": 25.48,
+  "at": "DODOSKIN",
+  "checked": "2026-10-09",
+  "url": "https://dodoskin.com/products/vdl-tone-stain-color-correcting-cushion-2-colors"
+ },
+ "vdl-tone-stain-color-correcting-primer--spf20-pa---": {
+  "price": 24,
+  "at": "Holiholic",
+  "checked": "2026-10-09",
+  "url": "https://holiholic.com/products/vdl-tone-stain-color-correcting-primer-30ml"
  },
  "veganifect-clean-and-glow-green-barley-gel-cleanser": {
   "price": 20.7,
@@ -10252,6 +10758,7 @@
   "price": 19,
   "at": "VIEVE (UK)",
   "checked": "2026-08-22",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-80970280"
  },
  "vieve-modern-brow-definer": {
@@ -10364,6 +10871,12 @@
   "url": "https://www.amazon.com/dp/B0BRNTMTQZ?tag=vettbeauty-20",
   "via": "browser"
  },
+ "wakemake-defining-cover-concealer": {
+  "price": 14.55,
+  "at": "kbeauty-retailer sweep (shopify suggest + product JSON, in stock, reviewed by hand)",
+  "checked": "2026-10-08",
+  "url": "https://holiholic.com/products/wakemake-defining-cover-concealer-6g"
+ },
  "wakemake-dewy-gel-glaze-stick": {
   "price": 17.09,
   "at": "YesStyle",
@@ -10429,6 +10942,7 @@
   "price": 35,
   "at": "Boots (UK)",
   "checked": "2026-08-23",
+  "currency": "GBP",
   "url": "https://go.shopmy.us/p-81250026"
  },
  "wellage-hyper-peptide-bandage-cream": {
@@ -10526,6 +11040,15 @@
   "at": "Brand site",
   "checked": "2026-09-30",
   "url": "https://withshyan.net/product/nail-remover-refresh-nail-remover/2290/"
+ },
+ "wollyo-tea-tree-green-body-wash": {
+  "price": 22,
+  "list": 35,
+  "currency": "USD",
+  "at": "Hemeko",
+  "checked": "2026-10-10",
+  "url": "https://global.hemeko.com/us/store/products/890",
+  "via": "browser-read"
  },
  "wonderskin-1440-longwear-eyeliner": {
   "price": 18,
