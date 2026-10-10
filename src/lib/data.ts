@@ -148,6 +148,14 @@ export const awardPrograms: AwardProgram[] = [
 
 export const pressArticles: PressArticle[] = [
   {
+    id: '5',
+    title: 'Three Editors Test the Viral Medicube PDRN Serum—and It’s 20% Off for Prime Day',
+    source: 'Glamour',
+    sourceUrl: 'https://www.glamour.com/story/medicube-pdrn-serum-review',
+    productName: 'medicube PDRN Pink Peptide Serum',
+    productSlug: 'medicube-pdrn-pink-peptide-serum',
+  },
+  {
     id: '3',
     title: 'The Reformulated SkinCeuticals C E Ferulic Is Even Better Than I Expected',
     source: 'Vogue',
