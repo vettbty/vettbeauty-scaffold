@@ -115,6 +115,10 @@ export const awardPrograms: AwardProgram[] = [
   // France, not US — the Prix d'Excellence is Marie Claire France's programme,
   // and the publications table has always said so.
   { id: '3', name: 'Marie Claire Prix d\'Excellence', edition: '2026', winnerCount: 19, announcedDate: 'May 2026', region: 'France' },
+  // Marie Claire merged its Skin & Hair and Makeup awards for 2026 and added
+  // Nails, Body Care and Drugstore. 213 winners, and unusually the publication
+  // prints a retailer URL for every one, so 211 of 213 arrived buyable.
+  { id: '17', name: 'Marie Claire Beauty Awards', edition: '2026', winnerCount: 213, announcedDate: 'Oct 2026', region: 'US', recordName: 'Marie Claire Beauty Awards', justAdded: true },
   { id: '5', name: 'Marie Claire Reader\'s Choice', edition: '2026', winnerCount: 57, announcedDate: '15 Apr 2026', region: 'US', justAdded: true },
   { id: '4', name: 'NewBeauty Annual Awards', edition: '2026', winnerCount: 357, announcedDate: '31 Mar 2026', region: 'US' },
   { id: '12', name: 'Glamour Beauty Awards', edition: '2026', winnerCount: 248, announcedDate: '18 Mar 2026', region: 'US' },
