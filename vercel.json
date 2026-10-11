@@ -1971,6 +1971,51 @@
    "permanent": true
   },
   {
+   "source": "/product/alumiermd-intelliret-0-3-",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/absolute-collagen-sculpt-pro--advanced-daily-nutritional-supplement",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/augustinus-bader-the-solar-shield-spf50",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/kama-ayurveda-bringaras-scalp---hair-oil",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/josh-wood-colour-miracle-defence-spray",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/color-wow-get-in-shape-hair-spray",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/tresemm--thermo-sculpt-memory-shampoo",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/institut-esthederm-adaptasun-hydro-protective-sheer-fluid",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
+   "source": "/product/no7-good-intent-pocket-pebble-nourishing-hand-cream",
+   "destination": "/browse",
+   "permanent": true
+  },
+  {
    "source": "/p/:slug",
    "destination": "/product/:slug",
    "permanent": false
