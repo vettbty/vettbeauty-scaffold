@@ -94,7 +94,29 @@ export function priceLabel(p: Product): string | null {
 // 2026-09-28: "whats the point of featuring them".
 export const shoppable: Product[] = products2026.filter(p => p.buyLink);
 
-export const awardPrograms: AwardProgram[] = [
+/**
+ * Winner counts are COMPUTED, not stated.
+ *
+ * They used to be hand-written, which meant every deletion, merge or re-import
+ * silently turned a programme header into a false claim: on 2026-10-12 seven of
+ * seventeen were wrong, Hwahae by 199. On a site whose entire proposition is an
+ * accurate record, a header reading "408 winners" above 209 products is the
+ * worst kind of error — confident, prominent and invisible to us.
+ *
+ * `stated` is kept only as documentation of what the publication announced;
+ * where it differs from what we hold, that gap is real and belongs in the award
+ * file's _count_note, not painted over on the homepage.
+ */
+function winnersOnSite(prog: { name: string; edition: string; recordName?: string }): number {
+  const rec = prog.recordName || prog.name;
+  // Two shapes: "<pub> — <award> (<year>)" for US/UK programmes, and
+  // "<pub> (<year>)" for the Korean ones, which publish no per-winner award.
+  return products2026.filter(p => (p.awardsWon || []).some(w =>
+    (w.startsWith(`${rec} — `) || w.startsWith(`${rec} (`)) && w.endsWith(`(${prog.edition})`)
+  )).length;
+}
+
+const awardProgramsRaw: AwardProgram[] = [
   // Newest first. This list had drifted badly out of step with the record: it
   // showed 8 programmes while the database held 14 for 2026, so Cosmopolitan's
   // 342-winner Holy Grail class, Glamour's 248 and both Harper's Bazaar
@@ -109,7 +131,7 @@ export const awardPrograms: AwardProgram[] = [
   { id: '8', name: 'NewBeauty Readers\' Choice', edition: '2026', winnerCount: 104, announcedDate: '29 Sep 2026', region: 'US', recordName: 'NewBeauty Readers Choice', justAdded: true },
   { id: '6', name: 'Allure Best of Beauty', edition: '2026', winnerCount: 307, announcedDate: '15 Sep 2026', region: 'US', justAdded: true },
   { id: '7', name: 'Cosmopolitan Readers\' Choice', edition: '2026', winnerCount: 126, announcedDate: '2 Sep 2026', region: 'US', recordName: 'Cosmopolitan Readers Choice', justAdded: true },
-  { id: '1', name: 'Allure Readers\' Choice', edition: '2026', winnerCount: 66, announcedDate: 'Jun 2026', region: 'US' },
+  { id: '1', name: 'Allure Readers\' Choice', edition: '2026', winnerCount: 66, announcedDate: 'Jun 2026', region: 'US', recordName: 'Allure Readers Choice' },
   { id: '2', name: 'InStyle Best Beauty Buys', edition: '2026', winnerCount: 154, announcedDate: '20 May 2026', region: 'US' },
   // Cosmopolitan runs two programmes a year. This is the editor-judged Holy
   // Grail class; the reader-voted one is listed above. The record name stays
@@ -145,6 +167,11 @@ export const awardPrograms: AwardProgram[] = [
   { id: '13', name: 'Glowpick Awards', edition: '2026', winnerCount: 491, announcedDate: 'H1 2026', region: 'Korea' },
   { id: '14', name: 'Hwahae Beauty Awards', edition: '2026', winnerCount: 408, announcedDate: '2026', region: 'Korea' },
 ];
+
+export const awardPrograms: AwardProgram[] = awardProgramsRaw.map(p => ({
+  ...p,
+  winnerCount: winnersOnSite(p) || p.winnerCount,   // fall back only if nothing matches
+}));
 
 export const pressArticles: PressArticle[] = [
   {
