@@ -694,6 +694,46 @@
    ]
   },
   {
+   "brand": "Secret",
+   "product": "Clinical With Hyaluronic Acid + Vitiman Pack",
+   "retailer": "Amazon",
+   "was": 13.97,
+   "now": 9.99,
+   "percentOff": 28,
+   "url": "https://www.amazon.com/dp/B00HF3XSO0?tag=vettbeauty-20",
+   "size": null,
+   "slug": "secret-clinical-with-hyaluronic-acid---vitiman-pack",
+   "image": "/cutouts/secret-clinical-with-hyaluronic-acid---vitiman-pack.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Antiperspirant (2026)",
+   "category": "Body",
+   "subcategory": "Deodorant",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Antiperspirant (2026)"
+   ]
+  },
+  {
+   "brand": "Kristin Ess",
+   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
+   "retailer": "Amazon",
+   "was": 21,
+   "now": 15.4,
+   "percentOff": 27,
+   "url": "https://www.amazon.com/dp/B0H42HZGLZ?tag=vettbeauty-20",
+   "size": null,
+   "slug": "kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask",
+   "image": "/cutouts/kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)",
+   "category": "Hair",
+   "subcategory": "Hair Mask",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)"
+   ]
+  },
+  {
    "brand": "Olive & June",
    "product": "The Gel Mani System",
    "retailer": "Ulta",
