@@ -50914,7 +50914,7 @@
     "brand": "Glasshouse Fragrances",
     "name": "Body Bar",
     "price": 18,
-    "image": "/cutouts/glasshouse-fragrances-body-bar.webp",
+    "image": "https://cdn.shopify.com/s/files/1/0550/9287/1341/files/fgbb180amalf-glasshouse-body-body-wash-lost-in-amalfi-180g-packshot-front-1800x2250-01_e0cfeced-2957-42b0-9000-fe497569503c.jpg?v=1774246222",
     "topAward": "InStyle Best Beauty Buys — Best Bar Soap (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -50926,9 +50926,7 @@
     "buyLink": "https://go.shopmy.us/p-78478118",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Bar Soap (2026)"
-    ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0550/9287/1341/files/fgbb180amalf-glasshouse-body-body-wash-lost-in-amalfi-180g-packshot-front-1800x2250-01_e0cfeced-2957-42b0-9000-fe497569503c.jpg?v=1774246222",
-    "imageCutout": true
+    ]
   },
   {
     "id": "prod-2277",
@@ -56685,7 +56683,7 @@
     "brand": "DND",
     "name": "Gel Polish",
     "price": 12,
-    "image": "/cutouts/dnd-gel-polish.webp",
+    "image": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/751.webp?v=1776363307&width=1600",
     "topAward": "InStyle Best Beauty Buys — Best Gel Polish (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -56697,9 +56695,7 @@
     "buyLink": "https://www.dndgel.com/products/cherry-mocha-751",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Gel Polish (2026)"
-    ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/751.webp?v=1776363307&width=1600",
-    "imageCutout": true
+    ]
   },
   {
     "id": "prod-2537",

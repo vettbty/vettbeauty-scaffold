@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useState, useMemo } from 'react';
 import SaveCount from '@/components/SaveCount';
 import Wordmark from '@/components/Wordmark';
+import { CATEGORIES } from '@/lib/taxonomy';
 
 export interface Deal {
   brand: string;
@@ -97,6 +98,9 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
   const heading = (
     <div className={hero ? 'px-5 pt-5' : 'p-3 pb-2'}>
       <p className="text-[9px] font-semibold uppercase microcap text-gold mb-0.5">{d.brand}</p>
+      {!hero && d.subcategory && (
+        <p className="text-[9px] uppercase microcap text-charcoal-light/70 mb-0.5">{d.subcategory}</p>
+      )}
       <h3
         className={`font-semibold text-charcoal leading-snug ${
           hero ? 'text-lg mb-2' : 'text-xs line-clamp-2'
@@ -188,7 +192,13 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
 
   const { categories, retailers, deepest, cheapest } = useMemo(
     () => ({
-      categories: [...new Set(items.map(i => i.category).filter(Boolean))].sort() as string[],
+      // Shelf order follows the catalogue's own category order (Skincare,
+      // Makeup, Hair…) rather than the alphabet, so the Sale tab reads like
+      // /browse; anything outside that list falls to the end.
+      categories: ([...new Set(items.map(i => i.category).filter(Boolean))] as string[]).sort((a, b) => {
+        const at = (c: string) => { const i = CATEGORIES.findIndex(x => x.label === c); return i < 0 ? 99 : i; };
+        return at(a) - at(b) || a.localeCompare(b);
+      }),
       retailers: [...new Set(items.map(i => i.retailer).filter(Boolean))].sort() as string[],
       deepest: items.reduce((m, i) => Math.max(m, i.percentOff), 0),
       cheapest: items.reduce((m, i) => Math.min(m, i.now), Infinity),
@@ -212,9 +222,25 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
     });
   }, [items, category, retailer, maxPrice, sortBy]);
 
+  // One flat grid of ~60 mixed products was hard to scan — Sascha, 2026-10-12:
+  // "the layout for sale tab needs to be more organized". With no category
+  // picked the deals are shelved by category, each under its own heading and
+  // count, keeping the chosen sort inside every shelf. Picking a category (or
+  // any other filter that leaves a single shelf) shows that shelf alone.
+  const countIn = (c: string) => items.filter(i => i.category === c).length;
+  const shelves = useMemo(() => {
+    const [, ...afterHero] = filtered;
+    const names = category === 'all' ? categories : [category];
+    return names
+      .map(name => ({ name, deals: afterHero.filter(d => d.category === name) }))
+      .concat(category === 'all' ? [{ name: 'More', deals: afterHero.filter(d => !d.category) }] : [])
+      .filter(sh => sh.deals.length > 0);
+  }, [filtered, categories, category]);
+  const anchor = (name: string) => `shelf-${name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`;
+
   const filtersActive = category !== 'all' || retailer !== 'all' || maxPrice !== 'all';
   const clear = () => { setCategory('all'); setRetailer('all'); setMaxPrice('all'); };
-  const [top, ...rest] = filtered;
+  const [top] = filtered;
 
   const selectClass =
     'shrink-0 px-3 py-1.5 bg-white border border-warm-beige/30 rounded-lg text-xs text-charcoal focus:outline-none focus:border-gold';
@@ -226,6 +252,7 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
           <Wordmark className="text-2xl" />
           <nav className="flex items-center gap-5">
             <Link href="/browse" className="text-sm font-medium text-charcoal-light hover:text-charcoal transition-colors">Browse</Link>
+            <Link href="/sale" aria-current="page" className="text-sm font-medium text-gold">Sale</Link>
             <Link href="/about" className="text-sm font-medium text-charcoal-light hover:text-charcoal transition-colors">About</Link>
             <SaveCount />
           </nav>
@@ -267,7 +294,7 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
               category === 'all' ? 'bg-charcoal text-white' : 'bg-cream-dark text-charcoal-light'
             }`}
           >
-            All
+            All <span className="opacity-60">{items.length}</span>
           </button>
           {categories.map(c => (
             <button
@@ -277,7 +304,7 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
                 category === c ? 'bg-charcoal text-white' : 'bg-cream-dark text-charcoal-light'
               }`}
             >
-              {c}
+              {c} <span className="opacity-60">{countIn(c)}</span>
             </button>
           ))}
         </div>
@@ -320,15 +347,22 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
         </div>
       )}
 
-      {rest.length > 0 && (
-        <div className="max-w-6xl mx-auto px-4 pb-12">
+      {shelves.map(shelf => (
+        <section key={shelf.name} id={anchor(shelf.name)} className="max-w-6xl mx-auto px-4 pb-10 scroll-mt-4">
+          <div className="flex items-baseline justify-between gap-4 border-b border-cream-dark pb-2 mb-3">
+            <h2 className="font-serif text-xl font-semibold text-charcoal">{shelf.name}</h2>
+            <p className="text-xs text-charcoal-light">
+              {shelf.deals.length} {shelf.deals.length === 1 ? 'deal' : 'deals'} · up to{' '}
+              {shelf.deals.reduce((m, d) => Math.max(m, d.percentOff), 0)}% off
+            </p>
+          </div>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-px bg-cream-dark">
-            {rest.map(d => (
+            {shelf.deals.map(d => (
               <Card key={`${d.brand}-${d.product}-${d.retailer}`} d={d} />
             ))}
           </div>
-        </div>
-      )}
+        </section>
+      ))}
 
       {filtered.length === 0 && (
         <div className="text-center py-12">

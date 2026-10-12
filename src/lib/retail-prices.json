@@ -19,9 +19,9 @@
  },
  "-minence-organic-skin-care-yuzu-solid-body-oil": {
   "price": 56,
-  "at": "newbeauty-readers-choice-2026",
-  "checked": "2026-10-01",
-  "url": "https://www.dermstore.com/p/eminence-organic-skin-care-yuzu-solid-body-oil-5-fl.-oz/14244468/"
+  "at": "Dermstore",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524661"
  },
  "-z-piderm-egf-skin-barrier-cream-toner": {
   "price": 25,
@@ -744,11 +744,9 @@
  },
  "aramore-nad--cell-energizing-treatment-serum": {
   "price": 110,
-  "currency": "USD",
   "at": "Ulta",
   "checked": "2026-10-11",
-  "url": "https://www.ulta.com/p/nad-cell-energizing-treatment-mkt77008144",
-  "via": "browser-read"
+  "url": "https://www.ulta.com/p/nad-cell-energizing-treatment-mkt77008144"
  },
  "arencia-fresh-green-rice-mochi-cleanser": {
   "price": 19,
@@ -851,6 +849,14 @@
   "checked": "2026-10-01",
   "url": "https://www.amazon.com/dp/B0D9LDNJ26?tag=vettbeauty-20",
   "via": "browser"
+ },
+ "aromatherapy-associates-desert-therapy-bath-and-shower-oil": {
+  "price": 92,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-12",
+  "url": "https://www.spacenk.com/uk/bath-body/body-cleanser/bath-oils/desert-therapy-bath-shower-oil-MUK200064984.html",
+  "via": "browser-read"
  },
  "aromatica-pure-and-soft-feminine-foaming-wash": {
   "price": 26,
@@ -1771,11 +1777,9 @@
  },
  "bobbi-brown-long-wear-waterproof-cream-eyeshadow-stick": {
   "price": 34,
-  "currency": "USD",
-  "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.nordstrom.com/s/long-wear-waterproof-cream-eyeshadow-stick/3442219",
-  "via": "sephora-api"
+  "at": "Bluemercury",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524563"
  },
  "bodyography-lipstick-palette": {
   "price": 28,
@@ -2080,9 +2084,9 @@
  },
  "byoma-bio-collagen-radiance-facial-mask": {
   "price": 17.99,
-  "at": "marie-claire-beauty-awards-2026 (publication data-url, fetched 200)",
+  "at": "Ulta",
   "checked": "2026-10-11",
-  "url": "https://www.ulta.com/p/bio-collagen-radiance-facial-mask-pimprod2056785?sku=2650544"
+  "url": "https://go.shopmy.us/p-93529411"
  },
  "byoma-hydrating-milky-toner": {
   "price": 15.99,
@@ -2432,11 +2436,9 @@
  },
  "chanel-rouge-coco-hydra-gloss": {
   "price": 45,
-  "currency": "USD",
-  "at": "Ulta",
+  "at": "Violet Grey",
   "checked": "2026-10-11",
-  "url": "https://www.ulta.com/p/rouge-coco-hydra-gloss-hydrating-smoothing-high-shine-lipgloss-pimprod2059489",
-  "via": "browser-read"
+  "url": "https://go.shopmy.us/p-93526799"
  },
  "chanel-sublimage-l-extrait-huile-l-eacute-vres-ultimate-lip-oil": {
   "price": 365,
@@ -2448,11 +2450,9 @@
  },
  "chantecaille-luminescent-eye-shade": {
   "price": 58,
-  "currency": "USD",
-  "at": "Nordstrom",
-  "checked": "2026-10-10",
-  "url": "https://www.nordstrom.com/s/luminescent-eye-shade/9183306",
-  "via": "browser-read"
+  "at": "Bluemercury",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93525991"
  },
  "charde-eye-bag-lift-1100-shot-patch": {
   "price": 37.1,
@@ -2462,11 +2462,9 @@
  },
  "charlotte-tilbury-airbrush-flawless-blush-blur": {
   "price": 43,
-  "currency": "USD",
-  "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/airbrush-flawless-blush-blur-P527083",
-  "via": "sephora-api"
+  "at": "Bluemercury",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93526745"
  },
  "charlotte-tilbury-airbrush-flawless-finish-setting-spray": {
   "price": 39,
@@ -2625,20 +2623,16 @@
   "url": "https://go.shopmy.us/p-93193383"
  },
  "cl--de-peau-beaut--le-s-rum": {
-  "price": 150,
-  "currency": "USD",
-  "at": "Nordstrom",
-  "checked": "2026-10-10",
-  "url": "https://www.nordstrom.com/s/the-serum/7979759",
-  "via": "browser-read"
+  "price": 210,
+  "at": "Saks Fifth Avenue",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93525692"
  },
  "clarins-double-serum-eye": {
   "price": 86,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/double-serum-eye-P525758",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93525596"
  },
  "clarins-lip-comfort-oil": {
   "price": 32,
@@ -3677,11 +3671,9 @@
  },
  "dieux-ethereal-makeup-removing-concentrated-cleansing-oil": {
   "price": 28,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/ethereal-instant-makeup-removing-cleansing-oil-P517141",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93528606"
  },
  "dieux-skin-mercy-recovery-cream": {
   "price": 38,
@@ -3972,11 +3964,9 @@
  },
  "dr--idriss-left-un-red-calmback-nightly-rescue-face-cream": {
   "price": 58,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/dr-idriss-left-un-red-calm-back-rich-face-moisturizer-for-redness-and-skin-barrier-health-P519838",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93528670"
  },
  "dr--jart--cryo-rubber-moisturizing-face-mask": {
   "price": 16.5,
@@ -4072,11 +4062,9 @@
  },
  "dr-sam-s-flawless-neutralising-gel": {
   "price": 41,
-  "currency": "USD",
   "at": "Dr Sam's",
   "checked": "2026-10-11",
-  "url": "https://drsambunting.com/en-us/products/flawless-neutralising-gel",
-  "via": "browser-read"
+  "url": "https://drsambunting.com/en-us/products/flawless-neutralising-gel"
  },
  "dr-twentyproject-nine-toner": {
   "price": 25,
@@ -4128,11 +4116,9 @@
  },
  "dyson-airwrap-i-d--multistyler-and-dryer": {
   "price": 649,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/airwrap-id-multi-styler-dryer-for-straight-to-wavy-hair-P515347",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524608"
  },
  "dyson-supersonic-nural-hair-dryer": {
   "price": 449.99,
@@ -4268,11 +4254,9 @@
  },
  "emma-lewisham-supernatural-cr-me-cleanser": {
   "price": 44,
-  "currency": "USD",
-  "at": "Credo",
+  "at": "Credo Beauty",
   "checked": "2026-10-11",
-  "url": "https://credobeauty.com/products/supernatural-creme-cleanser",
-  "via": "browser-read"
+  "url": "https://go.shopmy.us/p-93527763"
  },
  "eos-vanilla-cashmere-body-mist": {
   "price": 14.99,
@@ -4281,10 +4265,10 @@
   "url": "https://go.shopmy.us/p-89224604"
  },
  "eos-vanilla-cashmere-whipped-oil-butter": {
-  "price": 12.99,
-  "at": "newbeauty-readers-choice-2026",
-  "checked": "2026-10-01",
-  "url": "https://www.ulta.com/p/cashmere-whipped-oil-butter-pimprod2057842?sku=2653118&cmpid=PS_Non%21google%21Product_Listing_Ads&cagpspn=pla&CATCI=aud-434937987590%3Apla-1898473638669&CAAGID=18002902230&CAWELAID=330000200003411006&CATARGETID=330000200002825550&CADevice=c&view=pdp"
+  "price": 14.99,
+  "at": "Ulta",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524282"
  },
  "epionce-enriched-firming-mask": {
   "price": 42,
@@ -4294,11 +4278,9 @@
  },
  "epres-healthy-hair-shampoo": {
   "price": 38,
-  "currency": "USD",
-  "at": "credobeauty.com",
-  "checked": "2026-10-10",
-  "url": "https://credobeauty.com/products/healthy-hair-shampoo",
-  "via": "json-ld"
+  "at": "marie-claire-beauty-awards-2026 (publication data-url, fetched 200)",
+  "checked": "2026-10-11",
+  "url": "https://credobeauty.com/products/healthy-hair-shampoo"
  },
  "equmal-easy-brush-aa-point-eye-06": {
   "price": 13.55,
@@ -4317,7 +4299,7 @@
  "erborian-cc-cream-color-corrector-for-natural-luminous-finish-with-korean-centel": {
   "price": 46,
   "at": "Sephora",
-  "checked": "2026-10-10",
+  "checked": "2026-10-11",
   "url": "https://www.sephora.com/product/cc-cream-color-corrector-for-natural-luminous-finish-P526128"
  },
  "erborian-cc-red-correct--spf25-": {
@@ -4479,11 +4461,9 @@
  },
  "est-e-lauder-advanced-night-repair-eye-lift---sculpt-eye-cream": {
   "price": 88,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/advanced-night-repair-eye-lift-sculpt-P517862",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93528737"
  },
  "est-e-lauder-double-wear-stay-in-place-makeup--spf10-pa---": {
   "price": 52,
@@ -4495,11 +4475,9 @@
  },
  "est-e-lauder-glimmer-eau-de-parfum": {
   "price": 130,
-  "currency": "USD",
   "at": "Ulta",
   "checked": "2026-10-11",
-  "url": "https://www.ulta.com/p/glimmer-eau-de-parfum-spray-pimprod2060081",
-  "via": "browser-read"
+  "url": "https://www.ulta.com/p/glimmer-eau-de-parfum-spray-pimprod2060081"
  },
  "est-e-lauder-revitalizing-supreme--night-power-bounce-cream-moisturizer": {
   "price": 115,
@@ -5128,11 +5106,9 @@
  },
  "good-weather-skin-daily-lip-sun-gloss": {
   "price": 24,
-  "currency": "USD",
-  "at": "Nordstrom",
-  "checked": "2026-10-10",
-  "url": "https://www.nordstrom.com/s/daily-lip-sun-gloss/8820191",
-  "via": "browser-read"
+  "at": "Credo Beauty",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93528853"
  },
  "goodal-green-tangerine-vita-c-dark-spot-care-cream": {
   "price": 16.95,
@@ -5305,11 +5281,9 @@
  },
  "haus-labs-atomic-shake-high-shine-longwear-lip-lacquer-lipstick": {
   "price": 28,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/atomic-shake-lip-lacquer-P522531",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93523328"
  },
  "haus-labs-atomic-shake-lip-lacquer": {
   "price": 28,
@@ -5727,11 +5701,9 @@
  },
  "hourglass-phantom-blur-balm": {
   "price": 38,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/phantom-smoothing-blur-lip-balm-P524770",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93527870"
  },
  "house-of-dohwa-rice-makgeolli-toner": {
   "price": 32,
@@ -5761,11 +5733,9 @@
  },
  "hung-vanngo-beauty-tansculpt-cream-bronzing-contour-balm-with-vitamin-e": {
   "price": 34,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/tansculpt-cream-bronzing-contour-balm-with-vitamin-e-P521648",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93523241"
  },
  "huxley-biosys-360-cream": {
   "price": 23.88,
@@ -6010,11 +5980,9 @@
  },
  "innbeauty-project-pro-c-serum-brightening-solution-2": {
   "price": 64,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/pro-c-serum-brightening-solution-with-15-vitamin-c-ferulic-acid-P520376",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93529536"
  },
  "innisfree-canola-honey-lip-balm--intensive-moisture-": {
   "price": 61.56,
@@ -6251,9 +6219,9 @@
  },
  "it-cosmetics-superhero-mascara": {
   "price": 28,
-  "at": "newbeauty-readers-choice-2026",
-  "checked": "2026-10-02",
-  "url": "https://www.ulta.com/p/superhero-elastic-stretch-volumizing-lengthening-mascara-xlsImpprod13631067?sku=2298659"
+  "at": "Ulta",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93525413"
  },
  "it-s-a-10-scalp-restore-miracle-serum": {
   "price": 25.19,
@@ -6833,6 +6801,14 @@
   "checked": "2026-10-01",
   "url": "https://www.lorealparisusa.com/hair-care-hair-style/shampoo/everpure-sulfate-free-iron-sleek-smoothing-shampoo"
  },
+ "l-or-al-paris-color-riche-intense-volume-matte": {
+  "price": 9.97,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-12",
+  "url": "https://www.boots.com/loreal-paris-color-riche-intense-volume-matte-16hr-volumizing-matte-lipstick-10308713?traffic=paid.shopping&gclsrc=aw.ds&gad_source=1&gad_campaignid=19973637790&gbraid=0AAAAA-AdmwSaHIqBYGgxNxjN8v63collr&gclid=CjwKCAjw-rTUBhAiEiwADv8gBByYZRhCSdQtUtDDTujljbJI7WyCcW7MFJcB4Ol29r4rUurT3JpUPRoCJRwQAvD_BwE",
+  "via": "browser-read"
+ },
  "l-or-al-paris-elvive-glycolic-gloss-shine-boosting-conditioner": {
   "price": 6.49,
   "at": "marie-claire-beauty-awards-2026 (publication data-url, fetched 200)",
@@ -6903,6 +6879,14 @@
   "url": "https://us.oliveyoung.com/products/UA53482482",
   "via": "browser"
  },
+ "la-roche-posay-anthelios-uvair-serum-sunscreen": {
+  "price": 29.99,
+  "currency": "USD",
+  "at": "Amazon",
+  "checked": "2026-10-12",
+  "url": "https://www.cultbeauty.co.uk/p/la-roche-posay-anthelios-uvair-serum-sunscreen-spf50-medium-with-hyaluronic-acid-niacinamide-vitamin-e-for-all-skin-types-50ml/17642582/",
+  "via": "browser-read"
+ },
  "la-roche-posay-cicaplast-balm-b5": {
   "price": 18.99,
   "at": "Exclusive Beauty Club",
@@ -6910,10 +6894,10 @@
   "url": "https://go.shopmy.us/p-88965767"
  },
  "la-roche-posay-toleriane-double-repair-face-moisturizer-uv-spf-30": {
-  "price": 21.74,
-  "at": "newbeauty-readers-choice-2026",
-  "checked": "2026-10-01",
-  "url": "https://www.ulta.com/p/toleriane-double-repair-face-moisturizer-uv-spf-30-xlsImpprod15681007?sku=2503390&cmpid=PS_Non!google!Product_Listing_Ads&cagpspn=pla&CATCI=aud-846350983834:pla-1898473638669&CAAGID=18002902230&CAWELAID=330000200001104564&CATARGETID=330000200002825550&CADevice=c"
+  "price": 28.99,
+  "at": "Ulta",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93525300"
  },
  "la-rosee-anti-fatigue-eye-contour": {
   "price": 32,
@@ -7020,11 +7004,9 @@
  },
  "lanc-me-absolue-longevity-md-reset-the-serum": {
   "price": 175,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/la-abs-long-reset-serum-P522437",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93527704"
  },
  "lanc-me-absolue-soft-body-balm": {
   "price": 185,
@@ -7053,12 +7035,10 @@
   "url": "https://go.shopmy.us/p-89385816"
  },
  "laneige-cream-skin-cerapeptide--refiner": {
-  "price": 36,
-  "currency": "USD",
+  "price": 48,
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/cream-skin-refillable-toner-moisturizer-with-ceramides-peptides-P505897",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524057"
  },
  "laneige-glaze-craze-tinted-lip-serum": {
   "price": 22,
@@ -7138,11 +7118,9 @@
  },
  "lawless-forget-the-filler-overnight-lip-plumping-mask": {
   "price": 22,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/lawless-forget-filler-overnight-lip-plumping-mask-P480326",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93528797"
  },
  "le-labo-santal-33-eau-de-parfum": {
   "price": 348,
@@ -7274,11 +7252,9 @@
  },
  "living-proof-perfect-hair-day-style-refresh-hair-mist": {
   "price": 32,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/perfect-hair-day-phd-style-refresh-hair-mist-P520512",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93527585"
  },
  "loftie-smart-alarm-clock": {
   "price": 169.99,
@@ -7488,11 +7464,9 @@
  },
  "mac-skinfinish-sunstruck-bronzer": {
   "price": 36,
-  "currency": "USD",
-  "at": "Nordstrom",
-  "checked": "2026-10-10",
-  "url": "https://www.nordstrom.com/s/skinfinish-sunstruck-matte-bronzer/8983609",
-  "via": "browser-read"
+  "at": "Bloomingdale's",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93526852"
  },
  "madame-lash-curved-vegan-no-glue-eyelashes--glam-": {
   "price": 12.41,
@@ -7536,11 +7510,9 @@
  },
  "make-up-for-ever-aqua-resist-color-pencil-waterproof-eyeliner": {
   "price": 27,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/make-up-for-ever-aqua-resist-color-pencil-P520969",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93523276"
  },
  "make-up-for-ever-artist-color-cream": {
   "price": 32,
@@ -7634,11 +7606,9 @@
  },
  "mane-hydration-hugs-mega-moisturizing-hair-mask": {
   "price": 34,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/hydration-hugs-mega-moisturizing-hair-mask-P520564",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93523194"
  },
  "mane-it-s-giving-body-jumbo-hot-round-brush--60mm-": {
   "price": 118,
@@ -7648,11 +7618,9 @@
  },
  "manucurist-active-glow": {
   "price": 19,
-  "currency": "USD",
-  "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/active-glow-raspberry-nourishing-treatment-nail-polish-P519644",
-  "via": "sephora-api"
+  "at": "Bluemercury",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93527505"
  },
  "manucurist-xtrem-flash-long-lasting-gel-nail-polish-top-coat": {
   "price": 25,
@@ -8113,18 +8081,16 @@
   "url": "https://go.shopmy.us/p-80971626"
  },
  "medik8-crystal-retinal-6": {
-  "price": 94.35,
-  "at": "newbeauty-readers-choice-2026",
-  "checked": "2026-10-01",
-  "url": "https://www.dermstore.com/p/medik8-crystal-retinal-6-serum-30ml/12810727/"
+  "price": 82,
+  "at": "Dermstore",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524180"
  },
  "medik8-exo-pdrn-prismatic-": {
   "price": 96,
-  "currency": "USD",
   "at": "Medik8",
   "checked": "2026-10-11",
-  "url": "https://us.medik8.com/products/exo-pdrn-serum",
-  "via": "browser-read"
+  "url": "https://us.medik8.com/products/exo-pdrn-serum"
  },
  "medipeel-green-cica-collagen-clear-gel-cleanser-2-0": {
   "price": 25.76,
@@ -8441,9 +8407,9 @@
  },
  "nakery-beauty-skinrecovery-relax---repair-body-balm": {
   "price": 39,
-  "at": "newbeauty-readers-choice-2026",
-  "checked": "2026-10-01",
-  "url": "https://www.ulta.com/p/skinrecovery-relax-repair-body-balm-pimprod2053825?sku=2647340"
+  "at": "Ulta",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93525467"
  },
  "naming-fluffy-volume---shading-duo": {
   "price": 16.8,
@@ -8497,9 +8463,9 @@
  },
  "nassifmd-hydro-screen-serum": {
   "price": 82,
-  "at": "newbeauty-readers-choice-2026",
-  "checked": "2026-10-02",
-  "url": "https://www.ulta.com/p/hydro-screen-serum-mkt77004064?sku=77006695&cmpid=PS_Non%21google%21Product_Listing_Ads&cagpspn=pla&CATCI=aud-2399654796856%3Apla-2501767262124&CAAGID=186213639756&CAWELAID=330000200003401697&CATARGETID=330000200001394369&CADevice=c&view=pdp"
+  "at": "Ulta",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93525356"
  },
  "native-deodorant-stick": {
   "price": 12.81,
@@ -8579,9 +8545,9 @@
  },
  "neutrogena-evenly-clear-acne-gel-moisturizer": {
   "price": 19.99,
-  "at": "marie-claire-beauty-awards-2026 (publication data-url, fetched 200)",
+  "at": "Ulta",
   "checked": "2026-10-11",
-  "url": "https://www.ulta.com/p/evenly-clear-acne-gel-moisturizer-pimprod2056667?sku=2650520"
+  "url": "https://go.shopmy.us/p-93529299"
  },
  "neutrogena-intense-repair-foot-cream": {
   "price": 15,
@@ -8845,9 +8811,9 @@
  },
  "oak-essentials-refining-face-mask-with-blue-tansy": {
   "price": 68,
-  "at": "marie-claire-beauty-awards-2026 (publication data-url, fetched 200)",
+  "at": "Ulta",
   "checked": "2026-10-11",
-  "url": "https://www.ulta.com/p/refining-face-mask-with-blue-tansy-pimprod2053407?sku=2643761"
+  "url": "https://go.shopmy.us/p-93529472"
  },
  "obagi-daily-hydro-drops-rejuvenating-eye-gel-cream": {
   "price": 80,
@@ -8937,11 +8903,9 @@
  },
  "olaplex--7-shine-serum-oil-mist": {
   "price": 38,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/no-7-shine-serum-2-in-1-hair-oil-mist-P525086",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93528383"
  },
  "olaplex-browbond-building-serum": {
   "price": 68,
@@ -9081,11 +9045,9 @@
  },
  "omorovicza-acid-milk": {
   "price": 110,
-  "currency": "USD",
-  "at": "Nordstrom",
-  "checked": "2026-10-10",
-  "url": "https://www.nordstrom.com/s/acid-milk-toner/8909685",
-  "via": "browser-read"
+  "at": "Omorovicza",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93525642"
  },
  "one-size-by-patrick-starrr-on--til-dawn-mattifying-waterproof-setting-spray": {
   "price": 34,
@@ -9220,11 +9182,9 @@
  },
  "oribe-supershine-smoothing-wax-styling-stick": {
   "price": 46,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/supershine-smoothing-wax-stick-P520968",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93523151"
  },
  "orjena-lha-melting-cleansing-balm": {
   "price": 24.57,
@@ -9396,11 +9356,9 @@
  },
  "paula-s-choice-pro-collagen-peptide-firming-eye-gel-serum-to-depuff---lift": {
   "price": 42,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/pro-collagen-peptide-firming-eye-serum-P517645",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93522767"
  },
  "paula-s-choice-pro-collagen-peptide-plumping-moisturizer": {
   "price": 49,
@@ -9409,10 +9367,10 @@
   "url": "https://go.shopmy.us/p-88312327"
  },
  "paula-s-choice-skin-balancing-pore-reducing-face-toner": {
-  "price": 27.2,
-  "at": "newbeauty-readers-choice-2026",
-  "checked": "2026-10-01",
-  "url": "https://www.dermstore.com/p/paula-s-choice-skin-balancing-pore-reducing-toner-190ml/11174171/"
+  "price": 24,
+  "at": "Dermstore",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524229"
  },
  "pca-skin-hyaluronic-acid-boosting-serum": {
   "price": 104,
@@ -9538,9 +9496,9 @@
  },
  "personal-day-trust-me-on-this-hypochlorous-acid-spray": {
   "price": 27,
-  "at": "marie-claire-beauty-awards-2026 (publication data-url, fetched 200)",
+  "at": "Ulta",
   "checked": "2026-10-11",
-  "url": "https://www.ulta.com/p/trust-me-on-this-hypochlorous-acid-spray-pimprod2053660?sku=2644452"
+  "url": "https://go.shopmy.us/p-93529220"
  },
  "peta-jane-light-tanning-mousse": {
   "price": 38,
@@ -9960,11 +9918,9 @@
  },
  "rhode-pineapple-refresh-pga-daily-cleanser": {
   "price": 30,
-  "currency": "USD",
-  "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/pineapple-refresh-cleanser-P517478",
-  "via": "sephora-api"
+  "at": "Rhode",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93529155"
  },
  "rizos-curls-6-in-1-styling-cream": {
   "price": 25,
@@ -9991,10 +9947,10 @@
   "url": "https://www.rmsbeauty.com/products/revitalize-hydra-concealer"
  },
  "roc-derm-correxion-lip-volumizer": {
-  "price": 23.09,
-  "at": "newbeauty-readers-choice-2026",
-  "checked": "2026-10-01",
-  "url": "https://www.ulta.com/p/derm-correxion-lip-volumizer-plumper-pimprod2049758?sku=2633391&cmpid=PS_Non%21google%21Product_Listing_Ads&cagpspn=pla&CATCI=aud-294373712862%3Apla-2366733977700&CAAGID=28397269470&CAWELAID=&CATARGETID=330000200001394369&CADevice=c&view=pdp"
+  "price": 32.99,
+  "at": "Ulta",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524979"
  },
  "rodan---fields-lash-boost": {
   "price": 155,
@@ -10323,11 +10279,9 @@
  },
  "sacheu-doubledown-lip-definer": {
   "price": 16,
-  "currency": "USD",
   "at": "Sacheu",
   "checked": "2026-10-11",
-  "url": "https://sacheu.com/products/doubledown",
-  "via": "browser-read"
+  "url": "https://sacheu.com/products/doubledown"
  },
  "saie-dew-blush-liquid-cream-blush": {
   "price": 26,
@@ -10399,6 +10353,15 @@
   "checked": "2026-09-30",
   "url": "https://sampar.com/en/products/french-lip-oil"
  },
+ "sarah-chapman-neck-and-chest-rejuvenating-complex": {
+  "price": 129.2,
+  "list": 152,
+  "currency": "USD",
+  "at": "Sarah Chapman",
+  "checked": "2026-10-12",
+  "url": "https://www.sarahchapman.com/products/neck-chest-40ml",
+  "via": "browser-read"
+ },
  "sarah-creal-beauty-eyes-up-creamy-kajal-longwear-liner": {
   "price": 35,
   "at": "Sephora",
@@ -10457,11 +10420,9 @@
  },
  "self-glow-by-james-read-golden-days-milky-tan-toner": {
   "price": 52,
-  "currency": "USD",
-  "at": "Credo",
+  "at": "Credo Beauty",
   "checked": "2026-10-11",
-  "url": "https://credobeauty.com/products/golden-days-milky-tan-toner",
-  "via": "browser-read"
+  "url": "https://go.shopmy.us/p-93526953"
  },
  "sennok-glossy-everyday-hair-oil--soap-clean-soap-": {
   "price": 36.4,
@@ -10668,11 +10629,9 @@
  },
  "sisley-hair-rituel-revitalizing-fortifying-super-serum-advanced-formula": {
   "price": 280,
-  "currency": "USD",
-  "at": "Nordstrom",
-  "checked": "2026-10-10",
-  "url": "https://www.nordstrom.com/s/hair-rituel-super-serum/9188603",
-  "via": "browser-read"
+  "at": "Sisley Paris",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93527160"
  },
  "sisley-paris-color-cloud-lipstick---blush-duo": {
   "price": 70,
@@ -10786,11 +10745,9 @@
  },
  "skinceuticals-p-tiox-wrinkle-and-pore-modulating-peptide-cream": {
   "price": 150,
-  "currency": "USD",
   "at": "Bluemercury",
   "checked": "2026-10-11",
-  "url": "https://bluemercury.com/products/skinceuticals-p-tiox-cream",
-  "via": "browser-read"
+  "url": "https://go.shopmy.us/p-93525534"
  },
  "skinfix-ceramide-prime-whipped-cream": {
   "price": 54,
@@ -10981,11 +10938,9 @@
  },
  "sofie-pavitt-face-mandelic-acid-exfoliating---clearing-serum": {
   "price": 54,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/mandelic-acid-exfoliating-clearing-serum-P514512",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93529662"
  },
  "soft-services-green-banana-buffing-bar": {
   "price": 30,
@@ -11319,11 +11274,9 @@
  },
  "tatcha-the-longevity-memory-cream": {
   "price": 84,
-  "currency": "USD",
   "at": "Tatcha",
   "checked": "2026-10-11",
-  "url": "https://tatcha.com/products/the-longevity-cream",
-  "via": "browser-read"
+  "url": "https://tatcha.com/products/the-longevity-cream"
  },
  "tatcha-the-rice-wash": {
   "price": 40,
@@ -11433,11 +11386,9 @@
  },
  "the-inkey-list-oat-balm-cleanser": {
   "price": 17,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/oat-cleansing-balm-P525108",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524710"
  },
  "the-lab-by-blanc-doux-oligo-hyaluronic-acid-deep-toner": {
   "price": 36,
@@ -11663,11 +11614,9 @@
  },
  "tom-ford-soleil-tinted-lip-glow": {
   "price": 40,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/soleil-high-shine-tinted-glow-plumping-lip-gloss-P522126",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93526365"
  },
  "tonymoly-get-it-tint-waterful-butter": {
   "price": 20.8,
@@ -12073,11 +12022,9 @@
  },
  "ultra-violette-sequin-supreme-spf-50-glow-boosting-facial-sunscreen-moisturizer-": {
   "price": 36,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/ultra-violette-sequin-supreme-spf-50-P520828",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93523104"
  },
  "uni-24-hour-hydrating-body-serum": {
   "price": 43,
@@ -12290,11 +12237,9 @@
  },
  "victoria-beckham-the-foundation-drops-with-tfc8": {
   "price": 110,
-  "currency": "USD",
-  "at": "Nordstrom",
-  "checked": "2026-10-10",
-  "url": "https://www.nordstrom.com/s/victoria-beckham-the-foundation-drops/8545709",
-  "via": "browser-read"
+  "at": "Bluemercury",
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93527822"
  },
  "vidivici-nude-perfection-skin-fit-cushion--spf50--pa-----": {
   "price": 48,
@@ -12346,11 +12291,9 @@
  },
  "violette_fr-plume-blush": {
   "price": 34,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/plume-blush-feather-matte-cream-to-powder-cheek-melt-P522555",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93526326"
  },
  "violette_fr-plume-lip-moisturizing-feather-matte-lip-whip": {
   "price": 31,
@@ -12581,11 +12524,9 @@
  },
  "westman-atelier-sun-tone-bronzing-cr-me": {
   "price": 75,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/sun-tone-bronzing-creme-P522161",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93526042"
  },
  "westman-atelier-supr-me-bio-complex-liquid-foundation-with-exosomes---peptides": {
   "price": 69,
@@ -12709,11 +12650,9 @@
  },
  "yise-beauty-your-favorite-ex-refillable-exfoliating-pads-with-glycolic-acid---ec": {
   "price": 75,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/yse-beauty-your-favorite-ex-tm-refillable-exfoliating-pads-with-glycolic-acid-ectoin-P517098",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93528450"
  },
  "yon-ka-paris-serum-omega": {
   "price": 108,
@@ -12735,11 +12674,9 @@
  },
  "ysl-beauty-kiss-shaper-sculpting-lip-liner": {
   "price": 29,
-  "currency": "USD",
   "at": "Nordstrom",
-  "checked": "2026-10-10",
-  "url": "https://www.nordstrom.com/s/kiss-shaper-sculpting-lip-liner/8853496",
-  "via": "browser-read"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93524002"
  },
  "ysl-beauty-lash-latex-mascara": {
   "price": 34,
@@ -12767,11 +12704,9 @@
  },
  "ysl-couture-mini-clutch-mini-eyeshadow-palette": {
   "price": 69,
-  "currency": "USD",
   "at": "Sephora",
-  "checked": "2026-10-10",
-  "url": "https://www.sephora.com/product/clutch-eye-shadow-palette-P507353",
-  "via": "sephora-api"
+  "checked": "2026-10-11",
+  "url": "https://go.shopmy.us/p-93526165"
  },
  "yunjac-skin-perfecting-protective-base-prep": {
   "price": 28.8,
