@@ -208,10 +208,49 @@ export const pressArticles: PressArticle[] = [
   },
 ];
 
-export const publications = [
-  'Allure', 'Vogue', 'Harper\'s Bazaar', 'Elle',
-  'Marie Claire', 'Glamour', 'InStyle', 'Cosmopolitan', 'NewBeauty'
+/**
+ * The publications strip under the hero, DERIVED from the catalogue.
+ *
+ * It was a hand-written list of nine Western titles while the site actually
+ * held awards from twelve: Glowpick, Hwahae and Olive Young were missing, and
+ * between them they account for over 700 products. "Cross-referenced against"
+ * is a claim about the record, so it has to be read off the record — and a
+ * hand-kept list silently understates it every time a programme is added.
+ *
+ * Programme names collapse to their parent title, so Allure Best of Beauty and
+ * Allure Readers' Choice show once as "Allure".
+ */
+const PARENT_TITLE: Array<[RegExp, string]> = [
+  [/^Allure/i, 'Allure'],
+  [/^Vogue/i, 'Vogue'],
+  [/^Harper's Bazaar/i, "Harper's Bazaar"],
+  [/^ELLE|^Elle/i, 'Elle'],
+  [/^Marie Claire/i, 'Marie Claire'],
+  [/^Glamour/i, 'Glamour'],
+  [/^InStyle/i, 'InStyle'],
+  [/^Cosmopolitan/i, 'Cosmopolitan'],
+  [/^NewBeauty/i, 'NewBeauty'],
+  [/^Glowpick/i, 'Glowpick'],
+  [/^Hwahae/i, 'Hwahae'],
+  [/^Olive Young/i, 'Olive Young'],
 ];
+
+export const publications: string[] = (() => {
+  const seen = new Set<string>();
+  for (const p of products2026) {
+    for (const w of p.awardsWon || []) {
+      const m = w.match(/^(.*?)\s+(?:—|\()/);
+      if (!m) continue;
+      const prog = m[1].trim();
+      const hit = PARENT_TITLE.find(([re]) => re.test(prog));
+      seen.add(hit ? hit[1] : prog);
+    }
+  }
+  // keep the curated order, then anything new the map has not been taught
+  const ordered = PARENT_TITLE.map(([, title]) => title).filter(t => seen.has(t));
+  const extra = [...seen].filter(t => !ordered.includes(t)).sort();
+  return [...ordered, ...extra];
+})();
 
 // ---- Saved products: shared interface and localStorage helpers ----
 
