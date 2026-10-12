@@ -1,6 +1,6 @@
 {
   "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
-  "generated": "2026-10-11",
+  "generated": "2026-10-12",
   "items": [
     {
       "productId": "6c29a9eb-186f-4044-b622-2faa658567f7",
@@ -231,18 +231,6 @@
       "listing": "Amazon.com: Hot Tools Pro Artist Black Gold Digital 1\" Curling Iron | For Bouncy Curls with High Shine Finish, 26 Heat L"
     },
     {
-      "productId": "523bef15-2ef1-4ae7-bb2b-046e9bb30a3b",
-      "brand": "Aveeno",
-      "product": "Skin Relief Healing Ointment",
-      "retailer": "Ulta",
-      "was": 12,
-      "now": 7.99,
-      "percentOff": 33,
-      "url": "https://go.shopmy.us/p-78145060",
-      "size": null,
-      "listing": "Skin Relief Healing Ointment - Aveeno"
-    },
-    {
       "productId": "9cf45f37-9aaf-4acf-a564-e39b306907e3",
       "brand": "Gillette",
       "product": "Venus Original Razor",
@@ -253,6 +241,30 @@
       "url": "https://www.amazon.com/dp/B003EMPN7G",
       "size": "2 Count",
       "listing": "Amazon.com: Gillette Venus Smooth Razor for Women, Includes 1 Reusable Razor Handle + 2 Count 3-Bladed Refills, Ergonomi"
+    },
+    {
+      "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
+      "brand": "VOESH",
+      "product": "Hand Balm",
+      "retailer": "Ulta",
+      "was": 18,
+      "now": 12,
+      "percentOff": 33,
+      "url": "https://go.shopmy.us/p-80388348",
+      "size": null,
+      "listing": "Nourishing Hand Balm for Hydrated Hands & Cuticles - VOESH"
+    },
+    {
+      "productId": "523bef15-2ef1-4ae7-bb2b-046e9bb30a3b",
+      "brand": "Aveeno",
+      "product": "Skin Relief Healing Ointment",
+      "retailer": "Ulta",
+      "was": 12,
+      "now": 7.99,
+      "percentOff": 33,
+      "url": "https://go.shopmy.us/p-78145060",
+      "size": null,
+      "listing": "Skin Relief Healing Ointment - Aveeno"
     },
     {
       "productId": "9cb09fbd-627e-4499-ba57-dc0b3659c2f9",
@@ -277,30 +289,6 @@
       "url": "https://www.amazon.com/dp/B0CQ3D4H1Y",
       "size": "105 fl oz",
       "listing": "Amazon.com: Tide Free & Gentle Liquid Laundry Detergent, 80 Loads, 105 fl oz, Tide Laundry Detergent, Clean Laundry Dete"
-    },
-    {
-      "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
-      "brand": "VOESH",
-      "product": "Hand Balm",
-      "retailer": "Ulta",
-      "was": 18,
-      "now": 12,
-      "percentOff": 33,
-      "url": "https://go.shopmy.us/p-80388348",
-      "size": null,
-      "listing": "Nourishing Hand Balm for Hydrated Hands & Cuticles - VOESH"
-    },
-    {
-      "productId": "e4966989-e734-41a6-91c6-77d75b7a71d9",
-      "brand": "Perlier",
-      "product": "Shea Butter + Sweet Almond Body Balm",
-      "retailer": "amazon",
-      "was": 31,
-      "now": 20.84,
-      "percentOff": 33,
-      "url": "https://www.amazon.com/dp/B0D96QL7FW",
-      "size": "6.7 fl oz",
-      "listing": "Amazon.com : Perlier – Shea & Sweet Almond Nurturing Body Balm, 6.7 fl oz, Rich Moisturizer with 25% Organic Shea Butter"
     },
     {
       "productId": "f7ba5492-bb87-4823-a5f5-55a8ab54f220",
@@ -351,18 +339,6 @@
       "listing": "Amazon.com : Garnier Fructis Curl Knot Melter Multi-Use Anti-Breakage Detangling Milk, Moisturizing Detangler Spray and "
     },
     {
-      "productId": "a5c855a6-fdb2-4b51-a321-86c08accf860",
-      "brand": "quip",
-      "product": "Sonic Toothbrush",
-      "retailer": "amazon",
-      "was": 40,
-      "now": 27.99,
-      "percentOff": 30,
-      "url": "https://www.amazon.com/dp/B0DW5Z1S47",
-      "size": null,
-      "listing": "Amazon.com: Quip Sonic Electric Toothbrush for Adults, Extra Brush Head, Marine Blue | Includes 2 Brush Heads and Travel"
-    },
-    {
       "productId": "b34b3458-bf66-425e-9012-13442a7ac77d",
       "brand": "OLEHENRIKSEN",
       "product": "Sugar Melt Lip Scrub",
@@ -385,30 +361,6 @@
       "url": "https://go.shopmy.us/p-80279176",
       "size": null,
       "listing": "KERAPHIX Liquid Crystallizer Reconstructive Leave-In Treatment Serum - Nexxus"
-    },
-    {
-      "productId": "99f4439b-1f39-486e-9669-51b9e169b439",
-      "brand": "Nakery Beauty",
-      "product": "SkinInfusion Power Blend Elixir Serum",
-      "retailer": "amazon",
-      "was": 42,
-      "now": 29.4,
-      "percentOff": 30,
-      "url": "https://www.amazon.com/dp/B0CH42LZL8",
-      "size": "5.07 Fl Oz",
-      "listing": "Amazon.com: Nakery SkinInfusion Facial Oil Serum (5.07 Fl Oz), Anti Aging Collagen Serum with Hyaluronic Acid, Matrixyl "
-    },
-    {
-      "productId": "c4726d38-7c93-4340-bfb6-aac4949035a1",
-      "brand": "Silk'n",
-      "product": "Hair Removal Device",
-      "retailer": "amazon",
-      "was": 599,
-      "now": 419,
-      "percentOff": 30,
-      "url": "https://www.amazon.com/dp/B0D819HDRL",
-      "size": null,
-      "listing": "Amazon.com: Silk&#x27;n Infinity Fast Compact IPL Laser Hair Removal Device for Women and Men, Painless Permanent Hair R"
     },
     {
       "productId": "dca97e25-a640-4721-abda-235b6fb5e318",
@@ -435,28 +387,52 @@
       "listing": "Advanced Invisible Clean Dry Shampoo - Nexxus"
     },
     {
+      "productId": "a5c855a6-fdb2-4b51-a321-86c08accf860",
+      "brand": "quip",
+      "product": "Sonic Toothbrush",
+      "retailer": "amazon",
+      "was": 40,
+      "now": 27.99,
+      "percentOff": 30,
+      "url": "https://www.amazon.com/dp/B0DW5Z1S47",
+      "size": null,
+      "listing": "Amazon.com: Quip Sonic Electric Toothbrush for Adults, Extra Brush Head, Marine Blue | Includes 2 Brush Heads and Travel"
+    },
+    {
+      "productId": "99f4439b-1f39-486e-9669-51b9e169b439",
+      "brand": "Nakery Beauty",
+      "product": "SkinInfusion Power Blend Elixir Serum",
+      "retailer": "amazon",
+      "was": 42,
+      "now": 29.4,
+      "percentOff": 30,
+      "url": "https://www.amazon.com/dp/B0CH42LZL8",
+      "size": "5.07 Fl Oz",
+      "listing": "Amazon.com: Nakery SkinInfusion Facial Oil Serum (5.07 Fl Oz), Anti Aging Collagen Serum with Hyaluronic Acid, Matrixyl "
+    },
+    {
+      "productId": "c4726d38-7c93-4340-bfb6-aac4949035a1",
+      "brand": "Silk'n",
+      "product": "Hair Removal Device",
+      "retailer": "amazon",
+      "was": 599,
+      "now": 419,
+      "percentOff": 30,
+      "url": "https://www.amazon.com/dp/B0D819HDRL",
+      "size": null,
+      "listing": "Amazon.com: Silk&#x27;n Infinity Fast Compact IPL Laser Hair Removal Device for Women and Men, Painless Permanent Hair R"
+    },
+    {
       "productId": "087977dc-e91b-4a43-8317-171c35ba9130",
       "brand": "OWAY",
       "product": "Curly Hair Co-Wash",
       "retailer": "amazon",
       "was": 60,
-      "now": 42.33,
-      "percentOff": 29,
+      "now": 42,
+      "percentOff": 30,
       "url": "https://www.amazon.com/dp/B0B19BRTGN",
       "size": "240ml",
       "listing": "Amazon.com : Oway: Curly Hair Bath [240ml] : Beauty & Personal Care"
-    },
-    {
-      "productId": "b0aeb350-cf26-4814-8db4-9fdc08eb5f3f",
-      "brand": "Proactiv",
-      "product": "Acne Clearing Body Spray",
-      "retailer": "amazon",
-      "was": 25,
-      "now": 17.81,
-      "percentOff": 29,
-      "url": "https://www.amazon.com/dp/B0G54DCG16",
-      "size": "3.4 Fl Oz",
-      "listing": "Amazon.com: Proactiv Acne Clearing Body Spray, 2% Salicylic Acid, 3.4 Fl Oz | Quick-drying 2% salicylic acid body acne s"
     },
     {
       "productId": "365244a3-339e-4a60-8dfe-0fae5bc7993b",
@@ -469,6 +445,18 @@
       "url": "https://www.amazon.com/dp/B0F4KCTX6J",
       "size": null,
       "listing": "Amazon.com : Wavytalk Thermal Brush Blowout Boost Grande 1.77″ Big Bouncy Blowout Waves | Negative Ion Technology, Tourm"
+    },
+    {
+      "productId": "675d8421-2677-488b-a67d-dd7e8d67ef3b",
+      "brand": "Briogeo",
+      "product": "Farewell Frizz Blow Dry Perfection & Heat Protectant Crème",
+      "retailer": "Dermstore",
+      "was": 26,
+      "now": 18.99,
+      "percentOff": 27,
+      "url": "https://go.shopmy.us/p-78168422",
+      "size": "4 oz",
+      "listing": "Briogeo Farewell Frizz™ Blow Dry Perfection &#38; Heat Protectant Crème 4 oz"
     },
     {
       "productId": "511a0094-3935-4704-908a-2632e7e388e6",
@@ -517,18 +505,6 @@
       "url": "https://go.shopmy.us/p-80383176",
       "size": null,
       "listing": "Skin Barrier Protection Cream - NassifMD Skincare"
-    },
-    {
-      "productId": "1bdb9d16-9e11-4ef7-8be2-6499f5df5898",
-      "brand": "Pantene",
-      "product": "Miracle Rescue Regenerative Hair Oil",
-      "retailer": "amazon",
-      "was": 15.39,
-      "now": 11.82,
-      "percentOff": 23,
-      "url": "https://www.amazon.com/dp/B0DJ3MF712",
-      "size": "2.0 FL Oz",
-      "listing": "Amazon.com: Pantene Miracle Rescue Regenerative Hair Oil - 2.0 FL Oz - Deep Repair Treatment for Dry & Damaged Hair : Be"
     },
     {
       "productId": "88dc1101-dfd1-45e0-850b-688772a36eea",
@@ -591,16 +567,16 @@
       "listing": "Amazon.com: Lumineux 10% Nano Hydroxyapatite Whitening Toothpaste, 3.75 oz | Fluoride free gentle formula, clinically su"
     },
     {
-      "productId": "d945e531-a6bb-4a5c-9502-927ce2a06d8c",
-      "brand": "goPure",
-      "product": "Tighten & Lift Neck Cream",
+      "productId": "8156eadc-0572-4d7a-bc54-71b59f312203",
+      "brand": "Benefit Cosmetics",
+      "product": "Gimme Brow+",
       "retailer": "amazon",
-      "was": 40,
-      "now": 31.99,
-      "percentOff": 20,
-      "url": "https://www.amazon.com/dp/B0CGB215HR",
-      "size": null,
-      "listing": "Amazon.com: goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of"
+      "was": 28,
+      "now": 22.9,
+      "percentOff": 18,
+      "url": "https://go.shopmy.us/p-76852908",
+      "size": "1 Count",
+      "listing": "Amazon.com : Benefit Cosmetics Gimme Brow + Volumizing Eyebrow Gel, 4.5 - Neutral deep brown, 1 Count : Beauty & Persona"
     },
     {
       "productId": "0cfc57b8-2611-443c-8ba6-4744f0f50c87",
@@ -627,18 +603,6 @@
       "listing": "Amazon.com: No7 HydraLuminous+ Hydrating Day Gel Moisturizer, 1.69 Fl Oz | Hyaluronic Acid & Vitamin B3 Niacinamide Face"
     },
     {
-      "productId": "8156eadc-0572-4d7a-bc54-71b59f312203",
-      "brand": "Benefit Cosmetics",
-      "product": "Gimme Brow+",
-      "retailer": "amazon",
-      "was": 28,
-      "now": 23.63,
-      "percentOff": 16,
-      "url": "https://go.shopmy.us/p-76852908",
-      "size": "1 Count",
-      "listing": "Amazon.com : Benefit Cosmetics Gimme Brow + Volumizing Eyebrow Gel, 4.5 - Neutral deep brown, 1 Count : Beauty & Persona"
-    },
-    {
       "productId": "8077a1a0-5211-4a06-b422-cc3cd85e0e3d",
       "brand": "Goodal",
       "product": "Green Tangerine Niacinamide 10% Serum",
@@ -649,6 +613,18 @@
       "url": "https://www.amazon.com/dp/B0F3CF8FL5",
       "size": null,
       "listing": "Amazon.com: GOODAL Green Tangerine Vita C Niacinamide 10 Toning Ampoule - Facial Serum for Natural Glow, Daily Use, Pore"
+    },
+    {
+      "productId": "1bdb9d16-9e11-4ef7-8be2-6499f5df5898",
+      "brand": "Pantene",
+      "product": "Miracle Rescue Regenerative Hair Oil",
+      "retailer": "amazon",
+      "was": 15.39,
+      "now": 12.97,
+      "percentOff": 16,
+      "url": "https://www.amazon.com/dp/B0DJ3MF712",
+      "size": "2.0 FL Oz",
+      "listing": "Amazon.com: Pantene Miracle Rescue Regenerative Hair Oil - 2.0 FL Oz - Deep Repair Treatment for Dry & Damaged Hair : Be"
     },
     {
       "productId": "4af0297c-1c4e-4e7e-a689-adafade7606d",
@@ -687,18 +663,6 @@
       "listing": "Obagi Medical Professional-C Serum 20% (1 oz.)"
     },
     {
-      "productId": "16b0fc80-ea9d-4180-819a-a8c385dfe8dc",
-      "brand": "OLAY",
-      "product": "Super Cream with Broad Spectrum SPF 30",
-      "retailer": "amazon",
-      "was": 41.29,
-      "now": 34.94,
-      "percentOff": 15,
-      "url": "https://www.amazon.com/dp/B0DHWFWSVF",
-      "size": null,
-      "listing": "Amazon.com: Olay Super Cream with Sunscreen SPF 30, Lightweight Face Moisturizer with Sun Protection, 5-in-1 Skin Care B"
-    },
-    {
       "productId": "7d7d3c17-1047-4f16-87cb-738f14ce3aff",
       "brand": "COSRX",
       "product": "Advanced Snail 96 Mucin Power Essence",
@@ -709,6 +673,18 @@
       "url": "https://go.shopmy.us/p-88563191",
       "size": "3.38 fl. oz",
       "listing": "COSRX Advanced Snail 96 Mucin Power Essence (3.38 fl. oz.)"
+    },
+    {
+      "productId": "16b0fc80-ea9d-4180-819a-a8c385dfe8dc",
+      "brand": "OLAY",
+      "product": "Super Cream with Broad Spectrum SPF 30",
+      "retailer": "amazon",
+      "was": 41.29,
+      "now": 34.94,
+      "percentOff": 15,
+      "url": "https://www.amazon.com/dp/B0DHWFWSVF",
+      "size": null,
+      "listing": "Amazon.com: Olay Super Cream with Sunscreen SPF 30, Lightweight Face Moisturizer with Sun Protection, 5-in-1 Skin Care B"
     }
   ]
 }
