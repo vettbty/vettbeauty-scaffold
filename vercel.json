@@ -1867,12 +1867,17 @@
   },
   {
    "source": "/product/tweezerman-rockhard-nail-clippers",
-   "destination": "/product/tweezerman-rockhard-cuticle-nipper-2",
+   "destination": "/product/tweezerman-rockhard-cuticle-nipper",
    "permanent": true
   },
   {
    "source": "/product/tweezerman-cuticle-nipper",
-   "destination": "/product/tweezerman-rockhard-cuticle-nipper-2",
+   "destination": "/product/tweezerman-rockhard-cuticle-nipper",
+   "permanent": true
+  },
+  {
+   "source": "/product/tweezerman-rockhard-cuticle-nipper-2",
+   "destination": "/product/tweezerman-rockhard-cuticle-nipper",
    "permanent": true
   },
   {
