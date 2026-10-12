@@ -22,47 +22,6 @@
    ]
   },
   {
-   "brand": "RevitaLash",
-   "product": "Advanced Eyelash Conditioner",
-   "retailer": "Dermstore",
-   "was": 152,
-   "now": 50.15,
-   "percentOff": 67,
-   "url": "https://go.shopmy.us/p-88345776",
-   "size": "3.5ml",
-   "slug": "revitalash-advanced-eyelash-conditioner",
-   "image": "/levelled/revitalash-advanced-eyelash-conditioner.webp",
-   "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Eyelash Serum (2026)",
-   "category": "Skincare",
-   "subcategory": "Serum",
-   "awardCount": 2,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Eyelash Serum (2026)",
-    "InStyle Best Beauty Buys — Best Lash Serum (2026)"
-   ]
-  },
-  {
-   "brand": "Elizabeth Arden",
-   "product": "Advanced Ceramide Capsules Daily Youth Restoring Serum",
-   "retailer": "Dermstore",
-   "was": 99,
-   "now": 35.99,
-   "percentOff": 64,
-   "url": "https://go.shopmy.us/p-78421678",
-   "size": null,
-   "slug": "elizabeth-arden-advanced-ceramide-capsules-daily-youth-restoring-serum",
-   "image": "/levelled/elizabeth-arden-advanced-ceramide-capsules-daily-youth-restoring-serum.webp",
-   "imageCutout": false,
-   "topAward": "NewBeauty Readers Choice — Favorite Barrier Repair Serum (2025)",
-   "category": "Skincare",
-   "subcategory": "Serum",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Barrier Repair Serum (2025)"
-   ]
-  },
-  {
    "brand": "Shiseido",
    "product": "Ultimune Power Infusing Serum",
    "retailer": "Amazon",
@@ -288,26 +247,6 @@
    ]
   },
   {
-   "brand": "Seen",
-   "product": "Body Wash, Fragrance Free",
-   "retailer": "Dermstore",
-   "was": 24,
-   "now": 13.99,
-   "percentOff": 42,
-   "url": "https://go.shopmy.us/p-79609452",
-   "size": "10oz",
-   "slug": "seen-body-wash--fragrance-free",
-   "image": "/cutouts/seen-body-wash--fragrance-free.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Body Wash for Sensitive Skin (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Body Wash for Sensitive Skin (2025)"
-   ]
-  },
-  {
    "brand": "Creme of Nature",
    "product": "Argan Oil from Morocco Moisture & Shine Shampoo",
    "retailer": "Amazon",
@@ -389,26 +328,6 @@
    ]
   },
   {
-   "brand": "Gillette",
-   "product": "Venus Original Razor",
-   "retailer": "Amazon",
-   "was": 14.97,
-   "now": 9.97,
-   "percentOff": 33,
-   "url": "https://www.amazon.com/dp/B003EMPN7G?tag=vettbeauty-20",
-   "size": "2 Count",
-   "slug": "gillette-venus-original-razor",
-   "image": "/levelled/gillette-venus-original-razor.webp",
-   "imageCutout": false,
-   "topAward": "Glamour Beauty Awards — Readers' Choice — Best Razor (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Skin Tool",
-   "awardCount": 1,
-   "awardsWon": [
-    "Glamour Beauty Awards — Readers' Choice — Best Razor (2026)"
-   ]
-  },
-  {
    "brand": "VOESH",
    "product": "Hand Balm",
    "retailer": "Ulta",
@@ -446,6 +365,26 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Healing Ointment (2026)"
+   ]
+  },
+  {
+   "brand": "Gillette",
+   "product": "Venus Original Razor",
+   "retailer": "Amazon",
+   "was": 14.97,
+   "now": 9.97,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B003EMPN7G?tag=vettbeauty-20",
+   "size": "2 Count",
+   "slug": "gillette-venus-original-razor",
+   "image": "/levelled/gillette-venus-original-razor.webp",
+   "imageCutout": false,
+   "topAward": "Glamour Beauty Awards — Readers' Choice — Best Razor (2026)",
+   "category": "Tools & Devices",
+   "subcategory": "Skin Tool",
+   "awardCount": 1,
+   "awardsWon": [
+    "Glamour Beauty Awards — Readers' Choice — Best Razor (2026)"
    ]
   },
   {
@@ -551,26 +490,6 @@
    ]
   },
   {
-   "brand": "Garnier Fructis",
-   "product": "Curl Knot Melter",
-   "retailer": "Amazon",
-   "was": 9.99,
-   "now": 6.97,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0G1NKWTS2?tag=vettbeauty-20",
-   "size": null,
-   "slug": "garnier-fructis-curl-knot-melter",
-   "image": "/cutouts/garnier-fructis-curl-knot-melter.webp",
-   "imageCutout": true,
-   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)",
-   "category": "Hair",
-   "subcategory": "Leave-In",
-   "awardCount": 1,
-   "awardsWon": [
-    "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)"
-   ]
-  },
-  {
    "brand": "OLEHENRIKSEN",
    "product": "Sugar Melt Lip Scrub",
    "retailer": "Ulta",
@@ -653,6 +572,26 @@
    ]
   },
   {
+   "brand": "Garnier Fructis",
+   "product": "Curl Knot Melter",
+   "retailer": "Amazon",
+   "was": 9.99,
+   "now": 6.97,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0G1NKWTS2?tag=vettbeauty-20",
+   "size": null,
+   "slug": "garnier-fructis-curl-knot-melter",
+   "image": "/cutouts/garnier-fructis-curl-knot-melter.webp",
+   "imageCutout": true,
+   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)",
+   "category": "Hair",
+   "subcategory": "Leave-In",
+   "awardCount": 1,
+   "awardsWon": [
+    "Glamour Beauty Awards — Curly & Coily Hair — Best Detangler (2026)"
+   ]
+  },
+  {
    "brand": "quip",
    "product": "Sonic Toothbrush",
    "retailer": "Amazon",
@@ -671,6 +610,27 @@
    "awardsWon": [
     "NewBeauty Readers Choice — Favorite Toothbrush (2025)",
     "Glamour Beauty Awards — Beauty Innovators — Best Electric Toothbrush (2026)"
+   ]
+  },
+  {
+   "brand": "OWAY",
+   "product": "Curly Hair Co-Wash",
+   "retailer": "Amazon",
+   "was": 60,
+   "now": 42,
+   "percentOff": 30,
+   "url": "https://www.amazon.com/dp/B0B19BRTGN?tag=vettbeauty-20",
+   "size": "240ml",
+   "slug": "oway-curly-hair-co-wash",
+   "image": "/cutouts/oway-curly-hair-co-wash.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)",
+   "category": "Hair",
+   "subcategory": "Shampoo",
+   "awardCount": 2,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)",
+    "Glamour Beauty Awards — Curly & Coily Hair — Best Co-Wash (2026)"
    ]
   },
   {
@@ -714,27 +674,6 @@
    ]
   },
   {
-   "brand": "OWAY",
-   "product": "Curly Hair Co-Wash",
-   "retailer": "Amazon",
-   "was": 60,
-   "now": 42,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0B19BRTGN?tag=vettbeauty-20",
-   "size": "240ml",
-   "slug": "oway-curly-hair-co-wash",
-   "image": "/cutouts/oway-curly-hair-co-wash.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)",
-   "category": "Hair",
-   "subcategory": "Shampoo",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Shampoo for Curly Hair (2026)",
-    "Glamour Beauty Awards — Curly & Coily Hair — Best Co-Wash (2026)"
-   ]
-  },
-  {
    "brand": "WavyTalk",
    "product": "Blowout Boost Grande",
    "retailer": "Amazon",
@@ -752,26 +691,6 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Hot Round Brush (2026)"
-   ]
-  },
-  {
-   "brand": "Briogeo",
-   "product": "Farewell Frizz Blow Dry Perfection & Heat Protectant Crème",
-   "retailer": "Dermstore",
-   "was": 26,
-   "now": 18.99,
-   "percentOff": 27,
-   "url": "https://go.shopmy.us/p-78168422",
-   "size": "4 oz",
-   "slug": "briogeo-farewell-frizz-blow-dry-perfection---heat-protectant-cr-me",
-   "image": "/cutouts/briogeo-farewell-frizz-blow-dry-perfection---heat-protectant-cr-me.webp",
-   "imageCutout": true,
-   "topAward": "Allure Readers Choice — Clean Winner (2026)",
-   "category": "Hair",
-   "subcategory": "Heat Protectant",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Readers Choice — Clean Winner (2026)"
    ]
   },
   {
@@ -894,6 +813,26 @@
    "awardCount": 1,
    "awardsWon": [
     "Marie Claire Skin & Hair Awards — Best Volumizing Product (2025)"
+   ]
+  },
+  {
+   "brand": "St.Tropez",
+   "product": "Self Tan Express Bronzing Mousse",
+   "retailer": "Dermstore",
+   "was": 46,
+   "now": 36,
+   "percentOff": 22,
+   "url": "https://go.shopmy.us/p-89618936",
+   "size": "100ml",
+   "slug": "st--tropez-self-tan-express-bronzing-mousse",
+   "image": "/cutouts/st--tropez-self-tan-express-bronzing-mousse.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Self-Tanner (2025)",
+   "category": "Body",
+   "subcategory": "Self-Tanner",
+   "awardCount": 1,
+   "awardsWon": [
+    "InStyle Best Beauty Buys — Best Self-Tanner (2025)"
    ]
   },
   {
@@ -1062,28 +1001,6 @@
    ]
   },
   {
-   "brand": "ISDIN",
-   "product": "Fusion Water MAGIC",
-   "retailer": "Amazon",
-   "was": 38,
-   "now": 32.3,
-   "percentOff": 15,
-   "url": "https://go.shopmy.us/p-76852028",
-   "size": "1.7 fl oz",
-   "slug": "isdin-fusion-water-magic",
-   "image": "/cutouts/isdin-fusion-water-magic.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Sunscreen (2025)",
-   "category": "Skincare",
-   "subcategory": "SPF",
-   "awardCount": 3,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Sunscreen (2025)",
-    "Allure Best of Beauty — Best Chemical Lotion Sunscreen (2025)",
-    "NewBeauty Annual Awards — Best Oil-Free Sunscreen (2026)"
-   ]
-  },
-  {
    "brand": "e.l.f. SKIN",
    "product": "Bronzing Drops",
    "retailer": "Ulta",
@@ -1104,44 +1021,25 @@
    ]
   },
   {
-   "brand": "Obagi Medical",
-   "product": "Professional-C Serum 20%",
-   "retailer": "Dermstore",
-   "was": 155,
-   "now": 131.75,
+   "brand": "ISDIN",
+   "product": "Fusion Water MAGIC",
+   "retailer": "Amazon",
+   "was": 38,
+   "now": 32.3,
    "percentOff": 15,
-   "url": "https://go.shopmy.us/p-79317896",
-   "size": "1 oz",
-   "slug": "obagi-medical-professional-c-serum-20-",
-   "image": "/cutouts/obagi-medical-professional-c-serum-20-.webp",
+   "url": "https://go.shopmy.us/p-76852028",
+   "size": "1.7 fl oz",
+   "slug": "isdin-fusion-water-magic",
+   "image": "/cutouts/isdin-fusion-water-magic.webp",
    "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Antioxidant Serum (2025)",
+   "topAward": "InStyle Best Beauty Buys — Best Sunscreen (2025)",
    "category": "Skincare",
-   "subcategory": "Cleanser",
-   "awardCount": 1,
+   "subcategory": "SPF",
+   "awardCount": 3,
    "awardsWon": [
-    "Allure Best of Beauty — Best Antioxidant Serum (2025)"
-   ]
-  },
-  {
-   "brand": "COSRX",
-   "product": "Advanced Snail 96 Mucin Power Essence",
-   "retailer": "Dermstore",
-   "was": 21,
-   "now": 17.76,
-   "percentOff": 15,
-   "url": "https://go.shopmy.us/p-88563191",
-   "size": "3.38 fl. oz",
-   "slug": "cosrx-advanced-snail-96-mucin-power-essence",
-   "image": "/cutouts/cosrx-advanced-snail-96-mucin-power-essence.webp",
-   "imageCutout": true,
-   "topAward": "Marie Claire Reader's Choice — Essence (2026)",
-   "category": "Skincare",
-   "subcategory": "Essence",
-   "awardCount": 2,
-   "awardsWon": [
-    "Marie Claire Reader's Choice — Essence (2026)",
-    "NewBeauty Readers Choice — Favorite Hydrating Essence (2026)"
+    "InStyle Best Beauty Buys — Best Sunscreen (2025)",
+    "Allure Best of Beauty — Best Chemical Lotion Sunscreen (2025)",
+    "NewBeauty Annual Awards — Best Oil-Free Sunscreen (2026)"
    ]
   },
   {
