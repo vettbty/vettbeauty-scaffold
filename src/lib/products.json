@@ -79707,7 +79707,7 @@
     "brand": "ZIIP Beauty",
     "name": "Halo 2.0",
     "price": 400,
-    "image": "https://cdn.shopify.com/s/files/1/1768/8429/files/ZIIP-HALO-Facial-Toning-Device.jpg?v=1752594035",
+    "image": "/levelled/ziip-beauty-halo-2-0.webp",
     "topAward": "InStyle Best Beauty Buys — Best At-Home Microcurrent Device (2026)",
     "awardCount": 1,
     "category": "Tools & Devices",
@@ -79719,7 +79719,9 @@
     "buyLink": "https://go.shopmy.us/p-81021335",
     "awardsWon": [
       "InStyle Best Beauty Buys — Best At-Home Microcurrent Device (2026)"
-    ]
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/1768/8429/files/ZIIP-HALO-Facial-Toning-Device.jpg?v=1752594035",
+    "imageLevelled": true
   },
   {
     "id": "prod-3579",
