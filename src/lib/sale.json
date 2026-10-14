@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12",
+ "generated": "2026-10-13",
  "items": [
   {
    "brand": "Odele",
@@ -60,26 +60,6 @@
    "awardCount": 1,
    "awardsWon": [
     "Allure Best of Beauty — Best Body Steals (2025)"
-   ]
-  },
-  {
-   "brand": "Hot Tools",
-   "product": "Pro Artist Digital Curling Iron",
-   "retailer": "Amazon",
-   "was": 100,
-   "now": 63.27,
-   "percentOff": 37,
-   "url": "https://www.amazon.com/dp/B09P22MMF8?tag=vettbeauty-20",
-   "size": null,
-   "slug": "hot-tools-pro-artist-digital-curling-iron",
-   "image": "/cutouts/hot-tools-pro-artist-digital-curling-iron.webp",
-   "imageCutout": true,
-   "topAward": "Marie Claire Reader's Choice — Curling Iron (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Hair Tool",
-   "awardCount": 1,
-   "awardsWon": [
-    "Marie Claire Reader's Choice — Curling Iron (2026)"
    ]
   },
   {
@@ -170,7 +150,7 @@
    "now": 15.4,
    "percentOff": 27,
    "url": "https://www.amazon.com/dp/B0H42HZGLZ?tag=vettbeauty-20",
-   "size": null,
+   "size": "5.5 oz",
    "slug": "kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask",
    "image": "/cutouts/kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask.webp",
    "imageCutout": true,
@@ -180,6 +160,26 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)"
+   ]
+  },
+  {
+   "brand": "Hot Tools",
+   "product": "Pro Artist Digital Curling Iron",
+   "retailer": "Amazon",
+   "was": 100,
+   "now": 72.72,
+   "percentOff": 27,
+   "url": "https://www.amazon.com/dp/B09P22MMF8?tag=vettbeauty-20",
+   "size": null,
+   "slug": "hot-tools-pro-artist-digital-curling-iron",
+   "image": "/cutouts/hot-tools-pro-artist-digital-curling-iron.webp",
+   "imageCutout": true,
+   "topAward": "Marie Claire Reader's Choice — Curling Iron (2026)",
+   "category": "Tools & Devices",
+   "subcategory": "Hair Tool",
+   "awardCount": 1,
+   "awardsWon": [
+    "Marie Claire Reader's Choice — Curling Iron (2026)"
    ]
   },
   {
@@ -223,26 +223,6 @@
    ]
   },
   {
-   "brand": "Gold Bond",
-   "product": "Healing Sensitive Daily Body & Face Lotion",
-   "retailer": "Amazon",
-   "was": 10,
-   "now": 8.02,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0C5GQ1N3T?tag=vettbeauty-20",
-   "size": "13 oz",
-   "slug": "gold-bond-healing-sensitive-daily-body---face-lotion",
-   "image": "/cutouts/gold-bond-healing-sensitive-daily-body---face-lotion.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Face and Body Lotion for Sensitive Skin (2025)",
-   "category": "Skincare",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Face and Body Lotion for Sensitive Skin (2025)"
-   ]
-  },
-  {
    "brand": "Lumineux",
    "product": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
    "retailer": "Amazon",
@@ -263,27 +243,23 @@
    ]
   },
   {
-   "brand": "Benefit Cosmetics",
-   "product": "Gimme Brow+",
-   "retailer": "Amazon",
-   "was": 28,
-   "now": 22.9,
-   "percentOff": 18,
-   "url": "https://go.shopmy.us/p-76852908",
-   "size": "1 Count",
-   "slug": "benefit-cosmetics-gimme-brow-",
-   "image": "/levelled/benefit-cosmetics-gimme-brow-.webp",
+   "brand": "Glasshouse Fragrances",
+   "product": "Body Bar",
+   "retailer": "Dermstore",
+   "was": 18,
+   "now": 15,
+   "percentOff": 17,
+   "url": "https://go.shopmy.us/p-78478118",
+   "size": "6.3 oz",
+   "slug": "glasshouse-fragrances-body-bar",
+   "image": "/levelled/glasshouse-fragrances-body-bar.webp",
    "imageCutout": false,
-   "topAward": "Allure Readers Choice — Makeup Winner (2026)",
-   "category": "Makeup",
-   "subcategory": "Brow",
-   "awardCount": 5,
+   "topAward": "InStyle Best Beauty Buys — Best Bar Soap (2026)",
+   "category": "Body",
+   "subcategory": "Bar Soap",
+   "awardCount": 1,
    "awardsWon": [
-    "Allure Readers Choice — Makeup Winner (2026)",
-    "NewBeauty Readers Choice — Favorite Brow Gel (2025)",
-    "Glamour Beauty Awards — Readers' Choice — Best Brow Product (2026)",
-    "Marie Claire Reader's Choice — Brow Gel (2026)",
-    "Cosmopolitan Readers Choice — Best Brow Gel (2026)"
+    "InStyle Best Beauty Buys — Best Bar Soap (2026)"
    ]
   },
   {
@@ -304,48 +280,6 @@
    "awardCount": 1,
    "awardsWon": [
     "Marie Claire Skin & Hair Awards — Best Hair Oil (2025)"
-   ]
-  },
-  {
-   "brand": "e.l.f. SKIN",
-   "product": "Bronzing Drops",
-   "retailer": "Ulta",
-   "was": 13,
-   "now": 11,
-   "percentOff": 15,
-   "url": "https://go.shopmy.us/p-89747271",
-   "size": null,
-   "slug": "e-l-f--skin-bronzing-drops-2",
-   "image": "/levelled/e-l-f--skin-bronzing-drops-2.webp",
-   "imageCutout": false,
-   "topAward": "InStyle Best Beauty Buys — Best Liquid Bronzer (2026)",
-   "category": "Makeup",
-   "subcategory": "Liquid Bronzer",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Liquid Bronzer (2026)"
-   ]
-  },
-  {
-   "brand": "ISDIN",
-   "product": "Fusion Water MAGIC",
-   "retailer": "Amazon",
-   "was": 38,
-   "now": 32.3,
-   "percentOff": 15,
-   "url": "https://go.shopmy.us/p-76852028",
-   "size": "1.7 fl oz",
-   "slug": "isdin-fusion-water-magic",
-   "image": "/cutouts/isdin-fusion-water-magic.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Sunscreen (2025)",
-   "category": "Skincare",
-   "subcategory": "SPF",
-   "awardCount": 3,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Sunscreen (2025)",
-    "Allure Best of Beauty — Best Chemical Lotion Sunscreen (2025)",
-    "NewBeauty Annual Awards — Best Oil-Free Sunscreen (2026)"
    ]
   },
   {
