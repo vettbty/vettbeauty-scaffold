@@ -1,30 +1,18 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-13",
+ "generated": "2026-10-15",
  "items": [
   {
-   "productId": "37d748fc-f68a-4cb6-8194-bfc7d9c0dd7f",
-   "brand": "Odele",
-   "product": "Air Dry Styler",
+   "productId": "600b07d3-3168-45ca-933f-167b52538268",
+   "brand": "dpHUE",
+   "product": "ACV WonderWorks Leave-In Conditioner",
    "retailer": "Ulta",
-   "was": 11.99,
-   "now": 4.99,
-   "percentOff": 58,
-   "url": "https://go.shopmy.us/p-80784317",
-   "size": "2.0 oz",
-   "listing": "2.0 oz Air Dry Styler for Light Moisture, Definition + Shine - Odele"
-  },
-  {
-   "productId": "0aee5d4f-fcdf-4fcd-92a3-f2511dd8a710",
-   "brand": "Burst Oral Care",
-   "product": "Precision Whitening Pen",
-   "retailer": "amazon",
-   "was": 15,
-   "now": 7.99,
-   "percentOff": 47,
-   "url": "https://www.amazon.com/dp/B0F4Y5Q7XB",
-   "size": "1 Count",
-   "listing": "Amazon.com: Burst Precision Whitening Pen | 9% HP (1 Count/45 Whitening Treatments)"
+   "was": 34,
+   "now": 14,
+   "percentOff": 59,
+   "url": "https://go.shopmy.us/p-94239608",
+   "size": "1.5 oz",
+   "listing": "1.5 oz Apple Cider Vinegar WonderWorks Leave-In Conditioner - dpHUE"
   },
   {
    "productId": "4a5abec1-9f17-4675-a07c-14cf6808a460",
@@ -39,6 +27,30 @@
    "listing": "Revive Renewing Body Wash - billie"
   },
   {
+   "productId": "42509f64-1b75-4023-9422-99076bee2814",
+   "brand": "Dove",
+   "product": "Aluminum Free Deodorant Spray",
+   "retailer": "amazon",
+   "was": 27,
+   "now": 16.19,
+   "percentOff": 40,
+   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
+   "size": "4 oz",
+   "listing": "Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz"
+  },
+  {
+   "productId": "08c2003a-15ad-4325-a350-19de13c27c7c",
+   "brand": "Ulike",
+   "product": "Air 10",
+   "retailer": "Ulta",
+   "was": 399,
+   "now": 259,
+   "percentOff": 35,
+   "url": "https://go.shopmy.us/p-78051096",
+   "size": null,
+   "listing": "Pink Air10 Ice Cooling IPL Hair Removal Device - Ulike"
+  },
+  {
    "productId": "131f58fc-8b62-471c-b50f-5fcaa2b65f46",
    "brand": "Creme of Nature",
    "product": "Argan Oil from Morocco Creamy Hydration Co-Wash Cleansing Conditioner",
@@ -48,43 +60,7 @@
    "percentOff": 31,
    "url": "https://www.amazon.com/dp/B00VZ4BZHW",
    "size": null,
-   "listing": "Amazon.com: Creme of Nature Argan Oil From Morocco Creamy Hydration Co-Wash Conditioner"
-  },
-  {
-   "productId": "99f4439b-1f39-486e-9669-51b9e169b439",
-   "brand": "Nakery Beauty",
-   "product": "SkinInfusion Power Blend Elixir Serum",
-   "retailer": "amazon",
-   "was": 42,
-   "now": 29.4,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0CH42LZL8",
-   "size": "5.07 Fl Oz",
-   "listing": "Amazon.com: Nakery SkinInfusion Facial Oil Serum (5.07 Fl Oz), Anti Aging Collagen Serum with Hyaluronic Acid, Matrixyl 3000 and Vitamin C Oil, Moisturi"
-  },
-  {
-   "productId": "c4726d38-7c93-4340-bfb6-aac4949035a1",
-   "brand": "Silk'n",
-   "product": "Hair Removal Device",
-   "retailer": "amazon",
-   "was": 599,
-   "now": 419,
-   "percentOff": 30,
-   "url": "https://www.amazon.com/dp/B0D819HDRL",
-   "size": null,
-   "listing": "Amazon.com: Silk'n Infinity Fast Compact IPL Laser Hair Removal Device for Women and Men, Painless Permanent Hair Reduction at Home for Face and Body, A"
-  },
-  {
-   "productId": "0acb3925-0ad3-46f6-b412-e95d8ab62e28",
-   "brand": "Secret",
-   "product": "Clinical With Hyaluronic Acid + Vitiman Pack",
-   "retailer": "amazon",
-   "was": 13.97,
-   "now": 9.99,
-   "percentOff": 28,
-   "url": "https://www.amazon.com/dp/B00HF3XSO0",
-   "size": null,
-   "listing": "Amazon.com: Secret Clinical Strength 100HR Antiperspirant Deodorant for Women, 3X Sweat & Odor Protection vs. Ordinary Antiperspirant, Hyaluronic Acid, "
+   "listing": "Creme of Nature Creamy Hydration Co-Wash Cleansing Conditioner, Gently Cleanses & Hydrates, Sulfate-Free, Color Safe, In"
   },
   {
    "productId": "2aa434c7-879e-4144-a3f6-5c5ecea808cd",
@@ -96,19 +72,31 @@
    "percentOff": 27,
    "url": "https://www.amazon.com/dp/B0H42HZGLZ",
    "size": "5.5 oz",
-   "listing": "Amazon.com: Kristin Ess+ Peptide Bond Repair Overnight Hair Mask, Damaged Hair 5.5 oz"
+   "listing": "Kristin Ess+ Peptide Bond Repair Overnight Hair Mask, Damaged Hair 5.5 oz"
   },
   {
-   "productId": "32406d04-834c-414f-94d9-5e49bc17cc18",
-   "brand": "Hot Tools",
-   "product": "Pro Artist Digital Curling Iron",
+   "productId": "99f4439b-1f39-486e-9669-51b9e169b439",
+   "brand": "Nakery Beauty",
+   "product": "SkinInfusion Power Blend Elixir Serum",
    "retailer": "amazon",
-   "was": 100,
-   "now": 72.72,
-   "percentOff": 27,
-   "url": "https://www.amazon.com/dp/B09P22MMF8",
-   "size": null,
-   "listing": "Amazon.com: Hot Tools Pro Artist Black Gold Digital 1\" Curling Iron"
+   "was": 42,
+   "now": 32.51,
+   "percentOff": 23,
+   "url": "https://www.amazon.com/dp/B0CH42LZL8",
+   "size": "5.07 Fl Oz",
+   "listing": "Nakery SkinInfusion Facial Oil Serum (5.07 Fl Oz), Anti Aging Collagen Serum with Hyaluronic Acid, Matrixyl 3000 and Vit"
+  },
+  {
+   "productId": "f5caf541-ec10-4e48-abb1-b78767a3659c",
+   "brand": "CeraVe",
+   "product": "Intensive Moisturizing Cream",
+   "retailer": "Ulta",
+   "was": 23,
+   "now": 17.99,
+   "percentOff": 22,
+   "url": "https://go.shopmy.us/p-94237597",
+   "size": "8.0 oz",
+   "listing": "8.0 oz Intensive Moisturizing Cream - CeraVe"
   },
   {
    "productId": "cc2511c0-7668-4f31-867a-024f5de769a5",
@@ -132,19 +120,7 @@
    "percentOff": 21,
    "url": "https://www.amazon.com/dp/B0CHN19PJX",
    "size": null,
-   "listing": "Amazon.com: Secret Whole Body Deodorant Stick for Women, Naturally Derived Ingredients, Unscented, Aluminum Free Deoderant Stick, 72 HR Odor Protection,"
-  },
-  {
-   "productId": "49f916f6-691d-4b83-8f97-53f8727cca19",
-   "brand": "Lumineux",
-   "product": "Performance White Toothpaste with 10% Nano-Hydroxyapatite",
-   "retailer": "amazon",
-   "was": 10,
-   "now": 7.98,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0DMGP43X5",
-   "size": "3.75 oz",
-   "listing": "Amazon.com: Lumineux 10% Nano Hydroxyapatite Whitening Toothpaste, 3.75 oz"
+   "listing": "Secret Whole Body Deodorant Stick for Women, Naturally Derived Ingredients, Unscented, Aluminum Free Deoderant Stick, 72"
   },
   {
    "productId": "88315bfb-ee8a-4e0c-adfd-0984bb36f03a",
@@ -157,30 +133,6 @@
    "url": "https://go.shopmy.us/p-78478118",
    "size": "6.3 oz",
    "listing": "Glasshouse Fragrances Marseille Memoir Body Bar 6.3 oz"
-  },
-  {
-   "productId": "1bdb9d16-9e11-4ef7-8be2-6499f5df5898",
-   "brand": "Pantene",
-   "product": "Miracle Rescue Regenerative Hair Oil",
-   "retailer": "amazon",
-   "was": 15.39,
-   "now": 12.97,
-   "percentOff": 16,
-   "url": "https://www.amazon.com/dp/B0DJ3MF712",
-   "size": "2.0 FL Oz",
-   "listing": "Amazon.com: Pantene Miracle Rescue Regenerative Hair Oil - 2.0 FL Oz - Deep Repair Treatment for Dry & Damaged Hair"
-  },
-  {
-   "productId": "16b0fc80-ea9d-4180-819a-a8c385dfe8dc",
-   "brand": "OLAY",
-   "product": "Super Cream with Broad Spectrum SPF 30",
-   "retailer": "amazon",
-   "was": 41.29,
-   "now": 34.94,
-   "percentOff": 15,
-   "url": "https://www.amazon.com/dp/B0DHWFWSVF",
-   "size": null,
-   "listing": "Amazon.com: Olay Super Cream with Sunscreen SPF 30, Lightweight Face Moisturizer with Sun Protection, 5-in-1 Skin Care Benefits - Hydrating, Brightening"
   }
  ]
 }
