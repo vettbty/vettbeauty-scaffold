@@ -141,3 +141,25 @@ try {
   console.error('    The lifted backdrops and resolved sources are still on disk; re-run it before deploying.');
   process.exitCode = 1;
 }
+
+/* Last of all: put the finished catalogue into Supabase site_products, which
+   the live site reads (readCatalogue in src/lib/data.ts), so a regenerate
+   reaches the site without a separate sync or a deploy. products.json is
+   still written above and stays the build-time fallback.
+
+   It runs LAST, and reads products.json back from disk, because
+   apply-image-pointers.mjs rewrites that file after it is first written:
+   upserting earlier would upload the version without the corrected image
+   pointers. If the reconciler failed, nothing is uploaded. */
+if (process.exitCode) {
+  console.error('\n  ! site_products NOT updated: fix the image pointers and re-run.');
+} else {
+  import('./lib/site-products.mjs')
+    .then(({ upsertSiteProducts }) =>
+      upsertSiteProducts(JSON.parse(fs.readFileSync('./src/lib/products.json', 'utf-8'))))
+    .catch(e => {
+      console.error(`\n  ! site_products NOT updated: ${e.message}`);
+      console.error('    products.json is written; re-send it with node scripts/sync-to-site-products.mjs');
+      process.exitCode = 1;
+    });
+}
