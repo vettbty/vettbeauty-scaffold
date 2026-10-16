@@ -112,35 +112,44 @@ async function readCatalogue(): Promise<Product[]> {
     console.warn('[data] Supabase env missing — falling back to bundled JSON');
     return productsJson as Product[];
   }
-  // PostgREST returns at most 1,000 rows per request, so the catalogue is read
-  // in pages; a single request would silently drop everything past row 1,000.
-  // Each page stays well under the 2 MB limit for Next's fetch cache.
-  const PAGE = 1000;
-  const rows: Product[] = [];
-  for (let offset = 0; ; offset += PAGE) {
-    const res = await fetch(
-      `${url}/rest/v1/site_products?select=${SITE_COLUMNS.map(([col]) => col).join(',')},data&order=slug&limit=${PAGE}&offset=${offset}`,
-      // No revalidate of its own: a fetch's revalidate overrides the page's when
-      // it is shorter, so a 300 here made every page refresh every 5 minutes.
-      // The fetch inherits each page's own `revalidate` instead (/ 1h, product
-      // pages 1d), and the tag lets a route handler refresh it on demand.
-      { headers: { apikey: key, Authorization: `Bearer ${key}` }, cache: 'force-cache', next: { tags: ['catalogue'] } },
-    );
-    if (!res.ok) {
-      console.warn(`[data] catalogue fetch failed: ${res.status} — using bundled JSON`);
+  // Nothing below may propagate: a fetch that throws (a malformed header value,
+  // DNS, network, timeout), a body that is not JSON, or any error in the
+  // paging loop serves the bundled JSON. On 2026-10-16 a placeholder anon key
+  // containing "→" made fetch() throw and failed the Vercel build outright.
+  try {
+    // PostgREST returns at most 1,000 rows per request, so the catalogue is read
+    // in pages; a single request would silently drop everything past row 1,000.
+    // Each page stays well under the 2 MB limit for Next's fetch cache.
+    const PAGE = 1000;
+    const rows: Product[] = [];
+    for (let offset = 0; ; offset += PAGE) {
+      const res = await fetch(
+        `${url}/rest/v1/site_products?select=${SITE_COLUMNS.map(([col]) => col).join(',')},data&order=slug&limit=${PAGE}&offset=${offset}`,
+        // No revalidate of its own: a fetch's revalidate overrides the page's when
+        // it is shorter, so a 300 here made every page refresh every 5 minutes.
+        // The fetch inherits each page's own `revalidate` instead (/ 1h, product
+        // pages 1d), and the tag lets a route handler refresh it on demand.
+        { headers: { apikey: key, Authorization: `Bearer ${key}` }, cache: 'force-cache', next: { tags: ['catalogue'] } },
+      );
+      if (!res.ok) {
+        console.warn(`[data] catalogue fetch failed: ${res.status} — using bundled JSON`);
+        return productsJson as Product[];
+      }
+      const page: SiteProductRow[] = await res.json();
+      rows.push(...page.map(row => ({ ...row.data, ...columnsOnly(row) })));
+      if (page.length < PAGE) break;
+    }
+    // An empty table (created but never synced) would render a site with no
+    // products; serve the bundled JSON instead.
+    if (!rows.length) {
+      console.warn('[data] site_products is empty — using bundled JSON');
       return productsJson as Product[];
     }
-    const page: SiteProductRow[] = await res.json();
-    rows.push(...page.map(row => ({ ...row.data, ...columnsOnly(row) })));
-    if (page.length < PAGE) break;
-  }
-  // An empty table (created but never synced) would render a site with no
-  // products; serve the bundled JSON instead.
-  if (!rows.length) {
-    console.warn('[data] site_products is empty — using bundled JSON');
+    return rows;
+  } catch (err) {
+    console.warn('[data] catalogue load threw — using bundled JSON:', (err as Error)?.message ?? String(err));
     return productsJson as Product[];
   }
-  return rows;
 }
 
 // Short-lived, so a revalidation can pick up a changed source once there is one.
