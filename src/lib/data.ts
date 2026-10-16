@@ -74,18 +74,31 @@ export function enrichProducts(raw: Product[]): Product[] {
   }));
 }
 
-// The catalogue is loaded through this one async loader so callers do not
-// depend on where it comes from. Today that is the committed products.json;
-// swapping it for a fetch later changes only this function.
-let _products: Promise<Product[]> | null = null;
-
-async function loadProducts(): Promise<Product[]> {
-  if (_products) return _products;
-  _products = (async () => enrichProducts(productsJson as Product[]))();
-  return _products;
+// The catalogue is read through this one getter so callers do not depend on
+// where it comes from.
+//
+// NOT LIVE YET. readCatalogue() imports the bundled products.json, which is
+// fixed when the site is built, so new data still requires a deploy (and a
+// deploy rebuilds every page anyway). The pages' `revalidate` values and the
+// TTL below do nothing for freshness until readCatalogue() reads from outside
+// the build (Supabase or a hosted JSON file). Swapping that in changes only
+// readCatalogue().
+async function readCatalogue(): Promise<Product[]> {
+  return productsJson as Product[];   // JSON now, fetch later
 }
 
-export async function getProducts(): Promise<Product[]> { return loadProducts(); }
+// Short-lived, so a revalidation can pick up a changed source once there is one.
+let _cache: { at: number; value: Product[] } | null = null;
+const TTL_MS = 5 * 60 * 1000;
+
+export async function getProducts(): Promise<Product[]> {
+  const now = Date.now();
+  if (_cache && now - _cache.at < TTL_MS) return _cache.value;
+  const raw = await readCatalogue();
+  const value = enrichProducts(raw);
+  _cache = { at: now, value };
+  return value;
+}
 
 // The grids feature only winners a reader can actually buy. A product with no
 // working buy link keeps its page (search, sitemap, direct links) but stays off
