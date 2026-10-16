@@ -87,6 +87,18 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
   const editorialAwards = withKind.filter(a => !a.isConsumer);
   const consumerAwards = withKind.filter(a => a.isConsumer);
   const editorialSources = [...new Set(editorialAwards.map(a => a.pub))].filter((p): p is string => p !== null);
+  // One row per publication: Allure's two programmes, or Glowpick's 2026 and
+  // 2025 rankings, become a single line.
+  type AwardRow = (typeof withKind)[number];
+  const groupBy = (list: AwardRow[]): [string, AwardRow[]][] => {
+    const m = new Map<string, AwardRow[]>();
+    for (const a of list) {
+      const key = a.pub ?? a.source;
+      if (!m.has(key)) m.set(key, []);
+      m.get(key)!.push(a);
+    }
+    return [...m.entries()];
+  };
 
   return (
     <>
@@ -261,77 +273,56 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
         </div>
       </section>
 
-      {/* Awards Timeline */}
+      {/* Awards, grouped by publication: one hairline row per publication with
+          its years and categories inline, and a platform's mechanism note said
+          once. Editorial awards first; Korean consumer rankings, which are
+          shown but never scored, in their own list. */}
       <section className="bg-white border-t border-cream-dark">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12 space-y-8">
           {editorialAwards.length > 0 && (
-            <>
-          <h2 className="font-serif text-xl sm:text-2xl font-semibold text-charcoal mb-6">
-            Editorial awards
-          </h2>
-          <div className="space-y-4">
-            {[...editorialAwards]
-              .sort((a, b) => b.year - a.year)
-              .map((award, i) => (
-                <div 
-                  key={i} 
-                  className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 p-4 bg-cream rounded-xl"
-                >
-                  <span className="inline-flex self-start sm:self-center bg-charcoal text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap">
-                    {award.year}
-                  </span>
-                  <div className="flex-1">
-                    <p className="font-semibold text-charcoal text-sm sm:text-base">
-                      {award.source}
-                    </p>
-                    {award.category && (
-                      <p className="text-sm text-charcoal-light">{award.category}</p>
-                    )}
-                    {AWARD_MECHANISM[award.source] && (
-                      <p className="text-xs text-charcoal-light italic">
-                        {AWARD_MECHANISM[award.source]}
-                      </p>
-                    )}
-                  </div>
-                </div>
-              ))}
-          </div>
-            </>
+            <section>
+              <h2 className="eyebrow text-gold mb-3">Editorial awards</h2>
+              <ul className="divide-y divide-cream-dark border-t border-b border-cream-dark">
+                {groupBy(editorialAwards).map(([pub, awards]) => {
+                  const note = awards.map(a => AWARD_MECHANISM[a.source]).find(Boolean);
+                  return (
+                    <li key={pub} className="flex flex-wrap items-baseline gap-x-3 gap-y-0.5 py-2.5">
+                      <span className="text-sm font-semibold text-charcoal">{pub}</span>
+                      <span className="text-xs text-charcoal-light">
+                        {[...new Set(awards.map(a => a.year))].sort((a, b) => b - a).join(' · ')}
+                      </span>
+                      <span className="text-xs text-charcoal-light">
+                        {[...new Set(awards.map(a => a.category).filter(Boolean))].join(' · ')}
+                      </span>
+                      {note && <span className="text-xs italic text-charcoal-light/80">{note}</span>}
+                    </li>
+                  );
+                })}
+              </ul>
+            </section>
           )}
 
           {consumerAwards.length > 0 && (
-            <>
-          <h2 className={`font-serif text-xl sm:text-2xl font-semibold text-charcoal mb-6 ${editorialAwards.length > 0 ? 'mt-10' : ''}`}>
-            Consumer rankings
-          </h2>
-          <div className="space-y-4">
-            {[...consumerAwards]
-              .sort((a, b) => b.year - a.year)
-              .map((award, i) => (
-                <div 
-                  key={i} 
-                  className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 p-4 bg-cream rounded-xl"
-                >
-                  <span className="inline-flex self-start sm:self-center bg-charcoal text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap">
-                    {award.year}
-                  </span>
-                  <div className="flex-1">
-                    <p className="font-semibold text-charcoal text-sm sm:text-base">
-                      {award.source}
-                    </p>
-                    {award.category && (
-                      <p className="text-sm text-charcoal-light">{award.category}</p>
-                    )}
-                    {AWARD_MECHANISM[award.source] && (
-                      <p className="text-xs text-charcoal-light italic">
-                        {AWARD_MECHANISM[award.source]}
-                      </p>
-                    )}
-                  </div>
-                </div>
-              ))}
-          </div>
-            </>
+            <section>
+              <h2 className="eyebrow text-gold mb-3">Korean rankings</h2>
+              <ul className="divide-y divide-cream-dark border-t border-b border-cream-dark">
+                {groupBy(consumerAwards).map(([pub, awards]) => {
+                  const note = awards.map(a => AWARD_MECHANISM[a.source]).find(Boolean);
+                  return (
+                    <li key={pub} className="flex flex-wrap items-baseline gap-x-3 gap-y-0.5 py-2.5">
+                      <span className="text-sm font-semibold text-charcoal">{pub}</span>
+                      <span className="text-xs text-charcoal-light">
+                        {[...new Set(awards.map(a => a.year))].sort((a, b) => b - a).join(' · ')}
+                      </span>
+                      <span className="text-xs text-charcoal-light">
+                        {[...new Set(awards.map(a => a.category).filter(Boolean))].join(' · ')}
+                      </span>
+                      {note && <span className="text-xs italic text-charcoal-light/80">{note}</span>}
+                    </li>
+                  );
+                })}
+              </ul>
+            </section>
           )}
         </div>
       </section>
