@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
-import type { SavedProduct } from '@/lib/data';
+import type { SavedProduct } from '@/lib/saved';
 
 export default function SavedPage() {
   const [savedProducts, setSavedProducts] = useState<SavedProduct[]>([]);

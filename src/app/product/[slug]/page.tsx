@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { products2026, shoppable, priceLabel } from '@/lib/data';
+import { products2026, shoppable } from '@/lib/data';
+import { priceLabel } from '@/lib/format';
 import SaveButton from '@/components/SaveButton';
 import { CATEGORIES, OTHER, slugify } from '@/lib/taxonomy';
 import { descriptionFor } from '@/lib/descriptions';

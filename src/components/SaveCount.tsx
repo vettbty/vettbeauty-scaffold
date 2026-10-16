@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Heart } from 'lucide-react';
-import { getSavedCount } from '@/lib/data';
+import { getSavedCount } from '@/lib/saved';
 
 interface SaveCountProps {
   className?: string;

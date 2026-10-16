@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Heart } from 'lucide-react';
-import { isSaved, toggleSave, SavedProduct } from '@/lib/data';
+import { isSaved, toggleSave, SavedProduct } from '@/lib/saved';
 
 interface SaveButtonProps {
   product: Omit<SavedProduct, 'savedAt'>;

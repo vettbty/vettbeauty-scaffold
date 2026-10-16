@@ -1,12 +1,13 @@
 'use client';
 
-import Link from 'next/link';
 import { useState, useMemo, useRef, useEffect } from 'react';
-import { products2026, shoppable, shownPrice, priceLabel, type Product } from '@/lib/data';
+import { products2026, shoppable, type Product } from '@/lib/data';
+import { shownPrice } from '@/lib/format';
 import { CATEGORIES, OTHER, slugify, subcategoriesOf } from '@/lib/taxonomy';
 import { search, suggest, type Suggestion } from '@/lib/search';
 import SaveCount from '@/components/SaveCount';
 import Wordmark from '@/components/Wordmark';
+import Tile from '@/components/Tile';
 
 const categoryMap: Record<string, string> = Object.fromEntries(CATEGORIES.map(c => [c.key, c.label]));
 
@@ -457,49 +458,7 @@ export default function Home() {
       <div ref={gridRef} className="max-w-6xl mx-auto pb-10">
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-px bg-cream-dark">
           {filteredProducts.map(product => (
-            <div key={product.id} className="bg-white flex flex-col">
-              <Link href={`/product/${product.slug}`} className="block">
-                <div className="product-tile aspect-square relative overflow-hidden">
-                  {product.image ? (
-                    <img
-                      src={product.image}
-                      alt={`${product.brand} ${product.name}`}
-                      className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`}
-                      loading="lazy"
-                    />
-                  ) : (
-                    <div className="w-full h-full flex items-center justify-center text-charcoal-light/30">
-                      <svg className="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
-                    </div>
-                  )}
-                  <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
-                    {labelFor(product)}
-                  </span>
-                  {product.awardCount > 1 && (
-                    <span className={`absolute top-2 right-2 consensus-badge ${product.awardCount >= 3 ? 'consensus-high' : ''} text-[10px] w-5 h-5`}>
-                      {product.awardCount}
-                    </span>
-                  )}
-                </div>
-                <div className="p-3">
-                  <p className="text-[9px] font-semibold uppercase microcap text-gold mb-0.5">{product.brand}</p>
-                  <h3 className="text-xs font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
-                </div>
-              </Link>
-              <div className="px-3 pb-3 mt-auto flex items-center justify-between">
-                <span className="text-xs font-bold text-charcoal">{priceLabel(product) ?? '—'}</span>
-                {product.buyLink && (
-                  <a
-                    href={product.buyLink}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-[9px] font-semibold text-gold uppercase microcap"
-                  >
-                    Check Price →
-                  </a>
-                )}
-              </div>
-            </div>
+            <Tile key={product.id} product={product} label={labelFor(product)} />
           ))}
         </div>
         {filteredProducts.length === 0 && (
