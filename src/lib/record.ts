@@ -72,6 +72,9 @@ export const programmes: Programme[] = editionNames.map(edition => {
 export interface PublicationIndex {
   title: string;
   editions: { slug: string; name: string }[];
+  // Distinct buyable products that won any of this title's editions — not the
+  // sum of the editions' winner counts, so a product Allure named twice counts once.
+  winnerCount: number;
 }
 
 const isConsumer = (title: string | null) => title !== null && (CONSUMER_PLATFORMS as readonly string[]).includes(title);
@@ -82,7 +85,11 @@ const groupByTitle = (list: Programme[]): PublicationIndex[] => {
     if (!m.has(p.publication)) m.set(p.publication, []);
     m.get(p.publication)!.push({ slug: p.slug, name: `${p.name} ${p.edition}`.trim() });
   }
-  return [...m.entries()].map(([title, editions]) => ({ title, editions }));
+  return [...m.entries()].map(([title, editions]) => ({
+    title,
+    editions,
+    winnerCount: shoppable.filter(p => p.awardsWon.some(a => publicationOf(a) === title)).length,
+  }));
 };
 
 /** Editorial parent titles (scored), each with its editions. */
