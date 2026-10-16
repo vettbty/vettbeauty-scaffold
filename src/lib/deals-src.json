@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-15",
+ "generated": "2026-10-16",
  "items": [
   {
    "productId": "600b07d3-3168-45ca-933f-167b52538268",
@@ -15,6 +15,18 @@
    "listing": "1.5 oz Apple Cider Vinegar WonderWorks Leave-In Conditioner - dpHUE"
   },
   {
+   "productId": "42509f64-1b75-4023-9422-99076bee2814",
+   "brand": "Dove",
+   "product": "Aluminum Free Deodorant Spray",
+   "retailer": "amazon",
+   "was": 27,
+   "now": 15.99,
+   "percentOff": 41,
+   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
+   "size": "4 oz",
+   "listing": "Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz"
+  },
+  {
    "productId": "4a5abec1-9f17-4675-a07c-14cf6808a460",
    "brand": "Billie",
    "product": "Revive Body Wash",
@@ -25,18 +37,6 @@
    "url": "https://go.shopmy.us/p-92038930",
    "size": null,
    "listing": "Revive Renewing Body Wash - billie"
-  },
-  {
-   "productId": "42509f64-1b75-4023-9422-99076bee2814",
-   "brand": "Dove",
-   "product": "Aluminum Free Deodorant Spray",
-   "retailer": "amazon",
-   "was": 27,
-   "now": 16.19,
-   "percentOff": 40,
-   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
-   "size": "4 oz",
-   "listing": "Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz"
   },
   {
    "productId": "08c2003a-15ad-4325-a350-19de13c27c7c",
@@ -60,7 +60,7 @@
    "percentOff": 31,
    "url": "https://www.amazon.com/dp/B00VZ4BZHW",
    "size": null,
-   "listing": "Creme of Nature Creamy Hydration Co-Wash Cleansing Conditioner, Gently Cleanses & Hydrates, Sulfate-Free, Color Safe, In"
+   "listing": "Creme of Nature Creamy Hydration Co-Wash Cleansing Conditioner, Gently Cleanses & Hydrates, Sulfate-Free, Color Safe"
   },
   {
    "productId": "2aa434c7-879e-4144-a3f6-5c5ecea808cd",
@@ -75,16 +75,16 @@
    "listing": "Kristin Ess+ Peptide Bond Repair Overnight Hair Mask, Damaged Hair 5.5 oz"
   },
   {
-   "productId": "99f4439b-1f39-486e-9669-51b9e169b439",
-   "brand": "Nakery Beauty",
-   "product": "SkinInfusion Power Blend Elixir Serum",
-   "retailer": "amazon",
-   "was": 42,
-   "now": 32.51,
-   "percentOff": 23,
-   "url": "https://www.amazon.com/dp/B0CH42LZL8",
-   "size": "5.07 Fl Oz",
-   "listing": "Nakery SkinInfusion Facial Oil Serum (5.07 Fl Oz), Anti Aging Collagen Serum with Hyaluronic Acid, Matrixyl 3000 and Vit"
+   "productId": "cc2511c0-7668-4f31-867a-024f5de769a5",
+   "brand": "St.Tropez",
+   "product": "Self Tan Express Bronzing Mousse",
+   "retailer": "Dermstore",
+   "was": 46,
+   "now": 36,
+   "percentOff": 22,
+   "url": "https://go.shopmy.us/p-89618936",
+   "size": "100ml",
+   "listing": "St. Tropez Self Tan Express Bronzing Mousse 100ml"
   },
   {
    "productId": "f5caf541-ec10-4e48-abb1-b78767a3659c",
@@ -99,18 +99,6 @@
    "listing": "8.0 oz Intensive Moisturizing Cream - CeraVe"
   },
   {
-   "productId": "cc2511c0-7668-4f31-867a-024f5de769a5",
-   "brand": "St.Tropez",
-   "product": "Self Tan Express Bronzing Mousse",
-   "retailer": "Dermstore",
-   "was": 46,
-   "now": 36,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-89618936",
-   "size": "100ml",
-   "listing": "St. Tropez Self Tan Express Bronzing Mousse 100ml"
-  },
-  {
    "productId": "c7703c1d-217a-4b19-a5f3-a686f8e9188e",
    "brand": "Secret",
    "product": "Whole Body Dry Feel Deodorant",
@@ -120,7 +108,7 @@
    "percentOff": 21,
    "url": "https://www.amazon.com/dp/B0CHN19PJX",
    "size": null,
-   "listing": "Secret Whole Body Deodorant Stick for Women, Naturally Derived Ingredients, Unscented, Aluminum Free Deoderant Stick, 72"
+   "listing": "Secret Whole Body Deodorant Stick for Women, Naturally Derived Ingredients, Unscented, Aluminum Free Deoderant Stick"
   },
   {
    "productId": "88315bfb-ee8a-4e0c-adfd-0984bb36f03a",
@@ -133,6 +121,18 @@
    "url": "https://go.shopmy.us/p-78478118",
    "size": "6.3 oz",
    "listing": "Glasshouse Fragrances Marseille Memoir Body Bar 6.3 oz"
+  },
+  {
+   "productId": "e98eaa43-b2b1-4a10-803b-c71bc47d4d3f",
+   "brand": "Baby Tress",
+   "product": "Edge Styler",
+   "retailer": "amazon",
+   "was": 8,
+   "now": 6.61,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B0BM2LD4WY",
+   "size": null,
+   "listing": "Baby Tress Hair Brush 3-in-1 Edge Styler for Styling and Taming Flyaways and Brows. Ash Grey"
   }
  ]
 }

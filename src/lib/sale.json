@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15",
+ "generated": "2026-10-16",
  "items": [
   {
    "brand": "dpHUE",
@@ -22,6 +22,26 @@
    ]
   },
   {
+   "brand": "Dove",
+   "product": "Aluminum Free Deodorant Spray",
+   "retailer": "Amazon",
+   "was": 27,
+   "now": 15.99,
+   "percentOff": 41,
+   "url": "https://www.amazon.com/dp/B0DB6CNFM4?tag=vettbeauty-20",
+   "size": "4 oz",
+   "slug": "dove-aluminum-free-deodorant-spray",
+   "image": "/cutouts/dove-aluminum-free-deodorant-spray.webp",
+   "imageCutout": true,
+   "topAward": "Allure Readers Choice — Clean Winner (2026)",
+   "category": "Body",
+   "subcategory": "Deodorant",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Readers Choice — Clean Winner (2026)"
+   ]
+  },
+  {
    "brand": "Billie",
    "product": "Revive Body Wash",
    "retailer": "Ulta",
@@ -39,26 +59,6 @@
    "awardCount": 1,
    "awardsWon": [
     "Allure Best of Beauty — Best Body Steals (2025)"
-   ]
-  },
-  {
-   "brand": "Dove",
-   "product": "Aluminum Free Deodorant Spray",
-   "retailer": "Amazon",
-   "was": 27,
-   "now": 16.19,
-   "percentOff": 40,
-   "url": "https://www.amazon.com/dp/B0DB6CNFM4?tag=vettbeauty-20",
-   "size": "4 oz",
-   "slug": "dove-aluminum-free-deodorant-spray",
-   "image": "/cutouts/dove-aluminum-free-deodorant-spray.webp",
-   "imageCutout": true,
-   "topAward": "Allure Readers Choice — Clean Winner (2026)",
-   "category": "Body",
-   "subcategory": "Deodorant",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Readers Choice — Clean Winner (2026)"
    ]
   },
   {
@@ -123,23 +123,23 @@
    ]
   },
   {
-   "brand": "Nakery Beauty",
-   "product": "SkinInfusion Power Blend Elixir Serum",
-   "retailer": "Amazon",
-   "was": 42,
-   "now": 32.51,
-   "percentOff": 23,
-   "url": "https://www.amazon.com/dp/B0CH42LZL8?tag=vettbeauty-20",
-   "size": "5.07 Fl Oz",
-   "slug": "nakery-beauty-skininfusion-power-blend-elixir-serum",
-   "image": "/cutouts/nakery-beauty-skininfusion-power-blend-elixir-serum.webp",
+   "brand": "St.Tropez",
+   "product": "Self Tan Express Bronzing Mousse",
+   "retailer": "Dermstore",
+   "was": 46,
+   "now": 36,
+   "percentOff": 22,
+   "url": "https://go.shopmy.us/p-89618936",
+   "size": "100ml",
+   "slug": "st--tropez-self-tan-express-bronzing-mousse",
+   "image": "/cutouts/st--tropez-self-tan-express-bronzing-mousse.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Face Oil (2025)",
-   "category": "Skincare",
-   "subcategory": "Oil",
+   "topAward": "InStyle Best Beauty Buys — Best Self-Tanner (2025)",
+   "category": "Body",
+   "subcategory": "Self-Tanner",
    "awardCount": 1,
    "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Face Oil (2025)"
+    "InStyle Best Beauty Buys — Best Self-Tanner (2025)"
    ]
   },
   {
@@ -160,26 +160,6 @@
    "awardCount": 1,
    "awardsWon": [
     "Cosmopolitan Beauty Awards — Best Moisturizer for Sensitive Skin (2026)"
-   ]
-  },
-  {
-   "brand": "St.Tropez",
-   "product": "Self Tan Express Bronzing Mousse",
-   "retailer": "Dermstore",
-   "was": 46,
-   "now": 36,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-89618936",
-   "size": "100ml",
-   "slug": "st--tropez-self-tan-express-bronzing-mousse",
-   "image": "/cutouts/st--tropez-self-tan-express-bronzing-mousse.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Self-Tanner (2025)",
-   "category": "Body",
-   "subcategory": "Self-Tanner",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Self-Tanner (2025)"
    ]
   },
   {
@@ -220,6 +200,26 @@
    "awardCount": 1,
    "awardsWon": [
     "InStyle Best Beauty Buys — Best Bar Soap (2026)"
+   ]
+  },
+  {
+   "brand": "Baby Tress",
+   "product": "Edge Styler",
+   "retailer": "Amazon",
+   "was": 8,
+   "now": 6.61,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B0BM2LD4WY?tag=vettbeauty-20",
+   "size": null,
+   "slug": "baby-tress-edge-styler",
+   "image": "/levelled/baby-tress-edge-styler.webp",
+   "imageCutout": false,
+   "topAward": "Allure Best of Beauty — Best Edge Styler (2025)",
+   "category": "Tools & Devices",
+   "subcategory": "Hair Tool",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Edge Styler (2025)"
    ]
   }
  ]
