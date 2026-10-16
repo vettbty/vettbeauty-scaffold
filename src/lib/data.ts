@@ -203,9 +203,11 @@ const awardProgramsRaw: AwardProgram[] = [
   // the award rows actually in the database, not a publication's headline claim
   // — see the Allure 319-vs-307 and Cosmo 151-vs-134 notes in data/awards.
   // Marie Claire merged its Skin & Hair and Makeup awards for 2026 and added
-  // Nails, Body Care and Drugstore. 213 winners, and unusually the publication
-  // prints a retailer URL for every one, so 211 of 213 arrived buyable.
-  { id: '17', name: 'Marie Claire Beauty Awards', edition: '2026', winnerCount: 213, announcedDate: 'Oct 2026', region: 'US', recordName: 'Marie Claire Beauty Awards', justAdded: true },
+  // Nails, Body Care and Drugstore. 213 imported, and unusually the publication
+  // prints a retailer URL for every one, so 211 of 213 arrived buyable. 212 held:
+  // Zoryve Cream, a prescription medicine, was purged 2026-10-10 (see
+  // data/purged/2026-10-10-estee-zoryve.json in the data repo).
+  { id: '17', name: 'Marie Claire Beauty Awards', edition: '2026', winnerCount: 212, announcedDate: 'Oct 2026', region: 'US', recordName: 'Marie Claire Beauty Awards', justAdded: true },
   { id: '9', name: 'Harper\'s Bazaar UK Best of the Best', edition: '2026', winnerCount: 93, announcedDate: 'Sep 2026', region: 'UK', recordName: "Harper's Bazaar UK Best of the Best", justAdded: true },
   { id: '8', name: 'NewBeauty Readers\' Choice', edition: '2026', winnerCount: 104, announcedDate: '29 Sep 2026', region: 'US', recordName: 'NewBeauty Readers Choice', justAdded: true },
   { id: '6', name: 'Allure Best of Beauty', edition: '2026', winnerCount: 307, announcedDate: '15 Sep 2026', region: 'US', justAdded: true },
