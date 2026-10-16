@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import type { Product } from '@/lib/data';
 import { priceLabel } from '@/lib/format';
 
@@ -12,11 +13,13 @@ export default function Tile({ product, label }: { product: Product; label: stri
       <Link href={`/product/${product.slug}`} className="block">
         <div className="product-tile aspect-square relative overflow-hidden">
           {product.image ? (
-            <img
+            <Image
               src={product.image}
               alt={`${product.brand} ${product.name}`}
               className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`}
-              loading="lazy"
+              fill
+              sizes="(max-width: 639px) 50vw, (max-width: 1023px) 33vw, 25vw"
+              unoptimized={!product.image.startsWith('/')}
             />
           ) : (
             <div className="w-full h-full flex items-center justify-center text-charcoal-light/30">

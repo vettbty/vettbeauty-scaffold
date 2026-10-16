@@ -2,15 +2,22 @@ import Link from 'next/link';
 import EmailCapture from "@/components/EmailCapture";
 import Wordmark from '@/components/Wordmark';
 import SaveCount from '@/components/SaveCount';
-import { shoppable, pressArticles } from '@/lib/data';
-import { programmes, publications, koreanRankings, categories } from '@/lib/record';
+import Image from 'next/image';
+import { getShoppable, pressArticles } from '@/lib/data';
+import { getProgrammes, getPublications, getKoreanRankings, getCategories } from '@/lib/record';
 
 /* The front page is an index into the record, not a catalogue: one row of the
    most widely recognised winners, then every way in — by publication, by
    category, by Korean ranking — as plain link rows. Every link uses slugs from
    src/lib/record.ts, the same ones Browse reads. Sascha, 2026-10-15: the old
    page stacked a full product grid per award class and read as "terrible". */
-export default function Home() {
+export const revalidate = 3600;
+
+export default async function Home() {
+  const [shoppable, programmes, publications, koreanRankings, categories] = await Promise.all([
+    getShoppable(), getProgrammes(), getPublications(), getKoreanRankings(), getCategories(),
+  ]);
+
   // Most widely recognised first: distinct editorial publications.
   const top = [...shoppable].sort((a, b) => b.consensusCount - a.consensusCount).slice(0, 8);
 
@@ -81,7 +88,7 @@ export default function Home() {
                 <Link href={`/product/${product.slug}`} className="block">
                   <div className="product-tile record-tile aspect-[4/5] relative overflow-hidden">
                     {product.image && (
-                      <img src={product.image} alt={`${product.brand} ${product.name}`} className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`} loading="lazy" />
+                      <Image src={product.image} alt={`${product.brand} ${product.name}`} className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`} fill sizes="(max-width: 639px) 50vw, (max-width: 1023px) 33vw, 25vw" unoptimized={!product.image.startsWith('/')} />
                     )}
                     <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
                       {product.topAward.split(' — ')[0]}

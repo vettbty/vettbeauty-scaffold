@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next';
-import { products2026 } from '@/lib/data';
+import { getProducts } from '@/lib/data';
 
 /**
  * vettbeauty.com had no sitemap and no robots.txt — both 404'd — while
@@ -13,7 +13,7 @@ const SITE = 'https://vettbeauty.com';
 
 export const dynamic = 'force-static';
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const now = new Date();
 
   const pages: MetadataRoute.Sitemap = [
@@ -23,7 +23,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE}/about`, lastModified: now, changeFrequency: 'monthly', priority: 0.4 },
   ];
 
-  for (const p of products2026) {
+  for (const p of await getProducts()) {
     pages.push({
       url: `${SITE}/product/${p.slug}`,
       lastModified: now,

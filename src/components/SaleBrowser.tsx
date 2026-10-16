@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState, useMemo } from 'react';
 import SaveCount from '@/components/SaveCount';
 import Wordmark from '@/components/Wordmark';
@@ -52,10 +53,13 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
       }`}
     >
       {d.image ? (
-        <img
+        <Image
           src={d.image}
           alt={`${d.brand} ${d.product}`}
           className={`w-full h-full ${d.imageCutout ? 'cutout' : ''}`}
+          fill
+          sizes={hero ? '(max-width: 639px) 100vw, 448px' : '(max-width: 639px) 50vw, (max-width: 1023px) 33vw, 25vw'}
+          unoptimized={!d.image.startsWith('/')}
           /* The hero is the LCP element — never defer it. */
           loading={hero ? 'eager' : 'lazy'}
           fetchPriority={hero ? 'high' : undefined}

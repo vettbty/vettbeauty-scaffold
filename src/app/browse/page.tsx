@@ -1,7 +1,8 @@
 'use client';
 
 import { useState, useMemo, useRef, useEffect } from 'react';
-import { products2026, shoppable, type Product } from '@/lib/data';
+import type { Product } from '@/lib/data';
+import { products2026, shoppable } from '@/lib/static-catalogue';
 import { shownPrice } from '@/lib/format';
 import { CATEGORIES, OTHER, slugify, subcategoriesOf } from '@/lib/taxonomy';
 import { editionOf, editionSlug, REGIONS, regionOf } from '@/lib/record';

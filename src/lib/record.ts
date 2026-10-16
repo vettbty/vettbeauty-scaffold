@@ -5,7 +5,7 @@
    The edition helpers and the pub= slug used to live inline in
    src/app/browse/page.tsx; they moved here unchanged and Browse imports them
    back, so exactly one mapping exists. */
-import { products2026, shoppable, awardPrograms } from './data';
+import { getProducts, getShoppable, getAwardPrograms, type Product, type AwardProgram } from './data';
 import { CATEGORIES, slugify } from './taxonomy';
 import { CONSUMER_PLATFORMS, publicationOf } from './consensus';
 
@@ -42,32 +42,32 @@ export interface Programme {
 // (programme A–Z, newest edition first). Names, dates and counts come from
 // awardPrograms where the programme is listed there; otherwise the count is
 // the catalogue's own and the date is unknown.
-const editionNames = (() => {
+function buildProgrammes(products2026: Product[], awardPrograms: AwardProgram[]): Programme[] {
   const s = new Set<string>();
   for (const p of products2026) for (const a of p.awardsWon) { const e = editionOf(a); if (e) s.add(e); }
-  return [...s].sort((x, y) => {
+  const editionNames = [...s].sort((x, y) => {
     const px = x.replace(/ \d{4}$/, ''), py = y.replace(/ \d{4}$/, '');
     return px === py ? y.localeCompare(x) : px.localeCompare(py);
   });
-})();
 
-const winnersIn = (edition: string) =>
-  products2026.filter(p => p.awardsWon.some(a => editionOf(a) === edition)).length;
+  const winnersIn = (edition: string) =>
+    products2026.filter(p => p.awardsWon.some(a => editionOf(a) === edition)).length;
 
-export const programmes: Programme[] = editionNames.map(edition => {
-  const year = edition.match(/ (\d{4})$/)?.[1] ?? '';
-  const programme = edition.replace(/ \d{4}$/, '');
-  const listed = awardPrograms.find(p => (p.recordName || p.name) === programme && p.edition === year);
-  return {
-    slug: editionSlug(edition),
-    name: listed?.name ?? programme,
-    edition: year,
-    announcedDate: listed?.announcedDate ?? null,
-    winnerCount: listed?.winnerCount ?? winnersIn(edition),
-    region: listed?.region ?? regionOf(edition),
-    publication: publicationOf(edition),
-  };
-});
+  return editionNames.map(edition => {
+    const year = edition.match(/ (\d{4})$/)?.[1] ?? '';
+    const programme = edition.replace(/ \d{4}$/, '');
+    const listed = awardPrograms.find(p => (p.recordName || p.name) === programme && p.edition === year);
+    return {
+      slug: editionSlug(edition),
+      name: listed?.name ?? programme,
+      edition: year,
+      announcedDate: listed?.announcedDate ?? null,
+      winnerCount: listed?.winnerCount ?? winnersIn(edition),
+      region: listed?.region ?? regionOf(edition),
+      publication: publicationOf(edition),
+    };
+  });
+}
 
 export interface PublicationIndex {
   title: string;
@@ -78,7 +78,7 @@ export interface PublicationIndex {
 }
 
 const isConsumer = (title: string | null) => title !== null && (CONSUMER_PLATFORMS as readonly string[]).includes(title);
-const groupByTitle = (list: Programme[]): PublicationIndex[] => {
+const groupByTitle = (list: Programme[], shoppable: Product[]): PublicationIndex[] => {
   const m = new Map<string, { slug: string; name: string }[]>();
   for (const p of list) {
     if (!p.publication) continue;
@@ -92,14 +92,25 @@ const groupByTitle = (list: Programme[]): PublicationIndex[] => {
   }));
 };
 
+export async function getProgrammes(): Promise<Programme[]> {
+  return buildProgrammes(await getProducts(), await getAwardPrograms());
+}
+
 /** Editorial parent titles (scored), each with its editions. */
-export const publications: PublicationIndex[] = groupByTitle(programmes.filter(p => !isConsumer(p.publication)));
+export async function getPublications(): Promise<PublicationIndex[]> {
+  return groupByTitle((await getProgrammes()).filter(p => !isConsumer(p.publication)), await getShoppable());
+}
 /** Korean consumer platforms (shown, never scored), same shape. */
-export const koreanRankings: PublicationIndex[] = groupByTitle(programmes.filter(p => isConsumer(p.publication)));
+export async function getKoreanRankings(): Promise<PublicationIndex[]> {
+  return groupByTitle((await getProgrammes()).filter(p => isConsumer(p.publication)), await getShoppable());
+}
 
 /** Browse's category keys, with how many buyable winners each holds. */
-export const categories: { slug: string; label: string; count: number }[] = CATEGORIES.map(c => ({
-  slug: c.key,
-  label: c.label,
-  count: shoppable.filter(p => p.category === c.label).length,
-}));
+export async function getCategories(): Promise<{ slug: string; label: string; count: number }[]> {
+  const shoppable = await getShoppable();
+  return CATEGORIES.map(c => ({
+    slug: c.key,
+    label: c.label,
+    count: shoppable.filter(p => p.category === c.label).length,
+  }));
+}

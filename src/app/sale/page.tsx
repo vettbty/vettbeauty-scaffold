@@ -1,6 +1,8 @@
 import SaleBrowser, { type Deal } from '@/components/SaleBrowser';
 import sale from '@/lib/sale.json';
 
+export const revalidate = 3600;
+
 export const metadata = {
   title: 'On Sale — Award Winners, Reduced | Vettbeauty',
   description:

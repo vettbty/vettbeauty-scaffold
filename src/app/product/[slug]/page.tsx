@@ -1,21 +1,25 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { products2026, shoppable } from '@/lib/data';
+import Image from 'next/image';
+import { getProducts, getShoppable } from '@/lib/data';
 import { priceLabel } from '@/lib/format';
 import SaveButton from '@/components/SaveButton';
 import { CATEGORIES, OTHER, slugify } from '@/lib/taxonomy';
 import { descriptionFor } from '@/lib/descriptions';
 import { CONSUMER_PLATFORMS, publicationOf } from '@/lib/consensus';
 
+// Every product page is prerendered at build and refreshed daily.
+export const revalidate = 86400;
+
 // Generate static paths for all products
-export function generateStaticParams() {
-  return products2026.map((product) => ({
+export async function generateStaticParams() {
+  return (await getProducts()).map((product) => ({
     slug: product.slug,
   }));
 }
 
-function getProduct(slug: string) {
-  return products2026.find((p) => p.slug === slug);
+async function getProduct(slug: string) {
+  return (await getProducts()).find((p) => p.slug === slug);
 }
 
 /**
@@ -61,11 +65,12 @@ function parseAward(awardStr: string) {
 
 export default async function ProductPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const product = getProduct(slug);
+  const product = await getProduct(slug);
 
   if (!product) {
     notFound();
   }
+  const shoppable = await getShoppable();
   const about = descriptionFor(product.slug);
   // The shop price is on show when there is no publication price, or always
   // for Korean products priced from Olive Young US.
@@ -137,10 +142,15 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
           {/* Image */}
           <div className="product-tile aspect-square rounded-md overflow-hidden relative">
             {product.image ? (
-              <img 
-                src={product.image} 
+              <Image
+                src={product.image}
                 alt={`${product.brand} ${product.name}`}
                 className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`}
+                fill
+                sizes="(max-width: 767px) 100vw, 576px"
+                loading="eager"
+                fetchPriority="high"
+                unoptimized={!product.image.startsWith('/')}
               />
             ) : (
               <div className="w-full h-full flex items-center justify-center text-charcoal-light/30">
@@ -375,11 +385,13 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                 >
                   <div className="product-tile aspect-square relative overflow-hidden">
                     {related.image ? (
-                      <img 
-                        src={related.image} 
+                      <Image
+                        src={related.image}
                         alt={related.name}
                         className={`w-full h-full group-hover:scale-105 transition-transform ${related.imageCutout ? "cutout" : ""}`}
-                        loading="lazy"
+                        fill
+                        sizes="(max-width: 639px) 50vw, (max-width: 1023px) 33vw, 25vw"
+                        unoptimized={!related.image.startsWith('/')}
                       />
                     ) : (
                       <div className="w-full h-full flex items-center justify-center text-charcoal-light/30">

@@ -58,22 +58,42 @@ export interface PressArticle {
 
 // Every product carries a subcategory from the browse taxonomy — the curated
 // label where there is one, else inferred from the name (see taxonomy.ts).
-export const products2026: Product[] = (productsJson as Product[]).map(p => ({
-  ...p,
-  subcategory: subcategoryFor(p.category, p.subcategory, p.name),
-  consensusCount: consensusCount(p.awardsWon ?? []),
-  // Only while the card still points at the link the price was read from.
-  // Korean products show Olive Young US's USD price even where the publication
-  // printed one (Sascha, 2026-10-01); for everything else the publication's
-  // price wins.
-  retail: retailPrices[p.slug] && (!p.price || retailPrices[p.slug].at === 'Olive Young') ? retailPrices[p.slug] : undefined,
-}));
+// Pure: the same raw rows always give the same catalogue. Browse calls it
+// directly on the bundled JSON (see static-catalogue.ts); the server getters
+// below call it through loadProducts.
+export function enrichProducts(raw: Product[]): Product[] {
+  return raw.map(p => ({
+    ...p,
+    subcategory: subcategoryFor(p.category, p.subcategory, p.name),
+    consensusCount: consensusCount(p.awardsWon ?? []),
+    // Only while the card still points at the link the price was read from.
+    // Korean products show Olive Young US's USD price even where the publication
+    // printed one (Sascha, 2026-10-01); for everything else the publication's
+    // price wins.
+    retail: retailPrices[p.slug] && (!p.price || retailPrices[p.slug].at === 'Olive Young') ? retailPrices[p.slug] : undefined,
+  }));
+}
+
+// The catalogue is loaded through this one async loader so callers do not
+// depend on where it comes from. Today that is the committed products.json;
+// swapping it for a fetch later changes only this function.
+let _products: Promise<Product[]> | null = null;
+
+async function loadProducts(): Promise<Product[]> {
+  if (_products) return _products;
+  _products = (async () => enrichProducts(productsJson as Product[]))();
+  return _products;
+}
+
+export async function getProducts(): Promise<Product[]> { return loadProducts(); }
 
 // The grids feature only winners a reader can actually buy. A product with no
 // working buy link keeps its page (search, sitemap, direct links) but stays off
 // the homepage and browse grids until a link sitting finds one — Sascha,
 // 2026-09-28: "whats the point of featuring them".
-export const shoppable: Product[] = products2026.filter(p => p.buyLink);
+export async function getShoppable(): Promise<Product[]> {
+  return (await getProducts()).filter(p => p.buyLink);
+}
 
 /**
  * Winner counts are COMPUTED, not stated.
@@ -88,11 +108,11 @@ export const shoppable: Product[] = products2026.filter(p => p.buyLink);
  * where it differs from what we hold, that gap is real and belongs in the award
  * file's _count_note, not painted over on the homepage.
  */
-function winnersOnSite(prog: { name: string; edition: string; recordName?: string }): number {
+function winnersOnSite(products: Product[], prog: { name: string; edition: string; recordName?: string }): number {
   const rec = prog.recordName || prog.name;
   // Two shapes: "<pub> — <award> (<year>)" for US/UK programmes, and
   // "<pub> (<year>)" for the Korean ones, which publish no per-winner award.
-  return products2026.filter(p => (p.awardsWon || []).some(w =>
+  return products.filter(p => (p.awardsWon || []).some(w =>
     (w.startsWith(`${rec} — `) || w.startsWith(`${rec} (`)) && w.endsWith(`(${prog.edition})`)
   )).length;
 }
@@ -149,10 +169,13 @@ const awardProgramsRaw: AwardProgram[] = [
   { id: '14', name: 'Hwahae Beauty Awards', edition: '2026', winnerCount: 408, announcedDate: '2026', region: 'Korea' },
 ];
 
-export const awardPrograms: AwardProgram[] = awardProgramsRaw.map(p => ({
-  ...p,
-  winnerCount: winnersOnSite(p) || p.winnerCount,   // fall back only if nothing matches
-}));
+export async function getAwardPrograms(): Promise<AwardProgram[]> {
+  const products = await getProducts();
+  return awardProgramsRaw.map(p => ({
+    ...p,
+    winnerCount: winnersOnSite(products, p) || p.winnerCount,   // fall back only if nothing matches
+  }));
+}
 
 export const pressArticles: PressArticle[] = [
   {
@@ -216,9 +239,9 @@ const PARENT_TITLE: Array<[RegExp, string]> = [
   [/^Olive Young/i, 'Olive Young'],
 ];
 
-export const publications: string[] = (() => {
+export async function getPublicationTitles(): Promise<string[]> {
   const seen = new Set<string>();
-  for (const p of products2026) {
+  for (const p of await getProducts()) {
     for (const w of p.awardsWon || []) {
       const m = w.match(/^(.*?)\s+(?:—|\()/);
       if (!m) continue;
@@ -231,4 +254,4 @@ export const publications: string[] = (() => {
   const ordered = PARENT_TITLE.map(([, title]) => title).filter(t => seen.has(t));
   const extra = [...seen].filter(t => !ordered.includes(t)).sort();
   return [...ordered, ...extra];
-})();
+}
