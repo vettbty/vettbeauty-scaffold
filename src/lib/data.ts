@@ -1,5 +1,6 @@
 import productsJson from './products.json';
 import { subcategoryFor } from './taxonomy';
+import { consensusCount } from './consensus';
 import retailPricesJson from './retail-prices.json';
 
 export interface Product {
@@ -11,6 +12,9 @@ export interface Product {
   image: string;
   topAward: string;
   awardCount: number;
+  // Distinct editorial publications that awarded it (Korean consumer
+  // platforms excluded) — see consensus.ts. Not displayed yet.
+  consensusCount: number;
   category: string;
   subcategory: string;
   year: number;
@@ -57,6 +61,7 @@ export interface PressArticle {
 export const products2026: Product[] = (productsJson as Product[]).map(p => ({
   ...p,
   subcategory: subcategoryFor(p.category, p.subcategory, p.name),
+  consensusCount: consensusCount(p.awardsWon ?? []),
   // Only while the card still points at the link the price was read from.
   // Korean products show Olive Young US's USD price even where the publication
   // printed one (Sascha, 2026-10-01); for everything else the publication's

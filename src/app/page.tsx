@@ -7,7 +7,7 @@ import { shoppable, awardPrograms, pressArticles, publications } from '@/lib/dat
 import type { Product, AwardProgram } from '@/lib/data';
 
 export default function Home() {
-  const top = [...shoppable].sort((a, b) => b.awardCount - a.awardCount).slice(0, 8);
+  const top = [...shoppable].sort((a, b) => b.consensusCount - a.consensusCount).slice(0, 8);
 
   // The newest award class, taken from the top of awardPrograms so this follows
   // whatever was recorded most recently instead of naming a programme here.
@@ -147,9 +147,9 @@ export default function Home() {
                   <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
                     {product.topAward.split(' — ')[0]}
                   </span>
-                  {product.awardCount > 1 && (
-                    <span className={`absolute top-2 right-2 consensus-badge ${product.awardCount >= 3 ? 'consensus-high' : ''} text-[10px] w-5 h-5`}>
-                      {product.awardCount}
+                  {product.consensusCount > 1 && (
+                    <span className={`absolute top-2 right-2 consensus-badge ${product.consensusCount >= 3 ? 'consensus-high' : ''} text-[10px] w-5 h-5`}>
+                      {product.consensusCount}
                     </span>
                   )}
                 </div>

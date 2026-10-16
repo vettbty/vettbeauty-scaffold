@@ -48,9 +48,9 @@ export default function ProductGrid({
               <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
                 {badge}
               </span>
-              {product.awardCount > 1 && (
-                <span className={`absolute top-2 right-2 consensus-badge ${product.awardCount >= 3 ? 'consensus-high' : ''} text-[10px] w-5 h-5`}>
-                  {product.awardCount}
+              {product.consensusCount > 1 && (
+                <span className={`absolute top-2 right-2 consensus-badge ${product.consensusCount >= 3 ? 'consensus-high' : ''} text-[10px] w-5 h-5`}>
+                  {product.consensusCount}
                 </span>
               )}
             </div>

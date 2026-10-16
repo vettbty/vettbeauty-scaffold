@@ -107,7 +107,7 @@ export default function Home() {
     // so a reader looking for a specific product can still find its page.
     let pool: Product[] = searching || brandQuery.trim() ? products2026 : shoppable;
     if (selectedYear !== 'all') pool = pool.filter(p => p.awardsWon.some(a => a.includes(`(${selectedYear})`)));
-    if (minAwards > 1) pool = pool.filter(p => p.awardCount >= minAwards);
+    if (minAwards > 1) pool = pool.filter(p => p.consensusCount >= minAwards);
     if (brandQuery.trim()) {
       const b = brandQuery.trim().toLowerCase();
       pool = pool.filter(p => p.brand.toLowerCase().includes(b));
@@ -172,12 +172,12 @@ export default function Home() {
     if (activeCategory && activeSubLabel) filtered = filtered.filter(p => p.subcategory === activeSubLabel);
     return [...filtered].sort((a, b) => {
       switch (effectiveSort) {
-        case 'relevance': return (scores.get(b.id) ?? 0) - (scores.get(a.id) ?? 0) || b.awardCount - a.awardCount;
+        case 'relevance': return (scores.get(b.id) ?? 0) - (scores.get(a.id) ?? 0) || b.consensusCount - a.consensusCount;
         case 'price-asc': return (shownPrice(a) ?? Infinity) - (shownPrice(b) ?? Infinity);
         case 'price-desc': return (shownPrice(b) ?? -Infinity) - (shownPrice(a) ?? -Infinity);
         case 'name': return a.name.localeCompare(b.name);
         case 'brand': return a.brand.localeCompare(b.brand);
-        default: return b.awardCount - a.awardCount;
+        default: return b.consensusCount - a.consensusCount;
       }
     });
   }, [base, activeCategory, activeSubLabel, effectiveSort, scores]);
@@ -455,7 +455,7 @@ export default function Home() {
       </div>
 
       {/* 2-column grid, no gaps */}
-      <div ref={gridRef} className="max-w-6xl mx-auto pb-10">
+      <div ref={gridRef} className="max-w-6xl mx-auto px-4 pb-10">
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-px bg-cream-dark">
           {filteredProducts.map(product => (
             <Tile key={product.id} product={product} label={labelFor(product)} />
