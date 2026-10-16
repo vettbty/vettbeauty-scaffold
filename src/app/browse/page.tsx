@@ -4,28 +4,13 @@ import { useState, useMemo, useRef, useEffect } from 'react';
 import { products2026, shoppable, type Product } from '@/lib/data';
 import { shownPrice } from '@/lib/format';
 import { CATEGORIES, OTHER, slugify, subcategoriesOf } from '@/lib/taxonomy';
+import { editionOf, editionSlug, REGIONS, regionOf } from '@/lib/record';
 import { search, suggest, type Suggestion } from '@/lib/search';
 import SaveCount from '@/components/SaveCount';
 import Wordmark from '@/components/Wordmark';
 import Tile from '@/components/Tile';
 
 const categoryMap: Record<string, string> = Object.fromEntries(CATEGORIES.map(c => [c.key, c.label]));
-
-// "Allure Best of Beauty — Best Serum (2026)" and "Glowpick Awards (2025)" →
-// the programme name alone, so each publication is one choice, not one per year.
-const programOf = (award: string) => award.split(' — ')[0].replace(/\s*\(\d{4}\)\s*$/, '').trim();
-// One edition of a programme: "Harper's Bazaar Skincare Awards 2026". The
-// publication filter picks editions, so the year is always in view.
-const editionOf = (award: string) => {
-  const y = award.match(/\((\d{4})\)\s*$/)?.[1];
-  return y ? `${programOf(award)} ${y}` : programOf(award);
-};
-// Which country's list an edition is. Programme names only say "UK" for the UK
-// lists, so "Harper's Bazaar Skincare Awards" (the US list) read as if Harper's
-// Bazaar had only a UK edition. Grouping the checklist by country fixes that.
-const REGIONS = ['US', 'UK', 'Korea'] as const;
-const regionOf = (edition: string): typeof REGIONS[number] =>
-  /\bUK\b/.test(edition) ? 'UK' : /^(Glowpick|Hwahae|Olive Young)/.test(edition) ? 'Korea' : 'US';
 
 type Sort = 'auto' | 'relevance' | 'awards' | 'price-asc' | 'price-desc' | 'name' | 'brand';
 // Accepted values for the sort= and min= URL parameters; anything else is ignored.
@@ -83,7 +68,7 @@ export default function Home() {
     if (u.get('q')) setSearchQuery(u.get('q')!);
     if (u.get('brand')) setBrandQuery(u.get('brand')!);
     const pubs = u.get('pub')?.split(',').filter(Boolean) ?? [];
-    if (pubs.length) setSelectedSources(availableSources.filter(src => pubs.includes(slugify(src))));
+    if (pubs.length) setSelectedSources(availableSources.filter(src => pubs.includes(editionSlug(src))));
     if (u.get('pubmode') === 'all') setSourceMode('all');
     const sort = u.get('sort');
     if (sort && SORTS.includes(sort as Sort)) setSortBy(sort as Sort);
@@ -101,7 +86,7 @@ export default function Home() {
     if (activeFilter !== 'all') u.set('cat', activeFilter);
     if (activeFilter !== 'all' && activeSub !== 'all') u.set('sub', activeSub);
     if (brandQuery.trim()) u.set('brand', brandQuery.trim());
-    if (selectedSources.length) u.set('pub', selectedSources.map(slugify).join(','));
+    if (selectedSources.length) u.set('pub', selectedSources.map(editionSlug).join(','));
     if (selectedSources.length > 1 && sourceMode === 'all') u.set('pubmode', 'all');
     if (sortBy !== 'auto') u.set('sort', sortBy);
     if (selectedYear !== 'all') u.set('year', selectedYear);
