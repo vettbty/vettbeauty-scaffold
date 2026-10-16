@@ -75,16 +75,72 @@ export function enrichProducts(raw: Product[]): Product[] {
 }
 
 // The catalogue is read through this one getter so callers do not depend on
-// where it comes from.
-//
-// NOT LIVE YET. readCatalogue() imports the bundled products.json, which is
-// fixed when the site is built, so new data still requires a deploy (and a
-// deploy rebuilds every page anyway). The pages' `revalidate` values and the
-// TTL below do nothing for freshness until readCatalogue() reads from outside
-// the build (Supabase or a hosted JSON file). Swapping that in changes only
-// readCatalogue().
+// where it comes from: Supabase `site_products` (filled by
+// scripts/sync-to-site-products.mjs), with the bundled products.json as the
+// fallback. A missing env var or a failed fetch must never break the site, so
+// either one serves the bundled JSON — which is fixed at build time, so while
+// the fallback is in use new data still requires a deploy.
+// site_products stores every field twice: as an editable column and inside
+// `data` (the raw products.json row the sync wrote). FIELD PRECEDENCE: a
+// column wins over `data` only when it holds a value. A null or missing
+// column never overwrites the `data` value, so a column left empty in the
+// table editor cannot blank a field. Note that enrichProducts() then
+// recomputes consensusCount and subcategory from the merged row, so editing
+// those two columns has no effect; edit awards_won or subcategory's inputs.
+const SITE_COLUMNS: Array<[string, keyof Product]> = [
+  ['slug', 'slug'], ['id', 'id'], ['brand', 'brand'], ['name', 'name'],
+  ['category', 'category'], ['subcategory', 'subcategory'], ['region', 'region'],
+  ['price', 'price'], ['image', 'image'], ['image_cutout', 'imageCutout'],
+  ['buy_link', 'buyLink'], ['top_award', 'topAward'], ['award_count', 'awardCount'],
+  ['consensus_count', 'consensusCount'], ['awards_won', 'awardsWon'],
+];
+type SiteProductRow = Record<string, unknown> & { data: Product };
+
+function columnsOnly(row: SiteProductRow): Partial<Product> {
+  const out: Record<string, unknown> = {};
+  for (const [col, field] of SITE_COLUMNS) {
+    const v = row[col];
+    if (v !== null && v !== undefined) out[field] = col === 'price' ? Number(v) : v;
+  }
+  return out as Partial<Product>;
+}
+
 async function readCatalogue(): Promise<Product[]> {
-  return productsJson as Product[];   // JSON now, fetch later
+  const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+  if (!url || !key) {
+    console.warn('[data] Supabase env missing — falling back to bundled JSON');
+    return productsJson as Product[];
+  }
+  // PostgREST returns at most 1,000 rows per request, so the catalogue is read
+  // in pages; a single request would silently drop everything past row 1,000.
+  // Each page stays well under the 2 MB limit for Next's fetch cache.
+  const PAGE = 1000;
+  const rows: Product[] = [];
+  for (let offset = 0; ; offset += PAGE) {
+    const res = await fetch(
+      `${url}/rest/v1/site_products?select=${SITE_COLUMNS.map(([col]) => col).join(',')},data&order=slug&limit=${PAGE}&offset=${offset}`,
+      // No revalidate of its own: a fetch's revalidate overrides the page's when
+      // it is shorter, so a 300 here made every page refresh every 5 minutes.
+      // The fetch inherits each page's own `revalidate` instead (/ 1h, product
+      // pages 1d), and the tag lets a route handler refresh it on demand.
+      { headers: { apikey: key, Authorization: `Bearer ${key}` }, cache: 'force-cache', next: { tags: ['catalogue'] } },
+    );
+    if (!res.ok) {
+      console.warn(`[data] catalogue fetch failed: ${res.status} — using bundled JSON`);
+      return productsJson as Product[];
+    }
+    const page: SiteProductRow[] = await res.json();
+    rows.push(...page.map(row => ({ ...row.data, ...columnsOnly(row) })));
+    if (page.length < PAGE) break;
+  }
+  // An empty table (created but never synced) would render a site with no
+  // products; serve the bundled JSON instead.
+  if (!rows.length) {
+    console.warn('[data] site_products is empty — using bundled JSON');
+    return productsJson as Product[];
+  }
+  return rows;
 }
 
 // Short-lived, so a revalidation can pick up a changed source once there is one.
