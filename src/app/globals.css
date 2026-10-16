@@ -337,6 +337,13 @@ h1 {
 
 /* Real cutouts (alpha packshots from public/cutouts): no blend needed, and a
    soft product shadow like the daily-card treatment. */
+/* Top of the Record (homepage): portrait 4:5 tiles, so the portrait packshots
+   that make up most of the catalogue fill them, with tighter padding. Browse
+   keeps square tiles and 18% — its scrolling trade-off still applies there. */
+.product-tile.record-tile img {
+  padding: 10%;
+}
+
 .product-tile img.cutout {
   mix-blend-mode: normal;
   filter: drop-shadow(0 12px 16px rgba(95, 59, 42, 0.16));

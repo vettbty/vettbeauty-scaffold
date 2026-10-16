@@ -75,11 +75,11 @@ export default function Home() {
             </div>
             <Link href="/browse" className="text-sm font-medium text-gold hover:text-gold-dark shrink-0">See all →</Link>
           </div>
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-px bg-cream-dark">
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-px bg-cream-dark">
             {top.map(product => (
               <div key={product.id} className="bg-white flex flex-col">
                 <Link href={`/product/${product.slug}`} className="block">
-                  <div className="product-tile aspect-square relative overflow-hidden">
+                  <div className="product-tile record-tile aspect-[4/5] relative overflow-hidden">
                     {product.image && (
                       <img src={product.image} alt={`${product.brand} ${product.name}`} className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`} loading="lazy" />
                     )}
