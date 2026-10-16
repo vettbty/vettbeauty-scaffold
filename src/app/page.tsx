@@ -89,7 +89,7 @@ export default function Home() {
         </p>
         <Link
           href="/browse"
-          className="inline-flex items-center gap-2 bg-charcoal text-white px-7 py-3 rounded-xl font-semibold text-sm hover:bg-charcoal-light transition-colors"
+          className="inline-flex items-center gap-2 bg-charcoal text-white px-7 py-3 rounded-md font-semibold text-sm hover:bg-charcoal-light transition-colors"
         >
           Browse {shoppable.length.toLocaleString()} winners →
         </Link>
@@ -198,7 +198,7 @@ export default function Home() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {pressArticles.map(article => (
             <a href={article.sourceUrl} key={article.id} target="_blank" rel="noopener noreferrer"
-               className="bg-white rounded-xl p-4 sm:p-6 shadow-sm hover:shadow-md transition-shadow">
+               className="bg-white rounded-md p-4 sm:p-6 shadow-sm hover:shadow-md transition-shadow">
               <p className="eyebrow text-xs text-gold mb-2">{article.source}</p>
               <h3 className="text-sm sm:text-base font-semibold text-charcoal leading-snug mb-2">{article.title}</h3>
               <p className="text-xs sm:text-sm text-charcoal-light">On {article.productName}</p>

@@ -51,12 +51,12 @@ export default function EmailCapture() {
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="Email address"
                 aria-label="Email address"
-                className="flex-1 min-w-0 rounded-xl bg-white border border-warm-beige px-4 py-3 text-sm text-charcoal placeholder:text-warm-beige focus:outline-none focus:border-gold"
+                className="flex-1 min-w-0 rounded-md bg-white border border-warm-beige px-4 py-3 text-sm text-charcoal placeholder:text-warm-beige focus:outline-none focus:border-gold"
               />
               <button
                 type="submit"
                 disabled={state === "busy"}
-                className="rounded-xl bg-charcoal text-white text-sm font-semibold px-6 py-3 hover:bg-charcoal-light transition-colors disabled:opacity-60"
+                className="rounded-md bg-charcoal text-white text-sm font-semibold px-6 py-3 hover:bg-charcoal-light transition-colors disabled:opacity-60"
               >
                 {state === "busy" ? "…" : "Join"}
               </button>

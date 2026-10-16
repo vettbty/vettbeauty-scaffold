@@ -119,7 +119,7 @@ export default function SavedPage() {
             <p className="text-charcoal-light mb-6">Save products while browsing to compare later or track price drops.</p>
             <Link
               href="/"
-              className="inline-flex items-center gap-2 bg-charcoal text-white px-6 py-3 rounded-xl font-semibold text-sm hover:bg-charcoal-light transition-colors"
+              className="inline-flex items-center gap-2 bg-charcoal text-white px-6 py-3 rounded-md font-semibold text-sm hover:bg-charcoal-light transition-colors"
             >
               Browse Products →
             </Link>
@@ -129,11 +129,11 @@ export default function SavedPage() {
             {savedProducts.map(product => (
               <div
                 key={product.id}
-                className="bg-white rounded-xl p-4 sm:p-6 shadow-sm flex gap-4 items-center"
+                className="bg-white rounded-md p-4 sm:p-6 shadow-sm flex gap-4 items-center"
               >
                 {/* Image */}
                 <Link href={`/product/${product.slug}`} className="shrink-0">
-                  <div className="product-tile w-20 h-20 sm:w-24 sm:h-24 rounded-xl overflow-hidden">
+                  <div className="product-tile w-20 h-20 sm:w-24 sm:h-24 rounded-md overflow-hidden">
                     {product.image ? (
                       <img
                         src={product.image}

@@ -13,6 +13,29 @@
   --font-serif: "Futura", "Jost", "Avenir Next", sans-serif;
   --font-sans: "Nunito Sans", "Helvetica Neue", "Arial", sans-serif;
   --font-masthead: "Georgia", "Times New Roman", serif;
+
+  /* Type scale — replaces the 9/10/11px micro sizes */
+  --text-micro: 11px;
+  --text-small: 13px;
+  --text-body: 15px;
+  --text-lead: 17px;
+  --text-h3: 20px;
+  --text-h2: 28px;
+
+  /* Spacing scale — every padding and margin should come from this */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+
+  /* Radius — 12-16px reads as "chunky"; 6px reads as editorial */
+  --radius-sm: 4px;
+  --radius: 6px;
+  --radius-lg: 8px;
 }
 
 html { font-size: 106.25%; }

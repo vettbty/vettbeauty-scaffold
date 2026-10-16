@@ -142,7 +142,7 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
 
   if (hero) {
     return (
-      <div className="bg-white rounded-2xl overflow-hidden shadow-sm sm:grid sm:grid-cols-2 sm:items-center">
+      <div className="bg-white rounded-md overflow-hidden shadow-sm sm:grid sm:grid-cols-2 sm:items-center">
         <Linked>{tile}</Linked>
         <div>
           <Linked>{heading}</Linked>

@@ -135,7 +135,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
       <section className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-12">
           {/* Image */}
-          <div className="product-tile aspect-square rounded-2xl overflow-hidden relative">
+          <div className="product-tile aspect-square rounded-md overflow-hidden relative">
             {product.image ? (
               <img 
                 src={product.image} 
@@ -196,7 +196,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
 
             {/* Consensus Score: distinct US editorial publications. Consumer
                 rankings are listed below, never counted here. */}
-            <div className="bg-white rounded-xl p-4 sm:p-6 shadow-sm mb-6">
+            <div className="bg-white rounded-md p-4 sm:p-6 shadow-sm mb-6">
               <div className="flex items-center gap-3 mb-3">
                 <span className={`consensus-badge ${product.consensusCount === 0 ? 'bg-cream-dark text-charcoal-light' : product.consensusCount >= 3 ? 'consensus-high' : ''} w-8 h-8 text-xs`}>
                   {product.consensusCount}
@@ -236,7 +236,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                   href={product.buyLink}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex-1 max-w-xs bg-charcoal text-white text-center py-3 px-6 rounded-xl font-semibold text-sm hover:bg-charcoal-light transition-colors"
+                  className="flex-1 max-w-xs bg-charcoal text-white text-center py-3 px-6 rounded-md font-semibold text-sm hover:bg-charcoal-light transition-colors"
                 >
                   Check Price →
                 </a>
@@ -330,7 +330,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
       {/* Where to Buy - Honest Version */}
       {product.buyLink && (
         <section className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
-          <div className="bg-white rounded-xl p-4 sm:p-6 shadow-sm">
+          <div className="bg-white rounded-md p-4 sm:p-6 shadow-sm">
             <h3 className="font-serif text-lg font-semibold text-charcoal mb-4">Where to Buy</h3>
             <div className="flex items-center justify-between">
               <div>
@@ -343,7 +343,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                 href={product.buyLink}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gold text-white py-3 px-6 rounded-xl font-semibold text-sm hover:bg-gold-dark transition-colors"
+                className="bg-gold text-white py-3 px-6 rounded-md font-semibold text-sm hover:bg-gold-dark transition-colors"
               >
                 Check Price →
               </a>
@@ -371,7 +371,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                 <Link
                   href={`/product/${related.slug}`}
                   key={related.id}
-                  className="group bg-cream rounded-xl overflow-hidden hover:shadow-md transition-all"
+                  className="group bg-cream rounded-md overflow-hidden hover:shadow-md transition-all"
                 >
                   <div className="product-tile aspect-square relative overflow-hidden">
                     {related.image ? (

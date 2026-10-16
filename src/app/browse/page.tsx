@@ -373,7 +373,7 @@ export default function Home() {
           )}
         </div>
         {sourcesOpen && (
-          <div id="publication-panel" className="mt-3 bg-white border border-cream-dark rounded-xl p-3 shadow-sm">
+          <div id="publication-panel" className="mt-3 bg-white border border-cream-dark rounded-md p-3 shadow-sm">
             <div className="flex items-center justify-between gap-3 mb-2">
               <p className="text-xs font-semibold text-charcoal">Won from</p>
               <div className="inline-flex rounded-full bg-cream-dark p-0.5 text-[11px]" role="radiogroup" aria-label="Match publications">
