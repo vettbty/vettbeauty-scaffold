@@ -28,6 +28,9 @@ const regionOf = (edition: string): typeof REGIONS[number] =>
   /\bUK\b/.test(edition) ? 'UK' : /^(Glowpick|Hwahae|Olive Young)/.test(edition) ? 'Korea' : 'US';
 
 type Sort = 'auto' | 'relevance' | 'awards' | 'price-asc' | 'price-desc' | 'name' | 'brand';
+// Accepted values for the sort= and min= URL parameters; anything else is ignored.
+const SORTS: Sort[] = ['auto', 'relevance', 'awards', 'price-asc', 'price-desc', 'name', 'brand'];
+const MIN_AWARDS = [1, 2, 3, 5];
 
 export default function Home() {
   const [activeFilter, setActiveFilter] = useState<string>('all');
@@ -63,7 +66,8 @@ export default function Home() {
     };
   }, []);
 
-  // Filters live in the URL (?q=&cat=&sub=&brand=) so a result can be shared,
+  // Filters live in the URL (?q=&cat=&sub=&brand=&pub=&pubmode=&sort=&year=&min=)
+  // so a result can be shared,
   // bookmarked, and survives the back button from a product page. Read once on
   // mount; written with replaceState so typing doesn't stack history entries.
   const [hydrated, setHydrated] = useState(false);
@@ -81,8 +85,14 @@ export default function Home() {
     const pubs = u.get('pub')?.split(',').filter(Boolean) ?? [];
     if (pubs.length) setSelectedSources(availableSources.filter(src => pubs.includes(slugify(src))));
     if (u.get('pubmode') === 'all') setSourceMode('all');
+    const sort = u.get('sort');
+    if (sort && SORTS.includes(sort as Sort)) setSortBy(sort as Sort);
+    const year = u.get('year');
+    if (year && availableYears.includes(year)) setSelectedYear(year);
+    const min = Number(u.get('min'));
+    if (MIN_AWARDS.includes(min)) setMinAwards(min);
     setHydrated(true);
-  }, [availableSources]); // memoised once; runs on mount only
+  }, [availableSources, availableYears]); // memoised once; runs on mount only
   /* eslint-enable react-hooks/set-state-in-effect */
   useEffect(() => {
     if (!hydrated) return;
@@ -93,9 +103,12 @@ export default function Home() {
     if (brandQuery.trim()) u.set('brand', brandQuery.trim());
     if (selectedSources.length) u.set('pub', selectedSources.map(slugify).join(','));
     if (selectedSources.length > 1 && sourceMode === 'all') u.set('pubmode', 'all');
+    if (sortBy !== 'auto') u.set('sort', sortBy);
+    if (selectedYear !== 'all') u.set('year', selectedYear);
+    if (minAwards !== 1) u.set('min', String(minAwards));
     const qs = u.toString();
     window.history.replaceState(null, '', qs ? `?${qs}` : window.location.pathname);
-  }, [hydrated, searchQuery, activeFilter, activeSub, brandQuery, selectedSources, sourceMode]);
+  }, [hydrated, searchQuery, activeFilter, activeSub, brandQuery, selectedSources, sourceMode, sortBy, selectedYear, minAwards]);
 
   const searching = searchQuery.trim() !== '';
   const effectiveSort: Sort = sortBy === 'auto' ? (searching ? 'relevance' : 'awards') : sortBy;
