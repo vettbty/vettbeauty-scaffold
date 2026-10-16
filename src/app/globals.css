@@ -262,6 +262,18 @@ h1 {
   display: none;
 }
 
+/* Homepage award-class strips: one horizontally scrolling row per class,
+   mirroring .logo-scroll. */
+.strip-scroll {
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.strip-scroll::-webkit-scrollbar {
+  display: none;
+}
+
 .logo-item {
   flex-shrink: 0;
   scroll-snap-align: center;

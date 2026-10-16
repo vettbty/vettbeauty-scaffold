@@ -33,8 +33,8 @@ export default function Tile({ product, label }: { product: Product; label: stri
           )}
         </div>
         <div className="p-3">
-          <p className="text-[9px] font-semibold uppercase microcap text-gold mb-0.5">{product.brand}</p>
-          <h3 className="text-xs font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
+          <p className="text-[11px] font-semibold uppercase microcap text-gold mb-0.5">{product.brand}</p>
+          <h3 className="text-sm font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
         </div>
       </Link>
       <div className="px-3 pb-3 mt-auto flex items-center justify-between">

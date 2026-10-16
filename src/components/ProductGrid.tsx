@@ -22,9 +22,13 @@ import type { Product } from "@/lib/data";
 export default function ProductGrid({
   products,
   badge,
+  layout = "grid",
 }: {
   products: Product[];
   badge: string;
+  // "strip": one horizontally scrolling row instead of a wrapped grid. Every
+  // product is still rendered; only the layout changes.
+  layout?: "grid" | "strip";
 }) {
   const [order, setOrder] = useState(products);
 
@@ -39,15 +43,23 @@ export default function ProductGrid({
   }, [products]);
 
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-4 gap-px bg-cream-dark">
+    <div
+      className={
+        layout === "strip"
+          ? "strip-scroll grid grid-flow-col auto-cols-[45%] sm:auto-cols-[28%] lg:auto-cols-[19%] gap-px bg-cream-dark"
+          : "grid grid-cols-2 sm:grid-cols-4 gap-px bg-cream-dark"
+      }
+    >
       {order.map(product => (
-        <div key={product.id} className="bg-white flex flex-col">
+        <div key={product.id} className={`bg-white flex flex-col${layout === "strip" ? " snap-start" : ""}`}>
           <Link href={`/product/${product.slug}`} className="block">
             <div className="product-tile aspect-square relative overflow-hidden">
               <img src={product.image} alt={`${product.brand} ${product.name}`} className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`} loading="lazy" />
-              <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
-                {badge}
-              </span>
+              {badge && (
+                <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[9px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
+                  {badge}
+                </span>
+              )}
               {product.consensusCount > 1 && (
                 <span className={`absolute top-2 right-2 consensus-badge ${product.consensusCount >= 3 ? 'consensus-high' : ''} text-[10px] w-5 h-5`}>
                   {product.consensusCount}
@@ -55,8 +67,8 @@ export default function ProductGrid({
               )}
             </div>
             <div className="p-3">
-              <p className="text-[9px] font-semibold uppercase microcap text-gold mb-0.5">{product.brand}</p>
-              <h3 className="text-xs font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
+              <p className="text-[11px] font-semibold uppercase microcap text-gold mb-0.5">{product.brand}</p>
+              <h3 className="text-sm font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
             </div>
           </Link>
         </div>

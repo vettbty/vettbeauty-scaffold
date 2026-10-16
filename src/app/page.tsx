@@ -79,11 +79,11 @@ export default function Home() {
       </header>
 
       {/* Hero */}
-      <section className="text-center px-4 pt-14 pb-10 max-w-2xl mx-auto">
+      <section className="text-center px-4 pt-14 pb-10 max-w-4xl mx-auto">
         <p className="eyebrow text-xs text-gold mb-4">The Verified Record of Beauty</p>
-        <h1 className="font-serif text-3xl sm:text-5xl font-bold text-charcoal mb-4 leading-tight">Only the Vetted</h1>
+        <h1 className="font-serif text-4xl sm:text-6xl font-bold text-charcoal mb-4 leading-tight">Only the Vetted</h1>
         <div className="hero-underline mb-5" />
-        <p className="text-base sm:text-lg text-charcoal-light leading-relaxed max-w-lg mx-auto mb-7">
+        <p className="text-base sm:text-lg text-charcoal-light leading-relaxed max-w-3xl mx-auto mb-7">
           Every product here won a named award from a major beauty publication&apos;s formal awards program.
           No listicles. No paid placements. Only verified winners.
         </p>
@@ -122,7 +122,9 @@ export default function Home() {
             <Link href="/browse" className="text-sm font-medium text-gold hover:text-gold-dark shrink-0">See all →</Link>
           </div>
           <div className="max-w-6xl mx-auto px-4 pb-12">
-            <ProductGrid products={winners} badge={`${prog.name} ${prog.edition}`} />
+            {/* A scrolling strip with no per-tile label: the heading above
+                already names the award class. */}
+            <ProductGrid products={winners} badge="" layout="strip" />
           </div>
         </section>
       ))}
