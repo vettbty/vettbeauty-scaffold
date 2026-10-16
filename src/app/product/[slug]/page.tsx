@@ -5,6 +5,7 @@ import { priceLabel } from '@/lib/format';
 import SaveButton from '@/components/SaveButton';
 import { CATEGORIES, OTHER, slugify } from '@/lib/taxonomy';
 import { descriptionFor } from '@/lib/descriptions';
+import { CONSUMER_PLATFORMS, publicationOf } from '@/lib/consensus';
 
 // Generate static paths for all products
 export function generateStaticParams() {
@@ -72,7 +73,20 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
   const categoryKey = CATEGORIES.find(c => c.label === product.category)?.key ?? slugify(product.category);
 
   const parsedAwards = product.awardsWon.map(parseAward);
-  const uniqueSources = [...new Set(parsedAwards.map(a => a.source))];
+  // parsedAwards[i] is product.awardsWon[i] parsed, so the pairing holds.
+  // Editorial awards are scored; the Korean consumer platforms' rankings are
+  // recorded and shown, in their own section, but never scored.
+  const withKind = product.awardsWon.map((raw, i) => {
+    const pub = publicationOf(raw);
+    return {
+      ...parsedAwards[i],
+      pub,
+      isConsumer: pub !== null && (CONSUMER_PLATFORMS as readonly string[]).includes(pub),
+    };
+  });
+  const editorialAwards = withKind.filter(a => !a.isConsumer);
+  const consumerAwards = withKind.filter(a => a.isConsumer);
+  const editorialSources = [...new Set(editorialAwards.map(a => a.pub))].filter((p): p is string => p !== null);
 
   return (
     <>
@@ -123,9 +137,9 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                 </svg>
               </div>
             )}
-            {product.awardCount > 1 && (
-              <div className={`absolute top-4 left-4 consensus-badge ${product.awardCount >= 3 ? 'consensus-high' : ''} w-10 h-10 text-sm`}>
-                {product.awardCount}
+            {product.consensusCount > 1 && (
+              <div className={`absolute top-4 left-4 consensus-badge ${product.consensusCount >= 3 ? 'consensus-high' : ''} w-10 h-10 text-sm`}>
+                {product.consensusCount}
               </div>
             )}
           </div>
@@ -168,34 +182,30 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
               </div>
             )}
 
-            {/* Consensus Score */}
+            {/* Consensus Score: distinct US editorial publications. Consumer
+                rankings are listed below, never counted here. */}
             <div className="bg-white rounded-xl p-4 sm:p-6 shadow-sm mb-6">
               <div className="flex items-center gap-3 mb-3">
-                <span className={`consensus-badge ${product.awardCount >= 3 ? 'consensus-high' : ''} w-8 h-8 text-xs`}>
-                  {product.awardCount}
+                <span className={`consensus-badge ${product.consensusCount === 0 ? 'bg-cream-dark text-charcoal-light' : product.consensusCount >= 3 ? 'consensus-high' : ''} w-8 h-8 text-xs`}>
+                  {product.consensusCount}
                 </span>
                 <div>
                   <p className="font-semibold text-charcoal">US Consensus Score</p>
                   <p className="text-sm text-charcoal-light">
-                    {product.awardCount} award{product.awardCount !== 1 ? 's' : ''} from {uniqueSources.length} publication{uniqueSources.length !== 1 ? 's' : ''}
+                    {product.consensusCount === 0
+                      ? 'No US editorial awards recorded'
+                      : <>{product.consensusCount} publication{product.consensusCount !== 1 ? 's' : ''}</>}
                   </p>
                 </div>
               </div>
-              <div className="flex flex-wrap gap-2">
-                {uniqueSources.map(source => (
-                  <span key={source} className="text-xs bg-cream-dark text-charcoal-light px-2 py-1 rounded-full">
-                    {source}
-                  </span>
-                ))}
-              </div>
-              {uniqueSources.some(s => AWARD_MECHANISM[s]) && (
-                <ul className="mt-3 pt-3 border-t border-cream-dark space-y-1">
-                  {uniqueSources.filter(s => AWARD_MECHANISM[s]).map(s => (
-                    <li key={s} className="text-xs text-charcoal-light">
-                      <span className="font-semibold">{s}</span> · {AWARD_MECHANISM[s]}
-                    </li>
+              {editorialSources.length > 0 && (
+                <div className="flex flex-wrap gap-2">
+                  {editorialSources.map(source => (
+                    <span key={source} className="text-xs bg-cream-dark text-charcoal-light px-2 py-1 rounded-full">
+                      {source}
+                    </span>
                   ))}
-                </ul>
+                </div>
               )}
             </div>
 
@@ -232,6 +242,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                   image: product.image,
                   topAward: product.topAward,
                   awardCount: product.awardCount,
+                  consensusCount: product.consensusCount,
                 }}
               />
             </div>
@@ -253,12 +264,13 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
       {/* Awards Timeline */}
       <section className="bg-white border-t border-cream-dark">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+          {editorialAwards.length > 0 && (
+            <>
           <h2 className="font-serif text-xl sm:text-2xl font-semibold text-charcoal mb-6">
-            Awards Won
+            Editorial awards
           </h2>
-          
           <div className="space-y-4">
-            {[...parsedAwards]
+            {[...editorialAwards]
               .sort((a, b) => b.year - a.year)
               .map((award, i) => (
                 <div 
@@ -284,6 +296,43 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                 </div>
               ))}
           </div>
+            </>
+          )}
+
+          {consumerAwards.length > 0 && (
+            <>
+          <h2 className={`font-serif text-xl sm:text-2xl font-semibold text-charcoal mb-6 ${editorialAwards.length > 0 ? 'mt-10' : ''}`}>
+            Consumer rankings
+          </h2>
+          <div className="space-y-4">
+            {[...consumerAwards]
+              .sort((a, b) => b.year - a.year)
+              .map((award, i) => (
+                <div 
+                  key={i} 
+                  className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 p-4 bg-cream rounded-xl"
+                >
+                  <span className="inline-flex self-start sm:self-center bg-charcoal text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap">
+                    {award.year}
+                  </span>
+                  <div className="flex-1">
+                    <p className="font-semibold text-charcoal text-sm sm:text-base">
+                      {award.source}
+                    </p>
+                    {award.category && (
+                      <p className="text-sm text-charcoal-light">{award.category}</p>
+                    )}
+                    {AWARD_MECHANISM[award.source] && (
+                      <p className="text-xs text-charcoal-light italic">
+                        {AWARD_MECHANISM[award.source]}
+                      </p>
+                    )}
+                  </div>
+                </div>
+              ))}
+          </div>
+            </>
+          )}
         </div>
       </section>
 

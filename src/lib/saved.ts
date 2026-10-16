@@ -9,6 +9,8 @@ export interface SavedProduct {
   image: string;
   topAward: string | null;
   awardCount: number;
+  // Optional: entries saved before the consensus score existed lack it.
+  consensusCount?: number;
   savedAt: string; // ISO string
 }
 
