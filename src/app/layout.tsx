@@ -1,4 +1,5 @@
 import "./globals.css";
+import "./advanced.css";
 
 export const metadata = {
   title: 'Vettbeauty — Every Award-Winning Beauty Product, Verified',

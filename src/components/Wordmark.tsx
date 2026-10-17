@@ -6,7 +6,7 @@ export default function Wordmark({ className = '' }: { className?: string }) {
   return (
     <Link
       href="/"
-      className={`shrink-0 tracking-tight text-charcoal ${className}`}
+      className={`shrink-0 tracking-tight text-charcoal [view-transition-name:wordmark] ${className}`}
       style={{ fontFamily: "'League Spartan', sans-serif" }}
     >
       <span className="font-medium" style={{ fontSize: '0.95em' }}>VETT</span>

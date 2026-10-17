@@ -1,0 +1,42 @@
+/* Progressive enhancement. Nothing here is load-bearing: deleting this file
+   (and its import in layout.tsx) must leave the site working and laid out the
+   same. Browsers without a feature simply ignore its rule. */
+
+/* typography */
+h1, h2, h3 { text-wrap: balance; }
+p, li, figcaption { text-wrap: pretty; }
+.tabular { font-variant-numeric: tabular-nums; }
+
+/* gold derived from theme tokens, replacing hard-coded hexes */
+:root {
+  --gold-wash: color-mix(in oklab, var(--color-gold) 12%, transparent);
+  --gold-edge: color-mix(in oklab, var(--color-gold) 28%, transparent);
+}
+.hero-underline { background: var(--color-gold); }
+.consensus-high {
+  box-shadow: 0 0 0 1px var(--gold-edge), 0 0 14px var(--gold-wash);
+}
+
+/* offscreen tiles skip paint */
+.product-tile {
+  container-type: inline-size;
+  content-visibility: auto;
+  contain-intrinsic-size: auto 285px;
+}
+
+/* cross-document view transitions — no JS */
+@view-transition { navigation: auto; }
+::view-transition-old(root),
+::view-transition-new(root) { animation-duration: 220ms; }
+
+:focus-visible { outline: 2px solid var(--color-gold); outline-offset: 2px; }
+html { scrollbar-gutter: stable; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
