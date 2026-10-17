@@ -21,6 +21,7 @@
   --text-lead: 17px;
   --text-h3: 20px;
   --text-h2: 28px;
+  --text-h1: clamp(36px, 5vw, 56px);
 
   /* Spacing scale — every padding and margin should come from this */
   --space-1: 4px;
@@ -53,8 +54,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Display headings sit tighter than body headings — Futura at size reads
    sleeker closed up than opened out. */
-h1 {
-  letter-spacing: -0.012em;
+h1, h2 {
+  letter-spacing: -0.02em;
+}
+
+/* The heading scale. In the base layer so any size class on a heading still
+   wins (most headings carry one); a bare h1/h2/h3 falls back to the scale.
+   Tracking is set outside the layer, above (h1/h2 -0.02em, h3 0.01em). */
+@layer base {
+  h1 { font-size: var(--text-h1); line-height: 1.05; }
+  h2 { font-size: var(--text-h2); line-height: 1.15; }
+  h3 { font-size: var(--text-h3); line-height: 1.25; }
 }
 
 /* ---- Editorial labels (Sascha, 2026-09-24, revised 09-26) ----

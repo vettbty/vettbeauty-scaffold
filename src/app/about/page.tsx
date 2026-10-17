@@ -19,7 +19,7 @@ export default function AboutPage() {
         </div>
       </header>
       <div className="mx-auto max-w-2xl px-4 py-16">
-        <p className="eyebrow text-[10px] text-gold mb-5">About</p>
+        <p className="eyebrow text-[11px] text-gold mb-5">About</p>
         <h1 className="font-serif text-3xl sm:text-4xl font-light mb-8">Only the Vetted</h1>
 
         <div className="space-y-6 text-sm leading-relaxed text-charcoal-light">

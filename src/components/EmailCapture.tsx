@@ -32,7 +32,7 @@ export default function EmailCapture() {
   return (
     <section className="bg-cream-dark/40 border-t border-cream-dark py-10 px-4">
       <div className="max-w-md mx-auto text-center">
-        <p className="eyebrow text-[10px] text-gold mb-3">Award season alerts</p>
+        <p className="eyebrow text-[11px] text-gold mb-3">Award season alerts</p>
         {state === "done" ? (
           <p className="text-sm text-charcoal py-3">
             You&rsquo;re on the list.

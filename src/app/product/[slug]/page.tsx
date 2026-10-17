@@ -291,7 +291,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12 space-y-8">
           {editorialAwards.length > 0 && (
             <section>
-              <h2 className="eyebrow text-gold mb-3">Editorial awards</h2>
+              <h2 className="eyebrow text-base text-gold mb-3">Editorial awards</h2>
               <ul className="divide-y divide-cream-dark border-t border-b border-cream-dark">
                 {groupBy(editorialAwards).map(([pub, awards]) => {
                   const note = awards.map(a => AWARD_MECHANISM[a.source]).find(Boolean);
@@ -314,7 +314,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
 
           {consumerAwards.length > 0 && (
             <section>
-              <h2 className="eyebrow text-gold mb-3">Korean rankings</h2>
+              <h2 className="eyebrow text-base text-gold mb-3">Korean rankings</h2>
               <ul className="divide-y divide-cream-dark border-t border-b border-cream-dark">
                 {groupBy(consumerAwards).map(([pub, awards]) => {
                   const note = awards.map(a => AWARD_MECHANISM[a.source]).find(Boolean);
@@ -402,7 +402,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                     )}
                   </div>
                   <div className="p-3">
-                    <p className="text-[10px] font-semibold uppercase microcap text-gold mb-1">{related.brand}</p>
+                    <p className="text-[11px] font-semibold uppercase microcap text-gold mb-1">{related.brand}</p>
                     <p className="text-sm font-semibold text-charcoal line-clamp-2">{related.name}</p>
                   </div>
                 </Link>

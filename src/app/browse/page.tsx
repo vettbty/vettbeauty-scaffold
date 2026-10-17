@@ -395,7 +395,7 @@ export default function Home() {
               if (!editions.length) return null;
               return (
                 <div key={region} className="mt-2 first:mt-0">
-                  <p className="eyebrow text-[10px] text-gold mb-1">{region === 'Korea' ? 'Korea' : `${region} editions`}</p>
+                  <p className="eyebrow text-[11px] text-gold mb-1">{region === 'Korea' ? 'Korea' : `${region} editions`}</p>
                   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4">
                     {editions.map(src => {
                       const checked = selectedSources.includes(src);
