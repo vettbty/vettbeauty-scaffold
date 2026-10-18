@@ -50,8 +50,8 @@ export default async function Home() {
         {/* 1. Hero */}
         <section className="text-center pt-[48px] max-w-3xl mx-auto">
           <p className="eyebrow text-xs text-gold mb-4">The verified record of beauty</p>
-          <h1 className="font-serif text-4xl sm:text-7xl font-bold text-charcoal mb-4 leading-tight">Only the Vetted</h1>
-          <p className="text-base sm:text-lg text-charcoal-light leading-relaxed mb-7">
+          <h1 className="font-serif text-4xl sm:text-6xl font-bold text-charcoal mb-4 leading-tight">Only the Vetted</h1>
+          <p className="text-[15px] leading-[1.55] text-charcoal-light mb-7">
             Every product here won a named award from a major beauty publication.
           </p>
           <Link
@@ -64,7 +64,7 @@ export default async function Home() {
 
         {/* 2. Newest programme */}
         {newest && (
-          <p className="mt-[48px] text-center text-sm">
+          <p className="mt-[48px] text-center text-[15px] leading-[1.55]">
             <Link href={pubHref([newest.slug])} className="text-charcoal hover:text-gold transition-colors">
               Just announced: <span className="font-semibold">{newest.name} {newest.edition}</span>
               {' · '}{newest.winnerCount.toLocaleString()} winners
