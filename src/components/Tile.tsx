@@ -22,9 +22,7 @@ export default function Tile({ product, label }: { product: Product; label: stri
               unoptimized={!product.image.startsWith('/')}
             />
           ) : (
-            <div className="w-full h-full flex items-center justify-center text-charcoal-light/30">
-              <svg className="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
-            </div>
+            <span className="tile-fallback" aria-hidden="true">{product.brand}</span>
           )}
           <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[11px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
             {label}

@@ -22,7 +22,7 @@ export default function FeatureRow({ items }: { items: Product[] }) {
         <div key={product.slug} className="bg-white flex flex-col">
           <Link href={`/product/${product.slug}`} className="block">
             <div className="product-tile record-tile aspect-[4/5] relative overflow-hidden">
-              {product.image && (
+              {product.image ? (
                 <Image
                   src={product.image}
                   alt={`${product.brand} ${product.name}`}
@@ -35,6 +35,8 @@ export default function FeatureRow({ items }: { items: Product[] }) {
                   loading={i === 0 ? "eager" : "lazy"}
                   fetchPriority={i === 0 ? "high" : undefined}
                 />
+              ) : (
+                <span className="tile-fallback" aria-hidden="true">{product.brand}</span>
               )}
               <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[11px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
                 {editorialLabel(product)}

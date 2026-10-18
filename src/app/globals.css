@@ -367,6 +367,22 @@ h1, h2 {
 /* Real cutouts (alpha packshots from public/cutouts): no blend needed, and a
    soft product shadow like the daily-card treatment. */
 
+/* A tile with no photo: the brand, set quietly in the heading face. Absolute
+   and inset like the image, so the tile keeps its exact aspect either way. */
+.tile-fallback {
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  padding: 18%;
+  text-align: center;
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+  color: var(--color-charcoal-light);
+  opacity: 0.5;
+}
+
 .product-tile img.cutout {
   mix-blend-mode: normal;
   filter: drop-shadow(0 12px 16px rgba(95, 59, 42, 0.16));
