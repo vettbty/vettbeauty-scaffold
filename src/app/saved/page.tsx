@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Wordmark from '@/components/Wordmark';
 import { useState, useEffect } from 'react';
 import type { SavedProduct } from '@/lib/saved';
 
@@ -65,9 +66,7 @@ export default function SavedPage() {
       {/* Header */}
       <header className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-cream-dark">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
-          <Link href="/" className="font-serif text-xl sm:text-2xl font-bold tracking-tight text-charcoal">
-            Vett<span className="text-gold">beauty</span>
-          </Link>
+          <Wordmark className="text-xl sm:text-2xl" />
           <Link href="/" className="text-sm font-medium text-charcoal-light hover:text-charcoal transition-colors">
             Browse Products →
           </Link>
