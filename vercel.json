@@ -2025,5 +2025,15 @@
    "destination": "/product/:slug",
    "permanent": false
   }
+ ],
+ "crons": [
+  {
+   "path": "/api/audit",
+   "schedule": "0 * * * *"
+  },
+  {
+   "path": "/api/audit?deep=1",
+   "schedule": "0 6 * * *"
+  }
  ]
 }
