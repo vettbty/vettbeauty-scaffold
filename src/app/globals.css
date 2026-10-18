@@ -11,13 +11,12 @@
   --color-charcoal-light: #75503E;
 
   /* Fonts are self-hosted by next/font (src/app/layout.tsx), which sets the
-     --font-playfair / --font-inter / --font-league-spartan variables on <html>.
+     --font-playfair / --font-inter variables on <html>.
      --font-serif is the HEADING token (h1-h6 and the font-serif class), so it
      carries the display face; --font-display is an alias of it. */
   --font-serif: var(--font-playfair), Georgia, serif;
   --font-display: var(--font-playfair), Georgia, serif;
   --font-sans: var(--font-inter), system-ui, sans-serif;
-  --font-wordmark: var(--font-league-spartan), sans-serif;
   --font-masthead: "Georgia", "Times New Roman", serif;
 
   /* Type scale — replaces the 9/10/11px micro sizes */
