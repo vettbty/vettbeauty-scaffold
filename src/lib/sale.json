@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16",
+ "generated": "2026-10-17",
  "items": [
   {
    "brand": "dpHUE",
@@ -183,6 +183,26 @@
    ]
   },
   {
+   "brand": "goPure",
+   "product": "Tighten & Lift Neck Cream",
+   "retailer": "Amazon",
+   "was": 40,
+   "now": 31.99,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0CGB215HR?tag=vettbeauty-20",
+   "size": "1.7 oz",
+   "slug": "gopure-tighten---lift-neck-cream",
+   "image": "/cutouts/gopure-tighten---lift-neck-cream.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Readers Choice — Favorite Neck Cream (2025)",
+   "category": "Skincare",
+   "subcategory": "Treatment",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Readers Choice — Favorite Neck Cream (2025)"
+   ]
+  },
+  {
    "brand": "Glasshouse Fragrances",
    "product": "Body Bar",
    "retailer": "Dermstore",
@@ -200,26 +220,6 @@
    "awardCount": 1,
    "awardsWon": [
     "InStyle Best Beauty Buys — Best Bar Soap (2026)"
-   ]
-  },
-  {
-   "brand": "Baby Tress",
-   "product": "Edge Styler",
-   "retailer": "Amazon",
-   "was": 8,
-   "now": 6.61,
-   "percentOff": 17,
-   "url": "https://www.amazon.com/dp/B0BM2LD4WY?tag=vettbeauty-20",
-   "size": null,
-   "slug": "baby-tress-edge-styler",
-   "image": "/levelled/baby-tress-edge-styler.webp",
-   "imageCutout": false,
-   "topAward": "Allure Best of Beauty — Best Edge Styler (2025)",
-   "category": "Tools & Devices",
-   "subcategory": "Hair Tool",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Edge Styler (2025)"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-16",
+ "generated": "2026-10-17",
  "items": [
   {
    "productId": "600b07d3-3168-45ca-933f-167b52538268",
@@ -111,6 +111,18 @@
    "listing": "Secret Whole Body Deodorant Stick for Women, Naturally Derived Ingredients, Unscented, Aluminum Free Deoderant Stick"
   },
   {
+   "productId": "d945e531-a6bb-4a5c-9502-927ce2a06d8c",
+   "brand": "goPure",
+   "product": "Tighten & Lift Neck Cream",
+   "retailer": "amazon",
+   "was": 40,
+   "now": 31.99,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0CGB215HR",
+   "size": "1.7 oz",
+   "listing": "goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of Wrinkles & Crepey Skin, 1.7oz"
+  },
+  {
    "productId": "88315bfb-ee8a-4e0c-adfd-0984bb36f03a",
    "brand": "Glasshouse Fragrances",
    "product": "Body Bar",
@@ -121,18 +133,6 @@
    "url": "https://go.shopmy.us/p-78478118",
    "size": "6.3 oz",
    "listing": "Glasshouse Fragrances Marseille Memoir Body Bar 6.3 oz"
-  },
-  {
-   "productId": "e98eaa43-b2b1-4a10-803b-c71bc47d4d3f",
-   "brand": "Baby Tress",
-   "product": "Edge Styler",
-   "retailer": "amazon",
-   "was": 8,
-   "now": 6.61,
-   "percentOff": 17,
-   "url": "https://www.amazon.com/dp/B0BM2LD4WY",
-   "size": null,
-   "listing": "Baby Tress Hair Brush 3-in-1 Edge Styler for Styling and Taming Flyaways and Brows. Ash Grey"
   }
  ]
 }
