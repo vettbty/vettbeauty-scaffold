@@ -18,8 +18,20 @@ export default async function Home() {
     getShoppable(), getProgrammes(), getPublications(), getKoreanRankings(), getCategories(),
   ]);
 
-  // Most widely recognised first: distinct editorial publications.
-  const top = [...shoppable].sort((a, b) => b.consensusCount - a.consensusCount).slice(0, 8);
+  // Most widely recognised first: distinct editorial publications. Equal
+  // scores rotate daily: a day-seeded hash breaks ties, so the order is the
+  // same for everyone within a UTC day and different the next, and never
+  // crosses a score boundary. Keyed by slug, which is stable; id is positional.
+  const seed = Math.floor(Date.now() / 86_400_000);
+  const h = (key: string) => {
+    let x = seed >>> 0;
+    for (let i = 0; i < key.length; i++) x = (x * 31 + key.charCodeAt(i)) >>> 0;
+    return x;
+  };
+
+  const top = [...shoppable]
+    .sort((a, b) => b.consensusCount - a.consensusCount || h(a.slug) - h(b.slug))
+    .slice(0, 8);
 
   // The newest programme by announcement date; the first entry if none is dated.
   const dated = programmes.filter(p => p.announcedDate && !Number.isNaN(Date.parse(p.announcedDate)));
