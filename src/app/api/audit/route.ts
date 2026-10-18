@@ -161,7 +161,14 @@ export async function GET(req: Request) {
   await db("audit_runs", {
     method: "POST",
     headers: { Prefer: "return=minimal" },
-    body: JSON.stringify({ mode: deep ? "deep" : "shallow", failures: failures.length, checks, summary }),
+    body: JSON.stringify({
+      mode: deep ? "deep" : "shallow",
+      // /status shows production runs only; a dev run tests localhost.
+      source: process.env.VERCEL_ENV === "production" ? "production" : "local",
+      failures: failures.length,
+      checks,
+      summary,
+    }),
   });
 
   const hook = process.env.ALERT_WEBHOOK;

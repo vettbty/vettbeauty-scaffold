@@ -53,7 +53,10 @@ export default async function StatusPage() {
   let products = 0;
   let awards = 0;
   try {
-    const res = await sb("audit_runs?select=ran_at,mode,failures,checks,summary&order=ran_at.desc&limit=30");
+    // Production runs only: a local dev run tests localhost, not the live site.
+    const res = await sb(
+      "audit_runs?select=ran_at,mode,failures,checks,summary&source=eq.production&order=ran_at.desc&limit=30",
+    );
     if (res.ok) runs = (await res.json()) as Run[];
     products = await countRows("site_products");
     awards = await countRows("awards");
@@ -63,34 +66,43 @@ export default async function StatusPage() {
 
   const newest = runs[0];
   const failing = newest?.checks?.filter((c) => !c.ok) ?? [];
-  const dot = newest ? markColour(newest.failures) : WARN;
+  // Stale: the endpoint fails closed, so if CRON_SECRET goes missing the audit
+  // simply stops, and nothing else would say so.
+  const STALE_MS = 3 * 60 * 60 * 1000;
+  const stale = !newest || Date.now() - new Date(newest.ran_at).getTime() > STALE_MS;
+  const dot = stale ? WARN : markColour(newest.failures);
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-10">
       <span className="eyebrow text-gold">The verified record of beauty</span>
       <h1 className="text-[40px] leading-[1.05] tracking-[-0.02em] mb-6">Record status</h1>
 
-      {!newest && (
-        <p className="text-sm text-[var(--charcoal-light)]">No audit has run yet.</p>
-      )}
+      <div className="flex flex-wrap items-baseline gap-3 pb-5 border-b border-[var(--cream-dark)]">
+        <span
+          aria-hidden="true"
+          className="inline-block w-[9px] h-[9px] rounded-full shrink-0"
+          style={{ background: dot }}
+        />
+        {stale ? (
+          <strong className="text-[19px] font-semibold" style={{ color: WARN }}>
+            No production run in over 3 hours — the audit may not be running
+          </strong>
+        ) : (
+          <strong className="text-[19px] font-semibold">
+            {newest.failures === 0
+              ? "All checks passing"
+              : `${newest.failures} check${newest.failures === 1 ? "" : "s"} failing`}
+          </strong>
+        )}
+        {newest && (
+          <span className="text-sm text-[var(--charcoal-light)]">
+            Last run {ago(newest.ran_at)} · checked hourly
+          </span>
+        )}
+      </div>
 
       {newest && (
         <>
-          <div className="flex flex-wrap items-baseline gap-3 pb-5 border-b border-[var(--cream-dark)]">
-            <span
-              aria-hidden="true"
-              className="inline-block w-[9px] h-[9px] rounded-full shrink-0"
-              style={{ background: dot }}
-            />
-            <strong className="text-[19px] font-semibold">
-              {newest.failures === 0
-                ? "All checks passing"
-                : `${newest.failures} check${newest.failures === 1 ? "" : "s"} failing`}
-            </strong>
-            <span className="text-sm text-[var(--charcoal-light)]">
-              Last run {ago(newest.ran_at)} · checked hourly
-            </span>
-          </div>
 
           <div className="flex flex-wrap gap-x-7 gap-y-2 py-5 border-b border-[var(--cream-dark)] text-[13px] text-[var(--charcoal-light)]">
             <span><b className="tabular-nums text-[var(--charcoal)]">{products.toLocaleString()}</b> products</span>
