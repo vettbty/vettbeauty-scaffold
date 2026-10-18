@@ -23,10 +23,26 @@ export default async function Home() {
   // same for everyone within a UTC day and different the next, and never
   // crosses a score boundary. Keyed by slug, which is stable; id is positional.
   const seed = Math.floor(Date.now() / 86_400_000);
+
+  // murmur3 fmix32: two multiply rounds, so a one-bit change anywhere in the
+  // input changes about half the output bits. The raw seed cannot be used
+  // directly: consecutive day seeds differ only in low bits, and x ^ seed
+  // then a single multiply round shifts every hash by the same amount — the
+  // constant-offset flaw — so the order barely moves.
+  const fmix = (x: number) => {
+    x ^= x >>> 16; x = Math.imul(x, 0x85ebca6b);
+    x ^= x >>> 13; x = Math.imul(x, 0xc2b2ae35);
+    x ^= x >>> 16;
+    return x >>> 0;
+  };
+
   const h = (key: string) => {
-    let x = seed >>> 0;
-    for (let i = 0; i < key.length; i++) x = (x * 31 + key.charCodeAt(i)) >>> 0;
-    return x;
+    let x = 2166136261 >>> 0;              // FNV-1a offset basis
+    for (let i = 0; i < key.length; i++) {
+      x ^= key.charCodeAt(i);
+      x = Math.imul(x, 16777619) >>> 0;    // FNV prime
+    }
+    return fmix(x ^ fmix(seed));
   };
 
   const top = [...shoppable]
