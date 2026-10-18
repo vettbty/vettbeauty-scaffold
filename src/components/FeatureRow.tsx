@@ -18,7 +18,7 @@ export default function FeatureRow({ items }: { items: Product[] }) {
 
   return (
     <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-px bg-cream-dark">
-      {items.map((product) => (
+      {items.map((product, i) => (
         <div key={product.slug} className="bg-white flex flex-col">
           <Link href={`/product/${product.slug}`} className="block">
             <div className="product-tile record-tile aspect-[4/5] relative overflow-hidden">
@@ -30,6 +30,10 @@ export default function FeatureRow({ items }: { items: Product[] }) {
                   fill
                   sizes="(max-width: 639px) 50vw, (max-width: 1023px) 33vw, 25vw"
                   unoptimized={!product.image.startsWith("/")}
+                  // The first tile is the page's largest above-the-fold image
+                  // (LCP): load it at once. The other seven stay lazy.
+                  loading={i === 0 ? "eager" : "lazy"}
+                  fetchPriority={i === 0 ? "high" : undefined}
                 />
               )}
               <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[11px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
