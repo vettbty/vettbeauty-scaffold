@@ -10,8 +10,14 @@
   --color-charcoal: #5F3B2A;
   --color-charcoal-light: #75503E;
 
-  --font-serif: "Futura", "Jost", "Avenir Next", sans-serif;
-  --font-sans: "Nunito Sans", "Helvetica Neue", "Arial", sans-serif;
+  /* Fonts are self-hosted by next/font (src/app/layout.tsx), which sets the
+     --font-playfair / --font-inter / --font-league-spartan variables on <html>.
+     --font-serif is the HEADING token (h1-h6 and the font-serif class), so it
+     carries the display face; --font-display is an alias of it. */
+  --font-serif: var(--font-playfair), Georgia, serif;
+  --font-display: var(--font-playfair), Georgia, serif;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-wordmark: var(--font-league-spartan), sans-serif;
   --font-masthead: "Georgia", "Times New Roman", serif;
 
   /* Type scale — replaces the 9/10/11px micro sizes */
@@ -52,12 +58,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-serif);
   letter-spacing: 0.01em;
 }
 
-/* Display headings sit tighter than body headings — Futura at size reads
-   sleeker closed up than opened out. */
+/* Display headings sit tighter than body headings: the display face reads
+   sleeker closed up than opened out at size. */
 h1, h2 {
   letter-spacing: -0.02em;
 }
@@ -66,6 +71,10 @@ h1, h2 {
    wins (most headings carry one); a bare h1/h2/h3 falls back to the scale.
    Tracking is set outside the layer, above (h1/h2 -0.02em, h3 0.01em). */
 @layer base {
+  /* The heading face, in the base layer like the sizes: a font utility on a
+     heading (font-sans on the tile product names) must be able to win, and an
+     unlayered rule beats every Tailwind utility. */
+  h1, h2, h3, h4, h5, h6 { font-family: var(--font-serif); }
   h1 { font-size: var(--text-h1); line-height: 1.05; }
   h2 { font-size: var(--text-h2); line-height: 1.15; }
   h3 { font-size: var(--text-h3); line-height: 1.25; }
@@ -79,10 +88,11 @@ h1, h2 {
    widening instead. One class so the value lives in a single place.
 
    These were briefly set in the masthead serif; Sascha 09-26: the serif read
-   as a foreign font next to the headline. Display type is Futura throughout,
-   labels included. */
+   as a foreign font next to the headline. Since 2026-10-18 headings are
+   Playfair Display and labels are the sans (Inter): a serif headline over a
+   sans label is the intended pairing. */
 .eyebrow {
-  font-family: var(--font-serif);
+  font-family: var(--font-sans);
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 0.07em;
@@ -113,6 +123,9 @@ h1, h2 {
   align-items: center;
   justify-content: center;
   box-shadow: 0 1px 3px rgba(165, 116, 94, 0.35);
+  /* Numerals stay in the sans: a high-contrast serif is unreadable this small. */
+  font-family: var(--font-sans);
+  font-variant-numeric: tabular-nums;
 }
 
 .consensus-high {
@@ -201,7 +214,7 @@ h1, h2 {
 }
 
 .banner-name {
-  /* Brand font, not Playfair — headings are Futura/Jost site-wide */
+  /* The heading face (Playfair Display since 2026-10-18). */
   font-family: var(--font-serif);
   font-size: 18px;
   font-weight: 600;

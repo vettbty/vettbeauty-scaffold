@@ -65,7 +65,7 @@ export default function SavedPage() {
       {/* Header */}
       <header className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-cream-dark">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
-          <Link href="/" className="font-serif text-xl sm:text-2xl font-bold tracking-tight text-charcoal">
+          <Link href="/" className="font-wordmark text-xl sm:text-2xl font-bold tracking-tight text-charcoal">
             Vett<span className="text-gold">beauty</span>
           </Link>
           <Link href="/" className="text-sm font-medium text-charcoal-light hover:text-charcoal transition-colors">
@@ -154,7 +154,7 @@ export default function SavedPage() {
                 <div className="flex-1 min-w-0">
                   <Link href={`/product/${product.slug}`}>
                     <p className="text-[11px] sm:text-xs font-semibold uppercase microcap text-gold mb-1">{product.brand}</p>
-                    <h3 className="text-sm sm:text-base font-semibold text-charcoal leading-snug truncate">{product.name}</h3>
+                    <h3 className="font-sans text-sm sm:text-base font-semibold text-charcoal leading-snug truncate">{product.name}</h3>
                   </Link>
                   <div className="flex items-center gap-3 mt-2">
                     <span className="text-sm font-bold text-charcoal">

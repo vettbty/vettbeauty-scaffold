@@ -47,7 +47,7 @@ export default function FeatureRow({ items }: { items: Product[] }) {
             </div>
             <div className="p-3">
               <p className="text-[11px] font-semibold uppercase microcap text-gold mb-0.5">{product.brand}</p>
-              <h3 className="text-sm font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
+              <h3 className="font-sans text-sm font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
             </div>
           </Link>
         </div>
