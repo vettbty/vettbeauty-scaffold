@@ -2,8 +2,9 @@ import Link from 'next/link';
 import EmailCapture from "@/components/EmailCapture";
 import Wordmark from '@/components/Wordmark';
 import SaveCount from '@/components/SaveCount';
-import Image from 'next/image';
 import { getShoppable, pressArticles } from '@/lib/data';
+import { getFeatureWindow, dayNumber } from "@/lib/featured";
+import FeatureRow from "@/components/FeatureRow";
 import { getProgrammes, getPublications, getKoreanRankings, getCategories } from '@/lib/record';
 
 /* The front page is an index into the record, not a catalogue: one row of the
@@ -18,36 +19,8 @@ export default async function Home() {
     getShoppable(), getProgrammes(), getPublications(), getKoreanRankings(), getCategories(),
   ]);
 
-  // Most widely recognised first: distinct editorial publications. Equal
-  // scores rotate daily: a day-seeded hash breaks ties, so the order is the
-  // same for everyone within a UTC day and different the next, and never
-  // crosses a score boundary. Keyed by slug, which is stable; id is positional.
-  const seed = Math.floor(Date.now() / 86_400_000);
-
-  // murmur3 fmix32: two multiply rounds, so a one-bit change anywhere in the
-  // input changes about half the output bits. The raw seed cannot be used
-  // directly: consecutive day seeds differ only in low bits, and x ^ seed
-  // then a single multiply round shifts every hash by the same amount — the
-  // constant-offset flaw — so the order barely moves.
-  const fmix = (x: number) => {
-    x ^= x >>> 16; x = Math.imul(x, 0x85ebca6b);
-    x ^= x >>> 13; x = Math.imul(x, 0xc2b2ae35);
-    x ^= x >>> 16;
-    return x >>> 0;
-  };
-
-  const h = (key: string) => {
-    let x = 2166136261 >>> 0;              // FNV-1a offset basis
-    for (let i = 0; i < key.length; i++) {
-      x ^= key.charCodeAt(i);
-      x = Math.imul(x, 16777619) >>> 0;    // FNV prime
-    }
-    return fmix(x ^ fmix(seed));
-  };
-
-  const top = [...shoppable]
-    .sort((a, b) => b.consensusCount - a.consensusCount || h(a.slug) - h(b.slug))
-    .slice(0, 8);
+  // Every editorial winner in turn, eight a day (src/lib/featured.ts).
+  const { items: featured, total: featuredTotal } = await getFeatureWindow(dayNumber());
 
   // The newest programme by announcement date; the first entry if none is dated.
   const dated = programmes.filter(p => p.announcedDate && !Number.isNaN(Date.parse(p.announcedDate)));
@@ -101,40 +74,19 @@ export default async function Home() {
           </p>
         )}
 
-        {/* 3. Top of the Record — the only imagery on the page */}
+        {/* 3. From the Record — the only imagery on the page */}
         <section className="mt-[48px]">
           <div className="flex items-end justify-between gap-4 mb-3">
             <div>
-              <h2 className="font-serif text-xl sm:text-2xl font-semibold text-charcoal">Top of the Record</h2>
-              <p className="text-sm text-charcoal-light mt-1">Recognised by the most publications we track</p>
+              <h2 className="font-serif text-xl sm:text-2xl font-semibold text-charcoal">From the Record</h2>
+              <p className="text-xs text-charcoal-light mt-1">
+                Every editorial award winner, in turn. Eight a day, working through all{" "}
+                {featuredTotal.toLocaleString()}.
+              </p>
             </div>
             <Link href="/browse" className="text-sm font-medium text-gold hover:text-gold-dark shrink-0">See all →</Link>
           </div>
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-px bg-cream-dark">
-            {top.map(product => (
-              <div key={product.id} className="bg-white flex flex-col">
-                <Link href={`/product/${product.slug}`} className="block">
-                  <div className="product-tile record-tile aspect-[4/5] relative overflow-hidden">
-                    {product.image && (
-                      <Image src={product.image} alt={`${product.brand} ${product.name}`} className={`w-full h-full ${product.imageCutout ? "cutout" : ""}`} fill sizes="(max-width: 639px) 50vw, (max-width: 1023px) 33vw, 25vw" unoptimized={!product.image.startsWith('/')} />
-                    )}
-                    <span className="absolute top-2 left-2 bg-charcoal/90 text-white text-[11px] font-semibold uppercase microcap px-1.5 py-0.5 rounded">
-                      {product.topAward.split(' — ')[0]}
-                    </span>
-                    {product.consensusCount > 1 && (
-                      <span className={`absolute top-2 right-2 consensus-badge ${product.consensusCount >= 3 ? 'consensus-high' : ''} text-[11px] w-5 h-5`}>
-                        {product.consensusCount}
-                      </span>
-                    )}
-                  </div>
-                  <div className="p-3">
-                    <p className="text-[11px] font-semibold uppercase microcap text-gold mb-0.5">{product.brand}</p>
-                    <h3 className="text-sm font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
-                  </div>
-                </Link>
-              </div>
-            ))}
-          </div>
+          <FeatureRow items={featured} />
         </section>
 
         {/* 4. The record: every way in */}
