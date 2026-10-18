@@ -39,6 +39,10 @@
   --radius-lg: 8px;
 }
 
+/* The one number that sizes every product image in every grid: the product's
+   long side as a share of the tile's matching side. See .product-tile img. */
+:root { --tile-image: 64%; }
+
 html { font-size: 106.25%; }
 
 body {
@@ -329,44 +333,30 @@ h1, h2 {
 }
 .product-tile img {
   mix-blend-mode: multiply;
+  /* One proportion for every grid, replacing per-grid padding (Browse 18%,
+     homepage 10%, sale 22%/18%/14% and 16%). Percentage padding resolves
+     against the tile's WIDTH while object-fit: contain fits the shorter axis,
+     so it could not hold one proportion across square and 4:5 tiles.
+
+     The image box is a centred --tile-image square-ish box (that share of
+     each tile axis) and the product is contained in it, so its long side is
+     exactly --tile-image of the tile. Sized with width/height, not
+     width: auto + max-width: an auto-sized image falls back to its own pixel
+     size, which drew a 97x303 sale packshot at 138px. !important because
+     next/image (fill) sets width and height 100% inline. */
+  padding: 0 !important;
   object-fit: contain !important;
-  /* Was 10%/12%. 86% of the 2,613 cutouts are portrait (median aspect 0.48),
-     so they are height-limited in a square tile and the padding comes straight
-     off the drawn product: the median product was rendering at 37% of tile
-     width. Sascha, 2026-09-26, chose this over portrait tiles, which would
-     have gained more but cost 25% more scrolling on a 3,000-product grid.
-     8% rather than 6% because .cutout carries a 12px/16px drop shadow that
-     needs clearance or it clips against the tile edge.
-     Sascha, 2026-09-30, after living with it: "all images are far too big ...
-     every grid every product". Every image is now trimmed to the product
-     (scripts/trim-images.mjs; cutouts already were), so one padding rule sizes
-     them all alike: the product's long side fills 64% of the tile, and the
-     18% top band clears the award label and count badges. */
-  padding: 18%;
+  width: var(--tile-image) !important;
+  height: var(--tile-image) !important;
+  inset: 0 !important;
+  margin: auto;
 }
 
 /* Real cutouts (alpha packshots from public/cutouts): no blend needed, and a
    soft product shadow like the daily-card treatment. */
-/* Top of the Record (homepage): portrait 4:5 tiles, so the portrait packshots
-   that make up most of the catalogue fill them, with tighter padding. Browse
-   keeps square tiles and 18% — its scrolling trade-off still applies there. */
-.product-tile.record-tile img {
-  padding: 10%;
-}
 
 .product-tile img.cutout {
   mix-blend-mode: normal;
   filter: drop-shadow(0 12px 16px rgba(95, 59, 42, 0.16));
 }
 
-/* Sale cards carry overlays the other grids do not: the discount circle top
-   left, the award count top right, the publication label bottom left. At the
-   shared 6-8% padding a tall product ran under all three, and the hero tube
-   filled its tile edge to edge (Sascha, 2026-09-30: "too big"). Inset the
-   product so it clears the overlays; percentages resolve against tile width. */
-.product-tile.sale-tile img {
-  padding: 22% 18% 14% !important;
-}
-.product-tile.sale-tile.hero-tile img {
-  padding: 16% !important;
-}
