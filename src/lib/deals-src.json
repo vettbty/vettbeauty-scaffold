@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-17",
+ "generated": "2026-10-18",
  "items": [
   {
    "productId": "600b07d3-3168-45ca-933f-167b52538268",
@@ -39,18 +39,6 @@
    "listing": "Revive Renewing Body Wash - billie"
   },
   {
-   "productId": "08c2003a-15ad-4325-a350-19de13c27c7c",
-   "brand": "Ulike",
-   "product": "Air 10",
-   "retailer": "Ulta",
-   "was": 399,
-   "now": 259,
-   "percentOff": 35,
-   "url": "https://go.shopmy.us/p-78051096",
-   "size": null,
-   "listing": "Pink Air10 Ice Cooling IPL Hair Removal Device - Ulike"
-  },
-  {
    "productId": "131f58fc-8b62-471c-b50f-5fcaa2b65f46",
    "brand": "Creme of Nature",
    "product": "Argan Oil from Morocco Creamy Hydration Co-Wash Cleansing Conditioner",
@@ -61,18 +49,6 @@
    "url": "https://www.amazon.com/dp/B00VZ4BZHW",
    "size": null,
    "listing": "Creme of Nature Creamy Hydration Co-Wash Cleansing Conditioner, Gently Cleanses & Hydrates, Sulfate-Free, Color Safe"
-  },
-  {
-   "productId": "2aa434c7-879e-4144-a3f6-5c5ecea808cd",
-   "brand": "Kristin Ess",
-   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
-   "retailer": "amazon",
-   "was": 21,
-   "now": 15.4,
-   "percentOff": 27,
-   "url": "https://www.amazon.com/dp/B0H42HZGLZ",
-   "size": "5.5 oz",
-   "listing": "Kristin Ess+ Peptide Bond Repair Overnight Hair Mask, Damaged Hair 5.5 oz"
   },
   {
    "productId": "cc2511c0-7668-4f31-867a-024f5de769a5",

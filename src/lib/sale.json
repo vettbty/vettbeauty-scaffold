@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17",
+ "generated": "2026-10-18",
  "items": [
   {
    "brand": "dpHUE",
@@ -62,27 +62,6 @@
    ]
   },
   {
-   "brand": "Ulike",
-   "product": "Air 10",
-   "retailer": "Ulta",
-   "was": 399,
-   "now": 259,
-   "percentOff": 35,
-   "url": "https://go.shopmy.us/p-78051096",
-   "size": null,
-   "slug": "ulike-air-10",
-   "image": "/cutouts/ulike-air-10.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Skin Tool",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
-    "Cosmopolitan Beauty Awards — Best Laser Hair-Removal Device (2026)"
-   ]
-  },
-  {
    "brand": "Creme of Nature",
    "product": "Argan Oil from Morocco Creamy Hydration Co-Wash Cleansing Conditioner",
    "retailer": "Amazon",
@@ -100,26 +79,6 @@
    "awardCount": 1,
    "awardsWon": [
     "Marie Claire Skin & Hair Awards — Best Conditioner For Coily Hair (2025)"
-   ]
-  },
-  {
-   "brand": "Kristin Ess",
-   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
-   "retailer": "Amazon",
-   "was": 21,
-   "now": 15.4,
-   "percentOff": 27,
-   "url": "https://www.amazon.com/dp/B0H42HZGLZ?tag=vettbeauty-20",
-   "size": "5.5 oz",
-   "slug": "kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask",
-   "image": "/cutouts/kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)",
-   "category": "Hair",
-   "subcategory": "Hair Mask",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)"
    ]
   },
   {
