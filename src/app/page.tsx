@@ -154,7 +154,7 @@ export default async function Home() {
       <EmailCapture />
 
       <footer className="bg-white border-t border-cream-dark py-6 px-4 text-center">
-        <p className="text-xs text-charcoal-light">© 2026 Vettbeauty · <Link href="/about" className="hover:text-charcoal">Only the Vetted</Link></p>
+        <p className="text-xs text-charcoal-light">© 2026 Vettbeauty · <Link href="/about" className="hover:text-charcoal">Only the Vetted</Link> · <a href="/status" className="hover:text-charcoal">Site status</a></p>
       </footer>
     </>
   );
