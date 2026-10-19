@@ -97,6 +97,16 @@ export async function GET(req: Request) {
     detail: `${products} products · ${awards} awards`,
   });
 
+  // A product with no photograph renders the brand tile. Failing, not a
+  // warning: with no alert webhook a red line on /status is the signal, and it
+  // clears itself once they are replaced. image can be null or "", so both.
+  const noImage = await countRows("site_products", "&or=(image.is.null,image.eq.)");
+  checks.push({
+    name: "products without a photograph",
+    ok: noImage === 0,
+    detail: noImage === 0 ? "all have one" : `${noImage} without a photograph`,
+  });
+
   // Deep checks, once a day
   if (deep) {
     const drifted: string[] = [];

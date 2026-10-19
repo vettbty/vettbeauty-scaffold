@@ -382,6 +382,8 @@ h1, h2 {
   color: var(--color-charcoal-light);
   opacity: 0.5;
 }
+/* The product page hero is ~4x a grid tile, so the brand scales with it. */
+.tile-fallback-lg { font-size: 24px; }
 
 .product-tile img.cutout {
   mix-blend-mode: normal;
