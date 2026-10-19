@@ -1,4 +1,4 @@
-// Private. Gated by src/proxy.ts — do not rely on obscurity.
+// Private. Gated by src/proxy.ts — never rely on obscurity.
 import type { Metadata } from "next";
 
 export const metadata: Metadata = { robots: { index: false, follow: false } };
@@ -16,8 +16,9 @@ type Run = {
 const PASS = "#6E8B6B";
 const WARN = "#C08A3E";
 const FAIL = "#A6553F";
+const STALE_MS = 3 * 3600_000;
 
-function sb(path: string, init?: RequestInit) {
+function svc(path: string, init?: RequestInit) {
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL!;
   const key = process.env.SUPABASE_SERVICE_ROLE_KEY!;
   return fetch(`${url}/rest/v1/${path}`, {
@@ -28,7 +29,7 @@ function sb(path: string, init?: RequestInit) {
 }
 
 async function countRows(table: string) {
-  const res = await sb(`${table}?select=id`, {
+  const res = await svc(`${table}?select=id`, {
     method: "HEAD",
     headers: { Prefer: "count=exact" } as HeadersInit,
   });
@@ -45,85 +46,104 @@ function ago(iso: string) {
   return `${days} day${days === 1 ? "" : "s"} ago`;
 }
 
-const markColour = (failures: number) =>
-  failures === 0 ? PASS : failures <= 2 ? WARN : FAIL;
+const colour = (failures: number) => (failures === 0 ? PASS : failures <= 2 ? WARN : FAIL);
 
 export default async function StatusPage() {
   let runs: Run[] = [];
   let products = 0;
   let awards = 0;
+
   try {
-    // Production runs only: a local dev run tests localhost, not the live site.
-    const res = await sb(
-      "audit_runs?select=ran_at,mode,failures,checks,summary&source=eq.production&order=ran_at.desc&limit=30",
+    // Production runs only — a local dev run must never show as a site failure.
+    const res = await svc(
+      "audit_runs?select=ran_at,mode,failures,checks,summary" +
+        "&source=eq.production&order=ran_at.desc&limit=30",
     );
     if (res.ok) runs = (await res.json()) as Run[];
     products = await countRows("site_products");
     awards = await countRows("awards");
   } catch {
-    // fall through — the page must render even if the database is unreachable
+    // The page must render even if the database is unreachable.
   }
 
   const newest = runs[0];
-  const failing = newest?.checks?.filter((c) => !c.ok) ?? [];
-  // Stale: the endpoint fails closed, so if CRON_SECRET goes missing the audit
-  // simply stops, and nothing else would say so.
-  const STALE_MS = 3 * 60 * 60 * 1000;
   const stale = !newest || Date.now() - new Date(newest.ran_at).getTime() > STALE_MS;
-  const dot = stale ? WARN : markColour(newest.failures);
+  const failing = newest?.checks?.filter((c) => !c.ok) ?? [];
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-10">
-      <span className="eyebrow text-gold">The verified record of beauty</span>
-      <h1 className="text-[40px] leading-[1.05] tracking-[-0.02em] mb-6">Record status</h1>
-
-      <div className="flex flex-wrap items-baseline gap-3 pb-5 border-b border-[var(--cream-dark)]">
-        <span
-          aria-hidden="true"
-          className="inline-block w-[9px] h-[9px] rounded-full shrink-0"
-          style={{ background: dot }}
-        />
-        {stale ? (
-          <strong className="text-[19px] font-semibold" style={{ color: WARN }}>
-            No production run in over 3 hours — the audit may not be running
-          </strong>
-        ) : (
-          <strong className="text-[19px] font-semibold">
-            {newest.failures === 0
-              ? "All checks passing"
-              : `${newest.failures} check${newest.failures === 1 ? "" : "s"} failing`}
-          </strong>
-        )}
-        {newest && (
-          <span className="text-sm text-[var(--charcoal-light)]">
-            Last run {ago(newest.ran_at)} · checked hourly
-          </span>
-        )}
+    <div className="mx-auto max-w-3xl px-4 py-10">
+      <div className="mb-6 flex items-start justify-between gap-6">
+        <div>
+          <span className="eyebrow text-gold">The verified record of beauty</span>
+          <h1 className="text-[40px] leading-[1.05] tracking-[-0.02em]">Record status</h1>
+        </div>
+        <form method="POST" action="/api/logout">
+          <button className="text-[11px] uppercase tracking-[0.07em] text-[var(--charcoal-light)]">
+            Sign out
+          </button>
+        </form>
       </div>
 
-      {newest && (
+      {stale ? (
+        <div className="flex flex-wrap items-baseline gap-3 border-b border-[var(--cream-dark)] pb-5">
+          <span
+            aria-hidden="true"
+            className="inline-block h-[9px] w-[9px] shrink-0 rounded-full"
+            style={{ background: WARN }}
+          />
+          <strong className="text-[19px] font-semibold">
+            No production run in over 3 hours — the audit may not be running
+          </strong>
+          {newest ? (
+            <span className="text-sm text-[var(--charcoal-light)]">
+              Last run {ago(newest.ran_at)}
+            </span>
+          ) : null}
+        </div>
+      ) : (
+        <div className="flex flex-wrap items-baseline gap-3 border-b border-[var(--cream-dark)] pb-5">
+          <span
+            aria-hidden="true"
+            className="inline-block h-[9px] w-[9px] shrink-0 rounded-full"
+            style={{ background: colour(newest!.failures) }}
+          />
+          <strong className="text-[19px] font-semibold">
+            {newest!.failures === 0
+              ? "All checks passing"
+              : `${newest!.failures} check${newest!.failures === 1 ? "" : "s"} failing`}
+          </strong>
+          <span className="text-sm text-[var(--charcoal-light)]">
+            Last run {ago(newest!.ran_at)} · checked hourly
+          </span>
+        </div>
+      )}
+
+      <div className="flex flex-wrap gap-x-7 gap-y-2 border-b border-[var(--cream-dark)] py-5 text-[13px] text-[var(--charcoal-light)]">
+        <span>
+          <b className="tabular-nums text-[var(--charcoal)]">{products.toLocaleString()}</b> products
+        </span>
+        <span>
+          <b className="tabular-nums text-[var(--charcoal)]">{awards.toLocaleString()}</b> awards
+        </span>
+      </div>
+
+      {newest ? (
         <>
-
-          <div className="flex flex-wrap gap-x-7 gap-y-2 py-5 border-b border-[var(--cream-dark)] text-[13px] text-[var(--charcoal-light)]">
-            <span><b className="tabular-nums text-[var(--charcoal)]">{products.toLocaleString()}</b> products</span>
-            <span><b className="tabular-nums text-[var(--charcoal)]">{awards.toLocaleString()}</b> awards</span>
-          </div>
-
-          <h2 className="mt-10 mb-3 text-[11px] font-semibold uppercase tracking-[0.08em] text-[var(--charcoal-light)]">
+          <h2 className="mb-3 mt-10 text-[11px] font-semibold uppercase tracking-[0.08em] text-[var(--charcoal-light)]">
             Checks
           </h2>
           <ul className="border-t border-[var(--cream-dark)]">
             {newest.checks.map((c) => (
               <li
                 key={c.name}
-                className="flex items-baseline gap-4 py-[11px] border-b border-[var(--cream-dark)]"
+                className="flex items-baseline gap-4 border-b border-[var(--cream-dark)] py-[11px]"
               >
                 <span className="flex-1 text-sm">{c.name}</span>
-                <span className="shrink-0 text-[13px] text-[var(--charcoal-light)] text-right">
+                <span className="shrink-0 text-right text-[13px] text-[var(--charcoal-light)]">
                   {c.detail}
                 </span>
                 <span
-                  className="shrink-0 w-[74px] text-right text-[11px] font-semibold uppercase tracking-[0.06em]"
+                  className="w-[74px] shrink-0 text-right text-[11px] font-semibold uppercase tracking-[0.06em]"
                   style={{ color: c.ok ? PASS : FAIL }}
                 >
                   {c.ok ? "Passing" : "Failing"}
@@ -132,15 +152,15 @@ export default async function StatusPage() {
             ))}
           </ul>
 
-          <h2 className="mt-10 mb-2 text-[11px] font-semibold uppercase tracking-[0.08em] text-[var(--charcoal-light)]">
-            Last {runs.length} runs
+          <h2 className="mb-2 mt-10 text-[11px] font-semibold uppercase tracking-[0.08em] text-[var(--charcoal-light)]">
+            Last {runs.length} production runs
           </h2>
           <div className="flex gap-[3px] py-1">
             {[...runs].reverse().map((r) => (
               <i
                 key={r.ran_at}
-                className="flex-1 max-w-[16px] h-[22px] rounded-[2px] opacity-80"
-                style={{ background: markColour(r.failures) }}
+                className="h-[22px] max-w-[16px] flex-1 rounded-[2px] opacity-80"
+                style={{ background: colour(r.failures) }}
               />
             ))}
           </div>
@@ -149,27 +169,31 @@ export default async function StatusPage() {
             <span>now</span>
           </div>
 
-          {failing.length > 0 && (
+          {failing.length > 0 ? (
             <div className="mt-10 rounded-[6px] border border-[var(--cream-dark)] bg-white p-5">
-              <p className="text-sm font-semibold mb-1">Currently failing</p>
+              <p className="mb-1 text-sm font-semibold">Currently failing</p>
               {failing.map((f) => (
                 <p key={f.name} className="text-sm text-[var(--charcoal-light)]">
                   {f.name} — {f.detail}
                 </p>
               ))}
             </div>
-          )}
+          ) : null}
         </>
+      ) : (
+        <p className="mt-8 text-sm text-[var(--charcoal-light)]">
+          No production run has been recorded yet.
+        </p>
       )}
 
       <div className="mt-12 rounded-[6px] border border-[var(--cream-dark)] bg-white p-5">
         <p className="text-sm text-[var(--charcoal-light)]">
-          <strong className="text-[var(--charcoal)] font-semibold">What this page checks:</strong>{" "}
+          <strong className="font-semibold text-[var(--charcoal)]">What this page checks:</strong>{" "}
           that the record is intact, the published data matches the database, the pages serve, and
           the buy links resolve.
         </p>
-        <p className="text-sm text-[var(--charcoal-light)] mt-3">
-          <strong className="text-[var(--charcoal)] font-semibold">What it cannot check:</strong>{" "}
+        <p className="mt-3 text-sm text-[var(--charcoal-light)]">
+          <strong className="font-semibold text-[var(--charcoal)]">What it cannot check:</strong>{" "}
           whether an award was read correctly from its source. That is done by hand at import,
           against the publication&rsquo;s own article — and no automated check can replace it.
         </p>
