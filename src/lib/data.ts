@@ -152,17 +152,12 @@ async function readCatalogue(): Promise<Product[]> {
   }
 }
 
-// Short-lived, so a revalidation can pick up a changed source once there is one.
-let _cache: { at: number; value: Product[] } | null = null;
-const TTL_MS = 5 * 60 * 1000;
-
+// No module-level cache: the tagged fetch in readCatalogue is already held in
+// Next's data cache, so every render makes that fetch (and so carries the
+// 'catalogue' tag) without reaching Supabase. A copy held in memory here let a
+// warm instance re-render a refreshed page from stale data.
 export async function getProducts(): Promise<Product[]> {
-  const now = Date.now();
-  if (_cache && now - _cache.at < TTL_MS) return _cache.value;
-  const raw = await readCatalogue();
-  const value = enrichProducts(raw);
-  _cache = { at: now, value };
-  return value;
+  return enrichProducts(await readCatalogue());
 }
 
 // The grids feature only winners a reader can actually buy. A product with no
