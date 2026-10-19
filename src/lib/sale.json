@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18",
+ "generated": "2026-10-19",
  "items": [
   {
    "brand": "dpHUE",
@@ -19,26 +19,6 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Leave-In Conditioner (2026)"
-   ]
-  },
-  {
-   "brand": "Dove",
-   "product": "Aluminum Free Deodorant Spray",
-   "retailer": "Amazon",
-   "was": 27,
-   "now": 15.99,
-   "percentOff": 41,
-   "url": "https://www.amazon.com/dp/B0DB6CNFM4?tag=vettbeauty-20",
-   "size": "4 oz",
-   "slug": "dove-aluminum-free-deodorant-spray",
-   "image": "/cutouts/dove-aluminum-free-deodorant-spray.webp",
-   "imageCutout": true,
-   "topAward": "Allure Readers Choice — Clean Winner (2026)",
-   "category": "Body",
-   "subcategory": "Deodorant",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Readers Choice — Clean Winner (2026)"
    ]
   },
   {
@@ -79,6 +59,26 @@
    "awardCount": 1,
    "awardsWon": [
     "Marie Claire Skin & Hair Awards — Best Conditioner For Coily Hair (2025)"
+   ]
+  },
+  {
+   "brand": "Body Firm",
+   "product": "Neck Repair Treatment",
+   "retailer": "Amazon",
+   "was": 79,
+   "now": 59.25,
+   "percentOff": 25,
+   "url": "https://www.amazon.com/dp/B0BHL8Z7NN?tag=vettbeauty-20",
+   "size": null,
+   "slug": "body-firm-neck-repair-treatment",
+   "image": "/cutouts/body-firm-neck-repair-treatment.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Readers Choice — Favorite Neck Cream with Retinol (2025)",
+   "category": "Skincare",
+   "subcategory": "Treatment",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Readers Choice — Favorite Neck Cream with Retinol (2025)"
    ]
   },
   {
@@ -162,6 +162,26 @@
    ]
   },
   {
+   "brand": "Schick Hydro Silk",
+   "product": "Mini Razor",
+   "retailer": "Amazon",
+   "was": 9.97,
+   "now": 7.98,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0FTZT31L8?tag=vettbeauty-20",
+   "size": null,
+   "slug": "schick-hydro-silk-mini-razor",
+   "image": "/cutouts/schick-hydro-silk-mini-razor.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Razor (2026)",
+   "category": "Body",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Razor (2026)"
+   ]
+  },
+  {
    "brand": "Glasshouse Fragrances",
    "product": "Body Bar",
    "retailer": "Dermstore",
@@ -179,6 +199,26 @@
    "awardCount": 1,
    "awardsWon": [
     "InStyle Best Beauty Buys — Best Bar Soap (2026)"
+   ]
+  },
+  {
+   "brand": "Dove",
+   "product": "Serum+ Shower Oil Body Wash",
+   "retailer": "Amazon",
+   "was": 12.97,
+   "now": 10.98,
+   "percentOff": 15,
+   "url": "https://www.amazon.com/dp/B0G4SSVR4W?tag=vettbeauty-20",
+   "size": null,
+   "slug": "dove-serum--shower-oil-body-wash",
+   "image": "/cutouts/dove-serum--shower-oil-body-wash.webp",
+   "imageCutout": true,
+   "topAward": "Marie Claire Prix d'Excellence — US Winner – Body Care (2026)",
+   "category": "Body",
+   "subcategory": "Body Wash",
+   "awardCount": 1,
+   "awardsWon": [
+    "Marie Claire Prix d'Excellence — US Winner – Body Care (2026)"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-18",
+ "generated": "2026-10-19",
  "items": [
   {
    "productId": "600b07d3-3168-45ca-933f-167b52538268",
@@ -13,18 +13,6 @@
    "url": "https://go.shopmy.us/p-94239608",
    "size": "1.5 oz",
    "listing": "1.5 oz Apple Cider Vinegar WonderWorks Leave-In Conditioner - dpHUE"
-  },
-  {
-   "productId": "42509f64-1b75-4023-9422-99076bee2814",
-   "brand": "Dove",
-   "product": "Aluminum Free Deodorant Spray",
-   "retailer": "amazon",
-   "was": 27,
-   "now": 15.99,
-   "percentOff": 41,
-   "url": "https://www.amazon.com/dp/B0DB6CNFM4",
-   "size": "4 oz",
-   "listing": "Dove Whole Body Deo Aluminum Free Invisible Spray Deodorant Coconut & Vanilla for 72h Odor Control 4 oz"
   },
   {
    "productId": "4a5abec1-9f17-4675-a07c-14cf6808a460",
@@ -49,6 +37,18 @@
    "url": "https://www.amazon.com/dp/B00VZ4BZHW",
    "size": null,
    "listing": "Creme of Nature Creamy Hydration Co-Wash Cleansing Conditioner, Gently Cleanses & Hydrates, Sulfate-Free, Color Safe"
+  },
+  {
+   "productId": "cb28afa1-b676-4f2f-9914-35695780c828",
+   "brand": "Body Firm",
+   "product": "Neck Repair Treatment",
+   "retailer": "amazon",
+   "was": 79,
+   "now": 59.25,
+   "percentOff": 25,
+   "url": "https://www.amazon.com/dp/B0BHL8Z7NN",
+   "size": null,
+   "listing": "Crepe Erase Neck Repair Treatment, Retinol Cream, 1.7 FL Oz"
   },
   {
    "productId": "cc2511c0-7668-4f31-867a-024f5de769a5",
@@ -99,6 +99,18 @@
    "listing": "goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of Wrinkles & Crepey Skin, 1.7oz"
   },
   {
+   "productId": "6ff8c935-7c9a-4070-ab21-c4935b4f55c9",
+   "brand": "Schick Hydro Silk",
+   "product": "Mini Razor",
+   "retailer": "amazon",
+   "was": 9.97,
+   "now": 7.98,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0FTZT31L8",
+   "size": null,
+   "listing": "Schick Hydro Silk Mini 5 Blade Razor for Women, 1 Handle, 1 Refill & 1 Case"
+  },
+  {
    "productId": "88315bfb-ee8a-4e0c-adfd-0984bb36f03a",
    "brand": "Glasshouse Fragrances",
    "product": "Body Bar",
@@ -109,6 +121,18 @@
    "url": "https://go.shopmy.us/p-78478118",
    "size": "6.3 oz",
    "listing": "Glasshouse Fragrances Marseille Memoir Body Bar 6.3 oz"
+  },
+  {
+   "productId": "e17abc87-9356-460f-8516-52ec5789ff83",
+   "brand": "Dove",
+   "product": "Serum+ Shower Oil Body Wash",
+   "retailer": "amazon",
+   "was": 12.97,
+   "now": 10.98,
+   "percentOff": 15,
+   "url": "https://www.amazon.com/dp/B0G4SSVR4W",
+   "size": null,
+   "listing": "Dove Serum+ Soothing Oil Body Wash, Almond & Oil Sandalwood, 15.3 fl oz"
   }
  ]
 }
