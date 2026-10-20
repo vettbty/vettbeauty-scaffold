@@ -2,7 +2,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = { robots: { index: false, follow: false } };
-export const revalidate = 300;
+export const revalidate = 60;
 
 type Check = { name: string; ok: boolean; detail: string };
 type Run = {
@@ -24,7 +24,7 @@ function svc(path: string, init?: RequestInit) {
   return fetch(`${url}/rest/v1/${path}`, {
     ...init,
     headers: { apikey: key, Authorization: `Bearer ${key}`, ...(init?.headers ?? {}) },
-    next: { revalidate: 300 },
+    next: { revalidate: 60 },
   });
 }
 
