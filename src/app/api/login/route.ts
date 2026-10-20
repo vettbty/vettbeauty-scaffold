@@ -14,7 +14,8 @@ export async function POST(req: Request) {
   const next =
     rawNext.startsWith("/") && !rawNext.startsWith("//") ? rawNext : "/status";
 
-  const expected = process.env.STATUS_PASS?.trim();
+  // Also drop one pair of wrapping quotes: Vercel stores "abc" literally.
+  const expected = process.env.STATUS_PASS?.trim().replace(/^(["'])(.*)\1$/, "$2");
   const secret = process.env.STATUS_SECRET;
   if (!expected || !secret) {
     return NextResponse.json({ error: "not configured" }, { status: 503 });
