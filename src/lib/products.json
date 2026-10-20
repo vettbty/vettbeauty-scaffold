@@ -326,7 +326,7 @@
     "brand": "Biodance",
     "name": "Biodance Collagen Peptide Eye Patches",
     "price": null,
-    "image": "",
+    "image": "/cutouts/biodance-biodance-collagen-peptide-eye-patches.webp",
     "topAward": "Marie Claire Beauty Awards — Skincare — Eyes (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -338,7 +338,8 @@
     "buyLink": "https://go.shopmy.us/p-93186229",
     "awardsWon": [
       "Marie Claire Beauty Awards — Skincare — Eyes (2026)"
-    ]
+    ],
+    "imageCutout": true
   },
   {
     "id": "prod-15",
@@ -415,7 +416,7 @@
     "brand": "Erborian",
     "name": "CC Cream Color-Corrector for Natural Luminous Finish With Korean Centella Asiatica Extract",
     "price": null,
-    "image": "",
+    "image": "/cutouts/erborian-cc-cream-color-corrector-for-natural-luminous-finish-with-korean-centel.webp",
     "topAward": "Marie Claire Beauty Awards — Makeup — Complexion (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -427,7 +428,8 @@
     "buyLink": "https://go.shopmy.us/p-95578807",
     "awardsWon": [
       "Marie Claire Beauty Awards — Makeup — Complexion (2026)"
-    ]
+    ],
+    "imageCutout": true
   },
   {
     "id": "prod-19",
