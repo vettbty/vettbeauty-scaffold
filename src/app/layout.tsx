@@ -1,4 +1,8 @@
 import { Playfair_Display, Inter } from "next/font/google";
+// First-party script served from /_vercel/insights; sets no cookies and collects no personal data, so no consent banner is needed.
+import { Analytics } from "@vercel/analytics/next";
+// First-party script served from /_vercel/speed-insights; sets no cookies and collects no personal data, so no consent banner is needed.
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 import "./advanced.css";
 
@@ -15,7 +19,11 @@ export const metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${display.variable} ${body.variable}`}>
-      <body className="font-sans bg-cream text-charcoal antialiased">{children}</body>
+      <body className="font-sans bg-cream text-charcoal antialiased">
+        {children}
+        <Analytics />
+        <SpeedInsights />
+      </body>
     </html>
   );
 }
