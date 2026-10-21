@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-19",
+ "generated": "2026-10-21",
  "items": [
   {
    "productId": "600b07d3-3168-45ca-933f-167b52538268",
@@ -36,7 +36,7 @@
    "percentOff": 31,
    "url": "https://www.amazon.com/dp/B00VZ4BZHW",
    "size": null,
-   "listing": "Creme of Nature Creamy Hydration Co-Wash Cleansing Conditioner, Gently Cleanses & Hydrates, Sulfate-Free, Color Safe"
+   "listing": "Amazon.com : Creme of Nature Creamy Hydration Co-Wash Cleansing Conditioner, Gently Cleanses & Hydrates, Sulfate-Free, C"
   },
   {
    "productId": "cb28afa1-b676-4f2f-9914-35695780c828",
@@ -47,8 +47,8 @@
    "now": 59.25,
    "percentOff": 25,
    "url": "https://www.amazon.com/dp/B0BHL8Z7NN",
-   "size": null,
-   "listing": "Crepe Erase Neck Repair Treatment, Retinol Cream, 1.7 FL Oz"
+   "size": "1.7 FL Oz",
+   "listing": "Amazon.com: Crepe Erase Neck Repair Treatment, Retinol Cream, 1.7 FL Oz | Peptides, Shea Butter, Vitamin E, Squalane Oil"
   },
   {
    "productId": "cc2511c0-7668-4f31-867a-024f5de769a5",
@@ -83,20 +83,8 @@
    "now": 11.06,
    "percentOff": 21,
    "url": "https://www.amazon.com/dp/B0CHN19PJX",
-   "size": null,
-   "listing": "Secret Whole Body Deodorant Stick for Women, Naturally Derived Ingredients, Unscented, Aluminum Free Deoderant Stick"
-  },
-  {
-   "productId": "d945e531-a6bb-4a5c-9502-927ce2a06d8c",
-   "brand": "goPure",
-   "product": "Tighten & Lift Neck Cream",
-   "retailer": "amazon",
-   "was": 40,
-   "now": 31.99,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0CGB215HR",
-   "size": "1.7 oz",
-   "listing": "goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of Wrinkles & Crepey Skin, 1.7oz"
+   "size": "2.4 oz",
+   "listing": "Amazon.com : Secret Whole Body Deodorant Stick for Women, Unscented, 2.4 oz | Aluminum Free | 72HR Sensitive Freshness &"
   },
   {
    "productId": "6ff8c935-7c9a-4070-ab21-c4935b4f55c9",
@@ -107,8 +95,8 @@
    "now": 7.98,
    "percentOff": 20,
    "url": "https://www.amazon.com/dp/B0FTZT31L8",
-   "size": null,
-   "listing": "Schick Hydro Silk Mini 5 Blade Razor for Women, 1 Handle, 1 Refill & 1 Case"
+   "size": "Mini",
+   "listing": "Amazon.com: Schick Hydro Silk Mini 5 Blade Razor for Women, 1 Handle, 1 Refill & 1 Case | Mini travel razor handle, Case"
   },
   {
    "productId": "88315bfb-ee8a-4e0c-adfd-0984bb36f03a",
@@ -131,8 +119,8 @@
    "now": 10.98,
    "percentOff": 15,
    "url": "https://www.amazon.com/dp/B0G4SSVR4W",
-   "size": null,
-   "listing": "Dove Serum+ Soothing Oil Body Wash, Almond & Oil Sandalwood, 15.3 fl oz"
+   "size": "15.3 fl oz",
+   "listing": "Amazon.com : Dove Serum+ Soothing Oil Body Wash, Almond & Oil Sandalwood, 15.3 fl oz | For deep moisture, 50% glycerin s"
   }
  ]
 }

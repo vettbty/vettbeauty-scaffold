@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19",
+ "generated": "2026-10-21",
  "items": [
   {
    "brand": "dpHUE",
@@ -69,7 +69,7 @@
    "now": 59.25,
    "percentOff": 25,
    "url": "https://www.amazon.com/dp/B0BHL8Z7NN?tag=vettbeauty-20",
-   "size": null,
+   "size": "1.7 FL Oz",
    "slug": "body-firm-neck-repair-treatment",
    "image": "/cutouts/body-firm-neck-repair-treatment.webp",
    "imageCutout": true,
@@ -129,7 +129,7 @@
    "now": 11.06,
    "percentOff": 21,
    "url": "https://www.amazon.com/dp/B0CHN19PJX?tag=vettbeauty-20",
-   "size": null,
+   "size": "2.4 oz",
    "slug": "secret-whole-body-dry-feel-deodorant",
    "image": "/cutouts/secret-whole-body-dry-feel-deodorant.webp",
    "imageCutout": true,
@@ -142,26 +142,6 @@
    ]
   },
   {
-   "brand": "goPure",
-   "product": "Tighten & Lift Neck Cream",
-   "retailer": "Amazon",
-   "was": 40,
-   "now": 31.99,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0CGB215HR?tag=vettbeauty-20",
-   "size": "1.7 oz",
-   "slug": "gopure-tighten---lift-neck-cream",
-   "image": "/cutouts/gopure-tighten---lift-neck-cream.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Neck Cream (2025)",
-   "category": "Skincare",
-   "subcategory": "Treatment",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Neck Cream (2025)"
-   ]
-  },
-  {
    "brand": "Schick Hydro Silk",
    "product": "Mini Razor",
    "retailer": "Amazon",
@@ -169,7 +149,7 @@
    "now": 7.98,
    "percentOff": 20,
    "url": "https://www.amazon.com/dp/B0FTZT31L8?tag=vettbeauty-20",
-   "size": null,
+   "size": "Mini",
    "slug": "schick-hydro-silk-mini-razor",
    "image": "/cutouts/schick-hydro-silk-mini-razor.webp",
    "imageCutout": true,
@@ -209,7 +189,7 @@
    "now": 10.98,
    "percentOff": 15,
    "url": "https://www.amazon.com/dp/B0G4SSVR4W?tag=vettbeauty-20",
-   "size": null,
+   "size": "15.3 fl oz",
    "slug": "dove-serum--shower-oil-body-wash",
    "image": "/cutouts/dove-serum--shower-oil-body-wash.webp",
    "imageCutout": true,
