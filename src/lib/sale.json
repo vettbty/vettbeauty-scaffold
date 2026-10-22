@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21",
+ "generated": "2026-10-22",
  "items": [
   {
    "brand": "dpHUE",
@@ -39,26 +39,6 @@
    "awardCount": 1,
    "awardsWon": [
     "Allure Best of Beauty — Best Body Steals (2025)"
-   ]
-  },
-  {
-   "brand": "Creme of Nature",
-   "product": "Argan Oil from Morocco Creamy Hydration Co-Wash Cleansing Conditioner",
-   "retailer": "Amazon",
-   "was": 12.94,
-   "now": 8.99,
-   "percentOff": 31,
-   "url": "https://www.amazon.com/dp/B00VZ4BZHW?tag=vettbeauty-20",
-   "size": null,
-   "slug": "creme-of-nature-argan-oil-from-morocco-creamy-hydration-co-wash-cleansing-condit",
-   "image": "/cutouts/creme-of-nature-argan-oil-from-morocco-creamy-hydration-co-wash-cleansing-condit.webp",
-   "imageCutout": true,
-   "topAward": "Marie Claire Skin & Hair Awards — Best Conditioner For Coily Hair (2025)",
-   "category": "Hair",
-   "subcategory": "Conditioner",
-   "awardCount": 1,
-   "awardsWon": [
-    "Marie Claire Skin & Hair Awards — Best Conditioner For Coily Hair (2025)"
    ]
   },
   {
@@ -159,6 +139,26 @@
    "awardCount": 1,
    "awardsWon": [
     "Cosmopolitan Beauty Awards — Best Razor (2026)"
+   ]
+  },
+  {
+   "brand": "Proactiv",
+   "product": "Acne Clearing Body Spray",
+   "retailer": "Amazon",
+   "was": 25,
+   "now": 20.25,
+   "percentOff": 19,
+   "url": "https://www.amazon.com/dp/B0G54DCG16?tag=vettbeauty-20",
+   "size": "3.4 Fl Oz",
+   "slug": "proactiv-acne-clearing-body-spray",
+   "image": "/levelled/proactiv-acne-clearing-body-spray.webp",
+   "imageCutout": false,
+   "topAward": "NewBeauty Annual Awards — Best Body Acne Spray (2026)",
+   "category": "Body",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Body Acne Spray (2026)"
    ]
   },
   {
