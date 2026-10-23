@@ -2,7 +2,10 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = { robots: { index: false, follow: false } };
-export const revalidate = 60;
+// Rendered on every request. With ISR (revalidate = 60) the first visit after
+// a quiet spell served the old snapshot, "Last run ... ago" included, and only
+// a reload showed fresh data. One gated reader, so per-request cost is nil.
+export const dynamic = "force-dynamic";
 
 type Check = { name: string; ok: boolean; detail: string };
 type Run = {
@@ -24,7 +27,7 @@ function svc(path: string, init?: RequestInit) {
   return fetch(`${url}/rest/v1/${path}`, {
     ...init,
     headers: { apikey: key, Authorization: `Bearer ${key}`, ...(init?.headers ?? {}) },
-    next: { revalidate: 60 },
+    cache: "no-store",
   });
 }
 
