@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "items": [
   {
    "productId": "600b07d3-3168-45ca-933f-167b52538268",
@@ -36,7 +36,7 @@
    "percentOff": 25,
    "url": "https://www.amazon.com/dp/B0BHL8Z7NN",
    "size": "1.7 FL Oz",
-   "listing": "Amazon.com: Crepe Erase Neck Repair Treatment, Retinol Cream, 1.7 FL Oz"
+   "listing": "Crepe Erase Neck Repair Treatment, Retinol Cream, 1.7 FL Oz"
   },
   {
    "productId": "cc2511c0-7668-4f31-867a-024f5de769a5",
@@ -72,7 +72,7 @@
    "percentOff": 21,
    "url": "https://www.amazon.com/dp/B0CHN19PJX",
    "size": "2.4 oz",
-   "listing": "Amazon.com: Secret Whole Body Deodorant Stick for Women, Unscented, 2.4 oz"
+   "listing": "Secret Whole Body Deodorant Stick for Women, Unscented, 2.4 oz"
   },
   {
    "productId": "6ff8c935-7c9a-4070-ab21-c4935b4f55c9",
@@ -83,20 +83,8 @@
    "now": 7.98,
    "percentOff": 20,
    "url": "https://www.amazon.com/dp/B0FTZT31L8",
-   "size": "Mini",
-   "listing": "Amazon.com: Schick Hydro Silk Mini 5 Blade Razor for Women, 1 Handle, 1 Refill & 1 Case"
-  },
-  {
-   "productId": "b0aeb350-cf26-4814-8db4-9fdc08eb5f3f",
-   "brand": "Proactiv",
-   "product": "Acne Clearing Body Spray",
-   "retailer": "amazon",
-   "was": 25,
-   "now": 20.25,
-   "percentOff": 19,
-   "url": "https://www.amazon.com/dp/B0G54DCG16",
-   "size": "3.4 Fl Oz",
-   "listing": "Amazon.com: Proactiv Acne Clearing Body Spray, 2% Salicylic Acid, 3.4 Fl Oz"
+   "size": null,
+   "listing": "Schick Hydro Silk Mini 5 Blade Razor for Women, 1 Handle, 1 Refill & 1 Case"
   },
   {
    "productId": "88315bfb-ee8a-4e0c-adfd-0984bb36f03a",
@@ -111,6 +99,30 @@
    "listing": "Glasshouse Fragrances Marseille Memoir Body Bar 6.3 oz"
   },
   {
+   "productId": "b0aeb350-cf26-4814-8db4-9fdc08eb5f3f",
+   "brand": "Proactiv",
+   "product": "Acne Clearing Body Spray",
+   "retailer": "amazon",
+   "was": 25,
+   "now": 20.64,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B0G54DCG16",
+   "size": "3.4 Fl Oz",
+   "listing": "Proactiv Acne Clearing Body Spray, 2% Salicylic Acid, 3.4 Fl Oz"
+  },
+  {
+   "productId": "2aa434c7-879e-4144-a3f6-5c5ecea808cd",
+   "brand": "Kristin Ess",
+   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
+   "retailer": "amazon",
+   "was": 21,
+   "now": 17.42,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B0H42HZGLZ",
+   "size": "5.5 oz",
+   "listing": "Kristin Ess+ Peptide Bond Repair Overnight Hair Mask, Damaged Hair 5.5 oz"
+  },
+  {
    "productId": "e17abc87-9356-460f-8516-52ec5789ff83",
    "brand": "Dove",
    "product": "Serum+ Shower Oil Body Wash",
@@ -120,7 +132,7 @@
    "percentOff": 15,
    "url": "https://www.amazon.com/dp/B0G4SSVR4W",
    "size": "15.3 fl oz",
-   "listing": "Amazon.com: Dove Serum+ Soothing Oil Body Wash, Almond & Oil Sandalwood, 15.3 fl oz"
+   "listing": "Dove Serum+ Soothing Oil Body Wash, Almond & Oil Sandalwood, 15.3 fl oz"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "items": [
   {
    "brand": "dpHUE",
@@ -129,7 +129,7 @@
    "now": 7.98,
    "percentOff": 20,
    "url": "https://www.amazon.com/dp/B0FTZT31L8?tag=vettbeauty-20",
-   "size": "Mini",
+   "size": null,
    "slug": "schick-hydro-silk-mini-razor",
    "image": "/cutouts/schick-hydro-silk-mini-razor.webp",
    "imageCutout": true,
@@ -139,26 +139,6 @@
    "awardCount": 1,
    "awardsWon": [
     "Cosmopolitan Beauty Awards — Best Razor (2026)"
-   ]
-  },
-  {
-   "brand": "Proactiv",
-   "product": "Acne Clearing Body Spray",
-   "retailer": "Amazon",
-   "was": 25,
-   "now": 20.25,
-   "percentOff": 19,
-   "url": "https://www.amazon.com/dp/B0G54DCG16?tag=vettbeauty-20",
-   "size": "3.4 Fl Oz",
-   "slug": "proactiv-acne-clearing-body-spray",
-   "image": "/levelled/proactiv-acne-clearing-body-spray.webp",
-   "imageCutout": false,
-   "topAward": "NewBeauty Annual Awards — Best Body Acne Spray (2026)",
-   "category": "Body",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Body Acne Spray (2026)"
    ]
   },
   {
@@ -179,6 +159,46 @@
    "awardCount": 1,
    "awardsWon": [
     "InStyle Best Beauty Buys — Best Bar Soap (2026)"
+   ]
+  },
+  {
+   "brand": "Proactiv",
+   "product": "Acne Clearing Body Spray",
+   "retailer": "Amazon",
+   "was": 25,
+   "now": 20.64,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B0G54DCG16?tag=vettbeauty-20",
+   "size": "3.4 Fl Oz",
+   "slug": "proactiv-acne-clearing-body-spray",
+   "image": "/levelled/proactiv-acne-clearing-body-spray.webp",
+   "imageCutout": false,
+   "topAward": "NewBeauty Annual Awards — Best Body Acne Spray (2026)",
+   "category": "Body",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Body Acne Spray (2026)"
+   ]
+  },
+  {
+   "brand": "Kristin Ess",
+   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
+   "retailer": "Amazon",
+   "was": 21,
+   "now": 17.42,
+   "percentOff": 17,
+   "url": "https://www.amazon.com/dp/B0H42HZGLZ?tag=vettbeauty-20",
+   "size": "5.5 oz",
+   "slug": "kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask",
+   "image": "/cutouts/kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)",
+   "category": "Hair",
+   "subcategory": "Hair Mask",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)"
    ]
   },
   {
