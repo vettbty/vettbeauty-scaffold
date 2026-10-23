@@ -2,9 +2,12 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = { robots: { index: false, follow: false } };
-export const revalidate = 60;
+// Rendered on every request. With ISR (revalidate = 60) the first visit after
+// a quiet spell served the old snapshot, "Last run ... ago" included, and only
+// a reload showed fresh data. One gated reader, so per-request cost is nil.
+export const dynamic = "force-dynamic";
 
-type Check = { name: string; ok: boolean; detail: string };
+type Check = { name: string; ok: boolean; detail: string; daily?: string };
 type Run = {
   ran_at: string;
   mode: string;
@@ -24,7 +27,7 @@ function svc(path: string, init?: RequestInit) {
   return fetch(`${url}/rest/v1/${path}`, {
     ...init,
     headers: { apikey: key, Authorization: `Bearer ${key}`, ...(init?.headers ?? {}) },
-    next: { revalidate: 60 },
+    cache: "no-store",
   });
 }
 
@@ -33,7 +36,10 @@ async function countRows(table: string) {
     method: "HEAD",
     headers: { Prefer: "count=exact" } as HeadersInit,
   });
-  return Number(res.headers.get("content-range")?.split("/")[1] ?? 0);
+  const total = res.headers.get("content-range")?.split("/")[1];
+  // No count means the query failed; say so rather than show 0 products.
+  if (!res.ok || total === undefined || total === "*") throw new Error(`${table}: ${res.status}`);
+  return Number(total);
 }
 
 function ago(iso: string) {
@@ -50,6 +56,8 @@ const colour = (failures: number) => (failures === 0 ? PASS : failures <= 2 ? WA
 
 export default async function StatusPage() {
   let runs: Run[] = [];
+  let deepRun: Run | undefined;
+  let dbError: string | null = null;
   let products = 0;
   let awards = 0;
 
@@ -59,16 +67,37 @@ export default async function StatusPage() {
       "audit_runs?select=ran_at,mode,failures,checks,summary" +
         "&source=eq.production&order=ran_at.desc&limit=30",
     );
-    if (res.ok) runs = (await res.json()) as Run[];
+    if (!res.ok) throw new Error(`audit_runs: ${res.status}`);
+    runs = (await res.json()) as Run[];
+    // Score drift and buy links run only in the 06:00 UTC deep run, so the
+    // hourly runs after it do not carry them. Fetch the last deep run too.
+    const deepRes = await svc(
+      "audit_runs?select=ran_at,mode,failures,checks,summary" +
+        "&source=eq.production&mode=eq.deep&order=ran_at.desc&limit=1",
+    );
+    if (deepRes.ok) deepRun = ((await deepRes.json()) as Run[])[0];
     products = await countRows("site_products");
     awards = await countRows("awards");
-  } catch {
-    // The page must render even if the database is unreachable.
+  } catch (err) {
+    // The page must render even if the database is unreachable, but it must
+    // not pass off missing data as "no runs" or "0 products".
+    dbError = (err as Error).message;
   }
 
   const newest = runs[0];
   const stale = !newest || Date.now() - new Date(newest.ran_at).getTime() > STALE_MS;
-  const failing = newest?.checks?.filter((c) => !c.ok) ?? [];
+  // Hourly checks from the newest run, plus the daily-only checks from the last
+  // deep run (when the newest run is not itself that deep run).
+  const shown = new Set(newest?.checks?.map((c) => c.name) ?? []);
+  const checks: Check[] = [
+    ...(newest?.checks ?? []),
+    ...(deepRun && deepRun.ran_at !== newest?.ran_at
+      ? deepRun.checks
+          .filter((c) => !shown.has(c.name))
+          .map((c) => ({ ...c, daily: ago(deepRun!.ran_at) }))
+      : []),
+  ];
+  const failing = checks.filter((c) => !c.ok);
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-10">
@@ -84,7 +113,19 @@ export default async function StatusPage() {
         </form>
       </div>
 
-      {stale ? (
+      {dbError ? (
+        <div className="flex flex-wrap items-baseline gap-3 border-b border-[var(--cream-dark)] pb-5">
+          <span
+            aria-hidden="true"
+            className="inline-block h-[9px] w-[9px] shrink-0 rounded-full"
+            style={{ background: FAIL }}
+          />
+          <strong className="text-[19px] font-semibold">
+            Could not read the database, so nothing below is current
+          </strong>
+          <span className="text-sm text-[var(--charcoal-light)]">{dbError}</span>
+        </div>
+      ) : stale ? (
         <div className="flex flex-wrap items-baseline gap-3 border-b border-[var(--cream-dark)] pb-5">
           <span
             aria-hidden="true"
@@ -105,12 +146,12 @@ export default async function StatusPage() {
           <span
             aria-hidden="true"
             className="inline-block h-[9px] w-[9px] shrink-0 rounded-full"
-            style={{ background: colour(newest!.failures) }}
+            style={{ background: colour(failing.length) }}
           />
           <strong className="text-[19px] font-semibold">
-            {newest!.failures === 0
+            {failing.length === 0
               ? "All checks passing"
-              : `${newest!.failures} check${newest!.failures === 1 ? "" : "s"} failing`}
+              : `${failing.length} check${failing.length === 1 ? "" : "s"} failing`}
           </strong>
           <span className="text-sm text-[var(--charcoal-light)]">
             Last run {ago(newest!.ran_at)} · checked hourly
@@ -118,14 +159,16 @@ export default async function StatusPage() {
         </div>
       )}
 
-      <div className="flex flex-wrap gap-x-7 gap-y-2 border-b border-[var(--cream-dark)] py-5 text-[13px] text-[var(--charcoal-light)]">
-        <span>
-          <b className="tabular-nums text-[var(--charcoal)]">{products.toLocaleString()}</b> products
-        </span>
-        <span>
-          <b className="tabular-nums text-[var(--charcoal)]">{awards.toLocaleString()}</b> awards
-        </span>
-      </div>
+      {dbError ? null : (
+        <div className="flex flex-wrap gap-x-7 gap-y-2 border-b border-[var(--cream-dark)] py-5 text-[13px] text-[var(--charcoal-light)]">
+          <span>
+            <b className="tabular-nums text-[var(--charcoal)]">{products.toLocaleString()}</b> products
+          </span>
+          <span>
+            <b className="tabular-nums text-[var(--charcoal)]">{awards.toLocaleString()}</b> awards
+          </span>
+        </div>
+      )}
 
       {newest ? (
         <>
@@ -133,12 +176,19 @@ export default async function StatusPage() {
             Checks
           </h2>
           <ul className="border-t border-[var(--cream-dark)]">
-            {newest.checks.map((c) => (
+            {checks.map((c) => (
               <li
                 key={c.name}
                 className="flex items-baseline gap-4 border-b border-[var(--cream-dark)] py-[11px]"
               >
-                <span className="flex-1 text-sm">{c.name}</span>
+                <span className="flex-1 text-sm">
+                  {c.name}
+                  {c.daily ? (
+                    <span className="block text-[11px] text-[var(--charcoal-light)]">
+                      daily check · ran {c.daily}
+                    </span>
+                  ) : null}
+                </span>
                 <span className="shrink-0 text-right text-[13px] text-[var(--charcoal-light)]">
                   {c.detail}
                 </span>
