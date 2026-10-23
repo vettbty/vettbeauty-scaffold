@@ -36,7 +36,10 @@ async function countRows(table: string) {
     method: "HEAD",
     headers: { Prefer: "count=exact" } as HeadersInit,
   });
-  return Number(res.headers.get("content-range")?.split("/")[1] ?? 0);
+  const total = res.headers.get("content-range")?.split("/")[1];
+  // No count means the query failed; say so rather than show 0 products.
+  if (!res.ok || total === undefined || total === "*") throw new Error(`${table}: ${res.status}`);
+  return Number(total);
 }
 
 function ago(iso: string) {
@@ -54,6 +57,7 @@ const colour = (failures: number) => (failures === 0 ? PASS : failures <= 2 ? WA
 export default async function StatusPage() {
   let runs: Run[] = [];
   let deepRun: Run | undefined;
+  let dbError: string | null = null;
   let products = 0;
   let awards = 0;
 
@@ -63,7 +67,8 @@ export default async function StatusPage() {
       "audit_runs?select=ran_at,mode,failures,checks,summary" +
         "&source=eq.production&order=ran_at.desc&limit=30",
     );
-    if (res.ok) runs = (await res.json()) as Run[];
+    if (!res.ok) throw new Error(`audit_runs: ${res.status}`);
+    runs = (await res.json()) as Run[];
     // Score drift and buy links run only in the 06:00 UTC deep run, so the
     // hourly runs after it do not carry them. Fetch the last deep run too.
     const deepRes = await svc(
@@ -73,8 +78,10 @@ export default async function StatusPage() {
     if (deepRes.ok) deepRun = ((await deepRes.json()) as Run[])[0];
     products = await countRows("site_products");
     awards = await countRows("awards");
-  } catch {
-    // The page must render even if the database is unreachable.
+  } catch (err) {
+    // The page must render even if the database is unreachable, but it must
+    // not pass off missing data as "no runs" or "0 products".
+    dbError = (err as Error).message;
   }
 
   const newest = runs[0];
@@ -106,7 +113,19 @@ export default async function StatusPage() {
         </form>
       </div>
 
-      {stale ? (
+      {dbError ? (
+        <div className="flex flex-wrap items-baseline gap-3 border-b border-[var(--cream-dark)] pb-5">
+          <span
+            aria-hidden="true"
+            className="inline-block h-[9px] w-[9px] shrink-0 rounded-full"
+            style={{ background: FAIL }}
+          />
+          <strong className="text-[19px] font-semibold">
+            Could not read the database, so nothing below is current
+          </strong>
+          <span className="text-sm text-[var(--charcoal-light)]">{dbError}</span>
+        </div>
+      ) : stale ? (
         <div className="flex flex-wrap items-baseline gap-3 border-b border-[var(--cream-dark)] pb-5">
           <span
             aria-hidden="true"
@@ -140,14 +159,16 @@ export default async function StatusPage() {
         </div>
       )}
 
-      <div className="flex flex-wrap gap-x-7 gap-y-2 border-b border-[var(--cream-dark)] py-5 text-[13px] text-[var(--charcoal-light)]">
-        <span>
-          <b className="tabular-nums text-[var(--charcoal)]">{products.toLocaleString()}</b> products
-        </span>
-        <span>
-          <b className="tabular-nums text-[var(--charcoal)]">{awards.toLocaleString()}</b> awards
-        </span>
-      </div>
+      {dbError ? null : (
+        <div className="flex flex-wrap gap-x-7 gap-y-2 border-b border-[var(--cream-dark)] py-5 text-[13px] text-[var(--charcoal-light)]">
+          <span>
+            <b className="tabular-nums text-[var(--charcoal)]">{products.toLocaleString()}</b> products
+          </span>
+          <span>
+            <b className="tabular-nums text-[var(--charcoal)]">{awards.toLocaleString()}</b> awards
+          </span>
+        </div>
+      )}
 
       {newest ? (
         <>
