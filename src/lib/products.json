@@ -34,7 +34,7 @@
     "brand": "Stila",
     "name": "Stay All Day Waterproof Liquid Eye Liner",
     "price": null,
-    "image": "https://www.sephora.com/productimages/sku/s1221084-main-zoom.jpg",
+    "image": "/levelled/stila-stay-all-day-waterproof-liquid-eye-liner.webp",
     "topAward": "Marie Claire Beauty Awards — Makeup — Eyes (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -46,7 +46,9 @@
     "buyLink": "https://go.shopmy.us/p-93186355",
     "awardsWon": [
       "Marie Claire Beauty Awards — Makeup — Eyes (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s1221084-main-zoom.jpg",
+    "imageLevelled": true
   },
   {
     "id": "prod-2",
@@ -326,7 +328,7 @@
     "brand": "Biodance",
     "name": "Biodance Collagen Peptide Eye Patches",
     "price": null,
-    "image": "",
+    "image": "/levelled/biodance-biodance-collagen-peptide-eye-patches.webp",
     "topAward": "Marie Claire Beauty Awards — Skincare — Eyes (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -338,7 +340,11 @@
     "buyLink": "https://go.shopmy.us/p-93186229",
     "awardsWon": [
       "Marie Claire Beauty Awards — Skincare — Eyes (2026)"
-    ]
+    ],
+    "imageSource": "retailer-page",
+    "imageResolvedFrom": "https://www.sephora.com/product/biodance-collagen-peptide-eye-patch-P522121?skuId=2965051",
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2965051-main-zoom.jpg",
+    "imageLevelled": true
   },
   {
     "id": "prod-15",
@@ -415,7 +421,7 @@
     "brand": "Erborian",
     "name": "CC Cream Color-Corrector for Natural Luminous Finish With Korean Centella Asiatica Extract",
     "price": null,
-    "image": "",
+    "image": "/levelled/erborian-cc-cream-color-corrector-for-natural-luminous-finish-with-korean-centel.webp",
     "topAward": "Marie Claire Beauty Awards — Makeup — Complexion (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -427,7 +433,11 @@
     "buyLink": "https://go.shopmy.us/p-95578807",
     "awardsWon": [
       "Marie Claire Beauty Awards — Makeup — Complexion (2026)"
-    ]
+    ],
+    "imageSource": "retailer-page",
+    "imageResolvedFrom": "https://www.sephora.com/product/cc-cream-color-corrector-for-natural-luminous-finish-P526128",
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2998623-main-zoom.jpg",
+    "imageLevelled": true
   },
   {
     "id": "prod-19",
@@ -6727,10 +6737,10 @@
     "awardsWon": [
       "Harper's Bazaar Skincare Awards — Best Sunscreens (2026)"
     ],
+    "imageOriginal": "https://oakessentials.com/cdn/shop/files/1_9.jpg?v=1771346817",
+    "imageCutout": true,
     "imageSource": "image-search",
-    "imageResolvedFrom": "people.com",
-    "imageOriginal": "https://people.com/thmb/dJTixRMCJG3ghlut6NSxPFJFRDo=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/oak-essentials-31726-e4ac468178604656bd4c7af399295675.jpg",
-    "imageCutout": true
+    "imageResolvedFrom": "people.com"
   },
   {
     "id": "prod-300",
@@ -7263,10 +7273,10 @@
     "awardsWon": [
       "Marie Claire Skin & Hair Awards — Best Serum Overall (2025)"
     ],
+    "imageOriginal": "https://cdn.mos.cms.futurecdn.net/s4ywkFJpHNqdtfsTgKfqyb.jpg",
+    "imageCutout": true,
     "imageSource": "retailer-page",
-    "imageResolvedFrom": "https://drdiamondsmetacine.com/products/instafacial-plasma?utm_source=ShopMy&utm_medium=affiliate&utm_campaign=Sacha+Scott&utm_content=Quick+Link&utm_referrer=shopmy.us&smsclickid=61bf5491-64d2-4713-95d3-b3d8b70a7451&utm_term=61bf5491-64d2-4713-95d3-b3d8b70a7451",
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0736/5401/0175/files/preview_images/00_PDP_Plasma_30ML_4x5_1.jpg?v=1784821668",
-    "imageCutout": true
+    "imageResolvedFrom": "https://drdiamondsmetacine.com/products/instafacial-plasma?utm_source=ShopMy&utm_medium=affiliate&utm_campaign=Sacha+Scott&utm_content=Quick+Link&utm_referrer=shopmy.us&smsclickid=61bf5491-64d2-4713-95d3-b3d8b70a7451&utm_term=61bf5491-64d2-4713-95d3-b3d8b70a7451"
   },
   {
     "id": "prod-324",
@@ -16162,10 +16172,10 @@
     "awardsWon": [
       "NewBeauty Readers Choice — Favorite Immune Strength Supplement (2025)"
     ],
+    "imageOriginal": "https://www.livyond.com/cdn/shop/files/CellImmunityGummiesNoTag.png",
+    "imageCutout": true,
     "imageSource": "retailer-page",
-    "imageResolvedFrom": "https://www.livyond.com/products/soursop-gummies",
-    "imageOriginal": "http://www.livyond.com/cdn/shop/files/CellImmunityGummiesNoTag.png?v=1776706381",
-    "imageCutout": true
+    "imageResolvedFrom": "https://www.livyond.com/products/soursop-gummies"
   },
   {
     "id": "prod-723",
@@ -29074,10 +29084,10 @@
       "Glamour Beauty Awards — Luxury Makeup — Best Primer (2026)",
       "Cosmopolitan Beauty Awards — Best Mattifying Primer (2026)"
     ],
+    "imageOriginal": "https://fentybeauty.com/cdn/shop/files/FB_FALL25_T2PRODUCT_ECOMM_GRIP-TRIP_MATTIFYING_PRIMER_1200X1500_72DPI.jpg",
+    "imageCutout": true,
     "imageSource": "retailer-page",
-    "imageResolvedFrom": "https://fentybeauty.com/products/grip-trip-mattifying-blurring-primer?utm_source=ShopMy&utm_medium=affiliate&utm_campaign=Sacha+Scott&utm_content=Quick+Link&utm_referrer=shopmy.us&smsclickid=25724cad-bb57-4ea7-baf1-722ffd7a56c3&utm_term=25724cad-bb57-4ea7-baf1-722ffd7a56c3",
-    "imageOriginal": "https://fentybeauty.com/cdn/shop/files/fb_spr26_t2product_ecomm_mini_grip-trip_mattifying_1200x1500_72dpi_4eee5040-001a-4752-a203-db58c7510521.jpg?v=1768538747&width=1200",
-    "imageCutout": true
+    "imageResolvedFrom": "https://fentybeauty.com/products/grip-trip-mattifying-blurring-primer?utm_source=ShopMy&utm_medium=affiliate&utm_campaign=Sacha+Scott&utm_content=Quick+Link&utm_referrer=shopmy.us&smsclickid=25724cad-bb57-4ea7-baf1-722ffd7a56c3&utm_term=25724cad-bb57-4ea7-baf1-722ffd7a56c3"
   },
   {
     "id": "prod-1301",
@@ -36521,10 +36531,10 @@
     "awardsWon": [
       "InStyle Best Beauty Buys — Best Smoothing Cream (2026)"
     ],
+    "imageOriginal": "https://us.beau-domaine.com/cdn/shop/files/CREME_RICHE_V1_1500X2000_5475a782-372f-4f35-9a26-0799f41dc434.jpg?v=1772620798",
+    "imageCutout": true,
     "imageSource": "retailer-page",
-    "imageResolvedFrom": "https://us.beau-domaine.com/products/the-rich-cream",
-    "imageOriginal": "https://us.beau-domaine.com/cdn/shop/files/CREME_RICHE_V1_1500X2000_5475a782-372f-4f35-9a26-0799f41dc434.jpg?v=1772620798&width=1200",
-    "imageCutout": true
+    "imageResolvedFrom": "https://us.beau-domaine.com/products/the-rich-cream"
   },
   {
     "id": "prod-1630",
@@ -53740,10 +53750,10 @@
     "awardsWon": [
       "Allure Best of Beauty — Best Scrunchie (2025)"
     ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0342/3597/3768/files/black-biggish.png?v=1778185225",
+    "imageCutout": true,
     "imageSource": "retailer-page",
-    "imageResolvedFrom": "https://helloupdo.com/products/flora-silk-scrunchies-black",
-    "imageOriginal": "http://helloupdo.com/cdn/shop/files/FloraSilkScrunchies-black.jpg?v=1778182191",
-    "imageCutout": true
+    "imageResolvedFrom": "https://helloupdo.com/products/flora-silk-scrunchies-black"
   },
   {
     "id": "prod-2402",
@@ -57178,9 +57188,9 @@
       "Marie Claire Skin & Hair Awards — Best Clip-In Extensions (2025)"
     ],
     "imageResolvedFrom": "https://bellamihair.com/products/andrew-fitzsimons-the-pony-ash-brown",
-    "imageSource": "retailer-page",
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0654/1837/files/PDP_24-in-120-g_0_ponytail_ashbrown_alt2_2700x2700_60b52b1d-aff3-4877-b5aa-d440bc250a8c.jpg?v=1727902584",
-    "imageCutout": true
+    "imageOriginal": "https://www.bellamihair.com/cdn/shop/files/PDP_20-in-100-g_0_ponytail_ashbrown_alt2_2700x2700_1adb96d6-f562-47ba-a183-e2b4da0f9964.jpg?v=1737738236",
+    "imageCutout": true,
+    "imageSource": "retailer-page"
   },
   {
     "id": "prod-2557",
@@ -76544,7 +76554,7 @@
     "brand": "LAWLESS",
     "name": "Forget the Filler Overnight Lip Plumping Mask",
     "price": null,
-    "image": "https://www.sephora.com/productimages/sku/s2785657-main-zoom.jpg",
+    "image": "/levelled/lawless-forget-the-filler-overnight-lip-plumping-mask.webp",
     "topAward": "Marie Claire Beauty Awards — Skincare — Lips (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -76556,7 +76566,9 @@
     "buyLink": "https://go.shopmy.us/p-93528797",
     "awardsWon": [
       "Marie Claire Beauty Awards — Skincare — Lips (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2785657-main-zoom.jpg",
+    "imageLevelled": true
   },
   {
     "id": "prod-3429",
@@ -77876,7 +77888,7 @@
     "brand": "Shark Beauty",
     "name": "Shark Silkipro&trade; Straight Wet to Dry Straightener + Rapid Blow Dryer",
     "price": null,
-    "image": "https://www.sephora.com/productimages/sku/s3024817-main-zoom.jpg",
+    "image": "/levelled/shark-beauty-shark-silkipro-trade--straight-wet-to-dry-straightener---rapid-blow.webp",
     "topAward": "Marie Claire Beauty Awards — Hair Care (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -77888,7 +77900,9 @@
     "buyLink": "https://go.shopmy.us/p-94236040",
     "awardsWon": [
       "Marie Claire Beauty Awards — Hair Care (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s3024817-main-zoom.jpg",
+    "imageLevelled": true
   },
   {
     "id": "prod-3490",
@@ -78352,7 +78366,7 @@
     "brand": "Patrick Ta",
     "name": "Dual Ended Blush Brush",
     "price": null,
-    "image": "https://www.sephora.com/productimages/sku/s2711653-main-zoom.jpg",
+    "image": "/levelled/patrick-ta-dual-ended-blush-brush.webp",
     "topAward": "Marie Claire Beauty Awards — Makeup — Complexion (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -78364,7 +78378,9 @@
     "buyLink": "https://go.shopmy.us/p-93699772",
     "awardsWon": [
       "Marie Claire Beauty Awards — Makeup — Complexion (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2711653-main-zoom.jpg",
+    "imageLevelled": true
   },
   {
     "id": "prod-3512",
@@ -78632,7 +78648,7 @@
     "brand": "Dior",
     "name": "Diorshow Overvolume Extreme Volume Waterproof Mascara",
     "price": null,
-    "image": "https://www.sephora.com/productimages/sku/s2934982-main-zoom.jpg",
+    "image": "/levelled/dior-diorshow-overvolume-extreme-volume-waterproof-mascara.webp",
     "topAward": "Marie Claire Beauty Awards — Makeup — Eyes (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -78644,7 +78660,9 @@
     "buyLink": "https://go.shopmy.us/p-93699936",
     "awardsWon": [
       "Marie Claire Beauty Awards — Makeup — Eyes (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2934982-main-zoom.jpg",
+    "imageLevelled": true
   },
   {
     "id": "prod-3525",
@@ -78652,7 +78670,7 @@
     "brand": "Charlotte Tilbury",
     "name": "Matte Revolution Hydrating Lipstick",
     "price": null,
-    "image": "https://www.sephora.com/productimages/sku/s2736098-main-zoom.jpg",
+    "image": "/levelled/charlotte-tilbury-matte-revolution-hydrating-lipstick.webp",
     "topAward": "Marie Claire Beauty Awards — Makeup — Lips (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -78664,7 +78682,9 @@
     "buyLink": "https://go.shopmy.us/p-95580626",
     "awardsWon": [
       "Marie Claire Beauty Awards — Makeup — Lips (2026)"
-    ]
+    ],
+    "imageOriginal": "https://www.sephora.com/productimages/sku/s2736098-main-zoom.jpg",
+    "imageLevelled": true
   },
   {
     "id": "prod-3526",

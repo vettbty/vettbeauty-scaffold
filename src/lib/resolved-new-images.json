@@ -695,5 +695,15 @@
   "from": "https://www.ulta.com/p/ahabha-clarifying-treatment-toner-xlsImpprod15641050?sku=2504908&AID=164999&PID=2340682&CID=af_164999_2340682_&clickId=W-jWNaTYfxyZWogRy-zqJXU%3AUkrwSz0CEQ7q0g0&SubID=&utm_medium=affiliate&utm_source=2340682&utm_campaign=&utm_content=core&irgwc=1&afsrc=1",
   "size": "500x500",
   "kind": "retailer-page"
+ },
+ "biodance-biodance-collagen-peptide-eye-patches": {
+  "url": "https://www.sephora.com/productimages/sku/s2965051-main-zoom.jpg",
+  "from": "https://www.sephora.com/product/biodance-collagen-peptide-eye-patch-P522121?skuId=2965051",
+  "kind": "retailer-page"
+ },
+ "erborian-cc-cream-color-corrector-for-natural-luminous-finish-with-korean-centel": {
+  "url": "https://www.sephora.com/productimages/sku/s2998623-main-zoom.jpg",
+  "from": "https://www.sephora.com/product/cc-cream-color-corrector-for-natural-luminous-finish-P526128",
+  "kind": "retailer-page"
  }
 }
