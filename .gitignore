@@ -40,5 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# review artifact from the image mirror, not a source file
-scripts/remote-image-mapping.json
+# Review artifact from the remote-image mirror, not a source file.
+/scripts/remote-image-mapping.json
