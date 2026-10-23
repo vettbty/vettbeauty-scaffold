@@ -7,7 +7,7 @@ export const metadata: Metadata = { robots: { index: false, follow: false } };
 // a reload showed fresh data. One gated reader, so per-request cost is nil.
 export const dynamic = "force-dynamic";
 
-type Check = { name: string; ok: boolean; detail: string };
+type Check = { name: string; ok: boolean; detail: string; daily?: string };
 type Run = {
   ran_at: string;
   mode: string;
@@ -53,6 +53,7 @@ const colour = (failures: number) => (failures === 0 ? PASS : failures <= 2 ? WA
 
 export default async function StatusPage() {
   let runs: Run[] = [];
+  let deepRun: Run | undefined;
   let products = 0;
   let awards = 0;
 
@@ -63,6 +64,13 @@ export default async function StatusPage() {
         "&source=eq.production&order=ran_at.desc&limit=30",
     );
     if (res.ok) runs = (await res.json()) as Run[];
+    // Score drift and buy links run only in the 06:00 UTC deep run, so the
+    // hourly runs after it do not carry them. Fetch the last deep run too.
+    const deepRes = await svc(
+      "audit_runs?select=ran_at,mode,failures,checks,summary" +
+        "&source=eq.production&mode=eq.deep&order=ran_at.desc&limit=1",
+    );
+    if (deepRes.ok) deepRun = ((await deepRes.json()) as Run[])[0];
     products = await countRows("site_products");
     awards = await countRows("awards");
   } catch {
@@ -71,7 +79,18 @@ export default async function StatusPage() {
 
   const newest = runs[0];
   const stale = !newest || Date.now() - new Date(newest.ran_at).getTime() > STALE_MS;
-  const failing = newest?.checks?.filter((c) => !c.ok) ?? [];
+  // Hourly checks from the newest run, plus the daily-only checks from the last
+  // deep run (when the newest run is not itself that deep run).
+  const shown = new Set(newest?.checks?.map((c) => c.name) ?? []);
+  const checks: Check[] = [
+    ...(newest?.checks ?? []),
+    ...(deepRun && deepRun.ran_at !== newest?.ran_at
+      ? deepRun.checks
+          .filter((c) => !shown.has(c.name))
+          .map((c) => ({ ...c, daily: ago(deepRun!.ran_at) }))
+      : []),
+  ];
+  const failing = checks.filter((c) => !c.ok);
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-10">
@@ -108,12 +127,12 @@ export default async function StatusPage() {
           <span
             aria-hidden="true"
             className="inline-block h-[9px] w-[9px] shrink-0 rounded-full"
-            style={{ background: colour(newest!.failures) }}
+            style={{ background: colour(failing.length) }}
           />
           <strong className="text-[19px] font-semibold">
-            {newest!.failures === 0
+            {failing.length === 0
               ? "All checks passing"
-              : `${newest!.failures} check${newest!.failures === 1 ? "" : "s"} failing`}
+              : `${failing.length} check${failing.length === 1 ? "" : "s"} failing`}
           </strong>
           <span className="text-sm text-[var(--charcoal-light)]">
             Last run {ago(newest!.ran_at)} · checked hourly
@@ -136,12 +155,19 @@ export default async function StatusPage() {
             Checks
           </h2>
           <ul className="border-t border-[var(--cream-dark)]">
-            {newest.checks.map((c) => (
+            {checks.map((c) => (
               <li
                 key={c.name}
                 className="flex items-baseline gap-4 border-b border-[var(--cream-dark)] py-[11px]"
               >
-                <span className="flex-1 text-sm">{c.name}</span>
+                <span className="flex-1 text-sm">
+                  {c.name}
+                  {c.daily ? (
+                    <span className="block text-[11px] text-[var(--charcoal-light)]">
+                      daily check · ran {c.daily}
+                    </span>
+                  ) : null}
+                </span>
                 <span className="shrink-0 text-right text-[13px] text-[var(--charcoal-light)]">
                   {c.detail}
                 </span>
