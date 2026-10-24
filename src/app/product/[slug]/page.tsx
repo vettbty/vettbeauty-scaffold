@@ -243,6 +243,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                   href={product.buyLink}
                   target="_blank"
                   rel="sponsored noopener noreferrer"
+                  data-buy="product-cta"
                   className="flex-1 max-w-xs bg-charcoal text-white text-center py-3 px-6 rounded-md font-semibold text-sm hover:bg-charcoal-light transition-colors"
                 >
                   Check Price →
@@ -350,6 +351,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                 href={product.buyLink}
                 target="_blank"
                 rel="sponsored noopener noreferrer"
+                data-buy="where-to-buy"
                 className="bg-gold text-white py-3 px-6 rounded-md font-semibold text-sm hover:bg-gold-dark transition-colors"
               >
                 Check Price →
