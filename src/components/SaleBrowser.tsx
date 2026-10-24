@@ -132,7 +132,7 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
     <a
       href={d.url}
       target="_blank"
-      rel="noopener noreferrer"
+      rel="sponsored noopener noreferrer"
       className={`inline-flex items-center justify-center w-full rounded-lg font-semibold uppercase microcap bg-gold text-white hover:bg-gold-dark transition-colors ${
         hero ? 'mt-3 py-3 text-xs' : 'mt-2 py-2 text-[11px]'
       }`}
