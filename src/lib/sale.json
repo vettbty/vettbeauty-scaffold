@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23",
+ "generated": "2026-10-24",
  "items": [
   {
    "brand": "dpHUE",
@@ -39,6 +39,27 @@
    "awardCount": 1,
    "awardsWon": [
     "Allure Best of Beauty — Best Body Steals (2025)"
+   ]
+  },
+  {
+   "brand": "Ulike",
+   "product": "Air 10",
+   "retailer": "Ulta",
+   "was": 399,
+   "now": 279,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-78051096",
+   "size": null,
+   "slug": "ulike-air-10",
+   "image": "/cutouts/ulike-air-10.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
+   "category": "Tools & Devices",
+   "subcategory": "Skin Tool",
+   "awardCount": 2,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
+    "Cosmopolitan Beauty Awards — Best Laser Hair-Removal Device (2026)"
    ]
   },
   {
@@ -122,6 +143,26 @@
    ]
   },
   {
+   "brand": "goPure",
+   "product": "Tighten & Lift Neck Cream",
+   "retailer": "Amazon",
+   "was": 40,
+   "now": 31.99,
+   "percentOff": 20,
+   "url": "https://www.amazon.com/dp/B0CGB215HR?tag=vettbeauty-20",
+   "size": null,
+   "slug": "gopure-tighten---lift-neck-cream",
+   "image": "/cutouts/gopure-tighten---lift-neck-cream.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Readers Choice — Favorite Neck Cream (2025)",
+   "category": "Skincare",
+   "subcategory": "Treatment",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Readers Choice — Favorite Neck Cream (2025)"
+   ]
+  },
+  {
    "brand": "Schick Hydro Silk",
    "product": "Mini Razor",
    "retailer": "Amazon",
@@ -129,7 +170,7 @@
    "now": 7.98,
    "percentOff": 20,
    "url": "https://www.amazon.com/dp/B0FTZT31L8?tag=vettbeauty-20",
-   "size": null,
+   "size": "Mini",
    "slug": "schick-hydro-silk-mini-razor",
    "image": "/cutouts/schick-hydro-silk-mini-razor.webp",
    "imageCutout": true,
@@ -162,26 +203,6 @@
    ]
   },
   {
-   "brand": "Proactiv",
-   "product": "Acne Clearing Body Spray",
-   "retailer": "Amazon",
-   "was": 25,
-   "now": 20.64,
-   "percentOff": 17,
-   "url": "https://www.amazon.com/dp/B0G54DCG16?tag=vettbeauty-20",
-   "size": "3.4 Fl Oz",
-   "slug": "proactiv-acne-clearing-body-spray",
-   "image": "/levelled/proactiv-acne-clearing-body-spray.webp",
-   "imageCutout": false,
-   "topAward": "NewBeauty Annual Awards — Best Body Acne Spray (2026)",
-   "category": "Body",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Body Acne Spray (2026)"
-   ]
-  },
-  {
    "brand": "Kristin Ess",
    "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
    "retailer": "Amazon",
@@ -199,6 +220,26 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)"
+   ]
+  },
+  {
+   "brand": "Proactiv",
+   "product": "Acne Clearing Body Spray",
+   "retailer": "Amazon",
+   "was": 25,
+   "now": 20.94,
+   "percentOff": 16,
+   "url": "https://www.amazon.com/dp/B0G54DCG16?tag=vettbeauty-20",
+   "size": "3.4 Fl Oz",
+   "slug": "proactiv-acne-clearing-body-spray",
+   "image": "/levelled/proactiv-acne-clearing-body-spray.webp",
+   "imageCutout": false,
+   "topAward": "NewBeauty Annual Awards — Best Body Acne Spray (2026)",
+   "category": "Body",
+   "subcategory": "",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Body Acne Spray (2026)"
    ]
   },
   {
