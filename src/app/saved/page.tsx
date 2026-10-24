@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Wordmark from '@/components/Wordmark';
 import { useState, useEffect } from 'react';
 import type { SavedProduct } from '@/lib/saved';
+import AffiliateNote from '@/components/AffiliateNote';
 
 export default function SavedPage() {
   const [savedProducts, setSavedProducts] = useState<SavedProduct[]>([]);
@@ -193,6 +194,7 @@ export default function SavedPage() {
       {/* Footer */}
       <footer className="bg-white border-t border-cream-dark py-6 sm:py-8 px-4 text-center">
         <p className="text-xs sm:text-sm text-charcoal-light">© 2026 Vettbeauty. Every award-winning beauty product, verified.</p>
+        <AffiliateNote className="mt-2 max-w-2xl mx-auto" />
       </footer>
     </>
   );

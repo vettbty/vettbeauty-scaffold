@@ -10,6 +10,7 @@ import { search, suggest, type Suggestion } from '@/lib/search';
 import SaveCount from '@/components/SaveCount';
 import Wordmark from '@/components/Wordmark';
 import Tile from '@/components/Tile';
+import AffiliateNote from '@/components/AffiliateNote';
 
 const categoryMap: Record<string, string> = Object.fromEntries(CATEGORIES.map(c => [c.key, c.label]));
 
@@ -483,6 +484,7 @@ export default function Home() {
       {/* Footer only */}
       <footer className="bg-white border-t border-cream-dark py-6 px-4 text-center">
         <p className="text-xs text-charcoal-light">© Vettbeauty</p>
+        <AffiliateNote className="mt-2 max-w-2xl mx-auto" />
       </footer>
     </>
   );

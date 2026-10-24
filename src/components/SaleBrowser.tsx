@@ -6,6 +6,7 @@ import { useState, useMemo } from 'react';
 import SaveCount from '@/components/SaveCount';
 import Wordmark from '@/components/Wordmark';
 import { CATEGORIES } from '@/lib/taxonomy';
+import AffiliateNote from '@/components/AffiliateNote';
 
 export interface Deal {
   brand: string;
@@ -381,6 +382,7 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
 
       <footer className="bg-white border-t border-cream-dark py-6 px-4 text-center">
         <p className="text-xs text-charcoal-light">© 2026 Vettbeauty · Only the Vetted</p>
+        <AffiliateNote className="mt-2 max-w-2xl mx-auto" />
       </footer>
     </>
   );
