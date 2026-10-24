@@ -44,7 +44,8 @@ export default function Tile({ product, label }: { product: Product; label: stri
           <a
             href={product.buyLink}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
+            data-buy="tile"
             className="text-[11px] font-semibold text-gold uppercase microcap"
           >
             Check Price →

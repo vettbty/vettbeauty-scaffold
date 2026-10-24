@@ -56,6 +56,14 @@ export default function AboutPage() {
             publisher, retailer, or brand. No one can pay to appear or rank higher; a
             product&rsquo;s position is public record.
           </p>
+
+          <h2 className="font-serif text-xl text-charcoal pt-6">How the site is funded</h2>
+          <p>
+            Buy links go through affiliate programs (ShopMy and Amazon Associates). When you buy
+            through one, Vettbeauty may earn a commission at no extra cost to you. Commissions
+            never decide which products appear or how they rank. As an Amazon Associate,
+            Vettbeauty earns from qualifying purchases.
+          </p>
           <p>
             Spotted an error? Tell us and we&rsquo;ll fix it.{' '}
             <a href="mailto:ciao@vettbeauty.com" className="text-gold underline">ciao@vettbeauty.com</a>{' '}
