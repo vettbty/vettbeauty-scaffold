@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24",
+ "generated": "2026-10-25",
  "items": [
   {
    "brand": "dpHUE",
@@ -22,6 +22,46 @@
    ]
   },
   {
+   "brand": "VOESH",
+   "product": "Hand Balm",
+   "retailer": "Ulta",
+   "was": 18,
+   "now": 8.4,
+   "percentOff": 53,
+   "url": "https://go.shopmy.us/p-80388348",
+   "size": null,
+   "slug": "voesh-hand-balm",
+   "image": "/cutouts/voesh-hand-balm.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Hand Cream (2026)",
+   "category": "Body",
+   "subcategory": "Hand Cream",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Hand Cream (2026)"
+   ]
+  },
+  {
+   "brand": "L’Oréal Paris",
+   "product": "Lumi Le Glass Highlighter Stick",
+   "retailer": "Ulta",
+   "was": 12.99,
+   "now": 6.49,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-81544769",
+   "size": null,
+   "slug": "l-or-al-paris-lumi-le-glass-highlighter-stick",
+   "image": "/levelled/l-or-al-paris-lumi-le-glass-highlighter-stick.webp",
+   "imageCutout": false,
+   "topAward": "Cosmopolitan Beauty Awards — Best Cream Highlighter (2026)",
+   "category": "Makeup",
+   "subcategory": "Highlighter",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Cream Highlighter (2026)"
+   ]
+  },
+  {
    "brand": "Billie",
    "product": "Revive Body Wash",
    "retailer": "Ulta",
@@ -39,6 +79,292 @@
    "awardCount": 1,
    "awardsWon": [
     "Allure Best of Beauty — Best Body Steals (2025)"
+   ]
+  },
+  {
+   "brand": "Verb Products",
+   "product": "Curl Oil",
+   "retailer": "Ulta",
+   "was": 22,
+   "now": 13.2,
+   "percentOff": 40,
+   "url": "https://go.shopmy.us/p-81177179",
+   "size": null,
+   "slug": "verb-products-curl-oil",
+   "image": "/cutouts/verb-products-curl-oil.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Curl Oil (2026)",
+   "category": "Hair",
+   "subcategory": "Curl Oil",
+   "awardCount": 1,
+   "awardsWon": [
+    "InStyle Best Beauty Buys — Best Curl Oil (2026)"
+   ]
+  },
+  {
+   "brand": "Design Essentials",
+   "product": "Rosemary & Mint Stimulating Super Moisturizing Shampoo and Peppermint & Aloe Soothing Scalp Care Conditioner",
+   "retailer": "Ulta",
+   "was": 15,
+   "now": 9,
+   "percentOff": 40,
+   "url": "https://go.shopmy.us/p-81250480",
+   "size": null,
+   "slug": "design-essentials-rosemary---mint-stimulating-super-moisturizing-shampoo-and-pep",
+   "image": "/cutouts/design-essentials-rosemary---mint-stimulating-super-moisturizing-shampoo-and-pep.webp",
+   "imageCutout": true,
+   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Affordable Shampoo & Conditioner for Coils (2026)",
+   "category": "Hair",
+   "subcategory": "Shampoo",
+   "awardCount": 1,
+   "awardsWon": [
+    "Glamour Beauty Awards — Curly & Coily Hair — Best Affordable Shampoo & Conditioner for Coils (2026)"
+   ]
+  },
+  {
+   "brand": "manyo",
+   "product": "Galac Niacin 3.0 Essence",
+   "retailer": "Ulta",
+   "was": 27,
+   "now": 16.8,
+   "percentOff": 38,
+   "url": "https://go.shopmy.us/p-94238337",
+   "size": null,
+   "slug": "manyo-galac-niacin-3-0-essence",
+   "image": "/cutouts/manyo-galac-niacin-3-0-essence.webp",
+   "imageCutout": true,
+   "topAward": "Glowpick Awards (2025)",
+   "category": "Skincare",
+   "subcategory": "Toner",
+   "awardCount": 2,
+   "awardsWon": [
+    "Glowpick Awards (2025)",
+    "NewBeauty Annual Awards — Best Brightening Essence (2026)"
+   ]
+  },
+  {
+   "brand": "COSRX",
+   "product": "The Ceramide Skin Barrier Moisturizer",
+   "retailer": "Ulta",
+   "was": 23,
+   "now": 16.1,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-91576964",
+   "size": "2.7 oz",
+   "slug": "cosrx-the-ceramide-skin-barrier-moisturizer",
+   "image": "/cutouts/cosrx-the-ceramide-skin-barrier-moisturizer.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Barrier Repair Cream (2026)",
+   "category": "Skincare",
+   "subcategory": "Moisturizer",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Barrier Repair Cream (2026)"
+   ]
+  },
+  {
+   "brand": "Bali Body",
+   "product": "Gradual Tanning Butter",
+   "retailer": "Ulta",
+   "was": 33,
+   "now": 23.1,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-78146388",
+   "size": null,
+   "slug": "bali-body-gradual-tanning-butter",
+   "image": "/cutouts/bali-body-gradual-tanning-butter.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Gradual Self-Tanner (2026)",
+   "category": "Body",
+   "subcategory": "Self-Tanner",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Gradual Self-Tanner (2026)"
+   ]
+  },
+  {
+   "brand": "Erborian",
+   "product": "Skin Therapy Eye Cream",
+   "retailer": "Ulta",
+   "was": 39,
+   "now": 27.3,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-78424620",
+   "size": null,
+   "slug": "erborian-skin-therapy-eye-cream",
+   "image": "/levelled/erborian-skin-therapy-eye-cream.webp",
+   "imageCutout": false,
+   "topAward": "Cosmopolitan Beauty Awards — Best Brightening Eye Cream (2026)",
+   "category": "Skincare",
+   "subcategory": "Eye Cream",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Brightening Eye Cream (2026)"
+   ]
+  },
+  {
+   "brand": "Mediheal",
+   "product": "Rose PDRN Essential Sheet Mask",
+   "retailer": "Ulta",
+   "was": 8.8,
+   "now": 6.16,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-79360285",
+   "size": null,
+   "slug": "mediheal-rose-pdrn-essential-sheet-mask",
+   "image": "/levelled/mediheal-rose-pdrn-essential-sheet-mask.webp",
+   "imageCutout": false,
+   "topAward": "Glowpick Awards (2025)",
+   "category": "Skincare",
+   "subcategory": "Mask",
+   "awardCount": 2,
+   "awardsWon": [
+    "Glowpick Awards (2025)",
+    "Glamour Beauty Awards — Drugstore Skin Care — Best Face Mask (2026)"
+   ]
+  },
+  {
+   "brand": "Solawave",
+   "product": "Bye Acne 2.0",
+   "retailer": "Ulta",
+   "was": 89,
+   "now": 62.3,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-80215859",
+   "size": null,
+   "slug": "solawave-bye-acne-2-0",
+   "image": "/cutouts/solawave-bye-acne-2-0.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Anti-Acne Device (2026)",
+   "category": "Tools & Devices",
+   "subcategory": "LED Device",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Anti-Acne Device (2026)"
+   ]
+  },
+  {
+   "brand": "TIRTIR",
+   "product": "Milk Skin Toner Light",
+   "retailer": "Ulta",
+   "was": 25,
+   "now": 17.5,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-80761991",
+   "size": null,
+   "slug": "tirtir-milk-skin-toner-light",
+   "image": "/cutouts/tirtir-milk-skin-toner-light.webp",
+   "imageCutout": true,
+   "topAward": "Marie Claire Skin & Hair Awards — Best Toner/Essence for Oily Skin (2025)",
+   "category": "Skincare",
+   "subcategory": "Toner",
+   "awardCount": 1,
+   "awardsWon": [
+    "Marie Claire Skin & Hair Awards — Best Toner/Essence for Oily Skin (2025)"
+   ]
+  },
+  {
+   "brand": "Mediheal",
+   "product": "PDRN Lifting Pad",
+   "retailer": "Ulta",
+   "was": 26.4,
+   "now": 18.48,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-88567652",
+   "size": null,
+   "slug": "mediheal-pdrn-lifting-pad",
+   "image": "/cutouts/mediheal-pdrn-lifting-pad.webp",
+   "imageCutout": true,
+   "topAward": "Glamour Beauty Awards — Drugstore Skin Care — Best Toner (2026)",
+   "category": "Skincare",
+   "subcategory": "Toner",
+   "awardCount": 4,
+   "awardsWon": [
+    "Glamour Beauty Awards — Drugstore Skin Care — Best Toner (2026)",
+    "Hwahae Beauty Awards (2026)",
+    "Glowpick Awards (2025)",
+    "Glowpick Awards (2026)"
+   ]
+  },
+  {
+   "brand": "Naked Sundays",
+   "product": "BeautyScreen Peptide Foundation Tint SPF 50",
+   "retailer": "Ulta",
+   "was": 38,
+   "now": 26.6,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-81538445",
+   "size": null,
+   "slug": "naked-sundays-beautyscreen-peptide-foundation-tint-spf-50",
+   "image": "/levelled/naked-sundays-beautyscreen-peptide-foundation-tint-spf-50.webp",
+   "imageCutout": false,
+   "topAward": "Glamour Beauty Awards — Beauty Innovators — Best Tinted SPF (2026)",
+   "category": "Makeup",
+   "subcategory": "Tinted Moisturizer",
+   "awardCount": 1,
+   "awardsWon": [
+    "Glamour Beauty Awards — Beauty Innovators — Best Tinted SPF (2026)"
+   ]
+  },
+  {
+   "brand": "Milani",
+   "product": "Conceal + Perfect Blur Out Skin Tint Stick",
+   "retailer": "Ulta",
+   "was": 18.5,
+   "now": 12.94,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-77317292",
+   "size": null,
+   "slug": "milani-conceal---perfect-blur-out-skin-tint-stick",
+   "image": "/cutouts/milani-conceal---perfect-blur-out-skin-tint-stick.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Foundation Stick (2026)",
+   "category": "Makeup",
+   "subcategory": "Foundation",
+   "awardCount": 2,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Foundation Stick (2026)",
+    "InStyle Best Beauty Buys — Best Skin Tint (2026)"
+   ]
+  },
+  {
+   "brand": "CosRX",
+   "product": "PDRN Exosome Skinplaning Glaze Mask",
+   "retailer": "Ulta",
+   "was": 17,
+   "now": 11.9,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-94238270",
+   "size": null,
+   "slug": "cosrx-pdrn-exosome-skinplaning-glaze-mask",
+   "image": "/cutouts/cosrx-pdrn-exosome-skinplaning-glaze-mask.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Peel-Off Mask (2026)",
+   "category": "Skincare",
+   "subcategory": "Mask",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Peel-Off Mask (2026)"
+   ]
+  },
+  {
+   "brand": "Sungboon Editor",
+   "product": "Kojic Acid Niacinamide Radiance Soothing Gel Cleanser",
+   "retailer": "Ulta",
+   "was": 17,
+   "now": 11.9,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-94238499",
+   "size": null,
+   "slug": "sungboon-editor-kojic-acid-niacinamide-radiance-soothing-gel-cleanser",
+   "image": "/cutouts/sungboon-editor-kojic-acid-niacinamide-radiance-soothing-gel-cleanser.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Brightening Cleanser (2026)",
+   "category": "Skincare",
+   "subcategory": "Cleanser",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Brightening Cleanser (2026)"
    ]
   },
   {
@@ -83,6 +409,26 @@
    ]
   },
   {
+   "brand": "Mediheal",
+   "product": "Retinol Collagen Under Eye Patches",
+   "retailer": "Ulta",
+   "was": 22,
+   "now": 16.8,
+   "percentOff": 24,
+   "url": "https://go.shopmy.us/p-88568101",
+   "size": null,
+   "slug": "mediheal-retinol-collagen-under-eye-patches",
+   "image": "/cutouts/mediheal-retinol-collagen-under-eye-patches.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Eye Mask (2026)",
+   "category": "Skincare",
+   "subcategory": "Eye Mask",
+   "awardCount": 1,
+   "awardsWon": [
+    "InStyle Best Beauty Buys — Best Eye Mask (2026)"
+   ]
+  },
+  {
    "brand": "St.Tropez",
    "product": "Self Tan Express Bronzing Mousse",
    "retailer": "Dermstore",
@@ -123,6 +469,27 @@
    ]
   },
   {
+   "brand": "RevAir",
+   "product": "Micro Edge Styler",
+   "retailer": "Ulta",
+   "was": 89,
+   "now": 69,
+   "percentOff": 22,
+   "url": "https://go.shopmy.us/p-78048866",
+   "size": null,
+   "slug": "revair-micro-edge-styler",
+   "image": "/levelled/revair-micro-edge-styler.webp",
+   "imageCutout": false,
+   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Flatiron (2026)",
+   "category": "Tools & Devices",
+   "subcategory": "Hair Tool",
+   "awardCount": 2,
+   "awardsWon": [
+    "Glamour Beauty Awards — Curly & Coily Hair — Best Flatiron (2026)",
+    "Cosmopolitan Beauty Awards — Best Edge Styler (2026)"
+   ]
+  },
+  {
    "brand": "Secret",
    "product": "Whole Body Dry Feel Deodorant",
    "retailer": "Amazon",
@@ -140,6 +507,26 @@
    "awardCount": 1,
    "awardsWon": [
     "Marie Claire Skin & Hair Awards — Best Body Deodorant (2025)"
+   ]
+  },
+  {
+   "brand": "Skin Gym",
+   "product": "High-Frequency Wand",
+   "retailer": "Ulta",
+   "was": 120,
+   "now": 96,
+   "percentOff": 20,
+   "url": "https://go.shopmy.us/p-80383832",
+   "size": null,
+   "slug": "skin-gym-high-frequency-wand",
+   "image": "/levelled/skin-gym-high-frequency-wand.webp",
+   "imageCutout": false,
+   "topAward": "Marie Claire Skin & Hair Awards — Best At-Home Acne Device (2025)",
+   "category": "Tools & Devices",
+   "subcategory": "Skin Tool",
+   "awardCount": 1,
+   "awardsWon": [
+    "Marie Claire Skin & Hair Awards — Best At-Home Acne Device (2025)"
    ]
   },
   {
@@ -203,6 +590,26 @@
    ]
   },
   {
+   "brand": "Juvia’s Place",
+   "product": "I Am Magic Silky Finishing Powder",
+   "retailer": "Ulta",
+   "was": 18,
+   "now": 15,
+   "percentOff": 17,
+   "url": "https://go.shopmy.us/p-78563043",
+   "size": null,
+   "slug": "juvia-s-place-i-am-magic-silky-finishing-powder",
+   "image": "/cutouts/juvia-s-place-i-am-magic-silky-finishing-powder.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Loose Setting Powder (2026)",
+   "category": "Makeup",
+   "subcategory": "Powder",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Loose Setting Powder (2026)"
+   ]
+  },
+  {
    "brand": "Kristin Ess",
    "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
    "retailer": "Amazon",
@@ -210,7 +617,7 @@
    "now": 17.42,
    "percentOff": 17,
    "url": "https://www.amazon.com/dp/B0H42HZGLZ?tag=vettbeauty-20",
-   "size": "5.5 oz",
+   "size": null,
    "slug": "kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask",
    "image": "/cutouts/kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask.webp",
    "imageCutout": true,
@@ -227,7 +634,7 @@
    "product": "Acne Clearing Body Spray",
    "retailer": "Amazon",
    "was": 25,
-   "now": 20.94,
+   "now": 21.09,
    "percentOff": 16,
    "url": "https://www.amazon.com/dp/B0G54DCG16?tag=vettbeauty-20",
    "size": "3.4 Fl Oz",
@@ -250,7 +657,7 @@
    "now": 10.98,
    "percentOff": 15,
    "url": "https://www.amazon.com/dp/B0G4SSVR4W?tag=vettbeauty-20",
-   "size": "15.3 fl oz",
+   "size": null,
    "slug": "dove-serum--shower-oil-body-wash",
    "image": "/cutouts/dove-serum--shower-oil-body-wash.webp",
    "imageCutout": true,
