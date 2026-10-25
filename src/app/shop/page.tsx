@@ -24,10 +24,10 @@ export const revalidate = 3600;
 
 export const metadata = {
   title: 'Shop the Post | Vettbeauty',
-  description: 'Shop the award winners from @vettedbty posts.',
+  description: 'Shop the award winners from @vett.beauty posts.',
 };
 
-type Post = { date: string; title: string; slugs: string[] };
+type Post = { date?: string; title: string; slugs: string[] };
 const MAX_POSTS = 30;
 
 function ShopCard({ product }: { product: Product }) {
@@ -91,8 +91,8 @@ export default async function ShopPage() {
       <header className="bg-cream border-b border-cream-dark">
         <div className="max-w-xl mx-auto px-4 py-3 flex items-center justify-between">
           <Wordmark className="text-2xl" />
-          <a href="https://www.instagram.com/vettedbty/" target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-charcoal-light hover:text-charcoal">
-            @vettedbty
+          <a href="https://www.instagram.com/vett.beauty/" target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-charcoal-light hover:text-charcoal">
+            @vett.beauty
           </a>
         </div>
       </header>
@@ -105,9 +105,11 @@ export default async function ShopPage() {
 
         {posts.map(post => (
           <section key={`${post.date}-${post.title}`} className="mb-8">
-            <p className="eyebrow text-xs text-gold mb-1">
-              {new Date(post.date + 'T12:00:00Z').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
-            </p>
+            {post.date && (
+              <p className="eyebrow text-xs text-gold mb-1">
+                {new Date(post.date + 'T12:00:00Z').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+              </p>
+            )}
             <h2 className="font-serif text-lg font-semibold text-charcoal mb-3">{post.title}</h2>
             <div className="flex flex-col gap-px bg-cream-dark rounded-md overflow-hidden">
               {post.items.map(p => <ShopCard key={p.slug} product={p} />)}
