@@ -7,6 +7,7 @@ import SaveButton from '@/components/SaveButton';
 import { CATEGORIES, OTHER, slugify } from '@/lib/taxonomy';
 import { descriptionFor } from '@/lib/descriptions';
 import { CONSUMER_PLATFORMS, publicationOf } from '@/lib/consensus';
+import AffiliateNote from '@/components/AffiliateNote';
 
 // Every product page is prerendered at build and refreshed daily.
 export const revalidate = 86400;
@@ -241,7 +242,8 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                 <a
                   href={product.buyLink}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="sponsored noopener noreferrer"
+                  data-buy="product-cta"
                   className="flex-1 max-w-xs bg-charcoal text-white text-center py-3 px-6 rounded-md font-semibold text-sm hover:bg-charcoal-light transition-colors"
                 >
                   Check Price →
@@ -348,7 +350,8 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
               <a
                 href={product.buyLink}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
+                data-buy="where-to-buy"
                 className="bg-gold text-white py-3 px-6 rounded-md font-semibold text-sm hover:bg-gold-dark transition-colors"
               >
                 Check Price →
@@ -416,6 +419,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
       {/* Footer */}
       <footer className="bg-white border-t border-cream-dark py-6 sm:py-8 px-4 text-center">
         <p className="text-xs sm:text-sm text-charcoal-light">© 2026 Vettbeauty. Every award-winning beauty product, verified.</p>
+        <AffiliateNote className="mt-2 max-w-2xl mx-auto" />
       </footer>
     </>
   );

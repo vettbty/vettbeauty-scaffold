@@ -6,6 +6,7 @@ import { useState, useMemo } from 'react';
 import SaveCount from '@/components/SaveCount';
 import Wordmark from '@/components/Wordmark';
 import { CATEGORIES } from '@/lib/taxonomy';
+import AffiliateNote from '@/components/AffiliateNote';
 
 export interface Deal {
   brand: string;
@@ -131,7 +132,8 @@ function Card({ d, hero = false }: { d: Deal; hero?: boolean }) {
     <a
       href={d.url}
       target="_blank"
-      rel="noopener noreferrer"
+      rel="sponsored noopener noreferrer"
+      data-buy="sale"
       className={`inline-flex items-center justify-center w-full rounded-lg font-semibold uppercase microcap bg-gold text-white hover:bg-gold-dark transition-colors ${
         hero ? 'mt-3 py-3 text-xs' : 'mt-2 py-2 text-[11px]'
       }`}
@@ -381,6 +383,7 @@ export default function SaleBrowser({ items, generated }: { items: Deal[]; gener
 
       <footer className="bg-white border-t border-cream-dark py-6 px-4 text-center">
         <p className="text-xs text-charcoal-light">© 2026 Vettbeauty · Only the Vetted</p>
+        <AffiliateNote className="mt-2 max-w-2xl mx-auto" />
       </footer>
     </>
   );

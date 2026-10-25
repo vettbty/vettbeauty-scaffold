@@ -3,6 +3,7 @@ import { Playfair_Display, Inter } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 // First-party script served from /_vercel/speed-insights; sets no cookies and collects no personal data, so no consent banner is needed.
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import BuyClickTracker from "@/components/BuyClickTracker";
 import "./globals.css";
 import "./advanced.css";
 
@@ -23,6 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {children}
         <Analytics />
         <SpeedInsights />
+        <BuyClickTracker />
       </body>
     </html>
   );
