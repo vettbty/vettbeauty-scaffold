@@ -1,19 +1,7 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-25",
+ "generated": "2026-10-31",
  "items": [
-  {
-   "productId": "600b07d3-3168-45ca-933f-167b52538268",
-   "brand": "dpHUE",
-   "product": "ACV WonderWorks Leave-In Conditioner",
-   "retailer": "Ulta",
-   "was": 34,
-   "now": 14,
-   "percentOff": 59,
-   "url": "https://go.shopmy.us/p-94239608",
-   "size": "1.5 oz",
-   "listing": "1.5 oz Apple Cider Vinegar WonderWorks Leave-In Conditioner - dpHUE"
-  },
   {
    "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
    "brand": "VOESH",
@@ -37,18 +25,6 @@
    "url": "https://go.shopmy.us/p-81544769",
    "size": null,
    "listing": "630 Glowy Creme Chic Lumi Le Glass and Glow Highlighter Stick - L&#x27;Oréal Paris"
-  },
-  {
-   "productId": "4a5abec1-9f17-4675-a07c-14cf6808a460",
-   "brand": "Billie",
-   "product": "Revive Body Wash",
-   "retailer": "Ulta",
-   "was": 8,
-   "now": 4.79,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-92038930",
-   "size": null,
-   "listing": "Revive Renewing Body Wash - billie"
   },
   {
    "productId": "10612547-8361-4133-a849-4b7fbc9379dc",
@@ -87,6 +63,54 @@
    "listing": "Galac Niacin 3.0 Essence - ma:nyo"
   },
   {
+   "productId": "2aa434c7-879e-4144-a3f6-5c5ecea808cd",
+   "brand": "Kristin Ess",
+   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
+   "retailer": "amazon",
+   "was": 21,
+   "now": 14.11,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B0H42HZGLZ",
+   "size": "5.5 oz",
+   "listing": "Amazon.com: Kristin Ess+ Peptide Bond Repair Overnight Hair Mask, Damaged Hair 5.5 oz | Overnight dry hair mask repairs "
+  },
+  {
+   "productId": "861bc92f-7e75-4da6-a7f1-cb217a25f934",
+   "brand": "Made by Mitchell",
+   "product": "Curve Case Cream Makeup Palette",
+   "retailer": "Ulta",
+   "was": 33,
+   "now": 22.75,
+   "percentOff": 31,
+   "url": "https://go.shopmy.us/p-89624016",
+   "size": null,
+   "listing": "Deep Curve Case Cream Makeup Palette - Made By Mitchell"
+  },
+  {
+   "productId": "0f1ad14a-6d9e-476c-a371-980ea93be5e0",
+   "brand": "Milani",
+   "product": "Conceal + Perfect Blur Out Skin Tint Stick",
+   "retailer": "ulta",
+   "was": 18.5,
+   "now": 12.94,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-77317292",
+   "size": null,
+   "listing": "019 Conceal + Perfect Blur Out Skin Tint Stick - Milani"
+  },
+  {
+   "productId": "e6836ec2-d11e-4e67-a716-86d517c736ce",
+   "brand": "CosRX",
+   "product": "PDRN Exosome Skinplaning Glaze Mask",
+   "retailer": "Ulta",
+   "was": 17,
+   "now": 11.9,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-94238270",
+   "size": null,
+   "listing": "PDRN Exosome Skinplaning Glaze Mask with Collagen & Peptide - COSRX"
+  },
+  {
    "productId": "d7ac640c-9a6d-475d-a293-ddd79b60cf78",
    "brand": "COSRX",
    "product": "The Ceramide Skin Barrier Moisturizer",
@@ -97,6 +121,30 @@
    "url": "https://go.shopmy.us/p-91576964",
    "size": "2.7 oz",
    "listing": "2.7 oz The Ceramide Skin Barrier Moisturizer For Sensitive Skin - COSRX"
+  },
+  {
+   "productId": "a92c7612-d00b-4455-8f70-f22b84b63e1f",
+   "brand": "Sungboon Editor",
+   "product": "Kojic Acid Niacinamide Radiance Soothing Gel Cleanser",
+   "retailer": "Ulta",
+   "was": 17,
+   "now": 11.9,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-94238499",
+   "size": null,
+   "listing": "Niacin Kojic Acid Brightening Gel Cleanser - SUNGBOON EDITOR"
+  },
+  {
+   "productId": "08c2003a-15ad-4325-a350-19de13c27c7c",
+   "brand": "Ulike",
+   "product": "Air 10",
+   "retailer": "Ulta",
+   "was": 399,
+   "now": 279,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-78051096",
+   "size": null,
+   "listing": "Pink Air10 Ice Cooling IPL Hair Removal Device - Ulike"
   },
   {
    "productId": "882d8e2f-fb16-4508-87ac-fefde4da546c",
@@ -183,52 +231,16 @@
    "listing": "Shade 5 BeautyScreen Peptide Foundation Tint SPF 50 - Naked Sundays"
   },
   {
-   "productId": "0f1ad14a-6d9e-476c-a371-980ea93be5e0",
-   "brand": "Milani",
-   "product": "Conceal + Perfect Blur Out Skin Tint Stick",
-   "retailer": "ulta",
-   "was": 18.5,
-   "now": 12.94,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-77317292",
-   "size": null,
-   "listing": "019 Conceal + Perfect Blur Out Skin Tint Stick - Milani"
-  },
-  {
-   "productId": "e6836ec2-d11e-4e67-a716-86d517c736ce",
-   "brand": "CosRX",
-   "product": "PDRN Exosome Skinplaning Glaze Mask",
-   "retailer": "Ulta",
-   "was": 17,
-   "now": 11.9,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-94238270",
-   "size": null,
-   "listing": "PDRN Exosome Skinplaning Glaze Mask with Collagen & Peptide - COSRX"
-  },
-  {
-   "productId": "a92c7612-d00b-4455-8f70-f22b84b63e1f",
-   "brand": "Sungboon Editor",
-   "product": "Kojic Acid Niacinamide Radiance Soothing Gel Cleanser",
-   "retailer": "Ulta",
-   "was": 17,
-   "now": 11.9,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-94238499",
-   "size": null,
-   "listing": "Niacin Kojic Acid Brightening Gel Cleanser - SUNGBOON EDITOR"
-  },
-  {
-   "productId": "08c2003a-15ad-4325-a350-19de13c27c7c",
-   "brand": "Ulike",
-   "product": "Air 10",
-   "retailer": "Ulta",
-   "was": 399,
-   "now": 279,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-78051096",
-   "size": null,
-   "listing": "Pink Air10 Ice Cooling IPL Hair Removal Device - Ulike"
+   "productId": "8ca3a47e-4125-472e-b613-7a18af77589a",
+   "brand": "JLo Beauty",
+   "product": "Firming Neck Serum",
+   "retailer": "amazon",
+   "was": 69,
+   "now": 49.85,
+   "percentOff": 28,
+   "url": "https://www.amazon.com/dp/B0GJ192QLW",
+   "size": "1.7 Oz",
+   "listing": "Amazon.com: JLO BEAUTY That Spotlight Silhouette Firming Neck & Jawline Serum, 1.7 Oz | Peptides, Red Algae & Growth Fac"
   },
   {
    "productId": "cb28afa1-b676-4f2f-9914-35695780c828",
@@ -240,7 +252,7 @@
    "percentOff": 25,
    "url": "https://www.amazon.com/dp/B0BHL8Z7NN",
    "size": "1.7 FL Oz",
-   "listing": "Crepe Erase Neck Repair Treatment, Retinol Cream, 1.7 FL Oz"
+   "listing": "Amazon.com: Crepe Erase Neck Repair Treatment, Retinol Cream, 1.7 FL Oz | Peptides, Shea Butter, Vitamin E, Squalane Oil"
   },
   {
    "productId": "79bc82ae-8745-4382-8fba-dd0f51eda248",
@@ -255,28 +267,16 @@
    "listing": "Retinol Collagen Eye Ampoule Patch - MEDIHEAL"
   },
   {
-   "productId": "cc2511c0-7668-4f31-867a-024f5de769a5",
-   "brand": "St.Tropez",
-   "product": "Self Tan Express Bronzing Mousse",
-   "retailer": "Dermstore",
-   "was": 46,
-   "now": 36,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-89618936",
-   "size": "100ml",
-   "listing": "St. Tropez Self Tan Express Bronzing Mousse 100ml"
-  },
-  {
-   "productId": "f5caf541-ec10-4e48-abb1-b78767a3659c",
-   "brand": "CeraVe",
-   "product": "Intensive Moisturizing Cream",
-   "retailer": "Ulta",
-   "was": 23,
-   "now": 17.99,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-94237597",
-   "size": "8.0 oz",
-   "listing": "8.0 oz Intensive Moisturizing Cream - CeraVe"
+   "productId": "b0aeb350-cf26-4814-8db4-9fdc08eb5f3f",
+   "brand": "Proactiv",
+   "product": "Acne Clearing Body Spray",
+   "retailer": "amazon",
+   "was": 25,
+   "now": 19,
+   "percentOff": 24,
+   "url": "https://www.amazon.com/dp/B0G54DCG16",
+   "size": "3.4 Fl Oz",
+   "listing": "Amazon.com: Proactiv Acne Clearing Body Spray, 2% Salicylic Acid, 3.4 Fl Oz | Quick-drying 2% salicylic acid body acne s"
   },
   {
    "productId": "d451bc62-6dbf-4c7b-9098-b4a7d4860457",
@@ -289,18 +289,6 @@
    "url": "https://go.shopmy.us/p-78048866",
    "size": null,
    "listing": "Micro Edge Styler - RevAir"
-  },
-  {
-   "productId": "c7703c1d-217a-4b19-a5f3-a686f8e9188e",
-   "brand": "Secret",
-   "product": "Whole Body Dry Feel Deodorant",
-   "retailer": "amazon",
-   "was": 13.99,
-   "now": 11.06,
-   "percentOff": 21,
-   "url": "https://www.amazon.com/dp/B0CHN19PJX",
-   "size": "2.4 oz",
-   "listing": "Secret Whole Body Deodorant Stick for Women, Unscented, 2.4 oz"
   },
   {
    "productId": "db4da85d-fc28-40fa-bb8a-1a76c1404560",
@@ -324,7 +312,7 @@
    "percentOff": 20,
    "url": "https://www.amazon.com/dp/B0CGB215HR",
    "size": null,
-   "listing": "goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firmi"
+   "listing": "Amazon.com: goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of"
   },
   {
    "productId": "6ff8c935-7c9a-4070-ab21-c4935b4f55c9",
@@ -339,18 +327,6 @@
    "listing": "Schick Hydro Silk Mini 5 Blade Razor for Women, 1 Handle, 1 Refill & 1"
   },
   {
-   "productId": "88315bfb-ee8a-4e0c-adfd-0984bb36f03a",
-   "brand": "Glasshouse Fragrances",
-   "product": "Body Bar",
-   "retailer": "Dermstore",
-   "was": 18,
-   "now": 15,
-   "percentOff": 17,
-   "url": "https://go.shopmy.us/p-78478118",
-   "size": "6.3 oz",
-   "listing": "Glasshouse Fragrances Marseille Memoir Body Bar 6.3 oz"
-  },
-  {
    "productId": "0cff0df6-5bcf-4447-bc69-f9ae16df08e8",
    "brand": "Juvia’s Place",
    "product": "I Am Magic Silky Finishing Powder",
@@ -363,30 +339,6 @@
    "listing": "Coconut Flakes I am Magic Silky Finishing Powder (Talc Free) - Juvia&#x27;s Place"
   },
   {
-   "productId": "2aa434c7-879e-4144-a3f6-5c5ecea808cd",
-   "brand": "Kristin Ess",
-   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
-   "retailer": "amazon",
-   "was": 21,
-   "now": 17.42,
-   "percentOff": 17,
-   "url": "https://www.amazon.com/dp/B0H42HZGLZ",
-   "size": null,
-   "listing": "Kristin Ess+ Peptide Bond Repair Overnight Hair Mask, Damaged Hair 5.5"
-  },
-  {
-   "productId": "b0aeb350-cf26-4814-8db4-9fdc08eb5f3f",
-   "brand": "Proactiv",
-   "product": "Acne Clearing Body Spray",
-   "retailer": "amazon",
-   "was": 25,
-   "now": 21.09,
-   "percentOff": 16,
-   "url": "https://www.amazon.com/dp/B0G54DCG16",
-   "size": "3.4 Fl Oz",
-   "listing": "Proactiv Acne Clearing Body Spray, 2% Salicylic Acid, 3.4 Fl Oz"
-  },
-  {
    "productId": "e17abc87-9356-460f-8516-52ec5789ff83",
    "brand": "Dove",
    "product": "Serum+ Shower Oil Body Wash",
@@ -395,8 +347,8 @@
    "now": 10.98,
    "percentOff": 15,
    "url": "https://www.amazon.com/dp/B0G4SSVR4W",
-   "size": null,
-   "listing": "Dove Serum+ Soothing Oil Body Wash, Almond & Oil Sandalwood, 15.3 fl o"
+   "size": "15.3 fl oz",
+   "listing": "Amazon.com : Dove Serum+ Soothing Oil Body Wash, Almond & Oil Sandalwood, 15.3 fl oz | For deep moisture, 50% glycerin s"
   }
  ]
 }

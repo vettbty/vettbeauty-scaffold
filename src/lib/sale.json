@@ -1,26 +1,6 @@
 {
- "generated": "2026-10-25",
+ "generated": "2026-10-31",
  "items": [
-  {
-   "brand": "dpHUE",
-   "product": "ACV WonderWorks Leave-In Conditioner",
-   "retailer": "Ulta",
-   "was": 34,
-   "now": 14,
-   "percentOff": 59,
-   "url": "https://go.shopmy.us/p-94239608",
-   "size": "1.5 oz",
-   "slug": "dphue-acv-wonderworks-leave-in-conditioner",
-   "image": "/cutouts/dphue-acv-wonderworks-leave-in-conditioner.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Leave-In Conditioner (2026)",
-   "category": "Hair",
-   "subcategory": "Leave-In",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Leave-In Conditioner (2026)"
-   ]
-  },
   {
    "brand": "VOESH",
    "product": "Hand Balm",
@@ -59,26 +39,6 @@
    "awardCount": 1,
    "awardsWon": [
     "Cosmopolitan Beauty Awards — Best Cream Highlighter (2026)"
-   ]
-  },
-  {
-   "brand": "Billie",
-   "product": "Revive Body Wash",
-   "retailer": "Ulta",
-   "was": 8,
-   "now": 4.79,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-92038930",
-   "size": null,
-   "slug": "billie-revive-body-wash",
-   "image": "/cutouts/billie-revive-body-wash.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Body Steals (2025)",
-   "category": "Body",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Body Steals (2025)"
    ]
   },
   {
@@ -143,6 +103,87 @@
    ]
   },
   {
+   "brand": "Kristin Ess",
+   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
+   "retailer": "Amazon",
+   "was": 21,
+   "now": 14.11,
+   "percentOff": 33,
+   "url": "https://www.amazon.com/dp/B0H42HZGLZ?tag=vettbeauty-20",
+   "size": "5.5 oz",
+   "slug": "kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask",
+   "image": "/cutouts/kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)",
+   "category": "Hair",
+   "subcategory": "Hair Mask",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)"
+   ]
+  },
+  {
+   "brand": "Made by Mitchell",
+   "product": "Curve Case Cream Makeup Palette",
+   "retailer": "Ulta",
+   "was": 33,
+   "now": 22.75,
+   "percentOff": 31,
+   "url": "https://go.shopmy.us/p-89624016",
+   "size": null,
+   "slug": "made-by-mitchell-curve-case-cream-makeup-palette",
+   "image": "/cutouts/made-by-mitchell-curve-case-cream-makeup-palette.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Multitasking Palette (2026)",
+   "category": "Makeup",
+   "subcategory": "Multitasking Palette",
+   "awardCount": 1,
+   "awardsWon": [
+    "InStyle Best Beauty Buys — Best Multitasking Palette (2026)"
+   ]
+  },
+  {
+   "brand": "Milani",
+   "product": "Conceal + Perfect Blur Out Skin Tint Stick",
+   "retailer": "Ulta",
+   "was": 18.5,
+   "now": 12.94,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-77317292",
+   "size": null,
+   "slug": "milani-conceal---perfect-blur-out-skin-tint-stick",
+   "image": "/cutouts/milani-conceal---perfect-blur-out-skin-tint-stick.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Foundation Stick (2026)",
+   "category": "Makeup",
+   "subcategory": "Foundation",
+   "awardCount": 2,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Foundation Stick (2026)",
+    "InStyle Best Beauty Buys — Best Skin Tint (2026)"
+   ]
+  },
+  {
+   "brand": "CosRX",
+   "product": "PDRN Exosome Skinplaning Glaze Mask",
+   "retailer": "Ulta",
+   "was": 17,
+   "now": 11.9,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-94238270",
+   "size": null,
+   "slug": "cosrx-pdrn-exosome-skinplaning-glaze-mask",
+   "image": "/cutouts/cosrx-pdrn-exosome-skinplaning-glaze-mask.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Peel-Off Mask (2026)",
+   "category": "Skincare",
+   "subcategory": "Mask",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Peel-Off Mask (2026)"
+   ]
+  },
+  {
    "brand": "COSRX",
    "product": "The Ceramide Skin Barrier Moisturizer",
    "retailer": "Ulta",
@@ -160,6 +201,47 @@
    "awardCount": 1,
    "awardsWon": [
     "NewBeauty Annual Awards — Best Barrier Repair Cream (2026)"
+   ]
+  },
+  {
+   "brand": "Sungboon Editor",
+   "product": "Kojic Acid Niacinamide Radiance Soothing Gel Cleanser",
+   "retailer": "Ulta",
+   "was": 17,
+   "now": 11.9,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-94238499",
+   "size": null,
+   "slug": "sungboon-editor-kojic-acid-niacinamide-radiance-soothing-gel-cleanser",
+   "image": "/cutouts/sungboon-editor-kojic-acid-niacinamide-radiance-soothing-gel-cleanser.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Brightening Cleanser (2026)",
+   "category": "Skincare",
+   "subcategory": "Cleanser",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Brightening Cleanser (2026)"
+   ]
+  },
+  {
+   "brand": "Ulike",
+   "product": "Air 10",
+   "retailer": "Ulta",
+   "was": 399,
+   "now": 279,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-78051096",
+   "size": null,
+   "slug": "ulike-air-10",
+   "image": "/cutouts/ulike-air-10.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
+   "category": "Tools & Devices",
+   "subcategory": "Skin Tool",
+   "awardCount": 2,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
+    "Cosmopolitan Beauty Awards — Best Laser Hair-Removal Device (2026)"
    ]
   },
   {
@@ -307,85 +389,23 @@
    ]
   },
   {
-   "brand": "Milani",
-   "product": "Conceal + Perfect Blur Out Skin Tint Stick",
-   "retailer": "Ulta",
-   "was": 18.5,
-   "now": 12.94,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-77317292",
-   "size": null,
-   "slug": "milani-conceal---perfect-blur-out-skin-tint-stick",
-   "image": "/cutouts/milani-conceal---perfect-blur-out-skin-tint-stick.webp",
+   "brand": "JLo Beauty",
+   "product": "Firming Neck Serum",
+   "retailer": "Amazon",
+   "was": 69,
+   "now": 49.85,
+   "percentOff": 28,
+   "url": "https://www.amazon.com/dp/B0GJ192QLW?tag=vettbeauty-20",
+   "size": "1.7 Oz",
+   "slug": "jlo-beauty-firming-neck-serum",
+   "image": "/cutouts/jlo-beauty-firming-neck-serum.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Foundation Stick (2026)",
-   "category": "Makeup",
-   "subcategory": "Foundation",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Foundation Stick (2026)",
-    "InStyle Best Beauty Buys — Best Skin Tint (2026)"
-   ]
-  },
-  {
-   "brand": "CosRX",
-   "product": "PDRN Exosome Skinplaning Glaze Mask",
-   "retailer": "Ulta",
-   "was": 17,
-   "now": 11.9,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-94238270",
-   "size": null,
-   "slug": "cosrx-pdrn-exosome-skinplaning-glaze-mask",
-   "image": "/cutouts/cosrx-pdrn-exosome-skinplaning-glaze-mask.webp",
-   "imageCutout": true,
-   "topAward": "Cosmopolitan Beauty Awards — Best Peel-Off Mask (2026)",
+   "topAward": "NewBeauty Annual Awards — Best Neck Serum (2026)",
    "category": "Skincare",
-   "subcategory": "Mask",
+   "subcategory": "Serum",
    "awardCount": 1,
    "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Peel-Off Mask (2026)"
-   ]
-  },
-  {
-   "brand": "Sungboon Editor",
-   "product": "Kojic Acid Niacinamide Radiance Soothing Gel Cleanser",
-   "retailer": "Ulta",
-   "was": 17,
-   "now": 11.9,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-94238499",
-   "size": null,
-   "slug": "sungboon-editor-kojic-acid-niacinamide-radiance-soothing-gel-cleanser",
-   "image": "/cutouts/sungboon-editor-kojic-acid-niacinamide-radiance-soothing-gel-cleanser.webp",
-   "imageCutout": true,
-   "topAward": "Cosmopolitan Beauty Awards — Best Brightening Cleanser (2026)",
-   "category": "Skincare",
-   "subcategory": "Cleanser",
-   "awardCount": 1,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Brightening Cleanser (2026)"
-   ]
-  },
-  {
-   "brand": "Ulike",
-   "product": "Air 10",
-   "retailer": "Ulta",
-   "was": 399,
-   "now": 279,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-78051096",
-   "size": null,
-   "slug": "ulike-air-10",
-   "image": "/cutouts/ulike-air-10.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Skin Tool",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
-    "Cosmopolitan Beauty Awards — Best Laser Hair-Removal Device (2026)"
+    "NewBeauty Annual Awards — Best Neck Serum (2026)"
    ]
   },
   {
@@ -429,43 +449,23 @@
    ]
   },
   {
-   "brand": "St.Tropez",
-   "product": "Self Tan Express Bronzing Mousse",
-   "retailer": "Dermstore",
-   "was": 46,
-   "now": 36,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-89618936",
-   "size": "100ml",
-   "slug": "st--tropez-self-tan-express-bronzing-mousse",
-   "image": "/cutouts/st--tropez-self-tan-express-bronzing-mousse.webp",
-   "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Self-Tanner (2025)",
-   "category": "Body",
-   "subcategory": "Self-Tanner",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Self-Tanner (2025)"
-   ]
-  },
-  {
-   "brand": "CeraVe",
-   "product": "Intensive Moisturizing Cream",
-   "retailer": "Ulta",
-   "was": 23,
-   "now": 17.99,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-94237597",
-   "size": "8.0 oz",
-   "slug": "cerave-intensive-moisturizing-cream",
-   "image": "/levelled/cerave-intensive-moisturizing-cream.webp",
+   "brand": "Proactiv",
+   "product": "Acne Clearing Body Spray",
+   "retailer": "Amazon",
+   "was": 25,
+   "now": 19,
+   "percentOff": 24,
+   "url": "https://www.amazon.com/dp/B0G54DCG16?tag=vettbeauty-20",
+   "size": "3.4 Fl Oz",
+   "slug": "proactiv-acne-clearing-body-spray",
+   "image": "/levelled/proactiv-acne-clearing-body-spray.webp",
    "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Moisturizer for Sensitive Skin (2026)",
-   "category": "Skincare",
-   "subcategory": "Moisturizer",
+   "topAward": "NewBeauty Annual Awards — Best Body Acne Spray (2026)",
+   "category": "Body",
+   "subcategory": "",
    "awardCount": 1,
    "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Moisturizer for Sensitive Skin (2026)"
+    "NewBeauty Annual Awards — Best Body Acne Spray (2026)"
    ]
   },
   {
@@ -487,26 +487,6 @@
    "awardsWon": [
     "Glamour Beauty Awards — Curly & Coily Hair — Best Flatiron (2026)",
     "Cosmopolitan Beauty Awards — Best Edge Styler (2026)"
-   ]
-  },
-  {
-   "brand": "Secret",
-   "product": "Whole Body Dry Feel Deodorant",
-   "retailer": "Amazon",
-   "was": 13.99,
-   "now": 11.06,
-   "percentOff": 21,
-   "url": "https://www.amazon.com/dp/B0CHN19PJX?tag=vettbeauty-20",
-   "size": "2.4 oz",
-   "slug": "secret-whole-body-dry-feel-deodorant",
-   "image": "/cutouts/secret-whole-body-dry-feel-deodorant.webp",
-   "imageCutout": true,
-   "topAward": "Marie Claire Skin & Hair Awards — Best Body Deodorant (2025)",
-   "category": "Body",
-   "subcategory": "Deodorant",
-   "awardCount": 1,
-   "awardsWon": [
-    "Marie Claire Skin & Hair Awards — Best Body Deodorant (2025)"
    ]
   },
   {
@@ -570,26 +550,6 @@
    ]
   },
   {
-   "brand": "Glasshouse Fragrances",
-   "product": "Body Bar",
-   "retailer": "Dermstore",
-   "was": 18,
-   "now": 15,
-   "percentOff": 17,
-   "url": "https://go.shopmy.us/p-78478118",
-   "size": "6.3 oz",
-   "slug": "glasshouse-fragrances-body-bar",
-   "image": "/levelled/glasshouse-fragrances-body-bar.webp",
-   "imageCutout": false,
-   "topAward": "InStyle Best Beauty Buys — Best Bar Soap (2026)",
-   "category": "Body",
-   "subcategory": "Bar Soap",
-   "awardCount": 1,
-   "awardsWon": [
-    "InStyle Best Beauty Buys — Best Bar Soap (2026)"
-   ]
-  },
-  {
    "brand": "Juvia’s Place",
    "product": "I Am Magic Silky Finishing Powder",
    "retailer": "Ulta",
@@ -610,46 +570,6 @@
    ]
   },
   {
-   "brand": "Kristin Ess",
-   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
-   "retailer": "Amazon",
-   "was": 21,
-   "now": 17.42,
-   "percentOff": 17,
-   "url": "https://www.amazon.com/dp/B0H42HZGLZ?tag=vettbeauty-20",
-   "size": null,
-   "slug": "kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask",
-   "image": "/cutouts/kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)",
-   "category": "Hair",
-   "subcategory": "Hair Mask",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)"
-   ]
-  },
-  {
-   "brand": "Proactiv",
-   "product": "Acne Clearing Body Spray",
-   "retailer": "Amazon",
-   "was": 25,
-   "now": 21.09,
-   "percentOff": 16,
-   "url": "https://www.amazon.com/dp/B0G54DCG16?tag=vettbeauty-20",
-   "size": "3.4 Fl Oz",
-   "slug": "proactiv-acne-clearing-body-spray",
-   "image": "/levelled/proactiv-acne-clearing-body-spray.webp",
-   "imageCutout": false,
-   "topAward": "NewBeauty Annual Awards — Best Body Acne Spray (2026)",
-   "category": "Body",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Body Acne Spray (2026)"
-   ]
-  },
-  {
    "brand": "Dove",
    "product": "Serum+ Shower Oil Body Wash",
    "retailer": "Amazon",
@@ -657,7 +577,7 @@
    "now": 10.98,
    "percentOff": 15,
    "url": "https://www.amazon.com/dp/B0G4SSVR4W?tag=vettbeauty-20",
-   "size": null,
+   "size": "15.3 fl oz",
    "slug": "dove-serum--shower-oil-body-wash",
    "image": "/cutouts/dove-serum--shower-oil-body-wash.webp",
    "imageCutout": true,
