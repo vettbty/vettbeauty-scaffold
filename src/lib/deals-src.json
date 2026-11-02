@@ -1,18 +1,18 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-10-31",
+ "generated": "2026-11-02",
  "items": [
   {
-   "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
-   "brand": "VOESH",
-   "product": "Hand Balm",
+   "productId": "a18362c1-463b-47dd-9f63-8c321ba1c0a8",
+   "brand": "Essence Makeup",
+   "product": "The Slim Stick",
    "retailer": "Ulta",
-   "was": 18,
-   "now": 8.4,
-   "percentOff": 53,
-   "url": "https://go.shopmy.us/p-80388348",
+   "was": 5,
+   "now": 2.49,
+   "percentOff": 50,
+   "url": "https://go.shopmy.us/p-78473605",
    "size": null,
-   "listing": "Nourishing Hand Balm for Hydrated Hands & Cuticles - VOESH"
+   "listing": "Baby Got Blush 104 The Slim Stick Lipstick - Essence"
   },
   {
    "productId": "50388da4-3ff1-4af0-a3e9-a6304f32a388",
@@ -27,40 +27,28 @@
    "listing": "630 Glowy Creme Chic Lumi Le Glass and Glow Highlighter Stick - L&#x27;Oréal Paris"
   },
   {
-   "productId": "10612547-8361-4133-a849-4b7fbc9379dc",
-   "brand": "Verb Products",
-   "product": "Curl Oil",
+   "productId": "08c2003a-15ad-4325-a350-19de13c27c7c",
+   "brand": "Ulike",
+   "product": "Air 10",
    "retailer": "Ulta",
-   "was": 22,
-   "now": 13.2,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-81177179",
+   "was": 399,
+   "now": 261.75,
+   "percentOff": 34,
+   "url": "https://go.shopmy.us/p-78051096",
    "size": null,
-   "listing": "Curl Defining Oil for Hydration + Frizz-Fighting - Verb"
+   "listing": "Pink Air10 Ice Cooling IPL Hair Removal Device - Ulike"
   },
   {
-   "productId": "b706fc9a-44b0-49e1-a1d5-94a2107d43db",
-   "brand": "Design Essentials",
-   "product": "Rosemary & Mint Stimulating Super Moisturizing Shampoo and Peppermint & Aloe Soothing Scalp Care Conditioner",
+   "productId": "42245f99-ef8f-4d27-bdab-20efa719500a",
+   "brand": "VOESH",
+   "product": "Hand Balm",
    "retailer": "Ulta",
-   "was": 15,
-   "now": 9,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-81250480",
+   "was": 18,
+   "now": 12,
+   "percentOff": 33,
+   "url": "https://go.shopmy.us/p-80388348",
    "size": null,
-   "listing": "Rosemary Mint Shampoo - Design Essentials"
-  },
-  {
-   "productId": "f04f2470-7e67-4cf9-b394-53f5a63cb20f",
-   "brand": "manyo",
-   "product": "Galac Niacin 3.0 Essence",
-   "retailer": "Ulta",
-   "was": 27,
-   "now": 16.8,
-   "percentOff": 38,
-   "url": "https://go.shopmy.us/p-94238337",
-   "size": null,
-   "listing": "Galac Niacin 3.0 Essence - ma:nyo"
+   "listing": "Nourishing Hand Balm for Hydrated Hands & Cuticles - VOESH"
   },
   {
    "productId": "2aa434c7-879e-4144-a3f6-5c5ecea808cd",
@@ -72,79 +60,7 @@
    "percentOff": 33,
    "url": "https://www.amazon.com/dp/B0H42HZGLZ",
    "size": "5.5 oz",
-   "listing": "Amazon.com: Kristin Ess+ Peptide Bond Repair Overnight Hair Mask, Damaged Hair 5.5 oz | Overnight dry hair mask repairs "
-  },
-  {
-   "productId": "861bc92f-7e75-4da6-a7f1-cb217a25f934",
-   "brand": "Made by Mitchell",
-   "product": "Curve Case Cream Makeup Palette",
-   "retailer": "Ulta",
-   "was": 33,
-   "now": 22.75,
-   "percentOff": 31,
-   "url": "https://go.shopmy.us/p-89624016",
-   "size": null,
-   "listing": "Deep Curve Case Cream Makeup Palette - Made By Mitchell"
-  },
-  {
-   "productId": "0f1ad14a-6d9e-476c-a371-980ea93be5e0",
-   "brand": "Milani",
-   "product": "Conceal + Perfect Blur Out Skin Tint Stick",
-   "retailer": "ulta",
-   "was": 18.5,
-   "now": 12.94,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-77317292",
-   "size": null,
-   "listing": "019 Conceal + Perfect Blur Out Skin Tint Stick - Milani"
-  },
-  {
-   "productId": "e6836ec2-d11e-4e67-a716-86d517c736ce",
-   "brand": "CosRX",
-   "product": "PDRN Exosome Skinplaning Glaze Mask",
-   "retailer": "Ulta",
-   "was": 17,
-   "now": 11.9,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-94238270",
-   "size": null,
-   "listing": "PDRN Exosome Skinplaning Glaze Mask with Collagen & Peptide - COSRX"
-  },
-  {
-   "productId": "d7ac640c-9a6d-475d-a293-ddd79b60cf78",
-   "brand": "COSRX",
-   "product": "The Ceramide Skin Barrier Moisturizer",
-   "retailer": "Ulta",
-   "was": 23,
-   "now": 16.1,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-91576964",
-   "size": "2.7 oz",
-   "listing": "2.7 oz The Ceramide Skin Barrier Moisturizer For Sensitive Skin - COSRX"
-  },
-  {
-   "productId": "a92c7612-d00b-4455-8f70-f22b84b63e1f",
-   "brand": "Sungboon Editor",
-   "product": "Kojic Acid Niacinamide Radiance Soothing Gel Cleanser",
-   "retailer": "Ulta",
-   "was": 17,
-   "now": 11.9,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-94238499",
-   "size": null,
-   "listing": "Niacin Kojic Acid Brightening Gel Cleanser - SUNGBOON EDITOR"
-  },
-  {
-   "productId": "08c2003a-15ad-4325-a350-19de13c27c7c",
-   "brand": "Ulike",
-   "product": "Air 10",
-   "retailer": "Ulta",
-   "was": 399,
-   "now": 279,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-78051096",
-   "size": null,
-   "listing": "Pink Air10 Ice Cooling IPL Hair Removal Device - Ulike"
+   "listing": "Kristin Ess+ Peptide Bond Repair Overnight Hair Mask, Damaged Hair 5.5 oz"
   },
   {
    "productId": "882d8e2f-fb16-4508-87ac-fefde4da546c",
@@ -159,76 +75,16 @@
    "listing": "Gradual Tanning Butter - Bali Body"
   },
   {
-   "productId": "f6c22a9a-9636-42d6-b2f7-c8a442551030",
-   "brand": "Erborian",
-   "product": "Skin Therapy Eye Cream",
-   "retailer": "Ulta",
-   "was": 39,
-   "now": 27.3,
+   "productId": "f7f9137f-1ee9-41ee-a936-dc84430da34a",
+   "brand": "NatureLab. TOKYO",
+   "product": "Kiseki Molecular Repair Mizu Hair Oil",
+   "retailer": "ulta",
+   "was": 32,
+   "now": 22.4,
    "percentOff": 30,
-   "url": "https://go.shopmy.us/p-78424620",
+   "url": "https://go.shopmy.us/p-80279334",
    "size": null,
-   "listing": "Skin Therapy Eye Cream - Erborian"
-  },
-  {
-   "productId": "42bba962-f5c1-4fba-acde-1d6f41a08059",
-   "brand": "Mediheal",
-   "product": "Rose PDRN Essential Sheet Mask",
-   "retailer": "Ulta",
-   "was": 8.8,
-   "now": 6.16,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-79360285",
-   "size": null,
-   "listing": "Rose PDRN Essential Mask - MEDIHEAL"
-  },
-  {
-   "productId": "facd8ae4-9f1b-42dc-9a8e-09cc3b222503",
-   "brand": "Solawave",
-   "product": "Bye Acne 2.0",
-   "retailer": "Ulta",
-   "was": 89,
-   "now": 62.3,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-80215859",
-   "size": null,
-   "listing": "Bye Acne: 3-Minute Blue + Red Light Therapy Acne Treatment - Solawave"
-  },
-  {
-   "productId": "81cf0ce6-4665-4c64-8da3-22106e8bf10f",
-   "brand": "TIRTIR",
-   "product": "Milk Skin Toner Light",
-   "retailer": "Ulta",
-   "was": 25,
-   "now": 17.5,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-80761991",
-   "size": null,
-   "listing": "Milk Skin Toner Light - TIRTIR"
-  },
-  {
-   "productId": "e63670d5-700c-4471-93d4-fc208bd3f602",
-   "brand": "Mediheal",
-   "product": "PDRN Lifting Pad",
-   "retailer": "Ulta",
-   "was": 26.4,
-   "now": 18.48,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-88567652",
-   "size": null,
-   "listing": "PDRN Lifting Pad - MEDIHEAL"
-  },
-  {
-   "productId": "98beaeae-1f2b-4edd-a39c-86fc98cdf43f",
-   "brand": "Naked Sundays",
-   "product": "BeautyScreen Peptide Foundation Tint SPF 50",
-   "retailer": "Ulta",
-   "was": 38,
-   "now": 26.6,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-81538445",
-   "size": null,
-   "listing": "Shade 5 BeautyScreen Peptide Foundation Tint SPF 50 - Naked Sundays"
+   "listing": "Kiseki Molecular Repair Mizu Hair Oil - NatureLab. Tokyo"
   },
   {
    "productId": "8ca3a47e-4125-472e-b613-7a18af77589a",
@@ -243,28 +99,16 @@
    "listing": "Amazon.com: JLO BEAUTY That Spotlight Silhouette Firming Neck & Jawline Serum, 1.7 Oz | Peptides, Red Algae & Growth Fac"
   },
   {
-   "productId": "cb28afa1-b676-4f2f-9914-35695780c828",
-   "brand": "Body Firm",
-   "product": "Neck Repair Treatment",
-   "retailer": "amazon",
-   "was": 79,
-   "now": 59.25,
-   "percentOff": 25,
-   "url": "https://www.amazon.com/dp/B0BHL8Z7NN",
-   "size": "1.7 FL Oz",
-   "listing": "Amazon.com: Crepe Erase Neck Repair Treatment, Retinol Cream, 1.7 FL Oz | Peptides, Shea Butter, Vitamin E, Squalane Oil"
-  },
-  {
-   "productId": "79bc82ae-8745-4382-8fba-dd0f51eda248",
-   "brand": "Mediheal",
-   "product": "Retinol Collagen Under Eye Patches",
+   "productId": "f12adfd9-54c2-4bcb-8204-eba97ee43e08",
+   "brand": "LolaVie",
+   "product": "Restorative Conditioner",
    "retailer": "Ulta",
-   "was": 22,
-   "now": 16.8,
-   "percentOff": 24,
-   "url": "https://go.shopmy.us/p-88568101",
-   "size": null,
-   "listing": "Retinol Collagen Eye Ampoule Patch - MEDIHEAL"
+   "was": 31,
+   "now": 22.4,
+   "percentOff": 28,
+   "url": "https://go.shopmy.us/p-80813288",
+   "size": "8.5 oz",
+   "listing": "8.5 oz Restorative Conditioner - LolaVie"
   },
   {
    "productId": "b0aeb350-cf26-4814-8db4-9fdc08eb5f3f",
@@ -276,7 +120,7 @@
    "percentOff": 24,
    "url": "https://www.amazon.com/dp/B0G54DCG16",
    "size": "3.4 Fl Oz",
-   "listing": "Amazon.com: Proactiv Acne Clearing Body Spray, 2% Salicylic Acid, 3.4 Fl Oz | Quick-drying 2% salicylic acid body acne s"
+   "listing": "Proactiv Acne Clearing Body Spray, 2% Salicylic Acid, 3.4 Fl Oz"
   },
   {
    "productId": "d451bc62-6dbf-4c7b-9098-b4a7d4860457",
@@ -289,66 +133,6 @@
    "url": "https://go.shopmy.us/p-78048866",
    "size": null,
    "listing": "Micro Edge Styler - RevAir"
-  },
-  {
-   "productId": "db4da85d-fc28-40fa-bb8a-1a76c1404560",
-   "brand": "Skin Gym",
-   "product": "High-Frequency Wand",
-   "retailer": "Ulta",
-   "was": 120,
-   "now": 96,
-   "percentOff": 20,
-   "url": "https://go.shopmy.us/p-80383832",
-   "size": null,
-   "listing": "High Frequency Wand - Skin Gym"
-  },
-  {
-   "productId": "d945e531-a6bb-4a5c-9502-927ce2a06d8c",
-   "brand": "goPure",
-   "product": "Tighten & Lift Neck Cream",
-   "retailer": "amazon",
-   "was": 40,
-   "now": 31.99,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0CGB215HR",
-   "size": null,
-   "listing": "Amazon.com: goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of"
-  },
-  {
-   "productId": "6ff8c935-7c9a-4070-ab21-c4935b4f55c9",
-   "brand": "Schick Hydro Silk",
-   "product": "Mini Razor",
-   "retailer": "amazon",
-   "was": 9.97,
-   "now": 7.98,
-   "percentOff": 20,
-   "url": "https://www.amazon.com/dp/B0FTZT31L8",
-   "size": "Mini",
-   "listing": "Schick Hydro Silk Mini 5 Blade Razor for Women, 1 Handle, 1 Refill & 1"
-  },
-  {
-   "productId": "0cff0df6-5bcf-4447-bc69-f9ae16df08e8",
-   "brand": "Juvia’s Place",
-   "product": "I Am Magic Silky Finishing Powder",
-   "retailer": "Ulta",
-   "was": 18,
-   "now": 15,
-   "percentOff": 17,
-   "url": "https://go.shopmy.us/p-78563043",
-   "size": null,
-   "listing": "Coconut Flakes I am Magic Silky Finishing Powder (Talc Free) - Juvia&#x27;s Place"
-  },
-  {
-   "productId": "e17abc87-9356-460f-8516-52ec5789ff83",
-   "brand": "Dove",
-   "product": "Serum+ Shower Oil Body Wash",
-   "retailer": "amazon",
-   "was": 12.97,
-   "now": 10.98,
-   "percentOff": 15,
-   "url": "https://www.amazon.com/dp/B0G4SSVR4W",
-   "size": "15.3 fl oz",
-   "listing": "Amazon.com : Dove Serum+ Soothing Oil Body Wash, Almond & Oil Sandalwood, 15.3 fl oz | For deep moisture, 50% glycerin s"
   }
  ]
 }
