@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-09",
  "items": [
   {
    "brand": "Essence Makeup",
@@ -22,205 +22,143 @@
    ]
   },
   {
-   "brand": "L’Oréal Paris",
-   "product": "Lumi Le Glass Highlighter Stick",
+   "brand": "Ulta Beauty Collection",
+   "product": "Dual Ended Finishing Powder Brush 144",
    "retailer": "Ulta",
-   "was": 12.99,
-   "now": 6.49,
-   "percentOff": 50,
-   "url": "https://go.shopmy.us/p-81544769",
-   "size": null,
-   "slug": "l-or-al-paris-lumi-le-glass-highlighter-stick",
-   "image": "/levelled/l-or-al-paris-lumi-le-glass-highlighter-stick.webp",
-   "imageCutout": false,
-   "topAward": "Cosmopolitan Beauty Awards — Best Cream Highlighter (2026)",
-   "category": "Makeup",
-   "subcategory": "Highlighter",
-   "awardCount": 1,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Cream Highlighter (2026)"
-   ]
-  },
-  {
-   "brand": "Ulike",
-   "product": "Air 10",
-   "retailer": "Ulta",
-   "was": 399,
-   "now": 261.75,
-   "percentOff": 34,
-   "url": "https://go.shopmy.us/p-78051096",
-   "size": null,
-   "slug": "ulike-air-10",
-   "image": "/cutouts/ulike-air-10.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Skin Tool",
-   "awardCount": 2,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best At-Home Laser Hair Removal Device (2026)",
-    "Cosmopolitan Beauty Awards — Best Laser Hair-Removal Device (2026)"
-   ]
-  },
-  {
-   "brand": "VOESH",
-   "product": "Hand Balm",
-   "retailer": "Ulta",
-   "was": 18,
+   "was": 20,
    "now": 12,
-   "percentOff": 33,
-   "url": "https://go.shopmy.us/p-80388348",
+   "percentOff": 40,
+   "url": "https://go.shopmy.us/p-89844520",
    "size": null,
-   "slug": "voesh-hand-balm",
-   "image": "/cutouts/voesh-hand-balm.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Hand Cream (2026)",
-   "category": "Body",
-   "subcategory": "Hand Cream",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Hand Cream (2026)"
-   ]
-  },
-  {
-   "brand": "Kristin Ess",
-   "product": "Peptide Restore Overnight Bond Revitalizing Dry Mask",
-   "retailer": "Amazon",
-   "was": 21,
-   "now": 14.11,
-   "percentOff": 33,
-   "url": "https://www.amazon.com/dp/B0H42HZGLZ?tag=vettbeauty-20",
-   "size": "5.5 oz",
-   "slug": "kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask",
-   "image": "/cutouts/kristin-ess-peptide-restore-overnight-bond-revitalizing-dry-mask.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)",
-   "category": "Hair",
-   "subcategory": "Hair Mask",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Readers Choice — Favorite Overnight Hair Mask (2025)"
-   ]
-  },
-  {
-   "brand": "Bali Body",
-   "product": "Gradual Tanning Butter",
-   "retailer": "Ulta",
-   "was": 33,
-   "now": 23.1,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-78146388",
-   "size": null,
-   "slug": "bali-body-gradual-tanning-butter",
-   "image": "/cutouts/bali-body-gradual-tanning-butter.webp",
-   "imageCutout": true,
-   "topAward": "Cosmopolitan Beauty Awards — Best Gradual Self-Tanner (2026)",
-   "category": "Body",
-   "subcategory": "Self-Tanner",
-   "awardCount": 1,
-   "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Gradual Self-Tanner (2026)"
-   ]
-  },
-  {
-   "brand": "NatureLab. TOKYO",
-   "product": "Kiseki Molecular Repair Mizu Hair Oil",
-   "retailer": "Ulta",
-   "was": 32,
-   "now": 22.4,
-   "percentOff": 30,
-   "url": "https://go.shopmy.us/p-80279334",
-   "size": null,
-   "slug": "naturelab--tokyo-kiseki-molecular-repair-mizu-hair-oil",
-   "image": "/cutouts/naturelab--tokyo-kiseki-molecular-repair-mizu-hair-oil.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Hair Oil for Damaged Hair (2026)",
-   "category": "Hair",
-   "subcategory": "Hair Oil",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Hair Oil for Damaged Hair (2026)"
-   ]
-  },
-  {
-   "brand": "JLo Beauty",
-   "product": "Firming Neck Serum",
-   "retailer": "Amazon",
-   "was": 69,
-   "now": 49.85,
-   "percentOff": 28,
-   "url": "https://www.amazon.com/dp/B0GJ192QLW?tag=vettbeauty-20",
-   "size": "1.7 Oz",
-   "slug": "jlo-beauty-firming-neck-serum",
-   "image": "/cutouts/jlo-beauty-firming-neck-serum.webp",
-   "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Neck Serum (2026)",
-   "category": "Skincare",
-   "subcategory": "Serum",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Neck Serum (2026)"
-   ]
-  },
-  {
-   "brand": "LolaVie",
-   "product": "Restorative Conditioner",
-   "retailer": "Ulta",
-   "was": 31,
-   "now": 22.4,
-   "percentOff": 28,
-   "url": "https://go.shopmy.us/p-80813288",
-   "size": "8.5 oz",
-   "slug": "lolavie-restorative-conditioner",
-   "image": "/cutouts/lolavie-restorative-conditioner.webp",
-   "imageCutout": true,
-   "topAward": "Marie Claire Skin & Hair Awards — Best Conditioner For Dry Hair (2025)",
-   "category": "Hair",
-   "subcategory": "Conditioner",
-   "awardCount": 1,
-   "awardsWon": [
-    "Marie Claire Skin & Hair Awards — Best Conditioner For Dry Hair (2025)"
-   ]
-  },
-  {
-   "brand": "Proactiv",
-   "product": "Acne Clearing Body Spray",
-   "retailer": "Amazon",
-   "was": 25,
-   "now": 19,
-   "percentOff": 24,
-   "url": "https://www.amazon.com/dp/B0G54DCG16?tag=vettbeauty-20",
-   "size": "3.4 Fl Oz",
-   "slug": "proactiv-acne-clearing-body-spray",
-   "image": "/levelled/proactiv-acne-clearing-body-spray.webp",
+   "slug": "ulta-beauty-collection-dual-ended-finishing-powder-brush-144",
+   "image": "/levelled/ulta-beauty-collection-dual-ended-finishing-powder-brush-144.webp",
    "imageCutout": false,
-   "topAward": "NewBeauty Annual Awards — Best Body Acne Spray (2026)",
-   "category": "Body",
+   "topAward": "Allure Best of Beauty — Best Powder Brush (2025)",
+   "category": "Tools & Devices",
+   "subcategory": "Brush",
+   "awardCount": 1,
+   "awardsWon": [
+    "Allure Best of Beauty — Best Powder Brush (2025)"
+   ]
+  },
+  {
+   "brand": "Joico",
+   "product": "Dream Blowout Glass",
+   "retailer": "Ulta",
+   "was": 28,
+   "now": 16.8,
+   "percentOff": 40,
+   "url": "https://go.shopmy.us/p-78562126",
+   "size": "6.7 oz",
+   "slug": "joico-dream-blowout-glass",
+   "image": "/cutouts/joico-dream-blowout-glass.webp",
+   "imageCutout": true,
+   "topAward": "NewBeauty Annual Awards — Best Glass Hair Treatment (2026)",
+   "category": "Hair",
+   "subcategory": "Styling",
+   "awardCount": 1,
+   "awardsWon": [
+    "NewBeauty Annual Awards — Best Glass Hair Treatment (2026)"
+   ]
+  },
+  {
+   "brand": "Ulta Beauty Collection",
+   "product": "Too Cheeky Lip & Cheek Color Stick",
+   "retailer": "Ulta",
+   "was": 12,
+   "now": 7.8,
+   "percentOff": 35,
+   "url": "https://go.shopmy.us/p-89844578",
+   "size": null,
+   "slug": "ulta-beauty-collection-too-cheeky-lip---cheek-color-stick",
+   "image": "/cutouts/ulta-beauty-collection-too-cheeky-lip---cheek-color-stick.webp",
+   "imageCutout": true,
+   "topAward": "Allure Best of Beauty — Best Makeup Steals (2025)",
+   "category": "Makeup",
    "subcategory": "",
    "awardCount": 1,
    "awardsWon": [
-    "NewBeauty Annual Awards — Best Body Acne Spray (2026)"
+    "Allure Best of Beauty — Best Makeup Steals (2025)"
    ]
   },
   {
-   "brand": "RevAir",
-   "product": "Micro Edge Styler",
+   "brand": "CHI",
+   "product": "LAVA 4D Hairstyling Iron",
    "retailer": "Ulta",
-   "was": 89,
-   "now": 69,
-   "percentOff": 22,
-   "url": "https://go.shopmy.us/p-78048866",
+   "was": 170,
+   "now": 125.99,
+   "percentOff": 26,
+   "url": "https://go.shopmy.us/p-78183200",
    "size": null,
-   "slug": "revair-micro-edge-styler",
-   "image": "/levelled/revair-micro-edge-styler.webp",
+   "slug": "chi-lava-4d-hairstyling-iron",
+   "image": "/levelled/chi-lava-4d-hairstyling-iron.webp",
    "imageCutout": false,
-   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Flatiron (2026)",
+   "topAward": "NewBeauty Annual Awards — Best Flat Iron (2026)",
    "category": "Tools & Devices",
    "subcategory": "Hair Tool",
-   "awardCount": 2,
+   "awardCount": 1,
    "awardsWon": [
-    "Glamour Beauty Awards — Curly & Coily Hair — Best Flatiron (2026)",
-    "Cosmopolitan Beauty Awards — Best Edge Styler (2026)"
+    "NewBeauty Annual Awards — Best Flat Iron (2026)"
+   ]
+  },
+  {
+   "brand": "Medicube",
+   "product": "Age-R Booster Pro",
+   "retailer": "Ulta",
+   "was": 204,
+   "now": 154,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-79606751",
+   "size": null,
+   "slug": "medicube-age-r-booster-pro-2",
+   "image": "/cutouts/medicube-age-r-booster-pro-2.webp",
+   "imageCutout": true,
+   "topAward": "Glowpick Awards (2025)",
+   "category": "Tools & Devices",
+   "subcategory": "Skin Tool",
+   "awardCount": 1,
+   "awardsWon": [
+    "Glowpick Awards (2025)"
+   ]
+  },
+  {
+   "brand": "Luv Scrub",
+   "product": "African Mesh Body Exfoliator",
+   "retailer": "Ulta",
+   "was": 18,
+   "now": 13.5,
+   "percentOff": 25,
+   "url": "https://go.shopmy.us/p-82384382",
+   "size": null,
+   "slug": "luv-scrub-african-mesh-body-exfoliator",
+   "image": "/cutouts/luv-scrub-african-mesh-body-exfoliator.webp",
+   "imageCutout": true,
+   "topAward": "Cosmopolitan Beauty Awards — Best Body Exfoliating Tool (2026)",
+   "category": "Body",
+   "subcategory": "Body Scrub",
+   "awardCount": 1,
+   "awardsWon": [
+    "Cosmopolitan Beauty Awards — Best Body Exfoliating Tool (2026)"
+   ]
+  },
+  {
+   "brand": "Esker",
+   "product": "Body Plane",
+   "retailer": "Ulta",
+   "was": 45,
+   "now": 36,
+   "percentOff": 20,
+   "url": "https://go.shopmy.us/p-89623918",
+   "size": null,
+   "slug": "esker-body-plane",
+   "image": "/cutouts/esker-body-plane.webp",
+   "imageCutout": true,
+   "topAward": "InStyle Best Beauty Buys — Best Body Tool (2026)",
+   "category": "Tools & Devices",
+   "subcategory": "Body Tool",
+   "awardCount": 1,
+   "awardsWon": [
+    "InStyle Best Beauty Buys — Best Body Tool (2026)"
    ]
   }
  ]
