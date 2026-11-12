@@ -268,6 +268,14 @@ export const pressArticles: PressArticle[] = [
     productSlug: 'medicube-pdrn-pink-peptide-serum',
   },
   {
+    id: '6',
+    title: 'We Tested Fenty Beauty’s New Foundation—It’s the Most Flexible Formula Ever',
+    source: 'Glamour',
+    sourceUrl: 'https://www.glamour.com/story/fenty-beauty-pro-filter-flex-foundation-review',
+    productName: 'Fenty Beauty Pro Filt’r Fluid Flex Natural Matte Longwear Foundation',
+    productSlug: 'fenty-beauty-pro-filt-r-fluid-flex-natural-matte-longwear-foundation',
+  },
+  {
     id: '3',
     title: 'The Reformulated SkinCeuticals C E Ferulic Is Even Better Than I Expected',
     source: 'Vogue',
