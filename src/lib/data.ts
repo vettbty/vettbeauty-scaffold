@@ -197,6 +197,12 @@ const awardProgramsRaw: AwardProgram[] = [
   // programmes were live on product pages but invisible here. Counts below are
   // the award rows actually in the database, not a publication's headline claim
   // — see the Allure 319-vs-307 and Cosmo 151-vs-134 notes in data/awards.
+  // ELLE (US) Future of Beauty Awards: 83 winners, published 9 Nov 2026, all 83
+  // held in the database. 82 show here: "Kiss Press-On Nails" names no single
+  // Kiss product and its slug is already dropped by the 2026-09-26 ruling in
+  // data-overrides.json. Same publication record as the 2025 class; the UK
+  // edition is separate. See data/awards/elle-us-future-of-beauty-2026.json.
+  { id: '18', name: 'ELLE Future of Beauty Awards', edition: '2026', winnerCount: 83, announcedDate: '9 Nov 2026', region: 'US', recordName: 'Elle Future of Beauty Awards', justAdded: true },
   // Marie Claire merged its Skin & Hair and Makeup awards for 2026 and added
   // Nails, Body Care and Drugstore. 213 imported, and unusually the publication
   // prints a retailer URL for every one, so 211 of 213 arrived buyable. 212 held:
