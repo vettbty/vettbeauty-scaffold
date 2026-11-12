@@ -424,6 +424,30 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
         <p className="text-xs sm:text-sm text-charcoal-light">© 2026 Vettbeauty. Every award-winning beauty product, verified.</p>
         <AffiliateNote className="mt-2 max-w-2xl mx-auto" />
       </footer>
+
+      {/* Phone-only buy bar pinned to the bottom of the screen, so the buy
+          link is one tap away however far the reader scrolls. Plain markup,
+          no client JS; the spacer keeps it from covering the footer. */}
+      {product.buyLink && (
+        <>
+          <div className="h-20 md:hidden" aria-hidden="true" />
+          <div className="md:hidden fixed inset-x-0 bottom-0 z-40 bg-white/95 backdrop-blur border-t border-cream-dark px-4 py-3 flex items-center gap-3" style={{ paddingBottom: 'max(0.75rem, env(safe-area-inset-bottom))' }}>
+            <div className="min-w-0 flex-1">
+              <p className="text-[11px] font-semibold uppercase microcap text-gold truncate">{product.brand}</p>
+              <p className="text-sm font-bold text-charcoal truncate">{priceLabel(product) ?? product.name}</p>
+            </div>
+            <a
+              href={product.buyLink}
+              target="_blank"
+              rel="sponsored noopener noreferrer"
+              data-buy="sticky"
+              className="shrink-0 bg-charcoal text-white py-3 px-5 rounded-md font-semibold text-sm"
+            >
+              Check Price →
+            </a>
+          </div>
+        </>
+      )}
     </>
   );
 }
