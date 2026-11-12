@@ -176,6 +176,48 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             
             <p className="text-lg sm:text-xl text-charcoal-light mb-6">{product.brand}</p>
 
+            {/* Price & CTA, straight under the name so it sits above the fold on a
+                phone (it used to follow the description and score box, ~1.5
+                screens down). */}
+            <div className="flex items-center gap-4 mb-8">
+              <span className="text-2xl sm:text-3xl font-bold text-charcoal">
+                {priceLabel(product) ?? 'Price unavailable'}
+                {showingRetail && product.retail && (
+                  <span className="block text-[11px] font-normal text-charcoal-light mt-0.5">
+                    {product.retail.at ? `at ${product.retail.at} · ` : ''}checked {new Date(product.retail.checked + 'T12:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}
+                  </span>
+                )}
+              </span>
+              {product.buyLink && (
+                <a
+                  href={product.buyLink}
+                  target="_blank"
+                  rel="sponsored noopener noreferrer"
+                  data-buy="product-cta"
+                  className="flex-1 max-w-xs bg-charcoal text-white text-center py-3 px-6 rounded-md font-semibold text-sm hover:bg-charcoal-light transition-colors"
+                >
+                  Check Price →
+                </a>
+              )}
+            </div>
+
+            <div className="mb-8 -mt-4">
+              <SaveButton
+                product={{
+                  id: product.id,
+                  slug: product.slug,
+                  brand: product.brand,
+                  name: product.name,
+                  price: product.price,
+                  image: product.image,
+                  topAward: product.topAward,
+                  awardCount: product.awardCount,
+                  consensusCount: product.consensusCount,
+                }}
+              />
+            </div>
+
+
             {about && (
               <div className="mb-6">
                 <p className="text-sm sm:text-base text-charcoal leading-relaxed">{about.text}</p>
@@ -226,45 +268,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                   ))}
                 </div>
               )}
-            </div>
-
-            {/* Price & CTA */}
-            <div className="flex items-center gap-4 mb-8">
-              <span className="text-2xl sm:text-3xl font-bold text-charcoal">
-                {priceLabel(product) ?? 'Price unavailable'}
-                {showingRetail && product.retail && (
-                  <span className="block text-[11px] font-normal text-charcoal-light mt-0.5">
-                    {product.retail.at ? `at ${product.retail.at} · ` : ''}checked {new Date(product.retail.checked + 'T12:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}
-                  </span>
-                )}
-              </span>
-              {product.buyLink && (
-                <a
-                  href={product.buyLink}
-                  target="_blank"
-                  rel="sponsored noopener noreferrer"
-                  data-buy="product-cta"
-                  className="flex-1 max-w-xs bg-charcoal text-white text-center py-3 px-6 rounded-md font-semibold text-sm hover:bg-charcoal-light transition-colors"
-                >
-                  Check Price →
-                </a>
-              )}
-            </div>
-
-            <div className="mb-8 -mt-4">
-              <SaveButton
-                product={{
-                  id: product.id,
-                  slug: product.slug,
-                  brand: product.brand,
-                  name: product.name,
-                  price: product.price,
-                  image: product.image,
-                  topAward: product.topAward,
-                  awardCount: product.awardCount,
-                  consensusCount: product.consensusCount,
-                }}
-              />
             </div>
 
             {/* Region — catalogue records regions as "US", "France", or a
