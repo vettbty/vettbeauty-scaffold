@@ -380,10 +380,10 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
               .filter(p => p.category === product.category && p.id !== product.id)
               .slice(0, 4)
               .map(related => (
+                <div key={related.id} className="bg-cream rounded-md overflow-hidden hover:shadow-md transition-all flex flex-col">
                 <Link
                   href={`/product/${related.slug}`}
-                  key={related.id}
-                  className="group bg-cream rounded-md overflow-hidden hover:shadow-md transition-all"
+                  className="group block"
                 >
                   <div className="product-tile aspect-square relative overflow-hidden">
                     {related.image ? (
@@ -404,6 +404,18 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                     <p className="text-sm font-semibold text-charcoal line-clamp-2">{related.name}</p>
                   </div>
                 </Link>
+                {related.buyLink && (
+                  <a
+                    href={related.buyLink}
+                    target="_blank"
+                    rel="sponsored noopener noreferrer"
+                    data-buy="related"
+                    className="px-3 pb-3 mt-auto text-[11px] font-semibold text-gold uppercase microcap"
+                  >
+                    Check Price →
+                  </a>
+                )}
+                </div>
               ))}
           </div>
         </div>
