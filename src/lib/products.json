@@ -22155,7 +22155,7 @@
     "brand": "Dr. Dennis Gross",
     "name": "DRx BioRejuvenation Serum",
     "price": 89,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/ec59af95-5bbb-4c3d-91ae-5f05d09f1ece/19bf5c4c-99d1-4b5d-a28a-a419e7f36f35.jpg",
+    "image": "/cutouts/dr--dennis-gross-drx-biorejuvenation-serum.webp",
     "topAward": "Elle Future of Beauty Awards — Best Rejuvenating Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -22167,7 +22167,9 @@
     "buyLink": "https://www.sephora.com/product/drx-biorejuvenation-serum-P526092",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Rejuvenating Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/ec59af95-5bbb-4c3d-91ae-5f05d09f1ece/19bf5c4c-99d1-4b5d-a28a-a419e7f36f35.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-993",
@@ -22933,7 +22935,7 @@
     "brand": "Dr. Reju-All",
     "name": "Advanced PDRN Rejuvenating Lip Serum",
     "price": 13.9,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/fe92cea4-35b7-4ad6-b538-1327d7e556b4/4c9c7e79-2971-4c37-9f5f-c38b0b5cd250.png",
+    "image": "/cutouts/dr--reju-all-advanced-pdrn-rejuvenating-lip-serum.webp",
     "topAward": "Elle Future of Beauty Awards — Best Lip Balm (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -22945,7 +22947,9 @@
     "buyLink": "https://www.ulta.com/p/advanced-pdrn-rejuvenating-lip-serum-pimprod2059292",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Lip Balm (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/fe92cea4-35b7-4ad6-b538-1327d7e556b4/4c9c7e79-2971-4c37-9f5f-c38b0b5cd250.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1028",
@@ -22975,7 +22979,7 @@
     "brand": "Fresh",
     "name": "Soy Cleansing Jelly Balm",
     "price": 42,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/0b0a9562-082e-4a6d-b79a-ffd569bb3dfe/d90d5dde-d058-46b6-9ff3-ddd8c0f85228.png",
+    "image": "/cutouts/fresh-soy-cleansing-jelly-balm.webp",
     "topAward": "Elle Future of Beauty Awards — Best Cleansing Balm (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -22987,7 +22991,9 @@
     "buyLink": "https://www.ulta.com/p/soy-cleansing-jelly-balm-pimprod2059795",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Cleansing Balm (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/0b0a9562-082e-4a6d-b79a-ffd569bb3dfe/d90d5dde-d058-46b6-9ff3-ddd8c0f85228.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1030",
@@ -23105,7 +23111,7 @@
     "brand": "Goop",
     "name": "Youth-Boost NAD+ Peptide Rich Cream",
     "price": 105,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/d172e303-1fb3-414a-8944-7bfdc34f7571/bfbde590-36d7-4e8b-82d1-d82cb276c494.png",
+    "image": "/cutouts/goop-youth-boost-nad--peptide-rich-cream.webp",
     "topAward": "Elle Future of Beauty Awards — Best NAD+ Cream (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -23117,7 +23123,9 @@
     "buyLink": "https://www.amazon.com/dp/B0G5B7D5XB?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best NAD+ Cream (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/d172e303-1fb3-414a-8944-7bfdc34f7571/bfbde590-36d7-4e8b-82d1-d82cb276c494.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1036",
@@ -23125,7 +23133,7 @@
     "brand": "La Roche-Posay",
     "name": "Hyalu B5 Suractivated Rich Cream Jar",
     "price": 27.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/d131d9d7-a7f0-47ec-8640-995a1cabd392/99525e16-0054-48e8-9869-d8a77153515d.jpeg",
+    "image": "/cutouts/la-roche-posay-hyalu-b5-suractivated-rich-cream-jar.webp",
     "topAward": "Elle Future of Beauty Awards — Best Hyaluronic Acid Cream (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -23137,7 +23145,9 @@
     "buyLink": "https://www.target.com/p/la-roche-posay-hyalu-b5-suractivated-rich-cream-jar-1-69-fl-oz/-/A-94872995",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Hyaluronic Acid Cream (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/d131d9d7-a7f0-47ec-8640-995a1cabd392/99525e16-0054-48e8-9869-d8a77153515d.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1037",
@@ -23817,7 +23827,7 @@
     "brand": "Hero Cosmetics",
     "name": "Mighty Shield",
     "price": 14.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/bd85bb34-31fa-4ed7-9a62-7413c364af29/b561f04c-07e8-462a-b63d-c2b4a2e2fdfd.png",
+    "image": "/cutouts/hero-cosmetics-mighty-shield.webp",
     "topAward": "Elle Future of Beauty Awards — Best Pimple Treatment (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -23829,7 +23839,9 @@
     "buyLink": "https://www.amazon.com/dp/B0G66PY3BK?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Pimple Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/bd85bb34-31fa-4ed7-9a62-7413c364af29/b561f04c-07e8-462a-b63d-c2b4a2e2fdfd.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1068",
@@ -24336,7 +24348,7 @@
     "brand": "Dior",
     "name": "Prestige La Crème Texture Essentielle",
     "price": 495,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/0e24fea9-bc59-4901-9d36-22f8b0b4dd4d/52ebf708-0ec8-4191-8a23-60527feb0665.jpg",
+    "image": "/cutouts/dior-prestige-la-cr-me-texture-essentielle.webp",
     "topAward": "Elle Future of Beauty Awards — Best Rejuvenating Moisturizer (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -24348,7 +24360,9 @@
     "buyLink": "https://www.dior.com/en_us/beauty/products/dior-prestige-la-creme-texture-essentielle-Y0000264.html",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Rejuvenating Moisturizer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/0e24fea9-bc59-4901-9d36-22f8b0b4dd4d/52ebf708-0ec8-4191-8a23-60527feb0665.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1091",
@@ -24356,7 +24370,7 @@
     "brand": "Upneeq",
     "name": "Reveal Under Eye Complex",
     "price": 75,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/0364d631-61e4-42d8-af49-0017d740a99f/5df593b3-3467-4549-adcc-55afc68e6179.jpg",
+    "image": "/cutouts/upneeq-reveal-under-eye-complex.webp",
     "topAward": "Elle Future of Beauty Awards — Best Brightening Eye Treatment (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -24368,7 +24382,9 @@
     "buyLink": "https://www.upneeq.com/reveal-under-eye-complex",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Brightening Eye Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/0364d631-61e4-42d8-af49-0017d740a99f/5df593b3-3467-4549-adcc-55afc68e6179.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1092",
@@ -24887,7 +24903,7 @@
     "brand": "MSK Labs",
     "name": "The Night Affair Overnight Tanning Mask",
     "price": 40,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/c4c6f7d6-374d-4282-a4a6-11eae4b395bb/d93cc29e-e2ee-4923-967f-b83e8ba5102a.jpg",
+    "image": "/cutouts/msk-labs-the-night-affair-overnight-tanning-mask.webp",
     "topAward": "Elle Future of Beauty Awards — Best Tanning Mask (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -24899,7 +24915,9 @@
     "buyLink": "https://www.modaoperandi.com/beauty/p/msk-labs/the-night-affair/759423",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Tanning Mask (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/c4c6f7d6-374d-4282-a4a6-11eae4b395bb/d93cc29e-e2ee-4923-967f-b83e8ba5102a.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1116",
@@ -25309,7 +25327,7 @@
     "brand": "Neutrogena",
     "name": "Clear Face Sunscreen for Acne-Prone Skin Broad Spectrum SPF 60 with BEMT",
     "price": 19.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/de2e2597-a663-47f2-acbb-fd8d487e9320/fe82e077-c1ae-4ce3-91c2-12b3381ccb95.jpg",
+    "image": "/cutouts/neutrogena-clear-face-sunscreen-for-acne-prone-skin-broad-spectrum-spf-60-with-b.webp",
     "topAward": "Elle Future of Beauty Awards — Best High-Tech Sunscreen (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -25321,7 +25339,9 @@
     "buyLink": "https://www.ulta.com/p/clear-face-sunscreen-acne-prone-skin-broad-spectrum-spf-60-pimprod2062129",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best High-Tech Sunscreen (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/de2e2597-a663-47f2-acbb-fd8d487e9320/fe82e077-c1ae-4ce3-91c2-12b3381ccb95.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1135",
@@ -25754,7 +25774,7 @@
     "brand": "Shiseido",
     "name": "Vital Perfection Intensive SculptDefine Serum",
     "price": 155,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/a73650c1-fd85-4c2c-9ab4-3444ab203cde/f132c65c-213a-42dc-8a43-29a27f4da92b.png",
+    "image": "/cutouts/shiseido-vital-perfection-intensive-sculptdefine-serum.webp",
     "topAward": "Elle Future of Beauty Awards — Best Sculpting Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -25766,7 +25786,9 @@
     "buyLink": "https://www.amazon.com/dp/B0H7754NL2?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Sculpting Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/a73650c1-fd85-4c2c-9ab4-3444ab203cde/f132c65c-213a-42dc-8a43-29a27f4da92b.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1155",
@@ -26330,7 +26352,7 @@
     "brand": "R+Co",
     "name": "Metal Detector Detox Shampoo",
     "price": 36,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/2b70ed94-fd3e-444a-b2b4-3bdf981bd0f4/6e8303c2-7e19-44e5-8b5a-c4ecb881e41a.jpg",
+    "image": "/cutouts/r-co-metal-detector-detox-shampoo.webp",
     "topAward": "Elle Future of Beauty Awards — Best Clarifying Shampoo (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -26342,7 +26364,9 @@
     "buyLink": "https://www.amazon.com/dp/B0GVZ93Y8H?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Clarifying Shampoo (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/2b70ed94-fd3e-444a-b2b4-3bdf981bd0f4/6e8303c2-7e19-44e5-8b5a-c4ecb881e41a.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1181",
@@ -26822,7 +26846,7 @@
     "brand": "La Bonne Brosse",
     "name": "Freshening and Volumizing Hair Mist",
     "price": 84,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/01e5b516-02e0-42aa-9049-d14abcd51996/9a5f48f8-bc06-4ace-a4b1-d1fd54579c51.jpg",
+    "image": "/cutouts/la-bonne-brosse-freshening-and-volumizing-hair-mist.webp",
     "topAward": "Elle Future of Beauty Awards — Best Refresh Mist (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -26834,7 +26858,9 @@
     "buyLink": "https://www.revolve.com/cair-freshening-volumizing-hair-mist/dp/LSSR-WU74/",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Refresh Mist (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/01e5b516-02e0-42aa-9049-d14abcd51996/9a5f48f8-bc06-4ace-a4b1-d1fd54579c51.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1203",
@@ -27238,7 +27264,7 @@
     "brand": "Nécessaire",
     "name": "The Body Wipe",
     "price": 30,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/610ae576-4461-46e5-9a07-df22c5ab9c70/afb7c785-472a-4464-a1a0-01c21ff95cf4.jpeg",
+    "image": "/cutouts/n-cessaire-the-body-wipe.webp",
     "topAward": "Elle Future of Beauty Awards — Best Body Wipe (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -27250,7 +27276,9 @@
     "buyLink": "https://www.amazon.com/dp/B0H1KBTX1S?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Body Wipe (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/610ae576-4461-46e5-9a07-df22c5ab9c70/afb7c785-472a-4464-a1a0-01c21ff95cf4.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1222",
@@ -27322,7 +27350,7 @@
     "brand": "Gamine",
     "name": "1000g Solid Parfum",
     "price": 75,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/3c895d3e-b43a-4b80-976e-039898040a0b/35ed1f96-f3f0-4ca2-841a-9c0c5adebb3e.jpeg",
+    "image": "/cutouts/gamine-1000g-solid-parfum.webp",
     "topAward": "Elle Future of Beauty Awards — Best Solid Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -27334,7 +27362,9 @@
     "buyLink": "https://www.revolve.com/1000g-solid-parfum/dp/GAMF-WU4/",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Solid Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/3c895d3e-b43a-4b80-976e-039898040a0b/35ed1f96-f3f0-4ca2-841a-9c0c5adebb3e.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1226",
@@ -27831,7 +27861,7 @@
     "brand": "Aprés",
     "name": "Bare Gel-X Natural Box of Tips",
     "price": 16.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/3c47f444-102c-45da-bd00-c683648d0699/1d76eb8c-1350-430b-90c7-df05580715a4.jpg",
+    "image": "/cutouts/apr-s-bare-gel-x-natural-box-of-tips.webp",
     "topAward": "Elle Future of Beauty Awards — Best At-Home Nail Extensions (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -27843,7 +27873,9 @@
     "buyLink": "https://www.amazon.com/dp/B0H8TKDBLX?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best At-Home Nail Extensions (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/3c47f444-102c-45da-bd00-c683648d0699/1d76eb8c-1350-430b-90c7-df05580715a4.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1249",
@@ -28069,7 +28101,7 @@
     "brand": "Hermès",
     "name": "Plein Air Luminous Matte Skin Care Foundation",
     "price": 145,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/d658685c-6329-475a-b76c-3116247f3e53/8da04f0a-99a9-4279-8bcf-bbb250534c7a.jpg",
+    "image": "/cutouts/herm-s-plein-air-luminous-matte-skin-care-foundation.webp",
     "topAward": "Elle Future of Beauty Awards — Best Radiant Foundation (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -28081,7 +28113,9 @@
     "buyLink": "https://www.nordstrom.com/s/hermes-plein-air-luminous-matte-skincare-foundation/8729141",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Radiant Foundation (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/d658685c-6329-475a-b76c-3116247f3e53/8da04f0a-99a9-4279-8bcf-bbb250534c7a.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1261",
@@ -28358,7 +28392,7 @@
     "brand": "Laura Geller",
     "name": "Anti-Hot Flash Setting Spray",
     "price": 32,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/a3ab261b-6ae9-4358-a7fb-89b8c9f985d3/e05d41fa-4718-4612-90dc-32c46a80e76b.jpg",
+    "image": "/cutouts/laura-geller-anti-hot-flash-setting-spray.webp",
     "topAward": "Elle Future of Beauty Awards — Best Setting Spray for Mature Skin (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -28370,7 +28404,9 @@
     "buyLink": "https://www.sephora.com/product/anti-hot-flash-setting-spray-P521594",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Setting Spray for Mature Skin (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/a3ab261b-6ae9-4358-a7fb-89b8c9f985d3/e05d41fa-4718-4612-90dc-32c46a80e76b.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1274",
@@ -28378,7 +28414,7 @@
     "brand": "Saie",
     "name": "SuperSuede Baked Eyeshadow",
     "price": 24,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/60be53dc-b627-480e-ba97-3eeebd441044/7520d603-1c50-4655-884e-2d62c69a9515.jpg",
+    "image": "/cutouts/saie-supersuede-baked-eyeshadow.webp",
     "topAward": "Elle Future of Beauty Awards — Best Eyeshadow (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -28390,7 +28426,9 @@
     "buyLink": "https://credobeauty.com/products/supersuede-baked-eyeshadow",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Eyeshadow (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/60be53dc-b627-480e-ba97-3eeebd441044/7520d603-1c50-4655-884e-2d62c69a9515.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1275",
@@ -28398,7 +28436,7 @@
     "brand": "Tower 28",
     "name": "Swipe Foundation",
     "price": 36,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/2d9ef756-5ac9-4f6a-958a-dbfd3b3027a1/af285f69-3fce-430b-ae07-b8413f1d541e.jpg",
+    "image": "/cutouts/tower-28-swipe-foundation.webp",
     "topAward": "Elle Future of Beauty Awards — Best Skin Care Foundation (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -28410,7 +28448,9 @@
     "buyLink": "https://www.revolve.com/swipe-foundation/dp/TOEI-WU160/",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Skin Care Foundation (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/2d9ef756-5ac9-4f6a-958a-dbfd3b3027a1/af285f69-3fce-430b-ae07-b8413f1d541e.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1276",
@@ -29149,7 +29189,7 @@
     "brand": "Bloomeffects",
     "name": "Black Tulip RegeneLift Eye Serum",
     "price": 49,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/35eb6987-fd2d-4081-bb2c-bb4262866346/0fb4bb49-2ab0-4778-8673-9acb8ab0d283.png",
+    "image": "/cutouts/bloomeffects-black-tulip-regenelift-eye-serum.webp",
     "topAward": "Elle Future of Beauty Awards — Best Eye Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29161,7 +29201,9 @@
     "buyLink": "https://www.ulta.com/p/black-tulip-regenelift-eye-serum-pimprod2059393",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Eye Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/35eb6987-fd2d-4081-bb2c-bb4262866346/0fb4bb49-2ab0-4778-8673-9acb8ab0d283.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1310",
@@ -29169,7 +29211,7 @@
     "brand": "Dr. Diamond's Metacine",
     "name": "Liplift Hyaluron Peptide-6 BioFill Lip Treatment",
     "price": 120,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/334f27ac-7084-4f68-b93e-98a922ce26eb/6b91e6cc-4d4d-4b3f-aaa9-7a00bd35f40c.jpg",
+    "image": "/cutouts/dr--diamond-s-metacine-liplift-hyaluron-peptide-6-biofill-lip-treatment.webp",
     "topAward": "Elle Future of Beauty Awards — Best Lip Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29181,7 +29223,9 @@
     "buyLink": "https://www.amazon.com/dp/B0HHGTRH3G?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Lip Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/334f27ac-7084-4f68-b93e-98a922ce26eb/6b91e6cc-4d4d-4b3f-aaa9-7a00bd35f40c.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1311",
@@ -29211,7 +29255,7 @@
     "brand": "Exoceuticals",
     "name": "Exo Elevate Skin Longevity Complex Moisturizing Cream",
     "price": 169,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/612081e7-4f3b-4c55-b225-3e357ae8d1e4/5ba82af2-c27f-48d4-b25a-76ce7f714411.jpg",
+    "image": "/cutouts/exoceuticals-exo-elevate-skin-longevity-complex-moisturizing-cream.webp",
     "topAward": "Elle Future of Beauty Awards — Best Rejuvenating Moisturizer (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29223,7 +29267,9 @@
     "buyLink": "https://exoceuticals.com/products/exo-elevate%E2%84%A2-skin-longevity-complex-moisturizer",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Rejuvenating Moisturizer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/612081e7-4f3b-4c55-b225-3e357ae8d1e4/5ba82af2-c27f-48d4-b25a-76ce7f714411.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1313",
@@ -29231,7 +29277,7 @@
     "brand": "iS Clinical",
     "name": "GeneXC Firming Eye Gel",
     "price": 130,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/0b41a4dc-86de-4bbf-9ddb-0e1e576647d0/59bcc285-773a-4c73-94f9-9cd834321c61.jpeg",
+    "image": "/cutouts/is-clinical-genexc-firming-eye-gel.webp",
     "topAward": "Elle Future of Beauty Awards — Best Firming Eye Treatment (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29243,7 +29289,9 @@
     "buyLink": "https://www.amazon.com/dp/B0GXDS8YKR?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Firming Eye Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/0b41a4dc-86de-4bbf-9ddb-0e1e576647d0/59bcc285-773a-4c73-94f9-9cd834321c61.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1314",
@@ -29273,7 +29321,7 @@
     "brand": "manyo",
     "name": "Glutathione 7 Dark Spot Serum Patch",
     "price": 22,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/26bddebd-19f5-46fc-9762-f419225822c2/65a3185c-4e47-4226-9376-d55539a8d50a.png",
+    "image": "/cutouts/manyo-glutathione-7-dark-spot-serum-patch.webp",
     "topAward": "Elle Future of Beauty Awards — Best Serum Patch (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29285,7 +29333,9 @@
     "buyLink": "https://www.ulta.com/p/glutathione-7-serum-patch-pimprod2058720",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Serum Patch (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/26bddebd-19f5-46fc-9762-f419225822c2/65a3185c-4e47-4226-9376-d55539a8d50a.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1316",
@@ -29293,7 +29343,7 @@
     "brand": "TIRTIR",
     "name": "Mood Glider Lip and Blush Stick",
     "price": 20,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/a1f0e11a-9ef1-4407-85c7-32742e21e1ef/e1beff0a-7e7f-471f-a92e-19293147ac79.jpg",
+    "image": "/cutouts/tirtir-mood-glider-lip-and-blush-stick.webp",
     "topAward": "Elle Future of Beauty Awards — Best Lip and Cheek Stick (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -29305,7 +29355,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FWJBB6KD?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Lip and Cheek Stick (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/a1f0e11a-9ef1-4407-85c7-32742e21e1ef/e1beff0a-7e7f-471f-a92e-19293147ac79.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1317",
@@ -29313,7 +29365,7 @@
     "brand": "YSL",
     "name": "Skin Affair Soft Glow Cushion Foundation",
     "price": 49,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/f20ad4bd-4b6e-4e4b-9bee-8a38e8b1fb68/8e980f99-41e5-4f4b-a1c5-80a8400576e0.jpg",
+    "image": "/cutouts/ysl-skin-affair-soft-glow-cushion-foundation.webp",
     "topAward": "Elle Future of Beauty Awards — Best Cushion Foundation (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -29325,7 +29377,9 @@
     "buyLink": "https://www.sephora.com/product/skin-affair-soft-glow-cushion-foundation-P524839",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Cushion Foundation (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/f20ad4bd-4b6e-4e4b-9bee-8a38e8b1fb68/8e980f99-41e5-4f4b-a1c5-80a8400576e0.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1318",
@@ -29507,7 +29561,7 @@
     "brand": "Medik8",
     "name": "Exo-PDRN Prismatic+ Vegan PDRN Serum With Triple Exosome Complex",
     "price": 96,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/be12109b-2391-4305-8d49-929b435b1831/2e27b14c-88cd-46f1-88f5-6c7dcf942885.jpg",
+    "image": "/cutouts/medik8-exo-pdrn-prismatic--vegan-pdrn-serum-with-triple-exosome-complex.webp",
     "topAward": "Elle Future of Beauty Awards — Best Exosome Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29519,7 +29573,9 @@
     "buyLink": "https://www.sephora.com/product/exo-pdrn-prismatic-serum-P525906",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Exosome Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/be12109b-2391-4305-8d49-929b435b1831/2e27b14c-88cd-46f1-88f5-6c7dcf942885.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1327",
@@ -29549,7 +29605,7 @@
     "brand": "Octo Skin Care",
     "name": "Performance SPF40",
     "price": 50,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/240da254-3394-43b2-93d1-5826d9a9f05e/d29d9201-8b1c-4c4b-b1ac-3994e5a6636d.jpg",
+    "image": "/cutouts/octo-skin-care-performance-spf40.webp",
     "topAward": "Elle Future of Beauty Awards — Best Adaptive Sunscreen (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29561,7 +29617,9 @@
     "buyLink": "https://octoskincare.com/products/performance-spf40",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Adaptive Sunscreen (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/240da254-3394-43b2-93d1-5826d9a9f05e/d29d9201-8b1c-4c4b-b1ac-3994e5a6636d.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1329",
@@ -29569,7 +29627,7 @@
     "brand": "Ilia",
     "name": "Sun Serum Mineral Sunscreen SPF 50",
     "price": 40,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/b56b0c83-30f8-4588-b487-6b8a32f2058e/c3df2fdd-133a-4497-827d-eabbc4533c67.png",
+    "image": "/cutouts/ilia-sun-serum-mineral-sunscreen-spf-50.webp",
     "topAward": "Elle Future of Beauty Awards — Best Mineral Sunscreen (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29581,7 +29639,9 @@
     "buyLink": "https://www.amazon.com/dp/B0H4X2F9SY?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Mineral Sunscreen (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/b56b0c83-30f8-4588-b487-6b8a32f2058e/c3df2fdd-133a-4497-827d-eabbc4533c67.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1330",
@@ -29589,7 +29649,7 @@
     "brand": "Skorr",
     "name": "Revive Exosome EGF Booster",
     "price": 285,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/211ffed9-f215-44f7-85d8-01b288164b1b/2735cd52-5f2b-4e25-9559-75297f8de37f.jpg",
+    "image": "/cutouts/skorr-revive-exosome-egf-booster.webp",
     "topAward": "Elle Future of Beauty Awards — Best Exosome Booster (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29601,7 +29661,9 @@
     "buyLink": "https://skorrskin.com/products/skorr-skin-revive",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Exosome Booster (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/211ffed9-f215-44f7-85d8-01b288164b1b/2735cd52-5f2b-4e25-9559-75297f8de37f.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1331",
@@ -29675,7 +29737,7 @@
     "brand": "SeneGence",
     "name": "GLP-Complex with SenePlex+ and Exosomes",
     "price": 155,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/69aaebc4-7e22-4765-bf26-5ca21b22f0c0/f8f0f8a1-3968-4bb6-9a38-a61b25331ebd.jpg",
+    "image": "/cutouts/senegence-glp-complex-with-seneplex--and-exosomes.webp",
     "topAward": "Elle Future of Beauty Awards — Best Skin-Plumping Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29687,7 +29749,9 @@
     "buyLink": "https://www.senegence.com/products/g-l-p-complex-with-exosomes-seneplex",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Skin-Plumping Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/69aaebc4-7e22-4765-bf26-5ca21b22f0c0/f8f0f8a1-3968-4bb6-9a38-a61b25331ebd.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1335",
@@ -29963,7 +30027,7 @@
     "brand": "Biodance",
     "name": "Caviar PDRN Liposome Bubble Booster",
     "price": 19.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/147ef46e-9c65-4e96-8fa7-699988a79986/44c54c7d-aeef-4270-bd28-c4f6923eb080.jpg",
+    "image": "/cutouts/biodance-caviar-pdrn-liposome-bubble-booster.webp",
     "topAward": "Elle Future of Beauty Awards — Best K-Beauty Serum (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -29975,7 +30039,9 @@
     "buyLink": "https://www.amazon.com/dp/B0H1LD5JZF?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best K-Beauty Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/147ef46e-9c65-4e96-8fa7-699988a79986/44c54c7d-aeef-4270-bd28-c4f6923eb080.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1348",
@@ -30692,7 +30758,7 @@
     "brand": "Lancôme",
     "name": "Absolue Longevity MD Reset Face Cream",
     "price": 155,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/7ed28267-033b-4a00-bbc0-92bc57aa0bcc/6759022b-0a2f-4f3e-b5b9-21eded632cb9.jpg",
+    "image": "/cutouts/lanc-me-absolue-longevity-md-reset-face-cream.webp",
     "topAward": "Elle Future of Beauty Awards — Best Renewing Moisturizer (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -30704,7 +30770,9 @@
     "buyLink": "https://www.ulta.com/p/absolue-longevity-md-reset-face-cream-mature-skin-pimprod2058574",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Renewing Moisturizer (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/7ed28267-033b-4a00-bbc0-92bc57aa0bcc/6759022b-0a2f-4f3e-b5b9-21eded632cb9.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1379",
@@ -30712,7 +30780,7 @@
     "brand": "Sulwhasoo",
     "name": "UV Wise On-the-Go Sun Cushion SPF 50+",
     "price": 45,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/8528982c-24b6-4ded-af15-3da41ce56091/05d15d89-1316-47b6-bbe0-7e8e6024567f.jpg",
+    "image": "/cutouts/sulwhasoo-uv-wise-on-the-go-sun-cushion-spf-50-.webp",
     "topAward": "Elle Future of Beauty Awards — Best Sunscreen for Reapplication (2026)",
     "awardCount": 1,
     "category": "Skincare",
@@ -30724,7 +30792,9 @@
     "buyLink": "https://www.sephora.com/product/uv-wise-on-the-go-sun-cushion-P522827",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Sunscreen for Reapplication (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/8528982c-24b6-4ded-af15-3da41ce56091/05d15d89-1316-47b6-bbe0-7e8e6024567f.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1380",
@@ -31257,7 +31327,7 @@
     "brand": "Bounce Curl",
     "name": "Chia Seed Clumping Gel",
     "price": 28,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/c41c5014-72e1-4d2b-82cd-5378b42a22f4/111fe6cd-258e-4618-809a-37d03fe88b41.jpg",
+    "image": "/cutouts/bounce-curl-chia-seed-clumping-gel.webp",
     "topAward": "Elle Future of Beauty Awards — Best Curl Gel (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -31269,7 +31339,9 @@
     "buyLink": "https://www.sephora.com/product/chia-seed-clumping-gel-P525628",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Curl Gel (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/c41c5014-72e1-4d2b-82cd-5378b42a22f4/111fe6cd-258e-4618-809a-37d03fe88b41.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1404",
@@ -31322,7 +31394,7 @@
     "brand": "SH-RD Beauty Corp.",
     "name": "Exosome Root Awakening Concentrate",
     "price": 300,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/5cf47b64-57e7-4098-8496-6fa181f135ff/afad12da-6821-4480-9085-f2dac2928d00.jpg",
+    "image": "/cutouts/sh-rd-beauty-corp--exosome-root-awakening-concentrate.webp",
     "topAward": "Elle Future of Beauty Awards — Best Exosome Serum (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -31334,7 +31406,9 @@
     "buyLink": "https://shrd.us/products/sh-rd-exosome-root-awakening-concentrate",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Exosome Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/5cf47b64-57e7-4098-8496-6fa181f135ff/afad12da-6821-4480-9085-f2dac2928d00.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1407",
@@ -31507,7 +31581,7 @@
     "brand": "Redken",
     "name": "Hair Bandage Balm",
     "price": 48,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/ad7bc84a-4711-403c-aedb-87387e5a6439/5b25b13f-a79b-4b10-b15b-94783f5caaf4.png",
+    "image": "/cutouts/redken-hair-bandage-balm.webp",
     "topAward": "Elle Future of Beauty Awards — Best Split-End Treatment (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -31519,7 +31593,9 @@
     "buyLink": "https://www.amazon.com/dp/B0FZCMP92T?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Split-End Treatment (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/ad7bc84a-4711-403c-aedb-87387e5a6439/5b25b13f-a79b-4b10-b15b-94783f5caaf4.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1415",
@@ -31571,7 +31647,7 @@
     "brand": "Cécred",
     "name": "Strong Hold Gel",
     "price": 32,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/249cf10e-4789-43ef-a1e4-1a13313a0931/8a69f765-71b8-4d2f-9ba5-98c7cf7404b1.png",
+    "image": "/cutouts/c-cred-strong-hold-gel.webp",
     "topAward": "Elle Future of Beauty Awards — Best Gel for Hold (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -31583,7 +31659,9 @@
     "buyLink": "https://www.ulta.com/p/strong-hold-gel-pimprod2057957",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Gel for Hold (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/249cf10e-4789-43ef-a1e4-1a13313a0931/8a69f765-71b8-4d2f-9ba5-98c7cf7404b1.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1418",
@@ -31702,7 +31780,7 @@
     "brand": "Virtue",
     "name": "Healing Gloss",
     "price": 44,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/e0b59c27-9073-4a55-b498-2235532dba59/564b40d7-fd42-4108-88a2-b307942db575.jpeg",
+    "image": "/cutouts/virtue-healing-gloss.webp",
     "topAward": "Elle Future of Beauty Awards — Best Hair Gloss (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -31714,7 +31792,9 @@
     "buyLink": "https://www.ulta.com/p/healing-gloss-pimprod2060651",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Hair Gloss (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/e0b59c27-9073-4a55-b498-2235532dba59/564b40d7-fd42-4108-88a2-b307942db575.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1424",
@@ -32129,7 +32209,7 @@
     "brand": "MNQA",
     "name": "Butter+ Cloud Sealing Water",
     "price": 36,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/b30ece69-41a8-4efc-8a79-608fe5e68e72/06523d52-3e0a-46d5-8f76-7de7f24c5b06.jpg",
+    "image": "/cutouts/mnqa-butter--cloud-sealing-water.webp",
     "topAward": "Elle Future of Beauty Awards — Best Heat Protectant (2026)",
     "awardCount": 1,
     "category": "Hair",
@@ -32141,7 +32221,9 @@
     "buyLink": "https://www.mnqabyq.com/products/butter-cloud-sealing-water-100ml",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Heat Protectant (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/b30ece69-41a8-4efc-8a79-608fe5e68e72/06523d52-3e0a-46d5-8f76-7de7f24c5b06.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1443",
@@ -32149,7 +32231,7 @@
     "brand": "Future Society",
     "name": "Cloud Reverie Eau de Parfum",
     "price": 98,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/eb68e947-a70e-40d5-ae93-82843555e28b/2a7865db-eee9-4a4e-a111-5ae75cf79325.jpeg",
+    "image": "/cutouts/future-society-cloud-reverie-eau-de-parfum.webp",
     "topAward": "Elle Future of Beauty Awards — Best Innovative Perfume (2026)",
     "awardCount": 1,
     "category": "Fragrance",
@@ -32161,7 +32243,9 @@
     "buyLink": "https://wearefuturesociety.com/products/cloud-reverie-fragrance",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Innovative Perfume (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/eb68e947-a70e-40d5-ae93-82843555e28b/2a7865db-eee9-4a4e-a111-5ae75cf79325.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1444",
@@ -32169,7 +32253,7 @@
     "brand": "Cyklar",
     "name": "Self-Tanning Milky Essence",
     "price": 36,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/53ec5349-8e9a-4022-bcd0-46d9f88bce4c/b71c0d91-360c-4781-9bc9-80e861326e44.jpg",
+    "image": "/cutouts/cyklar-self-tanning-milky-essence.webp",
     "topAward": "Elle Future of Beauty Awards — Best Self-Tanner (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -32181,7 +32265,9 @@
     "buyLink": "https://www.amazon.com/dp/B0GWJRYDLX?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Self-Tanner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/53ec5349-8e9a-4022-bcd0-46d9f88bce4c/b71c0d91-360c-4781-9bc9-80e861326e44.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1445",
@@ -32189,7 +32275,7 @@
     "brand": "Knock",
     "name": "Melt-In Body Toner",
     "price": 26,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/3b72f929-5a5e-4d58-bb6f-df3ab4590a84/32439354-5c5f-448d-9a42-6fe5abd7ba01.jpg",
+    "image": "/cutouts/knock-melt-in-body-toner.webp",
     "topAward": "Elle Future of Beauty Awards — Best Body Toner (2026)",
     "awardCount": 1,
     "category": "Body",
@@ -32201,7 +32287,9 @@
     "buyLink": "https://www.amazon.com/dp/B0G6YYB5M7?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Body Toner (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/3b72f929-5a5e-4d58-bb6f-df3ab4590a84/32439354-5c5f-448d-9a42-6fe5abd7ba01.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1446",
@@ -32253,7 +32341,7 @@
     "brand": "Guerlain",
     "name": "Meteorites Compact Mattifying Pressed Setting Powder",
     "price": 75,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/eac32097-7dda-4eb7-9696-67ce39e35b66/5d1bccea-7591-46a1-8695-09cca9cf9cac.jpg",
+    "image": "/cutouts/guerlain-meteorites-compact-mattifying-pressed-setting-powder.webp",
     "topAward": "Elle Future of Beauty Awards — Best Setting Powder (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -32265,7 +32353,9 @@
     "buyLink": "https://www.nordstrom.com/s/9066438",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Setting Powder (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/eac32097-7dda-4eb7-9696-67ce39e35b66/5d1bccea-7591-46a1-8695-09cca9cf9cac.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1449",
@@ -32317,7 +32407,7 @@
     "brand": "ONE/SIZE by Patrick Starrr",
     "name": "Oil Sucker Liquid Blotting Paper Touch-Up Spray",
     "price": 34,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/2c3711dd-4201-4272-a733-f88f98478fb3/8491be8a-6037-4fef-b6c6-8765c53f0f69.jpg",
+    "image": "/cutouts/one-size-by-patrick-starrr-oil-sucker-liquid-blotting-paper-touch-up-spray.webp",
     "topAward": "Elle Future of Beauty Awards — Best Setting Spray for Oily Skin (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -32329,7 +32419,9 @@
     "buyLink": "https://www.amazon.com/dp/B0H37QQ29C?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Setting Spray for Oily Skin (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/2c3711dd-4201-4272-a733-f88f98478fb3/8491be8a-6037-4fef-b6c6-8765c53f0f69.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1452",
@@ -32360,7 +32452,7 @@
     "brand": "OPI",
     "name": "Chrome Powder",
     "price": 14.99,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/a79fd7e8-6ed2-4e2b-9f34-f036ade98b51/9c8b067f-a07e-4234-896b-5b6f24779c6a.png",
+    "image": "/cutouts/opi-chrome-powder.webp",
     "topAward": "Elle Future of Beauty Awards — Best At-Home Chrome Nail Powder (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -32372,7 +32464,9 @@
     "buyLink": "https://www.amazon.com/dp/B0GR7RD6MC?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best At-Home Chrome Nail Powder (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/a79fd7e8-6ed2-4e2b-9f34-f036ade98b51/9c8b067f-a07e-4234-896b-5b6f24779c6a.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1454",
@@ -32646,7 +32740,7 @@
     "brand": "Tilt Beauty",
     "name": "The Easy Way Hydrating Satin Lipstick",
     "price": 28,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/fbce84c8-4891-44c0-9246-c782f63ec2eb/244c142a-25f3-4f69-9ebd-5ba69b34256c.jpg",
+    "image": "/cutouts/tilt-beauty-the-easy-way-hydrating-satin-lipstick.webp",
     "topAward": "Elle Future of Beauty Awards — Best Ergonomic Lipstick (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -32658,7 +32752,9 @@
     "buyLink": "https://tiltbeauty.com/products/the-easy-way-lipstick",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Ergonomic Lipstick (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/fbce84c8-4891-44c0-9246-c782f63ec2eb/244c142a-25f3-4f69-9ebd-5ba69b34256c.jpg",
+    "imageCutout": true
   },
   {
     "id": "prod-1467",
@@ -32753,7 +32849,7 @@
     "brand": "Fenty Beauty",
     "name": "Pro Filt’r Fluid Flex Natural Matte Longwear Foundation",
     "price": 48,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/43611921-96a8-4d95-b71c-5322fa3d720f/c4ba125c-4b2a-4ff9-b203-2651a63fa14c.png",
+    "image": "/cutouts/fenty-beauty-pro-filt-r-fluid-flex-natural-matte-longwear-foundation.webp",
     "topAward": "Elle Future of Beauty Awards — Best Matte Foundation (2026)",
     "awardCount": 1,
     "category": "Makeup",
@@ -32765,7 +32861,9 @@
     "buyLink": "https://www.amazon.com/dp/B0HN5S17GW?tag=vettbeauty-20",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Matte Foundation (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/43611921-96a8-4d95-b71c-5322fa3d720f/c4ba125c-4b2a-4ff9-b203-2651a63fa14c.png",
+    "imageCutout": true
   },
   {
     "id": "prod-1472",
@@ -32884,7 +32982,7 @@
     "brand": "Buff Beauty",
     "name": "Restore Nail Strengthening Serum",
     "price": 19,
-    "image": "https://vader-prod.s3.amazonaws.com/product-images/14a13a83-d925-4dfe-bbe3-e96655fd8af9/e5a5f72f-a3d4-4869-b225-011ebfc7cba2.jpeg",
+    "image": "/cutouts/buff-beauty-restore-nail-strengthening-serum.webp",
     "topAward": "Elle Future of Beauty Awards — Best Nail Serum (2026)",
     "awardCount": 1,
     "category": "Nails",
@@ -32896,7 +32994,9 @@
     "buyLink": "https://www.target.com/p/buff-beauty-restore-strengthening-serum-for-nails-hands-and-feet-0-50-fl-oz-beauty-studio/-/A-95285380",
     "awardsWon": [
       "Elle Future of Beauty Awards — Best Nail Serum (2026)"
-    ]
+    ],
+    "imageOriginal": "https://vader-prod.s3.amazonaws.com/product-images/14a13a83-d925-4dfe-bbe3-e96655fd8af9/e5a5f72f-a3d4-4869-b225-011ebfc7cba2.jpeg",
+    "imageCutout": true
   },
   {
     "id": "prod-1478",
