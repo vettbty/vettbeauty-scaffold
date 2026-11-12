@@ -12,6 +12,9 @@ import type { Product } from "@/lib/data";
  * Tile would have changed the page. The only difference is the label: the
  * first editorial award (editorialLabel), never topAward, which can be a
  * Korean ranking.
+ *
+ * Each tile also carries a Shop link to its buy link (data-buy="home"): the
+ * homepage had no buy link at all before.
  */
 export default function FeatureRow({ items }: { items: Product[] }) {
   if (!items.length) return null;
@@ -52,6 +55,17 @@ export default function FeatureRow({ items }: { items: Product[] }) {
               <h3 className="font-sans text-sm font-semibold text-charcoal leading-snug line-clamp-2">{product.name}</h3>
             </div>
           </Link>
+          {product.buyLink && (
+            <a
+              href={product.buyLink}
+              target="_blank"
+              rel="sponsored noopener noreferrer"
+              data-buy="home"
+              className="px-3 pb-3 mt-auto text-[11px] font-semibold text-gold uppercase microcap"
+            >
+              Shop →
+            </a>
+          )}
         </div>
       ))}
     </div>
