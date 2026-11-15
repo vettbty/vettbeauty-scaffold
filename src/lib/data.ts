@@ -203,6 +203,13 @@ const awardProgramsRaw: AwardProgram[] = [
   // data-overrides.json. Same publication record as the 2025 class; the UK
   // edition is separate. See data/awards/elle-us-future-of-beauty-2026.json.
   { id: '18', name: 'ELLE Future of Beauty Awards', edition: '2026', winnerCount: 83, announcedDate: '9 Nov 2026', region: 'US', recordName: 'Elle Future of Beauty Awards', justAdded: true },
+  // Cosmopolitan Korea Beauty Awards 2026 (article 1912259, 31 Oct 2026): 7
+  // categories ranked 1st/2nd/3rd; only the 7 first places are held — 2nd/3rd
+  // are runner-up tiers (2026-08-07 ruling). An editorial title (52 judges +
+  // reader survey), so consensus.ts counts it under Cosmopolitan, the same way
+  // ELLE UK counts under Elle. See
+  // data/awards/cosmopolitan-korea-beauty-awards-2026.json in the data repo.
+  { id: '19', name: 'Cosmopolitan Korea Beauty Awards', edition: '2026', winnerCount: 7, announcedDate: '31 Oct 2026', region: 'Korea', recordName: 'Cosmopolitan Korea Beauty Awards', justAdded: true },
   // Marie Claire merged its Skin & Hair and Makeup awards for 2026 and added
   // Nails, Body Care and Drugstore. 213 imported, and unusually the publication
   // prints a retailer URL for every one, so 211 of 213 arrived buyable. 212 held:
