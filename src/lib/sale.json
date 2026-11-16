@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09",
+ "generated": "2026-11-16",
  "items": [
   {
    "brand": "Essence Makeup",
@@ -22,143 +22,63 @@
    ]
   },
   {
-   "brand": "Ulta Beauty Collection",
-   "product": "Dual Ended Finishing Powder Brush 144",
+   "brand": "SickScience",
+   "product": "DropOff Body Serum",
    "retailer": "Ulta",
-   "was": 20,
-   "now": 12,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-89844520",
+   "was": 52,
+   "now": 36.4,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-80369010",
    "size": null,
-   "slug": "ulta-beauty-collection-dual-ended-finishing-powder-brush-144",
-   "image": "/levelled/ulta-beauty-collection-dual-ended-finishing-powder-brush-144.webp",
-   "imageCutout": false,
-   "topAward": "Allure Best of Beauty — Best Powder Brush (2025)",
-   "category": "Tools & Devices",
-   "subcategory": "Brush",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Powder Brush (2025)"
-   ]
-  },
-  {
-   "brand": "Joico",
-   "product": "Dream Blowout Glass",
-   "retailer": "Ulta",
-   "was": 28,
-   "now": 16.8,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-78562126",
-   "size": "6.7 oz",
-   "slug": "joico-dream-blowout-glass",
-   "image": "/cutouts/joico-dream-blowout-glass.webp",
+   "slug": "sickscience-dropoff-body-serum",
+   "image": "/cutouts/sickscience-dropoff-body-serum.webp",
    "imageCutout": true,
-   "topAward": "NewBeauty Annual Awards — Best Glass Hair Treatment (2026)",
-   "category": "Hair",
-   "subcategory": "Styling",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Glass Hair Treatment (2026)"
-   ]
-  },
-  {
-   "brand": "Ulta Beauty Collection",
-   "product": "Too Cheeky Lip & Cheek Color Stick",
-   "retailer": "Ulta",
-   "was": 12,
-   "now": 7.8,
-   "percentOff": 35,
-   "url": "https://go.shopmy.us/p-89844578",
-   "size": null,
-   "slug": "ulta-beauty-collection-too-cheeky-lip---cheek-color-stick",
-   "image": "/cutouts/ulta-beauty-collection-too-cheeky-lip---cheek-color-stick.webp",
-   "imageCutout": true,
-   "topAward": "Allure Best of Beauty — Best Makeup Steals (2025)",
-   "category": "Makeup",
-   "subcategory": "",
-   "awardCount": 1,
-   "awardsWon": [
-    "Allure Best of Beauty — Best Makeup Steals (2025)"
-   ]
-  },
-  {
-   "brand": "CHI",
-   "product": "LAVA 4D Hairstyling Iron",
-   "retailer": "Ulta",
-   "was": 170,
-   "now": 125.99,
-   "percentOff": 26,
-   "url": "https://go.shopmy.us/p-78183200",
-   "size": null,
-   "slug": "chi-lava-4d-hairstyling-iron",
-   "image": "/levelled/chi-lava-4d-hairstyling-iron.webp",
-   "imageCutout": false,
-   "topAward": "NewBeauty Annual Awards — Best Flat Iron (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Hair Tool",
-   "awardCount": 1,
-   "awardsWon": [
-    "NewBeauty Annual Awards — Best Flat Iron (2026)"
-   ]
-  },
-  {
-   "brand": "Medicube",
-   "product": "Age-R Booster Pro",
-   "retailer": "Ulta",
-   "was": 204,
-   "now": 154,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-79606751",
-   "size": null,
-   "slug": "medicube-age-r-booster-pro-2",
-   "image": "/cutouts/medicube-age-r-booster-pro-2.webp",
-   "imageCutout": true,
-   "topAward": "Glowpick Awards (2025)",
-   "category": "Tools & Devices",
-   "subcategory": "Skin Tool",
-   "awardCount": 1,
-   "awardsWon": [
-    "Glowpick Awards (2025)"
-   ]
-  },
-  {
-   "brand": "Luv Scrub",
-   "product": "African Mesh Body Exfoliator",
-   "retailer": "Ulta",
-   "was": 18,
-   "now": 13.5,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-82384382",
-   "size": null,
-   "slug": "luv-scrub-african-mesh-body-exfoliator",
-   "image": "/cutouts/luv-scrub-african-mesh-body-exfoliator.webp",
-   "imageCutout": true,
-   "topAward": "Cosmopolitan Beauty Awards — Best Body Exfoliating Tool (2026)",
+   "topAward": "NewBeauty Annual Awards — Best Stretch Mark Treatment (2026)",
    "category": "Body",
-   "subcategory": "Body Scrub",
+   "subcategory": "Body Lotion",
    "awardCount": 1,
    "awardsWon": [
-    "Cosmopolitan Beauty Awards — Best Body Exfoliating Tool (2026)"
+    "NewBeauty Annual Awards — Best Stretch Mark Treatment (2026)"
    ]
   },
   {
-   "brand": "Esker",
-   "product": "Body Plane",
+   "brand": "SickScience",
+   "product": "NetWork",
    "retailer": "Ulta",
-   "was": 45,
-   "now": 36,
-   "percentOff": 20,
-   "url": "https://go.shopmy.us/p-89623918",
+   "was": 74,
+   "now": 51.8,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-89623536",
    "size": null,
-   "slug": "esker-body-plane",
-   "image": "/cutouts/esker-body-plane.webp",
+   "slug": "sickscience-network",
+   "image": "/cutouts/sickscience-network.webp",
    "imageCutout": true,
-   "topAward": "InStyle Best Beauty Buys — Best Body Tool (2026)",
-   "category": "Tools & Devices",
-   "subcategory": "Body Tool",
+   "topAward": "InStyle Best Beauty Buys — Best Tone-Evening Serum (2026)",
+   "category": "Skincare",
+   "subcategory": "Tone-Evening Serum",
    "awardCount": 1,
    "awardsWon": [
-    "InStyle Best Beauty Buys — Best Body Tool (2026)"
+    "InStyle Best Beauty Buys — Best Tone-Evening Serum (2026)"
+   ]
+  },
+  {
+   "brand": "Ouidad",
+   "product": "Curl Therapy Intense Repair Mask",
+   "retailer": "Ulta",
+   "was": 40,
+   "now": 32,
+   "percentOff": 20,
+   "url": "https://go.shopmy.us/p-89626071",
+   "size": null,
+   "slug": "ouidad-curl-therapy-intense-repair-mask",
+   "image": "/levelled/ouidad-curl-therapy-intense-repair-mask.webp",
+   "imageCutout": false,
+   "topAward": "Glamour Beauty Awards — Curly & Coily Hair — Best Affordable Hair Mask (2026)",
+   "category": "Hair",
+   "subcategory": "Hair Mask",
+   "awardCount": 1,
+   "awardsWon": [
+    "Glamour Beauty Awards — Curly & Coily Hair — Best Affordable Hair Mask (2026)"
    ]
   }
  ]

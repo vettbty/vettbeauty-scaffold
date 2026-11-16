@@ -1,6 +1,6 @@
 {
  "_README": "Award-winning products currently below the price the awarding publication printed. Produced by scripts/check-prices.mjs from Ulta/Amazon/Dermstore product pages. Reference price is the publication's, so it may be months old — the site wording reflects that. Review before deploying.",
- "generated": "2026-11-09",
+ "generated": "2026-11-16",
  "items": [
   {
    "productId": "a18362c1-463b-47dd-9f63-8c321ba1c0a8",
@@ -15,88 +15,40 @@
    "listing": "Baby Got Blush 104 The Slim Stick Lipstick - Essence"
   },
   {
-   "productId": "52317848-c48b-43b3-87e5-e8cc3c245d90",
-   "brand": "Ulta Beauty Collection",
-   "product": "Dual Ended Finishing Powder Brush 144",
+   "productId": "1334b007-c0e5-4253-b302-2f39613f7364",
+   "brand": "SickScience",
+   "product": "DropOff Body Serum",
    "retailer": "Ulta",
-   "was": 20,
-   "now": 12,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-89844520",
+   "was": 52,
+   "now": 36.4,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-80369010",
    "size": null,
-   "listing": "Dual Ended Finishing Powder Brush 144"
+   "listing": "DropOff Body Sculpting Serum - SickScience Labs"
   },
   {
-   "productId": "4f8ab201-8f2a-4a98-9efa-8fe80aea5c75",
-   "brand": "Joico",
-   "product": "Dream Blowout Glass",
+   "productId": "b3659450-9d75-4101-b317-cc70896b8e85",
+   "brand": "SickScience",
+   "product": "NetWork",
    "retailer": "Ulta",
-   "was": 28,
-   "now": 16.8,
-   "percentOff": 40,
-   "url": "https://go.shopmy.us/p-78562126",
-   "size": "6.7 oz",
-   "listing": "6.7 oz Dream Blowout Glass 72hr Frizz Fighter - Joico"
-  },
-  {
-   "productId": "cd0e048d-e41c-4e61-aa7e-9b416313db77",
-   "brand": "Ulta Beauty Collection",
-   "product": "Too Cheeky Lip & Cheek Color Stick",
-   "retailer": "Ulta",
-   "was": 12,
-   "now": 7.8,
-   "percentOff": 35,
-   "url": "https://go.shopmy.us/p-89844578",
+   "was": 74,
+   "now": 51.8,
+   "percentOff": 30,
+   "url": "https://go.shopmy.us/p-89623536",
    "size": null,
-   "listing": "Era Too Cheeky Lip & Cheek Color Stick"
+   "listing": "NetWork Rich Concentrated Serum - SickScience Labs"
   },
   {
-   "productId": "ad01d03f-dabe-47c7-be2c-5c2509964b75",
-   "brand": "CHI",
-   "product": "LAVA 4D Hairstyling Iron",
+   "productId": "14b43971-4722-401a-b35a-7f50e2e4ff74",
+   "brand": "Ouidad",
+   "product": "Curl Therapy Intense Repair Mask",
    "retailer": "Ulta",
-   "was": 170,
-   "now": 125.99,
-   "percentOff": 26,
-   "url": "https://go.shopmy.us/p-78183200",
-   "size": null,
-   "listing": "Lava 4D 1\" Hairstyling Iron - CHI"
-  },
-  {
-   "productId": "76a6131f-0cef-4684-97be-be3937bd525b",
-   "brand": "Medicube",
-   "product": "Age-R Booster Pro",
-   "retailer": "Ulta",
-   "was": 204,
-   "now": 154,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-79606751",
-   "size": null,
-   "listing": "Black Booster Pro - medicube"
-  },
-  {
-   "productId": "e5b3b2b6-2cae-4af8-93f1-6413bdea82cc",
-   "brand": "Luv Scrub",
-   "product": "African Mesh Body Exfoliator",
-   "retailer": "Ulta",
-   "was": 18,
-   "now": 13.5,
-   "percentOff": 25,
-   "url": "https://go.shopmy.us/p-82384382",
-   "size": null,
-   "listing": "Mesh Body Exfoliator - Summer Shower - LUV SCRUB"
-  },
-  {
-   "productId": "24c6c574-482b-443d-8690-a7cbc9438bb7",
-   "brand": "Esker",
-   "product": "Body Plane",
-   "retailer": "Ulta",
-   "was": 45,
-   "now": 36,
+   "was": 40,
+   "now": 32,
    "percentOff": 20,
-   "url": "https://go.shopmy.us/p-89623918",
+   "url": "https://go.shopmy.us/p-89626071",
    "size": null,
-   "listing": "Body Plane Massager - Esker Beauty"
+   "listing": "Curl Therapy Intense Repair Mask - Ouidad"
   }
  ]
 }
