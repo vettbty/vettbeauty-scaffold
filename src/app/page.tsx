@@ -28,6 +28,14 @@ export default async function Home() {
   const newest = dated.length
     ? dated.reduce((a, b) => (Date.parse(b.announcedDate!) > Date.parse(a.announcedDate!) ? b : a))
     : programmes[0];
+  // Every programme announced in the last 30 days, newest first, so a list
+  // published days before another (Cosmopolitan Korea, 27 Oct, behind ELLE on
+  // 9 Nov) is not hidden from the homepage. Falls back to the single newest.
+  const RECENT_MS = 30 * 24 * 60 * 60 * 1000;
+  const recentList = dated
+    .filter(p => Date.now() - Date.parse(p.announcedDate!) <= RECENT_MS)
+    .sort((a, b) => Date.parse(b.announcedDate!) - Date.parse(a.announcedDate!));
+  const recent = recentList.length ? recentList : newest ? [newest] : [];
 
   const pubHref = (slugs: string[]) => `/browse?pub=${slugs.join(',')}`;
 
@@ -65,14 +73,18 @@ export default async function Home() {
         </section>
 
         {/* 2. Newest programme */}
-        {newest && (
-          <p className="mt-[48px] text-center text-[15px] leading-[1.55]">
-            <Link href={pubHref([newest.slug])} className="text-charcoal hover:text-gold transition-colors">
-              Just announced: <span className="font-semibold">{newest.name} {newest.edition}</span>
-              {' · '}{newest.winnerCount.toLocaleString()} winners
-              {newest.announcedDate && <>{' · '}{newest.announcedDate}</>} →
-            </Link>
-          </p>
+        {recent.length > 0 && (
+          <div className="mt-[48px] text-center text-[15px] leading-[1.55] space-y-1">
+            {recent.map(p => (
+              <p key={p.slug}>
+                <Link href={pubHref([p.slug])} className="text-charcoal hover:text-gold transition-colors">
+                  Just announced: <span className="font-semibold">{p.name} {p.edition}</span>
+                  {' · '}{p.winnerCount.toLocaleString()} winners
+                  {p.announcedDate && <>{' · '}{p.announcedDate}</>} →
+                </Link>
+              </p>
+            ))}
+          </div>
         )}
 
         {/* 3. From the Record — the only imagery on the page */}
