@@ -176,6 +176,48 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             
             <p className="text-lg sm:text-xl text-charcoal-light mb-6">{product.brand}</p>
 
+            {/* Price & CTA, straight under the name so it sits above the fold on a
+                phone (it used to follow the description and score box, ~1.5
+                screens down). */}
+            <div className="flex items-center gap-4 mb-8">
+              <span className="text-2xl sm:text-3xl font-bold text-charcoal">
+                {priceLabel(product) ?? 'Price unavailable'}
+                {showingRetail && product.retail && (
+                  <span className="block text-[11px] font-normal text-charcoal-light mt-0.5">
+                    {product.retail.at ? `at ${product.retail.at} · ` : ''}checked {new Date(product.retail.checked + 'T12:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}
+                  </span>
+                )}
+              </span>
+              {product.buyLink && (
+                <a
+                  href={product.buyLink}
+                  target="_blank"
+                  rel="sponsored noopener noreferrer"
+                  data-buy="product-cta"
+                  className="flex-1 max-w-xs bg-charcoal text-white text-center py-3 px-6 rounded-md font-semibold text-sm hover:bg-charcoal-light transition-colors"
+                >
+                  Check Price →
+                </a>
+              )}
+            </div>
+
+            <div className="mb-8 -mt-4">
+              <SaveButton
+                product={{
+                  id: product.id,
+                  slug: product.slug,
+                  brand: product.brand,
+                  name: product.name,
+                  price: product.price,
+                  image: product.image,
+                  topAward: product.topAward,
+                  awardCount: product.awardCount,
+                  consensusCount: product.consensusCount,
+                }}
+              />
+            </div>
+
+
             {about && (
               <div className="mb-6">
                 <p className="text-sm sm:text-base text-charcoal leading-relaxed">{about.text}</p>
@@ -226,45 +268,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                   ))}
                 </div>
               )}
-            </div>
-
-            {/* Price & CTA */}
-            <div className="flex items-center gap-4 mb-8">
-              <span className="text-2xl sm:text-3xl font-bold text-charcoal">
-                {priceLabel(product) ?? 'Price unavailable'}
-                {showingRetail && product.retail && (
-                  <span className="block text-[11px] font-normal text-charcoal-light mt-0.5">
-                    {product.retail.at ? `at ${product.retail.at} · ` : ''}checked {new Date(product.retail.checked + 'T12:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}
-                  </span>
-                )}
-              </span>
-              {product.buyLink && (
-                <a
-                  href={product.buyLink}
-                  target="_blank"
-                  rel="sponsored noopener noreferrer"
-                  data-buy="product-cta"
-                  className="flex-1 max-w-xs bg-charcoal text-white text-center py-3 px-6 rounded-md font-semibold text-sm hover:bg-charcoal-light transition-colors"
-                >
-                  Check Price →
-                </a>
-              )}
-            </div>
-
-            <div className="mb-8 -mt-4">
-              <SaveButton
-                product={{
-                  id: product.id,
-                  slug: product.slug,
-                  brand: product.brand,
-                  name: product.name,
-                  price: product.price,
-                  image: product.image,
-                  topAward: product.topAward,
-                  awardCount: product.awardCount,
-                  consensusCount: product.consensusCount,
-                }}
-              />
             </div>
 
             {/* Region — catalogue records regions as "US", "France", or a
@@ -377,10 +380,10 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
               .filter(p => p.category === product.category && p.id !== product.id)
               .slice(0, 4)
               .map(related => (
+                <div key={related.id} className="bg-cream rounded-md overflow-hidden hover:shadow-md transition-all flex flex-col">
                 <Link
                   href={`/product/${related.slug}`}
-                  key={related.id}
-                  className="group bg-cream rounded-md overflow-hidden hover:shadow-md transition-all"
+                  className="group block"
                 >
                   <div className="product-tile aspect-square relative overflow-hidden">
                     {related.image ? (
@@ -401,6 +404,18 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                     <p className="text-sm font-semibold text-charcoal line-clamp-2">{related.name}</p>
                   </div>
                 </Link>
+                {related.buyLink && (
+                  <a
+                    href={related.buyLink}
+                    target="_blank"
+                    rel="sponsored noopener noreferrer"
+                    data-buy="related"
+                    className="px-3 pb-3 mt-auto text-[11px] font-semibold text-gold uppercase microcap"
+                  >
+                    Check Price →
+                  </a>
+                )}
+                </div>
               ))}
           </div>
         </div>
@@ -421,6 +436,30 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
         <p className="text-xs sm:text-sm text-charcoal-light">© 2026 Vettbeauty. Every award-winning beauty product, verified.</p>
         <AffiliateNote className="mt-2 max-w-2xl mx-auto" />
       </footer>
+
+      {/* Phone-only buy bar pinned to the bottom of the screen, so the buy
+          link is one tap away however far the reader scrolls. Plain markup,
+          no client JS; the spacer keeps it from covering the footer. */}
+      {product.buyLink && (
+        <>
+          <div className="h-20 md:hidden" aria-hidden="true" />
+          <div className="md:hidden fixed inset-x-0 bottom-0 z-40 bg-white/95 backdrop-blur border-t border-cream-dark px-4 py-3 flex items-center gap-3" style={{ paddingBottom: 'max(0.75rem, env(safe-area-inset-bottom))' }}>
+            <div className="min-w-0 flex-1">
+              <p className="text-[11px] font-semibold uppercase microcap text-gold truncate">{product.brand}</p>
+              <p className="text-sm font-bold text-charcoal truncate">{priceLabel(product) ?? product.name}</p>
+            </div>
+            <a
+              href={product.buyLink}
+              target="_blank"
+              rel="sponsored noopener noreferrer"
+              data-buy="sticky"
+              className="shrink-0 bg-charcoal text-white py-3 px-5 rounded-md font-semibold text-sm"
+            >
+              Check Price →
+            </a>
+          </div>
+        </>
+      )}
     </>
   );
 }

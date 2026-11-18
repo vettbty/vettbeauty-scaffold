@@ -7,7 +7,7 @@ import { track } from '@vercel/analytics';
    One listener on the document instead of a client component per link, so the
    3,000+ tiles on /browse cost one data attribute each, not a hydrated island.
    A buy link opts in with data-buy="<placement>" (tile, product-cta,
-   where-to-buy, sale). The ShopMy or Amazon URL identifies the product.
+   where-to-buy, sale, ig, sticky, home, related). The ShopMy or Amazon URL identifies the product.
    Custom events show in the Vercel dashboard on the Pro plan; on Hobby the
    call is dropped and nothing else changes. */
 export default function BuyClickTracker() {
